@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192605m2tk1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926054dlc0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SL INDUSTRIES, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(395)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192605j4c4x" width="415" height="61" /></div>
+    
+        <h1>SL INDUSTRIES, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        SL Industries, Inc.<br />SL Xianghe Power Electronics Corporation, wholly owned subsidiary incorporated and operating in China ("SL Xianghe")<br />SL Shanghai Power Electronics Corporation, wholly owned subsidiary incorporated and operating in China ("SL Shanghai Power")<br />SL Shanghai International Trading Corporation, wholly owned subsidiary incorporated and operating in China ("SL Shanghai Trading")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of power electronics, motion control, power protection, electromagnetic and communication equipment used in medical, commercial and military aerospace, computer, datacom, industrial, telecom and transportation equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Mt. Laurel, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In its SEC Form 10-K filed on 30 March 2012, the Company stated it it was conducting an investigation of SL Xianghe, SL Shanghai Power, and SL Shanghai Trading, as they "may have improperly provided gifts and entertainment to government officials."  The statement continues, "on March 29, 2012, the Company's outside counsel contacted the DOJ and the SEC voluntarily to disclose that the Company was conducting an internal investigation, and agreed to cooperate fully and update the DOJ and SEC periodically on further developments."<br /><br />Thereafter, in the Company's quarterly report, SEC Form 10-Q filed on 10 May 2012, the ongoing investigation into whether employees of the three above-named "indirect wholly owned subsidiaries incorporated  and operating <br />exclusively in China, may have improperly provided gifts and entertainment to government officials," is called "the China investigation."  The Company notes that preliminary estimates of the amounts of the gifts and entertainment do not materially affect the Company's financial statements.  However, the Company also notes that since the investigation includes determining  whether there were any violations of laws, including the U.S. Foreign Corrupt Practices Act, "on March 29, 2012, the Company's outside counsel contacted the DOJ and the Securities and Exchange Commission (the "SEC") voluntarily to disclose that the Company was conducting an internal investigation,  and agreed to cooperate fully and update the DOJ and SEC periodically on further developments.  Since then, the Company's counsel has done so, and the Company has continued to cooperate fully with the DOJ and the SEC."<br /><br />Describing its expenses, the Company added, "SLPE's expenses increased by $323,000 in 2012 primarily due to an increase in consulting and legal fees related to an on-going internal investigation to determine if some employees may have<br />improperly provided gifts and entertainment to government officials in China."<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        SL Industries began an internal probe and voluntarily disclosed the results to the DOJ and SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 26, 2013, the DOJ notified SL Industries that it had closed its inquiry  without filing criminal charges.  As of 19 March 2014, the Company did not yet receive an update from the SEC regarding the status of its inquiry. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1774">SL Industries - SEC Form 10-K, Annual Report for 2011 (30 March 2012)</a></p><p><a href="file.asp?id=1820">SL Industries - SEC Form 10-Q (10 May 2012)</a></p><p><a href="file.asp?id=2506">SL Industries Form 10-K (Mar 19 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

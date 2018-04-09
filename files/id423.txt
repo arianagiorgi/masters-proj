@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192630r3gjh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926307nipv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DATA SYSTEMS & SOLUTIONS LLC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(423)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192630v03lh" width="415" height="61" /></div>
+    
+        <h1>DATA SYSTEMS & SOLUTIONS LLC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Lithuania:  Vilnius Regional Prosecutor's Office - Special Investigation Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Optimized Systems and Solutions LLC ("OSS") - founded as a joint venture between Rolls-Royce and Science Applications International Corporation (SAIC)<br />Data Systems & Solutions (former name of OSS)<br />Rolls-Royce plc (parent company to OSS)<br />Viktor Shevaldin<br />Ignalina Nuclear Power Plant ("INPP")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design, installation and maintenance of instrumentation and control systems at nuclear power plants, fossil fuel power plants, and other installations
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Reston, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Lithuania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Department of Justice accused DSS of paying bribes to Lithuanian officials employed at the Ignalina Nuclear Power Plant, a state owned entity, in order to secure service contracts for the plant.  Ignalina is scheduled to be decommissioned by 2017, as part of a European Union energy security program. The corrupt payments were made through unnamed subcontractors in the U.S. and abroad, who transferred the payments to officials in Lithuania by check or wire transfer.<br /><br />Specifically, it is alleged that between 1999 and 2002, DSS obtained contracts worth USD 19.339 million and EUR 15.527 million, and that in order to secure these contracts, the company paid bribes to Viktor Shevaldin, the head of the Instrumentation and Controls Department of the INPP, and his deputy, the head of the International Projects Department at INPP, along with the  lead software engineer, in the following amounts:  USD 50,000 to the  then head of INPP Instrumentation and Controls Department, USD 30,000 to his deputy, USD 44,000 to the head of the International Projects Department, and USD 16,000 US dollars to the lead software engineer. <br /><br />Then, between 2003-2004, DSS transferred an additional USD 246,800 to one of its subcontractors for payments to the INPP officials.<br /><br />DSS also paid for vacations of public officials.  In December 2000, the Company sent the head of the INPP Instrumentation and Controls Department to Florida, and in October 2002, it sent the CEO of INPP CEO and the head of the Instrumentation and Controls Department to Hawaii. In January 2004.  <br /><br />Furthermore, the company gave a Cartier watch worth USD 2,700 to the INPP CEO.<br /><br />There were five contracts obtained by DSS at Ignalina:  USD 11.535 million  project to upgrade the IT system at the plant; USD 1.147 million nuclear safety parameters system; USD 2.175 million for an external radiation monitoring system; USD 4.482 million for an internal radiation monitoring system; and EUR 13.527 million for the development and installation of a shutdown system on Unit Two.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Lithuanian Officials</strong></td>
+<td width="50%">&nbsp; <strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 386,800 in cash</p>
+<p style="text-align: center;">Approximately USD 15,000 in gifts, travel and entertainment</p>
+</td>
+<td>
+<p style="text-align: center;">USD 19.339 million in contracts</p>
+<p style="text-align: center;">EUR 15.527 million in contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 18 June 2012, the DOJ filed a two-count criminal information in the Eastern District of Virginia, charging DSS with substantive and conspiracy violations of the FCPA.  At the same time, the company entered into a deferred prosecution agreement with the DOJ for a two year period.  The company agreed to pay a criminal penalty of USD 8.82 million, to cooperate with the DOJ, make periodic compliance reports, and continue to implement an enhanced compliance program.<br /><br />In announcing the DPA, the DOJ noted DSS' extraordinary cooperation, "including conducting an extensive, thorough and swift internal investigation; providing to the department extensive information and evidence; and responding promptly and fully to the department's requests...[and engaging] in extensive remediation, including terminating the officers and employees responsible for the corrupt payments; instituting a more rigorous compliance program; enhancing its due diligence protocol for third-party agents and subcontractors, strengthening its ethics policies; providing FCPA training for all agents and subcontractors; and establishing heightened review of most foreign transactions."<br /><br />Lithuania<br /><br />On 19 June 2012, the Lithuanian Prosecutor General's Office initiated a pre-trial investigation into the alleged corruption at Ignalina, through the Special Investigation Service of the Vilnius Regional Prosecutor's Office.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1867">DSS - DOJ Press Release (18 June 2012), Data Systems & Solutions LLC Resolves Foreign Corrupt Practices Act Violations</a></p><p><a href="file.asp?id=1967">DSS - Statement of Facts (18 June 2012), attachment to DPA</a></p><p><a href="file.asp?id=1968">DSS - Deferred Prosecution Agreement (18 June 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

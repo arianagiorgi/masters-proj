@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170731i97k8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17073190273" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KYUDENKO-NEEDS CREATOR IT CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(46)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170731f1432" width="415" height="61" /></div>
+    
+        <h1>KYUDENKO-NEEDS CREATOR IT CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Fukuoka Sub-District Public Prosecutors Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kyudenko Corporation ("Kyudenko")<br />Kyudenko-Needs Creator IT Corporation (Filipino subsidiary of Kyudenko) ("KNIT")<br />Former Vice President of KNIT ("Y1")<br />Employee of KNIT ("Y2")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Installation of electrical and communications facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fukuoka, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        News agencies reported that in April 2004, Y1 and Y2, who Kyudenko had seconded to its Philippine subsidiary, KNIT, invited Philippine governmental officials, including the Director-General of the National Bureau of Investigation, to Japan and gave them sets of golf clubs worth USD 8,000 in total, in return for awarding a contract for a fingerprint identification system. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Golf club sets worth USD 8,000</p>
+</td>
+<td>
+<p style="text-align: center;">Fingerprint identification system contract</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on 16 March 2007, the FSDPPO charged Y1 and Y2 with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On 17 March 2007, the Fukuoka Summary Court reportedly found:<br /><br />(1) Y1 guilty and fined him JPY 500,000 (USD 4,500); and<br />(2) Y2 guilty and fined him JPY 200,000 (USD 1,800).<br /><br />In this case, KNIT's organizational involvement was reportedly not established and KNIT itself was not charged with any crime.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under the UCPLJ, when a juridical persons representative, agent or employee has violated the UCPLJ and provided illicit profit to foreign public officials with regard to the business of said juridical person, not only the offender but also said juridical person shall be punished by a fine of not more than JPY 300,000,000 (USD 2,700,000).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=144">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004) close [ X ]</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184240r8ad4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184240y3f2i" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KYUDENKO-NEEDS CREATOR IT CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(46)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184240l0r94" width="415" height="61" /></div>
+    
+        <h1>KYUDENKO-NEEDS CREATOR IT CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Fukuoka Sub-District Public Prosecutors Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kyudenko Corporation ("Kyudenko")<br />Kyudenko-Needs Creator IT Corporation (Filipino subsidiary of Kyudenko) ("KNIT")<br />Former Vice President of KNIT ("Y1")<br />Employee of KNIT ("Y2")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Installation of electrical and communications facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fukuoka, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        News agencies reported that in April 2004, Y1 and Y2, who Kyudenko had seconded to its Philippine subsidiary, KNIT, invited Philippine governmental officials, including the Director-General of the National Bureau of Investigation, to Japan and gave them sets of golf clubs worth USD 8,000 in total, in return for awarding a contract for a fingerprint identification system. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Golf club sets worth USD 8,000</p>
+</td>
+<td>
+<p style="text-align: center;">Fingerprint identification system contract</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on 16 March 2007, the FSDPPO charged Y1 and Y2 with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On 17 March 2007, the Fukuoka Summary Court reportedly found:<br /><br />(1) Y1 guilty and fined him JPY 500,000 (USD 4,500); and<br />(2) Y2 guilty and fined him JPY 200,000 (USD 1,800).<br /><br />In this case, KNIT's organizational involvement was reportedly not established and KNIT itself was not charged with any crime.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under the UCPLJ, when a juridical persons representative, agent or employee has violated the UCPLJ and provided illicit profit to foreign public officials with regard to the business of said juridical person, not only the offender but also said juridical person shall be punished by a fine of not more than JPY 300,000,000 (USD 2,700,000).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=144">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004) close [ X ]</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192057qq6fx">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192057w7472" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KYUDENKO-NEEDS CREATOR IT CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(46)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192057k6o38" width="415" height="61" /></div>
+    
+        <h1>KYUDENKO-NEEDS CREATOR IT CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Fukuoka Sub-District Public Prosecutors Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kyudenko Corporation ("Kyudenko")<br />Kyudenko-Needs Creator IT Corporation (Filipino subsidiary of Kyudenko) ("KNIT")<br />Former Vice President of KNIT ("Y1")<br />Employee of KNIT ("Y2")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Installation of electrical and communications facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fukuoka, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        News agencies reported that in April 2004, Y1 and Y2, who Kyudenko had seconded to its Philippine subsidiary, KNIT, invited Philippine governmental officials, including the Director-General of the National Bureau of Investigation, to Japan and gave them sets of golf clubs worth USD 8,000 in total, in return for awarding a contract for a fingerprint identification system. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Golf club sets worth USD 8,000</p>
+</td>
+<td>
+<p style="text-align: center;">Fingerprint identification system contract</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on 16 March 2007, the FSDPPO charged Y1 and Y2 with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On 17 March 2007, the Fukuoka Summary Court reportedly found:<br /><br />(1) Y1 guilty and fined him JPY 500,000 (USD 4,500); and<br />(2) Y2 guilty and fined him JPY 200,000 (USD 1,800).<br /><br />In this case, KNIT's organizational involvement was reportedly not established and KNIT itself was not charged with any crime.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under the UCPLJ, when a juridical persons representative, agent or employee has violated the UCPLJ and provided illicit profit to foreign public officials with regard to the business of said juridical person, not only the offender but also said juridical person shall be punished by a fine of not more than JPY 300,000,000 (USD 2,700,000).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=144">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004) close [ X ]</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192205nwg92">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19220519g50" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GOODYEAR (Iraq)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(121)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19220520s2j" width="415" height="61" /></div>
+    
+        <h1>GOODYEAR (Iraq)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Goodyear Tire & Rubber Company ("Goodyear")<br />Goodyear International Corporation (wholly-owned susbidiary of Goodyear) ("GIC")<br />David J. Janasik (Regional Export Manager for GIC)<br />Treadsetters Tyres Limited, Kenya<br />Tredcor Kenya Limited, Kenya<br />Trentyre Angola Lda, Angola 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Marketing of car and truck tires
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Akron, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />Angola<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        <br /><br />The Department of Justice ("DOJ") alleged that GIC violated the anti-bribery provisions of the FCPA in connection with USD 981,124 in improper payments paid between 1979 and 1984 to an official at the Iraqi Trading Company ("ITC"), a state-owned trading organization, in order to secure purchase orders for Goodyear truck tires.  <br /><br />Following David J. Janasik's appointment to Regional Export Manager at GIC in early 1978, he met with an official at the ITC to discuss GIC's interest in obtaining a share of the Iraqi government's tire business.  The ITC official told Janasik that the company's French, Korean, and Japanese competitors all paid him cash "commissions" in order to ensure a "good relationship" and that GIC could only hope for very limited business from ITC without doing the same.  Janasik initially refused such terms, citing internal company policy, but agreed after pressure from superiors.  <br /><br />Over the course of the next five years, Janasik would make nearly USD 1 million in improper payments using Greek intermediaries and under the pretense of marketing studies or Arabic-language advertising.  When required to appear before the company's auditors, Janasik was directed by his superiors to present the "advertising" expenses as justified, and that if in fact no advertisements had been placed, to state that he and GIC's advertising manager for Greece had been "duped."  <br /><br /><br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 981,124</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Sales of&nbsp;truck tires worth USD 19 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        <br />GIC auditors discovered the payments in the course of examining Janasik's advertising expenditures.  The company self-disclosed the violations to the DOJ.  <br /><br /><br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 May 1989, GIC pleaded guilty to one substantive count of violating the FCPA. Under the plea agreement, GIC agreed to pay a USD 250,000 criminal fine.<br /><br />In September 1988, Janasik pleaded guilty to filing a false tax return on the USD 75,000 he received as a kickback from the Iraqi official.  He was fined USD 10,000 and sentenced to two years of probation.  <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Voluntary disclosure and cooperation with the DOJ may result in a mitigation of penalties related to FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=340">Criminal Information: U.S. v. Goodyear International Corp. (11 May 1989)</a></p><p><a href="file.asp?id=341">Judgment: U.S. v. Goodyear International Corp. (11 May 1989)</a></p><p><a href="file.asp?id=342">Plea Agreement: U.S. v. Goodyear International Corp. (11 May 1989)</a></p><p><a href="file.asp?id=343">Statement of Facts: U.S. v. Goodyear International Corporation (11 May 1989)</a></p><p><a href="file.asp?id=1737">Goodyear - SEC Form 10-K (14 February 2012)</a></p><p><a href="file.asp?id=2138">Goodyear - SEC Form 10-K (12 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

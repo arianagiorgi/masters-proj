@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184308qgmc9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843082562n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FARO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(77)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18430877w5a" width="415" height="61" /></div>
+    
+        <h1>FARO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Faro Technologies, Inc. ("Faro")<br />Faro Shanghai Co., Ltd. (wholly-owned Chinese subsidiary of Faro) ("Faro-China")<br />Oscar H. Meza (Faro Director of Asia-Pacific Sales)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Computerized measurement devices and software
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lake Mary, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and the SEC alleged that Faro violated the anti-bribery, books and records and internal controls provisions of the FCPA in connection with USD 444,492 in improper payments made by its Chinese subsidiary to employees of numerous Chinese state-owned or state-controlled companies in 2004 and 2005 in order to obtain sales contracts worth a total of approximately USD 4.5 million.  The SEC also charged Faro's former Director of Asia-Pacific Sales, Oscar H. Meza, with violations of the FCPA's anti-bribery, books and records and internal controls provisions, and with aiding and abetting Faro's violations of the same provisions, in connection with Meza's role in orchestrating and authorizing the improper payments.  <br /><br />The bribes were called referral fees within Faro and were largely orchestrated by Meza and Country Sales Manager, with the latter having insisted that business had to be done the Chinese way and that providing officials with meals and travel was not sufficient.  Throughout 2004 and 2005, Meza authorized the Country Sales Manager to make improper payments to employees of state-owned or state-controlled businesses in China in order to obtain sales contracts.  Meza and the Country Sales Manager made the improper payments despite oral direction from certain Faro officers not to make any such payments, which the officers understood from a legal opinion would be in violation of local Chinese law.   <br /><br />In 2005, Meza and the Country Sales Manager decided to route the payments to Chinese officials through a shell company to avoid exposure (according to internal emails).  In January 2005, Faro-China entered into a fictitious services contract with an intermediary, which would make the improper payments to the officials and then submit invoices to Faro-China under the services contract.  <br /><br />Between 2003 and 2006, Faro failed to devise and maintain an adequate system of internal controls concerning its foreign sales activities.  Between 2004 and 2006, the company improperly recorded the improper payments made to Chinese officials as selling expenses in its books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 444,492</p>
+</td>
+<td>
+<p style="text-align: center;">Sales contracts worth approximately USD 4.5 million (with a net profit net of USD 1,411,306)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Faro voluntarily disclosed the violations to the DOJ and SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 3 June 2008, Faro entered into a two-year non-prosecution agreement with the DOJ and agreed to pay a USD 1.1 million criminal penalty.  <br /><br />On 5 June 2008, Faro consented to the entry of a cease-and-desist order and agreed to pay USD 1.85 million in disgorgement and prejudgment interest.<br /><br />Faro also agreed to retain an independent corporate monitor (or independent consultant, as described by the SEC) for a two-year period to review and evaluate Faro's internal controls, recordkeeping and financial reporting policies and procedures in the context of FCPA compliance.  At the time of settlement, Faro estimated that the total cost associated with its monitoring obligation would be in the range of USD 1 million to USD 2 million.<br /><br />On 28 August 2009, without admitting or denying the SEC's allegations, Oscar H. Meza consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA and from aiding and abetting violations of the FCPA.  Meza agreed to pay a USD 30,000 civil penalty, as well as USD 26,707 in disgorgement and prejudgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Self-disclosing FCPA violations to the enforcement authorities may earn a company an improved settlement arrangement, such as a non-prosecution or deferred prosecution agreement in the place of a guilty plea.    </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=85">DOJ Press Release: June 5, 2008 (Faro Technologies Inc. Agrees to Pay $1.1 Million Penalty and Enter Non-Prosecution Agreement for FCPA Violations)</a></p><p><a href="file.asp?id=86">Cease-and-Desist Order: In the Matter of Faro Technologies, Inc. (June 5, 2008)</a></p><p><a href="file.asp?id=87">Non-Prosecution Agreement: June 3, 2008 </a></p><p><a href="file.asp?id=88">Faro’s Press Release: June 5, 2008 (Faro, DOJ and SEC Formally Resolve FCPA Matter)</a></p><p><a href="file.asp?id=89">SEC Litigation Release: August 28, 2009 (SEC Sues Former Sales Executive For Foreign Bribery)</a></p><p><a href="file.asp?id=90">Complaint: SEC v. Oscar H. Meza (August 28, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921252gymh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192125yrv78" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FARO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(77)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192125333i9" width="415" height="61" /></div>
+    
+        <h1>FARO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Faro Technologies, Inc. ("Faro")<br />Faro Shanghai Co., Ltd. (wholly-owned Chinese subsidiary of Faro) ("Faro-China")<br />Oscar H. Meza (Faro Director of Asia-Pacific Sales)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Computerized measurement devices and software
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lake Mary, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and the SEC alleged that Faro violated the anti-bribery, books and records and internal controls provisions of the FCPA in connection with USD 444,492 in improper payments made by its Chinese subsidiary to employees of numerous Chinese state-owned or state-controlled companies in 2004 and 2005 in order to obtain sales contracts worth a total of approximately USD 4.5 million.  The SEC also charged Faro's former Director of Asia-Pacific Sales, Oscar H. Meza, with violations of the FCPA's anti-bribery, books and records and internal controls provisions, and with aiding and abetting Faro's violations of the same provisions, in connection with Meza's role in orchestrating and authorizing the improper payments.  <br /><br />The bribes were called referral fees within Faro and were largely orchestrated by Meza and Country Sales Manager, with the latter having insisted that business had to be done the Chinese way and that providing officials with meals and travel was not sufficient.  Throughout 2004 and 2005, Meza authorized the Country Sales Manager to make improper payments to employees of state-owned or state-controlled businesses in China in order to obtain sales contracts.  Meza and the Country Sales Manager made the improper payments despite oral direction from certain Faro officers not to make any such payments, which the officers understood from a legal opinion would be in violation of local Chinese law.   <br /><br />In 2005, Meza and the Country Sales Manager decided to route the payments to Chinese officials through a shell company to avoid exposure (according to internal emails).  In January 2005, Faro-China entered into a fictitious services contract with an intermediary, which would make the improper payments to the officials and then submit invoices to Faro-China under the services contract.  <br /><br />Between 2003 and 2006, Faro failed to devise and maintain an adequate system of internal controls concerning its foreign sales activities.  Between 2004 and 2006, the company improperly recorded the improper payments made to Chinese officials as selling expenses in its books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 444,492</p>
+</td>
+<td>
+<p style="text-align: center;">Sales contracts worth approximately USD 4.5 million (with a net profit net of USD 1,411,306)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Faro voluntarily disclosed the violations to the DOJ and SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 3 June 2008, Faro entered into a two-year non-prosecution agreement with the DOJ and agreed to pay a USD 1.1 million criminal penalty.  <br /><br />On 5 June 2008, Faro consented to the entry of a cease-and-desist order and agreed to pay USD 1.85 million in disgorgement and prejudgment interest.<br /><br />Faro also agreed to retain an independent corporate monitor (or independent consultant, as described by the SEC) for a two-year period to review and evaluate Faro's internal controls, recordkeeping and financial reporting policies and procedures in the context of FCPA compliance.  At the time of settlement, Faro estimated that the total cost associated with its monitoring obligation would be in the range of USD 1 million to USD 2 million.<br /><br />On 28 August 2009, without admitting or denying the SEC's allegations, Oscar H. Meza consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA and from aiding and abetting violations of the FCPA.  Meza agreed to pay a USD 30,000 civil penalty, as well as USD 26,707 in disgorgement and prejudgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Self-disclosing FCPA violations to the enforcement authorities may earn a company an improved settlement arrangement, such as a non-prosecution or deferred prosecution agreement in the place of a guilty plea.    </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=85">DOJ Press Release: June 5, 2008 (Faro Technologies Inc. Agrees to Pay $1.1 Million Penalty and Enter Non-Prosecution Agreement for FCPA Violations)</a></p><p><a href="file.asp?id=86">Cease-and-Desist Order: In the Matter of Faro Technologies, Inc. (June 5, 2008)</a></p><p><a href="file.asp?id=87">Non-Prosecution Agreement: June 3, 2008 </a></p><p><a href="file.asp?id=88">Faro’s Press Release: June 5, 2008 (Faro, DOJ and SEC Formally Resolve FCPA Matter)</a></p><p><a href="file.asp?id=89">SEC Litigation Release: August 28, 2009 (SEC Sues Former Sales Executive For Foreign Bribery)</a></p><p><a href="file.asp?id=90">Complaint: SEC v. Oscar H. Meza (August 28, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

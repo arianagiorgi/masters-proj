@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923057d240">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192305z40ma" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRISTOL-MYERS SQUIBB</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(189)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923056sj6j" width="415" height="61" /></div>
+    
+        <h1>BRISTOL-MYERS SQUIBB</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Germany: Munich Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bristol-Myers Squibb Company ("BMS")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Germany<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        U.S. SEC Investigation 1<br /><br />In the Company's SEC Form 10-Q filed on 24 October 2012, the following statement was made:  "SEC Germany Investigation - In October 2006, the SEC informed the Company that it had begun a formal inquiry into the activities of certain of the Company's German pharmaceutical subsidiaries and its employees and/or agents. The SEC's inquiry encompasses matters formerly under investigation by the German prosecutor in Munich, Germany, which have since been resolved. The Company understands the inquiry concerns potential violations of the Foreign Corrupt Practices Act (FCPA). The Company is cooperating with the SEC."<br /><br />U.S. SEC Investigation 2<br /><br />BMS described the ongoing investigation as follows in its SEC Form 10-K filed on 18 February 2011:<br /><br />"As previously disclosed, in October 2004, the SEC notified the Company that it was conducting an informal inquiry into the activities of certain of the Company's German pharmaceutical subsidiaries and its employees and/or agents. In October 2006, the SEC informed the Company that its inquiry had become formal. The SEC's inquiry encompasses matters formerly under investigation by the German prosecutor in Munich, Germany, which have since been resolved. The Company understands the inquiry concerns potential violations of the Foreign Corrupt Practices Act. The Company is cooperating with the SEC."<br /><br />In the Company's SEC Form 10-Q filed on 26 April 2012, the statement cited above was repeated, and information was added about an additional inquiry:<br /><br />"In March, 2012, the Company received a subpoena from the SEC. The subpoena, issued in connection with an investigation under the FCPA, primarily relates to sales and marketing practices in various countries. The Company is cooperating with the government in its investigation of these matters."<br /><br />In February 2013, Bristol-Myers Squibb disclosed in its Form 10-K that the seven-year-long FCPA investigation started by the SEC has expanded to include other countries.<br /><br />The company didn't name the regions or countries now under review.<br /><br />It said the expanded probe covers overseas sales and marketing practices.<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to German Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As stated in its 2009 SEC Form 10-K, BMS has resolved matters with the Munich Public Prosecutor's Office regarding alleged bribery by employees and agents of BMS subsidiaries in Germany.  It is not clear how those matters were resolved and whether any financial penalties were imposed. <br /><br />The SEC investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=798">BMS - SEC Form 10-K (2009).pdf</a></p><p><a href="file.asp?id=1393">BMS - SEC Form 10-K (18 Feb. 2011)</a></p><p><a href="file.asp?id=1808">Briston-Myers Squibb - SEC Form  10-Q (26 April 2012)</a></p><p><a href="file.asp?id=2066">Bristol-Myers Squibb - SEC Form 10-Q (24 October 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,163 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192306lkppm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19230638nd8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIAGEO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(190)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192306f73i1" width="415" height="61" /></div>
+    
+        <h1>DIAGEO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Korea: Seoul District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Diageo plc ("Diageo")<br />Diageo India Pvt. Ltd. (Mumbai-based wholly-owned indirect subsidiary of Diageo)<br />Diageo Moet Hennessy Thailand (Bangkok-based joint venture between Diageo and Moet Hennessy)<br />Diageo Korea Co. Ltd. (Seoul-based wholly-owned indirect subsidiary of Diageo)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Premium spirits producer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />South Korea<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Diageo plc, the London-based global spirits producer with violations of the FCPA's books and records and internal controls provisions in connection with USD 2.7 million in improper payments allegedly made through its subsidiaries in India, Thailand and South Korea to obtain sales and tax benefits relating to its Johnnie Walker and Windsor Scotch whiskeys, among other brands. <br /><br />From 2003 to mid-2009, over USD 1.7 million in improper payments were allegedly made to hundreds of Indian government officials who were responsible for purchasing or authorizing the sale of Diageo's beverages in the country.  Diageo earned more than USD 11 million in profits as a result of the increased sales resulting from these payments.<br /><br />From 2004 to mid-2008, Diageo allegedly paid approximately USD 12,000 per month (totaling nearly USD 600,000) to retain the consulting services of a Thai government and political party official who lobbied other high-ranking Thai officials extensively on the company's behalf regarding pending multi-million dollar tax and customs disputes.  This lobbying contributed to Diageo's receipt of certain favorable decisions by the Thai government.<br /><br />In South Korea, Diageo allegedly paid over 100 million won (over USD 86,000) to a  customs official as a reward for his role in the government's decision to grant significant tax rebates to the company.  Diageo also allegedly paid over USD 100,000 in travel and entertainment expenses for South Korean customs and other officials involved in the tax negotiations.  Separately, the company routinely made hundreds of gift payments, totaling USD 230,000, to South Korean military officials in order to obtain and retain liquor business at military canteens.<br /><br />Previously, in 2009, South Korean authorities prosecuted several Diageo employees for bribery and tax evasion in connection with the conduct at issue in South Korea. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Indian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 1.7 million</p>
+</td>
+<td>
+<p>USD 11 million profits from increased sales of beverages</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 600,000</p>
+</td>
+<td>
+<p>Favorable tax and customs treatment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to South Korean Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 416,000</p>
+</td>
+<td>
+<p>Tax rebates worth USD 50 million, along with increased sales</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Diageo described the (at the time ongoing) investigation as follows in its SEC Form 20-F filed on 14 September 2010:<br /><br />"As previously reported, Diageo Korea and several of its current and former employees have been subject to investigations by Korean authorities regarding various regulatory and control matters. Convictions for improper payments to a Korean customs official have been handed down against two former Diageo Korea employees, and three current and former Diageo Korea employees have been convicted on various counts of tax evasion. Diageo had previously voluntarily reported the allegations relating to the convictions for improper payments to the US Department of Justice and the US Securities and Exchange Commission (SEC). The SEC has commenced an investigation into these matters, and Diageo is in the process of responding to the regulators' inquiries. Diageo's own internal investigation in Korea and elsewhere is ongoing. The US Foreign Corrupt Practices Act (FCPA) and related statutes and regulations provide for potential monetary penalties, criminal sanctions and may result in some cases in debarment from doing business with governmental entities in connection with FCPA violations. Diageo is unable to quantify meaningfully the possible loss or range of loss to which these matters may give rise."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 July 2011, without admitting or denying the SEC's findings, Diageo consented to the entry of a cease-and-desist order prohibiting the company from future violations of the FCPA's books and records and internal controls provisions.  Diageo agreed to pay USD 11,306,081 in disgorgement, a prejudgment interest of USD 2,067,739, as well as a USD 3 million civil penalty.  <br /><br />As stated in its 2009 Annual Report, several former Diageo Korea employees have been prosecuted and convicted in Korea.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to secure favorable tax or customs treatment, or other regulatory advantages, constitute violations of the FCPA just like payments made to obtain increased sales.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=799">Diageo - Annual Report (2009)</a></p><p><a href="file.asp?id=1395">Diageo - SEC Form 20-F (14 Sept. 2010)</a></p><p><a href="file.asp?id=1554">SEC Press Release: 27 July 2011 (SEC Charges Liquor Giant Diageo with FCPA Violations)</a></p><p><a href="file.asp?id=1555">SEC Cease-and-Desist Order (27 July 2011)</a></p><p><a href="file.asp?id=1556">Diageo Press Release (27 July 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

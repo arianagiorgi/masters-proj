@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925381ad7w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925386h720" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MOTOROLA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(364)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19253855txp" width="415" height="61" /></div>
+    
+        <h1>MOTOROLA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Motorola, Inc. (global telecom company that divided into two entities in January 2011: Motorola Solutions and Motorola Mobility) ("Motorola")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Wireless network infrastructure equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Schaumburg, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports on 5 September 2011, US regulators are investigating Motorola for possible bribery violations in connection with the company's use of an Austrian lobbyist, Alfons Mensdorff-Pouilly.  Motorola reportedly hired Pouilly in 2004 and transferred up to EUR 2.2 million to three firms controlled by him in the subsequent years, the funds used to make improper payments to key political figures in Europe and the Middle East. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Profil Online: "Motorola Under SEC Investigation for Bribes" (5 Sept. 2011)</p><p>NZ Herald: "Motorola faces bribery probe" (5 Sept. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

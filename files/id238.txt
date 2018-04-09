@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192351z778f">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923518bt8r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ZIMMER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(238)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923519bx7i" width="415" height="61" /></div>
+    
+        <h1>ZIMMER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Zimmer Holdings, Inc. ("Zimmer")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design and manufacture of orthopedic implant products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Warsaw, Indiana, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Zimmer described the ongoing investigation as follows in its SEC Form 10-Q filed on 5 May 2011, repeating the statement in its SEC Form 10-K filed on 27 February 2012:<br /><br />"In September 2007, the Staff of the U.S. Securities and Exchange Commission (SEC) informed us that it was conducting an investigation regarding potential violations of the Foreign Corrupt Practices Act (FCPA) in the sale of medical devices in a number of foreign countries by companies in the medical device industry. In November 2007, we received a letter from the U.S. Department of Justice (DOJ) requesting that any information provided to the SEC also be provided to the DOJ on a voluntary basis. In the course of continuing dialogues with the agencies, we have voluntarily disclosed information to the SEC and DOJ relating to sales of our products by independent distributors in two South American countries. In the first quarter of 2011, we received a subpoena from the SEC seeking documents and other records pertaining to our business activities in substantially all countries in the Asia Pacific region where we operate. We are in the process of responding to the subpoena. We cannot currently predict the outcome of this investigation."<br /><br />In subsequent SEC filings, the statement was repeated in substantial part, with the following statement added to Form 10-Q filed on 6 November 2012: "If the result of the investigation is that we are found to be in violation of the FCPA, we could face significant monetary penalties or be required to take other remedial actions."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its 10-K Form submitted to the SEC on 27 February 2013, Zimmer said that it has received formal notification from both the SEC and DOJ that the two agencies have finished their investigations and will not pursue any enforcement action. No additional details regarding specific reasons for the declinations were provided.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An investigation by the SEC or DOJ does not necessarily result in an enforcement action. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=855">Zimmer - SEC Form 10-K (25 February 2010)</a></p><p><a href="file.asp?id=1421">Zimmer - SEC Form 10-K (25 February 2011)</a></p><p><a href="file.asp?id=1473">Zimmer - SEC Form 10-Q (5 May 2011)</a></p><p><a href="file.asp?id=1781">Zimmer - SEC Form 10-K (27 February 2012)</a></p><p><a href="file.asp?id=2036">Zimmer - SEC Form 10-Q (6 November 2012)</a></p><p><a href="file.asp?id=2149">Zimmer - SEC Form 10-K (27 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

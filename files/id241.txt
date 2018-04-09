@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192354nlc0c">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19235469iu9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MACMILLAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(241)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19235423bqf" width="415" height="61" /></div>
+    
+        <h1>MACMILLAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />World Bank: Integrity Vice Presidency<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Macmillan Publishers Limited ("Macmillan")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International publisher of books and journals
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Basingstoke, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />Rwanda<br />Sudan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 30 April 2010, the World Bank announced that it had debarred Macmillan from participating in World Bank contracts for a six-year period.  Macmillan admitted that a representative of its Education Division had made improper payments to officials in Southern Sudan during a bidding process in 2008-2009 for an education project backed by a Multi Donor Trust Fund ("MDTF") managed by the World Bank.  The payments did not succeed in securing the contract for Macmillan.  <br /><br />In December 2009, the City of London Police executed search warrants in connection with the matter.  In March 2010, Macmillan reported the corporate case to the UK Serious Fraud Office. The resulting cooperative investigation between Macmillan and the SFO covered the company's Education Division's public tender contracts in Southern Sudan, Rwanda and Uganda between 2002-2009, whether funded by the World Bank or otherwise.  <br /><br />As part of its investigation and remedial efforts, Macmillan ceased all live and prospective public tenders in its Education Division business in East and West Africa.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Southern Sudanese, Rwandan and Ugandan Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Contracts to supply educational materials, valued at approximately GBP 11.2 million<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It appears that the World Bank notified Macmillan of the improper payments, and its investigation, in December 2009.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 29 April 2010, the World Bank debarred Macmillan for a six-year period.  The debarment may be reduced to three years subject to continued cooperation from the company and its remedial efforts.<br /><br />On 22 July 2011, Macmillan agreed to pay a GBP 11,263,852.28 civil recovery order under Part 5 of the Proceeds of Crime Act 2002 in order to conclude the SFO investigation.  The company will also pay GBP 27,000 to cover the SFO costs of pursuing the order.   A compliance monitor was imposed for a 12-month period, who will report to the SFO and World Bank.<br /><br />The SFO highlighted Macmillan's cooperation and remedial efforts.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This case is the fifth civil settlement action by the SFO.  The Office is keen to demonstrate that corporate disclosure, cooperation and remediation result in tangible benefits to companies under investigation for foreign bribery.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Times Online: "Macmillan banned by World Bank over Sudan bribes" (May 6, 2010)</p><p>Reuters: "World Bank bars UK publisher over Sudan payments" (May 5, 2010)</p><p>Telegraph: "Macmillan admits to bribery over World Bank Sudan aid deal" (May 6, 2010)</p><p><a href="file.asp?id=861">Macmillan Press Release: May 6, 2010</a></p><p><a href="file.asp?id=863">World Bank Press Release: April 30, 2010</a></p><p><a href="file.asp?id=1551">SFO Press Release: "Action on Macmillan Publishers Limited" (22 July 2011)</a></p><p><a href="file.asp?id=1552">Macmillan Press Release: "Macmillan Publishers Ltd concludes co-operative process with SFO" (22 July 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #669966;">Education/Publishing</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

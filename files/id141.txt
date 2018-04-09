@@ -1,0 +1,152 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922236wer8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192223qi5mr" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TOTAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(141)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192223317vh" width="415" height="61" /></div>
+    
+        <h1>TOTAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Italy: Milan Public Prosecutor's Office<br />France: Investigating Magistrate<br />France: Public Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Total SA ("Total")<br />Total Italia<br />Christophe de Margerie  (Chairman and Chief Executive Officer of Total)<br />Lionel Levha (head of Total Italia)<br />Jean Paul Juguet (former head of the Tempa Rossa concession)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas; chemicals
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Courbevoie, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iran<br />Iraq<br />Italy<br />Libya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Iran<br /><br />In the 29 May 2013 Deferred Prosecution Agreement between the U.S. Department of Justice ("DOJ") and Total, it was alleged that Total and its wholly owned subsidiary Total International made improper payments totaling approximately USD 60 million from 1995 to 2004. The alleged bribery scheme involved an Iranian official who was the chairman of an engineering company substantially owned and controlled by Iran, and was also the head of a wholly owned subsidiary of the National Iranian Oil Company, which is Iran's state-owned oil company. The Iranian official allegedly helped Total win over USD 1 billion in business from the Sirri A and E oil and gas fields and the South Pars gas field in exchange for approximately USD 60 million in payments to intermediaries designated by the Iranian official. The DOJ and SEC also alleged that these payments were not properly recorded in the Company's books and records and that they violated the FCPA's internal controls provisions.<br /><br />Libya<br /><br />Also, the Company noted in its 26 March 2012 SEC Form 20-F that the SEC has sent Total "a formal request for information related to their operations in Libya." <br /><br />Iraq<br /><br />The Oil-for-Food Program was established by the United Nations ("UN") to enable Iraq to sell its oil for humanitarian purposes, in the context of an extensive international sanctions regime. The Oil-for-Food Program mandated that the proceeds of oil sales be deposited in a UN bank account and that those proceeds be used by the Iraqi government only to purchase humanitarian goods and services, such as food and medicine, approved by the UN. Beginning in 2000, the former Iraqi government began requiring companies wishing to sell humanitarian goods to government ministries to pay a kickback, often mischaracterized as an "after sales services fee," to the government in order to be granted a contract. The amount of that fee was usually 10 percent of the contract price. Such payments were not permitted under the Oil-for-Food Program or other sanction regimes then in place.<br /><br />In its Form 20-F submission to the U.S. Securities & Exchange Commission ("SEC") on 26 March 2012, Total said that "certain current or former Group employees were placed under formal criminal investigation [in France] for possible charges as accessories to the misappropriation of corporate assets and as accessories to the corruption of foreign public agents." The Company also said that it "believes that its activities related to the Oil-for-Food program have been in compliance with this<br />program."<br /><br />Italy<br /> <br />On 17 December 2008, the Financial Times reported that Italian police had arrested three employees of Total as a result of allegations of bribery involving the Tempa Rossa oilfield concession (also referred to as the Gorgoglione concession) in southern Italy. The Financial Times cited Italian media sources as saying that Italian authorities were investigating Total Italia for "the alleged corruption of local politicians who secured land in the concession at below market prices." The alleged value of the corrupt payments is EUR 15 million. The story reported that authorities have arrested or are investigating multiple politicians and businessmen, including a member of the Italian Parliament (Salvatore Margiotta) who allegedly requested a bribe from an intermediary of Total. In a 16 December 2008 story, Agence-France Press reported that Salvatore was one of 15 individuals named in the scandal, and that he requested approximately EUR 200,000 for his approval of the concession. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iranian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 60 million<br /></td>
+<td style="text-align: center;">Over USD 1 billion in business from the Sirri A and E and South Pars projects<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to&nbsp;Italian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">EUR 15 million<br /></td>
+<td style="text-align: center;">Purchase of land in the Tempa Rossa oilfield concession at below market prices<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Libyan Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified<br /></td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unknown
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 29 May 2013, Total settled its FCPA charges with the SEC and DOJ for a combined amount of USD 398.2 million. Total agreed with the SEC to pay USD 153 million in disgorgement, and its agreement with the DOJ required it to pay a criminal penalty of USD 245.2 million. The DOJ charged Total with one count of conspiracy to violate the FCPA, one count of violating the FCPA's books and records provisions, and one count of violating the FCPA's internal controls provisions. The SEC charged Total with violating the FCPA's anti-bribery provisions, books and records provisions, and internal controls provisions. According to a press release issued by the DOJ, the French authorities cooperated with the SEC and DOJ, representing "the first coordinated action by French and U.S. law enforcement in a major foreign bribery case."<br /><br />France<br /><br />The Company's activities in Iraq under the United Nations Oil-for-Food Program had been subject to a French criminal investigation since 2002.  On 6 April 2010, Total confirmed that corruption charges had been instituted against the Company on 22 February 2010.  Regarding the Iran allegations, Total's SEC Form 20-F from 26 March 2012 reveals that "TOTAL and its Chief Executive Officer, President of the Middle East at the time of the facts, have been placed under formal investigation, following a judicial inquiry initiated in France in 2006."  <br /><br />Total's Chief Executive Officer, Christophe de Margerie, who was formerly President of the Group's Exploration & Production Division, was placed under formal investigation in October 2006.  The criminal investigation was closed in 2007 and the matter was transferred to the Prosecutor's Office.  In 2009, the Prosecutor's Office recommended dismissing the case for the CEO and all of the Group's current and former employees.  In late 2009 a new Investigating Judge, Serge Tournaire, placed Total under formal investigation for bribery of a foreign public official, complicity and benefiting from influence peddling. <br /><br />The Company's Form 20-F submitted to the SEC on 26 March 2012 provides the following chronology of the events:<br /><br />"In 2009, the Prosecutor's office recommended to the investigating judge that the case against the Group's current and former employees and TOTAL's Chairman and Chief Executive Officer not be pursued.  In early 2010, despite the recommendation of the Prosecutor's office, a new investigating judge, having taken over the case, decided to indict TOTAL S.A. on bribery charges as well as complicity and influence peddling. The indictment was brought eight years after the beginning of the investigation without any new evidence being introduced.<br /><br />"In October 2010, the Prosecutor's office recommended to the investigating judge that the case against TOTAL S.A., the Group's current and former employees and TOTAL's Chairman and Chief Executive Officer not be pursued. However, by ordinance notified in early August 2011, the investigating judge on the matter decided to send the case to trial."<br /><br />On 21 January 2013, the trial against Total, Christophe de Margerie, and 17 other defendants began before the 11e Chambre du Tribunal Correctionnel in Paris.  The trial lasted until 20 February 2013. The Wall Street Journal reported on 29 May 2013 that prosecutors in France recommended that Total and de Margerie be sent to trial for corruption and embezzlement.<br /><br />On 8 July 2013, a French court acquitted Total, its chief executive, Christophe de Margerie, former government minister, Charles Pasqua, and more than a dozen other defendants of corruption charges. The court ruled there had been "no corruption, influence-peddling or misuse of assets" linked to the $64 billion UN program that allowed Iraq to sell limited quantities of oil to buy humanitarian supplies, even though the nation was under sanctions at the time.<br /><br />On 25 November 2014,  the Paris prosecutor's office announced that Total will face trial in France over claims of corruption related to Iranian contracts dating from the 1990s and early 2000s.<br /><br />Italy<br /><br />The Financial Times reported on 17 December 2008 that Italian authorities arrested three Total employees as part of a bribery investigation of Total's Tempa Rossa (Gorgoglione) oilfield concession. Among these employees were the French head of operations for Total Italia, Lionel Levha, and two Italian employees of the subsidiary. Authorities also searched two Total Italia offices. Multiple Italian politicians and businessmen were also arrested or are facing investigations of bribery allegations in relation to the oilfield concession. Among these was the former head of the Tempa Rossa concession, Jean Paul Juguet, for whom an arrest warrant was issued.<br /><br />In its Form 20-F submitted to the SEC on 26 March 2012, Total provided the following information regarding the investigation being conducted by the Prosecutor of the Republic of the Potenza Court: <br /><br />"On February 16, 2009, as a preliminary measure before the proceedings go before the Court, the preliminary investigation judge of Potenza served notice to Total Italia of a decision that would suspend the concession for this field for one year. Total Italia has appealed the decision by the preliminary investigation judge before the Court of Appeal of Potenza. In a decision dated April 8, 2009, the Court reversed the suspension of the Gorgoglione concession and appointed for one year, i.e. until February 16, 2010, a judicial administrator to supervise the operations related to the development of the concession, allowing the Tempa Rossa project to continue.<br /><br />"The criminal investigation was closed in the first half of 2010. The preliminary hearing judge, who will decide whether the case shall be returned to the Criminal Court to be judged on the merits, held the first hearing on December 6, 2010."<br /><br />In its Form 20-F submitted to the SEC on 28 March 2013, Total added that "[i]n May 2012, the Judge of the preliminary hearing decided to dismiss the charges for some of the Group’s employees and refer the case for trial on a reduced number of<br />charges. The trial started on September 26, 2012." The trial appears to be ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The United States pursues enforcement of the FCPA against foreign companies.</li><li>Payments made to intermediaries designated by a foreign official still violate the FCPA even though they are not directly made to the official.</li><li>Employees of state-owned enterprises are considered "foreign officials" by the U.S. authorities.</li><li>Enforcement authorities from different countries are cooperating in order to enforce anti-bribery laws.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Agence France-Presse: "Head of Total Italy arrested in 15-mln-euro oil graft probe" (16 December 2008)</p><p>Financial Times: "Head of Total Italy arrested in graft probe" (17 December 2008)</p><p><a href="file.asp?id=761">Total: Registration Document and Financial Report (2009)</a></p><p><a href="file.asp?id=762">Total Press Release: "Oil for Food - Clarification: Not a new case" (6 April 2010)</a></p><p><a href="file.asp?id=1372">Total: Consolidated Financial Statements from SEC Form 6-K (14 March 2011)</a></p><p>Washington Post: "Official: Alleged corruption case centering on French oil giant Total ordered to trial" (2 August 2011)</p><p><a href="file.asp?id=1773">Total: SEC Form-20-F (26 March 2012)</a></p><p><a href="file.asp?id=1914">Total: "Financial Report 1st half 2012" (27 July 2012)</a></p><p><a href="file.asp?id=1915">Total: SEC Form 6-K (1 August 2012)</a></p><p><a href="file.asp?id=2299">Total: SEC Form 20-F (28 March 2013)</a></p><p><a href="file.asp?id=2262">Total: SEC Form 6-K Exhibit 99.1 (29 April 2013)</a></p><p><a href="file.asp?id=2281">Criminal Information: U.S. v. Total (29 May 2013)</a></p><p><a href="file.asp?id=2282">Deferred Prosecution Agreement: U.S. v. Total (29 May 2013)</a></p><p><a href="file.asp?id=2283">Complaint: SEC v. Total (29 May 2013)</a></p><p>Wall Street Journal: "Prosecutor Recommends Corruption Trial for Total, CEO" (29 May 2013)</p><p><a href="file.asp?id=2285">DOJ Press Release: "French Oil and Gas Company, Total, S.A., Charged in the United States and France in Connection with an International Bribery Scheme" (29 May 2013)</a></p><p>France 24: "French court acquits Total in Iraq 'Oil-for-food' case" (8 July 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ff33;">Energy Trade</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

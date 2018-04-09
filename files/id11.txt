@@ -1,0 +1,426 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1706590fhm0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17065990ybn" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CON-WAY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(11)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170659d7z6i" width="415" height="61" /></div>
+    
+        <h1>CON-WAY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Con-way, Inc. ("Con-way")<br />Menlo Worldwide Forwarding, Inc. ("Menlo Forwarding," a wholly-owned U.S. subsidiary of Con-way)<br />Emery Transnational (Philippine shipping firm in which Menlo Forwarding had a controlling 55% voting interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International freight transportation
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Mateo, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Con-way violated the FCPA's books and records and internal controls provisions in connection with approximately USD 417,000 in improper payments made to government officials in the Philippines between 2000 and 2003 by Emery Transnational, a Manila-based shipping and freight firm.  Emery Transnational was controlled by Menlo Forwarding, a wholly-owned U.S. subsidiary of Con-way that was named Emery Air Freight Corporation during the relevant period.  Menlo Forwarding had a 55% voting interest in Emery Transnational.  Con-way sold Menlo Forwarding to United Parcel Service of America, Inc. ("UPS") in December 2004.<br /><br />According to the SEC's complaint, between 2000 and 2003 Emery Transnational made approximately USD 244,000 in hundreds of small improper payments to foreign officials at the Philippines Bureau of Customs and the Philippine Economic Zone Area, intending to induce the officials to violate customs regulations by allowing the company to store shipments longer than otherwise permitted (thus reducing the company's transportation costs for in-bound shipments), and to settle customs disputes and reduce or not enforce otherwise legitimate fines for administrative violations.  The payments were made in cash by Emery Transnational employees after requesting cash advances to complete customs processing from the company's finance department.<br /><br />During the same period, Emery Transnational's management team allegedly also made approximately USD 173,000 in improper payments in cash to foreign officials at the following fourteen majority state-owned airlines operating in the Philippines:  Air France, Alitalia (Italy), China Airlines, EgyptAir, Emirates (Dubai), Gulf Air (Bahrain, Abu Dhabi, Oman), Kuwait Airways, Malaysian Airlines, Pakistan International Airlines, Royal Brunei Airlines, Saudi Arabian Airlines, SilkAir (Singapore), Singapore Airlines, and Thai Airways International.  Weight shipped payments were made to induce airline officials to improperly reserve space on the airplanes for the company; the payments were valued based on the volume of the shipments the airline carried for the company.   Gain shares payments were made to induce airline officials to under-weigh shipments and to consolidate multiple shipments into a single shipment in order to lower shipping charges; these payments were valued at 90% of the reduced shipping costs.    <br /><br />None of the payments described above were accurately recorded as bribes in Emery Transnational's books and records and neither Con-way nor Menlo Forwarding requested or received any records of these payments, or any of Emery Transnational's expenses, during this period.  Con-way and Menlo Forwarding only required Emery Transnational to periodically report its net profits back to Menlo Forwarding, paying Menlo Forwarding a 55% yearly dividend.  This yearly dividend was incorporated into Menlo Forwarding's financial results, which were then consolidated into Con-way's financial statements.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 244,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs and averted administrative fines, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Fourteen Majority State-Owned Airlines</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 173,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Con-way uncovered potential FCPA violations at Emery Transnational in early 2003, after Menlo Forwarding increased Emery Transnational's internal reporting requirements in January 2003, including requiring the company to begin reporting its income and expenses in addition to its net profits.  Menlo Forwarding employees noticed unusually high customs and airline-related expenditures as a result of reviewing Emery Transnationals records.  <br /><br />Menlo Forwarding conducted an internal investigation into the matter and, based on this investigation, Con-way initiated a broader review of all of Menlo Forwarding's foreign businesses.  Con-way voluntarily disclosed the potential FCPA violations to the SEC.  <br /><br />After completing its internal investigation, Con-way imposed enhanced financial reporting and compliance requirements on Emery Transnational.  In addition, Menlo Forwarding terminated a number of Emery Transnational employees involved in the misconduct.  Con-way also strengthened its regulatory compliance program and provided additional FCPA training and education to its employees.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 August 2008, without admitted or denying the SEC's allegations, Con-way agreed to the entry of a cease-and-desist order and to a USD 300,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments by local employees to customs officials are a common compliance problems in many countries, including the Philippines.</li><li>The facilitation payments exception under the FCPA will not apply where there is no routine government action pending and where the government action being sought is not an action ordinarily and commonly performed by a foreign official.  Even if payments do fall under the exception, they must be accurately accounted for in the companys books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=49">SEC Litigation Release: August 27, 2008 (SEC Files Settled Enforcement Action Charging Con-way Inc. with Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=50">Complaint: SEC v. Con-way, Inc. (August 27, 2008) </a></p><p><a href="file.asp?id=51">SEC Cease-and-Desist Order (August 27, 2008) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184209hz26w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842091s7mg" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CON-WAY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(11)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184209c5j77" width="415" height="61" /></div>
+    
+        <h1>CON-WAY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Con-way, Inc. ("Con-way")<br />Menlo Worldwide Forwarding, Inc. ("Menlo Forwarding," a wholly-owned U.S. subsidiary of Con-way)<br />Emery Transnational (Philippine shipping firm in which Menlo Forwarding had a controlling 55% voting interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International freight transportation
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Mateo, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Con-way violated the FCPA's books and records and internal controls provisions in connection with approximately USD 417,000 in improper payments made to government officials in the Philippines between 2000 and 2003 by Emery Transnational, a Manila-based shipping and freight firm.  Emery Transnational was controlled by Menlo Forwarding, a wholly-owned U.S. subsidiary of Con-way that was named Emery Air Freight Corporation during the relevant period.  Menlo Forwarding had a 55% voting interest in Emery Transnational.  Con-way sold Menlo Forwarding to United Parcel Service of America, Inc. ("UPS") in December 2004.<br /><br />According to the SEC's complaint, between 2000 and 2003 Emery Transnational made approximately USD 244,000 in hundreds of small improper payments to foreign officials at the Philippines Bureau of Customs and the Philippine Economic Zone Area, intending to induce the officials to violate customs regulations by allowing the company to store shipments longer than otherwise permitted (thus reducing the company's transportation costs for in-bound shipments), and to settle customs disputes and reduce or not enforce otherwise legitimate fines for administrative violations.  The payments were made in cash by Emery Transnational employees after requesting cash advances to complete customs processing from the company's finance department.<br /><br />During the same period, Emery Transnational's management team allegedly also made approximately USD 173,000 in improper payments in cash to foreign officials at the following fourteen majority state-owned airlines operating in the Philippines:  Air France, Alitalia (Italy), China Airlines, EgyptAir, Emirates (Dubai), Gulf Air (Bahrain, Abu Dhabi, Oman), Kuwait Airways, Malaysian Airlines, Pakistan International Airlines, Royal Brunei Airlines, Saudi Arabian Airlines, SilkAir (Singapore), Singapore Airlines, and Thai Airways International.  Weight shipped payments were made to induce airline officials to improperly reserve space on the airplanes for the company; the payments were valued based on the volume of the shipments the airline carried for the company.   Gain shares payments were made to induce airline officials to under-weigh shipments and to consolidate multiple shipments into a single shipment in order to lower shipping charges; these payments were valued at 90% of the reduced shipping costs.    <br /><br />None of the payments described above were accurately recorded as bribes in Emery Transnational's books and records and neither Con-way nor Menlo Forwarding requested or received any records of these payments, or any of Emery Transnational's expenses, during this period.  Con-way and Menlo Forwarding only required Emery Transnational to periodically report its net profits back to Menlo Forwarding, paying Menlo Forwarding a 55% yearly dividend.  This yearly dividend was incorporated into Menlo Forwarding's financial results, which were then consolidated into Con-way's financial statements.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 244,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs and averted administrative fines, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Fourteen Majority State-Owned Airlines</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 173,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Con-way uncovered potential FCPA violations at Emery Transnational in early 2003, after Menlo Forwarding increased Emery Transnational's internal reporting requirements in January 2003, including requiring the company to begin reporting its income and expenses in addition to its net profits.  Menlo Forwarding employees noticed unusually high customs and airline-related expenditures as a result of reviewing Emery Transnationals records.  <br /><br />Menlo Forwarding conducted an internal investigation into the matter and, based on this investigation, Con-way initiated a broader review of all of Menlo Forwarding's foreign businesses.  Con-way voluntarily disclosed the potential FCPA violations to the SEC.  <br /><br />After completing its internal investigation, Con-way imposed enhanced financial reporting and compliance requirements on Emery Transnational.  In addition, Menlo Forwarding terminated a number of Emery Transnational employees involved in the misconduct.  Con-way also strengthened its regulatory compliance program and provided additional FCPA training and education to its employees.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 August 2008, without admitted or denying the SEC's allegations, Con-way agreed to the entry of a cease-and-desist order and to a USD 300,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments by local employees to customs officials are a common compliance problems in many countries, including the Philippines.</li><li>The facilitation payments exception under the FCPA will not apply where there is no routine government action pending and where the government action being sought is not an action ordinarily and commonly performed by a foreign official.  Even if payments do fall under the exception, they must be accurately accounted for in the companys books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=49">SEC Litigation Release: August 27, 2008 (SEC Files Settled Enforcement Action Charging Con-way Inc. with Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=50">Complaint: SEC v. Con-way, Inc. (August 27, 2008) </a></p><p><a href="file.asp?id=51">SEC Cease-and-Desist Order (August 27, 2008) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19202384389">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920230r2bk" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CON-WAY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(11)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192023837a3" width="415" height="61" /></div>
+    
+        <h1>CON-WAY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Con-way, Inc. ("Con-way")<br />Menlo Worldwide Forwarding, Inc. ("Menlo Forwarding," a wholly-owned U.S. subsidiary of Con-way)<br />Emery Transnational (Philippine shipping firm in which Menlo Forwarding had a controlling 55% voting interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International freight transportation
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Mateo, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Con-way violated the FCPA's books and records and internal controls provisions in connection with approximately USD 417,000 in improper payments made to government officials in the Philippines between 2000 and 2003 by Emery Transnational, a Manila-based shipping and freight firm.  Emery Transnational was controlled by Menlo Forwarding, a wholly-owned U.S. subsidiary of Con-way that was named Emery Air Freight Corporation during the relevant period.  Menlo Forwarding had a 55% voting interest in Emery Transnational.  Con-way sold Menlo Forwarding to United Parcel Service of America, Inc. ("UPS") in December 2004.<br /><br />According to the SEC's complaint, between 2000 and 2003 Emery Transnational made approximately USD 244,000 in hundreds of small improper payments to foreign officials at the Philippines Bureau of Customs and the Philippine Economic Zone Area, intending to induce the officials to violate customs regulations by allowing the company to store shipments longer than otherwise permitted (thus reducing the company's transportation costs for in-bound shipments), and to settle customs disputes and reduce or not enforce otherwise legitimate fines for administrative violations.  The payments were made in cash by Emery Transnational employees after requesting cash advances to complete customs processing from the company's finance department.<br /><br />During the same period, Emery Transnational's management team allegedly also made approximately USD 173,000 in improper payments in cash to foreign officials at the following fourteen majority state-owned airlines operating in the Philippines:  Air France, Alitalia (Italy), China Airlines, EgyptAir, Emirates (Dubai), Gulf Air (Bahrain, Abu Dhabi, Oman), Kuwait Airways, Malaysian Airlines, Pakistan International Airlines, Royal Brunei Airlines, Saudi Arabian Airlines, SilkAir (Singapore), Singapore Airlines, and Thai Airways International.  Weight shipped payments were made to induce airline officials to improperly reserve space on the airplanes for the company; the payments were valued based on the volume of the shipments the airline carried for the company.   Gain shares payments were made to induce airline officials to under-weigh shipments and to consolidate multiple shipments into a single shipment in order to lower shipping charges; these payments were valued at 90% of the reduced shipping costs.    <br /><br />None of the payments described above were accurately recorded as bribes in Emery Transnational's books and records and neither Con-way nor Menlo Forwarding requested or received any records of these payments, or any of Emery Transnational's expenses, during this period.  Con-way and Menlo Forwarding only required Emery Transnational to periodically report its net profits back to Menlo Forwarding, paying Menlo Forwarding a 55% yearly dividend.  This yearly dividend was incorporated into Menlo Forwarding's financial results, which were then consolidated into Con-way's financial statements.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 244,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs and averted administrative fines, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Fourteen Majority State-Owned Airlines</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 173,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced transportation costs, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Con-way uncovered potential FCPA violations at Emery Transnational in early 2003, after Menlo Forwarding increased Emery Transnational's internal reporting requirements in January 2003, including requiring the company to begin reporting its income and expenses in addition to its net profits.  Menlo Forwarding employees noticed unusually high customs and airline-related expenditures as a result of reviewing Emery Transnationals records.  <br /><br />Menlo Forwarding conducted an internal investigation into the matter and, based on this investigation, Con-way initiated a broader review of all of Menlo Forwarding's foreign businesses.  Con-way voluntarily disclosed the potential FCPA violations to the SEC.  <br /><br />After completing its internal investigation, Con-way imposed enhanced financial reporting and compliance requirements on Emery Transnational.  In addition, Menlo Forwarding terminated a number of Emery Transnational employees involved in the misconduct.  Con-way also strengthened its regulatory compliance program and provided additional FCPA training and education to its employees.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 August 2008, without admitted or denying the SEC's allegations, Con-way agreed to the entry of a cease-and-desist order and to a USD 300,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments by local employees to customs officials are a common compliance problems in many countries, including the Philippines.</li><li>The facilitation payments exception under the FCPA will not apply where there is no routine government action pending and where the government action being sought is not an action ordinarily and commonly performed by a foreign official.  Even if payments do fall under the exception, they must be accurately accounted for in the companys books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=49">SEC Litigation Release: August 27, 2008 (SEC Files Settled Enforcement Action Charging Con-way Inc. with Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=50">Complaint: SEC v. Con-way, Inc. (August 27, 2008) </a></p><p><a href="file.asp?id=51">SEC Cease-and-Desist Order (August 27, 2008) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

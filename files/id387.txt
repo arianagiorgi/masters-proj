@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192558u7qwl">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192558rs9c1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ISRAEL MILITARY INDUSTRIES (IMI)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(387)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19255839cw7" width="415" height="61" /></div>
+    
+        <h1>ISRAEL MILITARY INDUSTRIES (IMI)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Sudipto Ghosh, former director-general of Ordnance Factor Board of India, sometimes Shri Sudipto Ghosh<br />Singapore Technologies Kinetics<br />Rheinmetall Air Defence (Zurich)<br />Corporation Defense of Russia<br />T.S. Kisan & Co. (India)<br />R.K. Machine Tools (india)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Defense systems; specializes in the development, integration, manufacturing, and life cycle support of combat system
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Ramat ha Sharon, Israel
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Following an investigation by the Indian Central Bureau of Investigation in 2009, the Indian authorities concluded that it had sufficient evidence that IMI was involved in bribing Sudipta Ghosh, former director of Ordnance Factories, as well as other Indian officers.  The company had won a contract to set up the Ordnance Factory Board's 40th factory, in Nalanda in the state of Bihar.  <br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 March 2012, India debarred IMI from bidding on any defense contracts for ten years.  IMI intends to appeal the decision.<br /><br />Then on 17 April 2012, the Indian Ministry of Defense fined IMI for breach of an integrity agreement in an arms contract.  The Ministry seized a USD 70 million (INR 2,240,000) bank guarantee of IMI.  An "integrity pact" is an undertaking by foreign companies that they will not enter into corrupt activity. <br /><br />On 17 September 2014, India announced that it was lifting the ban against IMI, and will allow the company to bid on its tenders.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

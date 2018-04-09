@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192457azr54">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192457w0yjb" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALLIANZ</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(316)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19245731tl2" width="415" height="61" /></div>
+    
+        <h1>ALLIANZ</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Germany: Frankfurt Public Prosecutor's Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Allianz SE ("Allianz")<br />Allianz Capital Partners ("ACP"), Allianz's private equity business<br />manroland AG ("manroland"), German printing systems manufacturer in which ACP has held a majority stake since 2006<br />Votra SA, a Swiss subsidiary<br />PT Asuransi Allianz Utama ("Utama"), a majority-owned Indonesian subsidiary of Allianz, composed of a joint venture between AZAP (75%) and Jasindo (25%)<br />Allianz of Asia-Pacific and Africa GmbH ("AZAP") a wholly-owned German subsidiary <br />PT Asuransi Jasa Indonesia ("Jasindo"), an Indonesian state-owned entity<br />PT Asuransi Wuwungan ("Wuwungan"), temporarily a part of the Utama joint venture
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global financial services provider
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Munich, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />India<br />Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In a press release issued on 21 September 2010 by manroland, the company informed its public that it had discovered irregularities relating to sales commission payments, and that an internal investigation was ongoing.  <br /><br />The company explained that as part of an internal audit investigation initiated by the Executive Board of manroland, irregularities have been discovered relating to sales commission payments. Investigations were performed in connection with a tax audit, and this confirmed suspicions that commission payments were made without proof of services having been provided in return. The company noted that investigators are devoting particular attention to specific cases involving Swiss subsidiary VOTRA S.A. in the period from 2002 to the beginning of 2007.  Gerd Finkbeiner, Chairman of the Executive Board of manroland, explained, "We will do all we can to get to the bottom of these and any further abuses that come to light.   We have a responsibility to our business partners, customers and staff to make it clear that we will not tolerate legal violations. This investigation has top priority."<br /><br />According to the manroland press release on 21 September 2010, the company notified the Frankfurt Public Prosecutor's Office of its internal investigation. <br /><br />(Allianz traded on the New York, London, Paris and Swiss stock exchanges until Fall 2009, at which time it delisted from those exchanges in order to focus the trading of its shares on the Frankfurt Xetra trading platform.)<br /><br />Later, in the U.S. Securities and Exchange Commission (“SEC”) order issued on 17 December 2012, it was explained that the misconduct was discovered through two complaints, one in 2005 and the other in 2009.  The first complaint reported unsupported payments to agents in Indonesia, and the second revealed the Company's failure to properly account for certain payments in its books and records.  In a footnote, the SEC notes that although manroland AG is under investigation by the German tax authorities, none of the irregularities in payments involve government projects or payments to foreign officials. <br /><br />The facts stated in the SEC order issued on 17 December 2012 upon which the settlement is based, and which Allianz neither admits nor denies, are as follows:<br /><br />In 2001, Utama and an Indonesian commercial agent set up an off-the-books bank account in the Agent's name in order to make payments to employees of state-owned enterprises in order to obtain insurance contracts.  The insurance contracts provided for two portions of the premium: 75-95% for the technical premium, the actual cost of the coverage; and 5-25% for the non-technical premium, which constituted the portion to be paid to the government official.  Allianz did not have the ability to access Utama's accounting system and did not detect the movement of funds in these special purpose accounts.  Following a whistleblower complaint in 2005, Allianz initiated an audit, and in December 2005 directed the Utama to close the special purpose accounts and cease making payments.  However, the conduct continued through 2008.<br /><br />Between 2005 and 2008, various methods were used by Utama to make payments to foreign officials, in addition to the special purpose account.  For example, commissions were booked to an agent not associated with the account; the funds were later withdrawn from the account and given as cash to foreign officials.  The premium amount was also overstated sometimes, and the excess amount was paid into an unallocated account and then "reimbursed" to the foreign officials who were in charge of obtaining the insurance contracts on behalf of the government.<br /><br />Following the 2009 whistleblower complaint, Allianz began an internal investigation but did not notify the SEC of possible FCPA violations.  In April 2010, the SEC opened its own investigation after receiving an anonymous complaint.  It uncovered 295 government insurance contracts obtained or retained through improper payments to Indonesian officials between 2001 and 2008.<br /><br />Allianz began cooperating with the authorities and took remedial measures, issuing new FCPA compliance and accounting policies, taking action against certain employees and agents, updating the anti-corruption clause in its third-party contracts, and increasing training efforts for employees.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials in Indonesia</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 650,626</td>
+<td style="text-align: center;">USD 5,315,649</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 1 December 2005, a whistleblower complaint concerning the special purpose account was submitted to both the Allianz whistleblower hotline and Utama's joint venture partner Jasindo, and then forwarded to the head of AZAP.<br /><br />In March 2009, Allianz's outside auditor received an anonymous complaint alleging that an Allianz executive created or initiated slush funds during his tenure with AZAP.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        DOJ Investigation<br /><br />On 22 February 2012, attorneys from the Department of Justice stated that the investigation into whether Allianz SE violated the FCPA or other bribery laws in Indonesia had been closed, and that the DOJ did not intend to take any enforcement action. <br /><br />SEC Investigation<br /><br />Initially, the media reported allegations an Allianz joint venture paid bribes to win contracts to insure big infrastructure projects in Indonesia and whether the printing equipment maker paid bribes in Europe and elsewhere.  But prosecuting the potential violations proved very difficult for the SEC: although Allianz Capital Partners owns a majority stake in manroland AG (about 60%), the holdings are passive, and Allianz does not exercise day-to-day control and therefore, under  German law, cannot compel manroland to give documents to the SEC. Moreover, since the entity that allegedly paid the bribes in Indonesia is a Swiss subsidiary of Allianz' German subsidiary, the corporate connection between the companies is further removed.  And even Allianz is no longer listed on a U.S. stock exchange. <br /><br />On 17 December 2012, the SEC charged Allianz with FCPA books and records and internal controls violations, based on Allianz' alleged payments to Indonesian officials over the course of seven years.  Utama, a majority-owned subsidiary of Allianz, made improper payments to foreign officials to obtain or retain government insurance contracts, and recorded the payments as legitimate transaction costs. Since Utama's financial statements were consolidated into Allianz's financial statement, Allianz violated Section 13(b)(2)(A) of the Exchange Act, which requires issuers to keep accurate books, records and accounts.  Allianz also failed to devise and maintain an effective system of internal controls sufficient to provide reasonable assurances that improper payments were not being made by its subsidiary, thereby violating Section 13(b)(2)(B) of the Exchange Act, which requires issuers to devise and maintain a sufficient system of internal accounting controls.<br /><br />In its Offer accompanying the SEC Cease and Desist Order, the Company agreed to pay USD 5,315,649 in disgorgement and USD 1,765,125 in prejudgment interest, and a civil penalty of USD 5,315,649.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An investigation that reveals tax violations in one country may result in FCPA violations based on unrelated transactions in the same location.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1271">manroland AG - Press Release (21 Sept. 2010)</a></p><p>MainJustice: "U.S. Targets European Insurer in Bribery Probe" (21 December 2010)</p><p>Print Week: "Manroland uncovers sales commission payment irregularities" (21 Sept. 2010)</p><p>WSJ: "Allianz Close To Settlement With SEC Over Bribery Allegations" (7 Oct. 2011)</p><p>Reuters: "SEC to limit charges against Allianz" (14 Oct. 2011)</p><p><a href="file.asp?id=1708">Allianz - US Justice Department closes Allianz Indonesia bribery probe without charges, 22 February 2012</a></p><p><a href="file.asp?id=2075">Allianz - SEC Administrative Order (17 December 2012), Order Instituting Cease and Desist Proceedings Pursuant to Section 21C of the Securities and Exchang Act of 1934</a></p><p><a href="file.asp?id=2076">Alianz - Press Release (17 December 2012), SEC Charges Germany-Based Allianz SE with FCPA Violations</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

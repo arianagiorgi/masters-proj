@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922068k503">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19220640lpa" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMERICAN TOTALISATOR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(122)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19220624obw" width="415" height="61" /></div>
+    
+        <h1>AMERICAN TOTALISATOR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        American Totalisator Company, Inc. (wholly-owned subsidiary of Chicago-based General Instruments Corporation) ("American Totalisator")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of totalisator systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hunt Valley, Maryland, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Greece<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) alleged that American Totalisator violated the FCPA's anti-bribery provisions in connection with improper payments made to officials at the Horse Races Administration of Greece between 1985 and 1993 in order to secure the sale of a totlisator system and spare parts for the Phaleron racetrack in Athens. [A totalisator is a device used to display betting information, particularly at horse racing tracks.]  The payments were made through the company's Greek agent, O. Nicholas Katsanis.<br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Greek Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of a totalisator system, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 January 1993, without admitting or denying the DOJ's allegations, American Totalisator agreed to the entry of a permanent injunction enjoining them from future violations of the FCPA.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA prohibits both direct payments and indirect payments (through an agent or other intermediary) to foreign officials for the purpose of securing an improper advantage.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=344">Complaint for Permanent Injunction: U.S. v. American Totalisator Company, Inc. (January 15, 1993)</a></p><p><a href="file.asp?id=345">Final Judgment of Permanent Injunction: U.S. v. American Totalisator Company, Inc. (January 15, 1993)</a></p><p><a href="file.asp?id=346">Consent and Undertaking: U.S. v. American Totalisator Company, Inc. (January 15, 1993)</a></p><p><a href="file.asp?id=347">DOJ Declination of Criminal Prosecution (December 29, 1992) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

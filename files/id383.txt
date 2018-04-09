@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192555c6062">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192555boozi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LEIGHTON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(383)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192555314h7" width="415" height="61" /></div>
+    
+        <h1>LEIGHTON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Australia: Securities and Investments Commission<br />Australia: Federal Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Leighton Holdings Ltd.<br />Leighton Offshore Pte Ltd.<br />Leighton Offshore Pvt (Singapore)<br />Gavin John Hodge<br />South Oil Co. ("SOC," Iraq's largest state-owned oil company, based in Basra)<br />HOCHTIEF<br />Australia Holdings Limited ("HOCHTIEF," Leighton's major shareholder)<br />Actividades de Construcción y Servicios, SA ("ACS," Leighton's parent company)<br />Thiess (Australian infrastructure and mining company owned by Leighton)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction contractor for large engineering projects
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        St. Leonards, New South Wales, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In a press release dated 13 February 2012, the company stated that it had reported to the Australian Federal Police (AFP) a possible breach of its Code of Ethics, in connection with work performed by the Leighton subsidiary, Leighton Offshore Pte Limited, for the expansion of offshore crude oil loading facilities in Iraq.<br /><br />Media reports from the same date add more details:   Leighton Offshore obtained a USD 528 million contract to build two offshore oil platforms and other facilities for the Iraqi government-owned oil company, South Oil Co. ("SOC"), to be financed by Japan.  Later (in 2010), Offshore received a USD 733 million contract to build undersea pipelines for Iraq.  In October 2011 the subsidiary received further contracts with SOC worth USD 79 million and USD 518 million; the latter to be financed through a loan by the Japan International Cooperation Agency (JICA).<br /><br />On 1 March 2012, press reports stated that the anti-corruption unit within the Iraqi Ministry of Oil (the Inspector General's office) was investigating whether Leighton Holdings' subsidiary in Iraq, Leighton Offshore, paid bribes to officials in Iraq's state-run oil company, SOC, in order to obtain contracts worth USD 1.3 billion on the Sea Line Project.  A Leighton executive commented off the record that the bribes being investigated could amount to tens of millions of dollars.<br /><br />On 5 March 2012, press reports stated that the head of a department at South Oil Co. who had been working in Basra, had fled Iraq after having been removed from his post.  The official, who remained unnamed in the press reports,  is alleged to have received bribes from Leighton Offshore (Iraq) in order to secure contracts in Iraq.  However, one official suggested that the investigation had not uncovered bribery, but was looking further into tax evasion by Offshore.  Additional press coverage on 20 March 2012 suggested that the fugitive head of the SOC department could have been the front man for other senior officials to receive bribes.<br /><br />Leighton's financial statement for 31 December 2011, issued on 30 March 2012, confirmed the media reports, stating, "On 13 February 2012, the Company announced to the Australian Securities Exchange that it had reported to the Australian Federal Police ('AFP') a possible breach of its Code of Ethics that, if substantiated, may contravene Australian laws. The possible breach related to payments that may have been made by a subsidiary company Leighton Offshore Pte. Limited in connection with work to expand offshore loading facilities for Iraq's crude oil exports. At this stage it is not known whether there has been any wrongful or illegal conduct, or whether there will be any adverse financial consequences for the Company. The AFP investigation is at an early stage and, accordingly, the Company is not in a position to make any further comment."<br /><br />In October 2013, allegations surrounding a memorandum written by former top executives surfaced.   The memo allegedly states that Leighton International’s director and former CEO knew that a $42 million kickback was paid to a company in Monaco nominated by Iraqi officials who selected Leighton for a $750 million oil pipeline contract.<br /><br />On 21 November 2013, the Australia Securities and Investments Commission ("ASIC") revealed it is investigating Leighton Holdings over alleged corporate offenses linked to claims that the firm paid multimillion dollar bribes to win contracts overseas. ASIC has also revealed it plans to investigate whether former Leighton executives breached Australian criminal laws by allegedly paying kickbacks to win a project in Iraq.  ASIC has been previously criticized for failing to conduct a parallel investigation alongside the AFP.<br /><br />Allegations that infrastructure and mining giant Thiess may have breached Australian bribery laws by paying Indonesian police and military officials in return for security at its mines came to light after a confidential Leighton agreement was published online on 29 March 2014.  According to Australian publication The Age, Thiess deposited a large sum in the bank account of a relative of a senior Indonesian security official, while other payments were made in cash.  In return,  these officials allegedly directed forces under their command to provide security at Thiess' coalmines in South and East Kalimantan, where there has been union unrest.<br /><br />According to the Australian Finance Review, on 16 September 2014, internal emails leaked from Leighton Holdings warn that a USD $24 million “facilitation payment” linked to a 2010 Iraq contract would “attract attention” from auditors.  The emails allegedly describe plans by senior employees to inflate and backdate contracts to win work in Iraq. Other emails alleged that top Iraqi oil ministry officials were told that one of their colleagues was known to have taken USD $27 million from Leighton.  In a handwritten memo from late 2010, Leighton's acting chief executive David Stewart described how David Savage, another Leighton executive, allegedly told Mr. Stewart that huge oil pipeline contracts had been won by paying ­multi-million-dollar bribes and additional kickbacks.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Possibly tens of millions of dollars</td>
+<td style="text-align: center;">Contracts worth USD 1.3 billion</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The company self-reported to the AFP.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1695">Leighton â€“ Media Release 13 Feb. 2012 â€“ â€œLeighton cooperating fully with AFP on possible breach of Code of Ethics.â€</a></p><p><a href="file.asp?id=1758">Leighton - Concise Annual Report and Financial Report 31 Dec. 2011 (30 March 2012)</a></p><p><a href="file.asp?id=2511">Thiess Payments Raise Concerns</a></p><p><a href="file.asp?id=2588">Financial Review - Leighton Leaks History of Bribes</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

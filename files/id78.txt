@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843099s8dp">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18430943mlq" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GENERAL ELECTRIC AIRCRAFT ENGINES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(78)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843090ch0u" width="415" height="61" /></div>
+    
+        <h1>GENERAL ELECTRIC AIRCRAFT ENGINES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        General Electric Company ("GE")<br />General Electric Aircraft Engines ("GE Aircraft Engines")<br />Herbert B. Steindler (International Sales Manager for GE Aircraft Engines)<br />Rami Dotan (Brigadier General in the Israel Air Force)<br />Harold Katz (Israeli private practice attorney)<br />Ingbir Engineering and Maintenance Company (Israeli firm that performed all subcontracting work for GE Aircraft Engines) ("Ingbir Engineering") <br />Yoram Ingbir (owner of Ingbir Engineering)<br />Marc Boas (Israeli national acting on behalf of Ingbir Engineering)<br />GSK Management Consultant (agent for Ingbir Engineering) ("GSK")<br />Gary S. Klein (owner of GSK and friend and business associate of Steindler) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Development, manufacture and sale of aircraft engines and related products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fairfield, Connecticut, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Israel<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 1984 and 1990, GE Aircraft Engines made a variety of direct military sales and support equipment to Israel under the U.S. Department of Defenses Foreign Military Financing ("FMF") Program.  During this period, Steindler, the GE Aircraft Engines International Sales Manager, and Dotan, an Israeli Air Force ("IAF") Brigadier General in charge of equipment procurement, conspired to induce the purchase of GE Engines for IAF F-16 jet fighters in order to divert a portion of the funds to their own personal accounts.  <br /><br />Approximately USD 300 million in payments were made in connection with two different Israeli/GE government contracts, of which a total of USD 11 million was diverted to Steindler, Dotan, Katz (an Israeli private practice attorney) and others.  For all sub-contracting work on the projects, Dotan directed employees of GE to use Ingbir Engineering, of which Dotan had clandestine ownership.  Steindler contacted an old acquaintance from the U.S., Klein, to act as an agent for Ingbir Engineering.   Together, Steindler and Klein arranged for the creation of GSK Management Consultants ("GSK"). GSK acted as the U.S.-based agent for Ingbir Engineering (and GE subcontractor) from 1984-1990 for the purposes of transferring payments from these contracts.  <br /><br />The first contract, the Integrated Logistic Support ("ILS") contract, from 1984-1985, was to supply tools, equipment, support and training for the maintenance of GE Engines for IAF F-16 jets.  The total value of the contract was over USD 100 million.  From that, Ingbir Engineering invoiced approximately USD 27.5 million in (actual and fictitious) subcontracting work, submitted by GSK to GE.  GE made the payments to GSK, but GSK transmitted only USD 23.8 million to Ingbir Engineering.  The remaining USD 3.7 million was diverted.<br /><br />The second contract, the F110 Contract, from 1988-1989, was for the purchase of 75 either old or 75 newly developed engines for IAF F-16 jet fighters; IAF chose the latter.  The total contract price exceeded USD 200 million.  Steindler claimed that as part of the contract, Dotan had negotiated on behalf of IAF that GE allocate USD 7.875 million, paid in three installments, for flight tests for the 75 new engines (at USD 105,000 per engine).  Unbeknownst to IAF, GE and GE employees, this negotiation agreement was completely fictitious. Of the USD 7.875 million, USD 7.4 million was transferred to European bank accounts belonging to Steindler and Dotan, approximately USD 150,000 was retained by Klein for his role and the remainder of the money was paid to others involved in the conspiracy.<br /><br />Steindler and Dotan were able to divert the aforementioned funds by utilizing GSK as an agent for payments between Ingbir Engineering and GE.  It was alleged that Steindler and Dotan fabricated sales reports, documents, purchase orders and even whole portions of contracts, recording the expenses as legitimate business transactions.  By simultaneously providing Klein with invoices for actual and fictitious subcontracting work, Steindler and Dotan were able to induce Klein to request payments for these fictitious invoices which were disbursed and then diverted, concealing their intent to divert funds from GE and US Officials.  GSK would then wire the money for the payments to bank accounts, opened by Katz and Boas specifically for this purpose, in the Netherlands, Belgium, and Germany.    <br /><br />The payments were falsely described as new business, follow-on business, fees, and fee provisions by Steindler to GE.  The DOJ charged that, in connection with the diversion schemes discussed above, GE violated the books and records provisions of the FCPA.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Israeli Officials, Steindler and Others</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 11,000,000</p>
+</td>
+<td>
+<p>Contracts for the purchase of GE Engines for IAF F-16 jet fighters and related equipment and services, valued at over USD 300 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 5 November 1990, former GE employee and whistleblower, Chester Walsh, reported the aforementioned activities to federal authorities, and shortly thereafter, on 15 November 1990, filed a qui tam lawsuit against GE.  The U.S. government initiated an investigation soon thereafter.  In December 1990, prior to its learning of the qui tam suit (which was still under seal) or the governments investigation, GE discovered the misconduct and began an internal investigation, voluntarily disclosing the matter to the DOJ and the Department of Defense.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 July 1992, GE pleaded guilty to violations of the FCPA's books and records provisions, as well as conspiracy to defraud the United States, submitting false claims, and engaging in monetary transactions involving criminally-derived property.  Under its plea agreement, GE agreed to pay USD 9.5 million in criminal penalties.  Separately, GE settled a civil False Claims Act suit, agreeing to pay USD 59.5 million in civil fines. <br /><br />Although initially indicted on numerous other counts, Steindler pleaded guilty to conspiracy to commit offenses against the United States, wire fraud, money laundering, and use of the mail in aid of racketeering.  On 18 November 1994, Steindler ordered to forfeit USD 1,741,453 and was sentenced to a seven-year prison term.<br /><br />Klein pleaded guilty to one count of conspiracy to commit wire fraud and money laundering.  On 14 January 1994, he was sentenced to prison for eighteen months, to be followed by two years of supervised release.<br /><br />Dotan was prosecuted and convicted in Israel for his role in the diversion schemes, receiving a 13-year prison sentence.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Schemes by rogue employees for self-enrichment that involve improper payments to foreign official may not put a company at risk of an FCPA anti-bribery violation; however, a company may still be held liable for the associated books and records violations.    </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=411">Order: US v. General Electric</a></p><p><a href="file.asp?id=412">Memorandum on behalf of General Electric: US v. General Electric</a></p><p><a href="file.asp?id=413">Statement of Facts: US v. General Electric</a></p><p><a href="file.asp?id=414">Information: US v. General Electric</a></p><p><a href="file.asp?id=415">Plea Agreement: US v. General Electric</a></p><p><a href="file.asp?id=416">Settlement Agreement: US v. General Electric</a></p><p><a href="file.asp?id=417">Information: US v. Gary S. Klein</a></p><p><a href="file.asp?id=418">Judgment: US v. Gary S. Klein</a></p><p><a href="file.asp?id=419">Information: US v. Herbert B. Steindler</a></p><p>Cincinnati Post: December 1, 1992 (Walsh Hearings Ended Whistleblower Awaits Award)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192126vi03w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192126ad559" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GENERAL ELECTRIC AIRCRAFT ENGINES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(78)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921261k8j0" width="415" height="61" /></div>
+    
+        <h1>GENERAL ELECTRIC AIRCRAFT ENGINES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        General Electric Company ("GE")<br />General Electric Aircraft Engines ("GE Aircraft Engines")<br />Herbert B. Steindler (International Sales Manager for GE Aircraft Engines)<br />Rami Dotan (Brigadier General in the Israel Air Force)<br />Harold Katz (Israeli private practice attorney)<br />Ingbir Engineering and Maintenance Company (Israeli firm that performed all subcontracting work for GE Aircraft Engines) ("Ingbir Engineering") <br />Yoram Ingbir (owner of Ingbir Engineering)<br />Marc Boas (Israeli national acting on behalf of Ingbir Engineering)<br />GSK Management Consultant (agent for Ingbir Engineering) ("GSK")<br />Gary S. Klein (owner of GSK and friend and business associate of Steindler) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Development, manufacture and sale of aircraft engines and related products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fairfield, Connecticut, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Israel<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 1984 and 1990, GE Aircraft Engines made a variety of direct military sales and support equipment to Israel under the U.S. Department of Defenses Foreign Military Financing ("FMF") Program.  During this period, Steindler, the GE Aircraft Engines International Sales Manager, and Dotan, an Israeli Air Force ("IAF") Brigadier General in charge of equipment procurement, conspired to induce the purchase of GE Engines for IAF F-16 jet fighters in order to divert a portion of the funds to their own personal accounts.  <br /><br />Approximately USD 300 million in payments were made in connection with two different Israeli/GE government contracts, of which a total of USD 11 million was diverted to Steindler, Dotan, Katz (an Israeli private practice attorney) and others.  For all sub-contracting work on the projects, Dotan directed employees of GE to use Ingbir Engineering, of which Dotan had clandestine ownership.  Steindler contacted an old acquaintance from the U.S., Klein, to act as an agent for Ingbir Engineering.   Together, Steindler and Klein arranged for the creation of GSK Management Consultants ("GSK"). GSK acted as the U.S.-based agent for Ingbir Engineering (and GE subcontractor) from 1984-1990 for the purposes of transferring payments from these contracts.  <br /><br />The first contract, the Integrated Logistic Support ("ILS") contract, from 1984-1985, was to supply tools, equipment, support and training for the maintenance of GE Engines for IAF F-16 jets.  The total value of the contract was over USD 100 million.  From that, Ingbir Engineering invoiced approximately USD 27.5 million in (actual and fictitious) subcontracting work, submitted by GSK to GE.  GE made the payments to GSK, but GSK transmitted only USD 23.8 million to Ingbir Engineering.  The remaining USD 3.7 million was diverted.<br /><br />The second contract, the F110 Contract, from 1988-1989, was for the purchase of 75 either old or 75 newly developed engines for IAF F-16 jet fighters; IAF chose the latter.  The total contract price exceeded USD 200 million.  Steindler claimed that as part of the contract, Dotan had negotiated on behalf of IAF that GE allocate USD 7.875 million, paid in three installments, for flight tests for the 75 new engines (at USD 105,000 per engine).  Unbeknownst to IAF, GE and GE employees, this negotiation agreement was completely fictitious. Of the USD 7.875 million, USD 7.4 million was transferred to European bank accounts belonging to Steindler and Dotan, approximately USD 150,000 was retained by Klein for his role and the remainder of the money was paid to others involved in the conspiracy.<br /><br />Steindler and Dotan were able to divert the aforementioned funds by utilizing GSK as an agent for payments between Ingbir Engineering and GE.  It was alleged that Steindler and Dotan fabricated sales reports, documents, purchase orders and even whole portions of contracts, recording the expenses as legitimate business transactions.  By simultaneously providing Klein with invoices for actual and fictitious subcontracting work, Steindler and Dotan were able to induce Klein to request payments for these fictitious invoices which were disbursed and then diverted, concealing their intent to divert funds from GE and US Officials.  GSK would then wire the money for the payments to bank accounts, opened by Katz and Boas specifically for this purpose, in the Netherlands, Belgium, and Germany.    <br /><br />The payments were falsely described as new business, follow-on business, fees, and fee provisions by Steindler to GE.  The DOJ charged that, in connection with the diversion schemes discussed above, GE violated the books and records provisions of the FCPA.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Israeli Officials, Steindler and Others</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 11,000,000</p>
+</td>
+<td>
+<p>Contracts for the purchase of GE Engines for IAF F-16 jet fighters and related equipment and services, valued at over USD 300 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 5 November 1990, former GE employee and whistleblower, Chester Walsh, reported the aforementioned activities to federal authorities, and shortly thereafter, on 15 November 1990, filed a qui tam lawsuit against GE.  The U.S. government initiated an investigation soon thereafter.  In December 1990, prior to its learning of the qui tam suit (which was still under seal) or the governments investigation, GE discovered the misconduct and began an internal investigation, voluntarily disclosing the matter to the DOJ and the Department of Defense.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 July 1992, GE pleaded guilty to violations of the FCPA's books and records provisions, as well as conspiracy to defraud the United States, submitting false claims, and engaging in monetary transactions involving criminally-derived property.  Under its plea agreement, GE agreed to pay USD 9.5 million in criminal penalties.  Separately, GE settled a civil False Claims Act suit, agreeing to pay USD 59.5 million in civil fines. <br /><br />Although initially indicted on numerous other counts, Steindler pleaded guilty to conspiracy to commit offenses against the United States, wire fraud, money laundering, and use of the mail in aid of racketeering.  On 18 November 1994, Steindler ordered to forfeit USD 1,741,453 and was sentenced to a seven-year prison term.<br /><br />Klein pleaded guilty to one count of conspiracy to commit wire fraud and money laundering.  On 14 January 1994, he was sentenced to prison for eighteen months, to be followed by two years of supervised release.<br /><br />Dotan was prosecuted and convicted in Israel for his role in the diversion schemes, receiving a 13-year prison sentence.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Schemes by rogue employees for self-enrichment that involve improper payments to foreign official may not put a company at risk of an FCPA anti-bribery violation; however, a company may still be held liable for the associated books and records violations.    </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=411">Order: US v. General Electric</a></p><p><a href="file.asp?id=412">Memorandum on behalf of General Electric: US v. General Electric</a></p><p><a href="file.asp?id=413">Statement of Facts: US v. General Electric</a></p><p><a href="file.asp?id=414">Information: US v. General Electric</a></p><p><a href="file.asp?id=415">Plea Agreement: US v. General Electric</a></p><p><a href="file.asp?id=416">Settlement Agreement: US v. General Electric</a></p><p><a href="file.asp?id=417">Information: US v. Gary S. Klein</a></p><p><a href="file.asp?id=418">Judgment: US v. Gary S. Klein</a></p><p><a href="file.asp?id=419">Information: US v. Herbert B. Steindler</a></p><p>Cincinnati Post: December 1, 1992 (Walsh Hearings Ended Whistleblower Awaits Award)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1706553v46e">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170655c7pir" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BJ SERVICES (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(7)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-17065537hht" width="415" height="61" /></div>
+    
+        <h1>BJ SERVICES (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BJ Services Company ("BJ Services")<br />BJ Services SA (wholly-owned Argentinean subsidiary of BJ Services) ("BJSA")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of fracturing services and technologies to oil and gas operators
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged BJ Services with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of its wholly-owned subsidiary in Argentina, BJSA. According to the SEC, during 2001 employees of BJSA made improper payments totaling approximately ARS 72,000  (note: the Argentinean peso was pegged to the U.S. dollar at the time) to Argentinean customs officials.  In addition, from January 1998 through April 2002, BJSA made approximately ARS 151,000 worth of payments that were undocumented or improperly characterized.  <br /><br />In January 2001, BJSA was attempting to import a used component part into Argentina on a permanent basis, where Argentinean customs regulations only allowed for the temporary importation of used parts.  The customs official holding the equipment offered to release the equipment and overlook the customs law violation in exchange for ARS 75,000.  Unless he received the payment, the customs official stated the equipment would be deported and BJSA would: (i) forfeit the import taxes it previously paid to import the equipment (ARS 71,575); (ii) pay a penalty of 1 to 5 times the value of the equipment, valued at USD 122,420; and (iii) pay importation taxes again when it properly re-imported the equipment.  BJSA would also have incurred freight charges to export and then re-import the equipment and would have risked losing a customer and the revenue the equipment would have immediately started generating.  Through its third party customs agent, BJSA negotiated the payment down to ARS 65,000.  The amount was later improperly characterized as "Amortization - Fixed Costs." <br /><br />In September 2001, BJSA made a payment of ARS 7,000 to another Argentinean customs official so that the official would overlook a previous customs violation by the BJSA and not fine the company.  In exchange, the customs official created false documentation to cover up the violation.  BJSA improperly recorded the payment as import duties paid to a third party customs agent. <br /><br />From January 1998 through April 2002, certain segments of BJ Services's operations in Latin America experienced a variety of breaches of the company's accounting policies, controls and procedures.  BJSA made a total of ARS 151,406 in additional undocumented or improperly characterized payments during this period.  These payments included a ARS 10,994 payment, arguable a facilitating payment, in October 2000 to an official in Argentina's Secretary of Industry and Commerce to expedite the approval of a piece of equipment for importation.  The payment was improperly recorded as an importation cost and improperly supported by an invoice for unspecified services from the third party customs agent.  Other payments were in the ARS 3,000 to ARS 7,400 range, and the remaining payments were under ARS 3,000.   Most of these payments had been made to the third party customs agent for unspecified customs charges and did not contain any supporting documentation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentinean <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 81,000</p>
+</td>
+<td>
+<p style="text-align: center;">Saved over USD 750,000 in additional importation and shipping costs and penalties</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2002, in the course of investigating the possible unauthorized use of funds in Argentina by BJ Services and BJSA personnel, senior management at BJ Services learned that FCPA violations may have occurred in the country.  BJ Services began an internal investigation into these payments and their accounting, engaging outside counsel in both the U.S. and Argentina.  BJ Services disclosed the matter to its outside auditors and its full board of directors.  Upon completion of the internal investigation, BJ Services made a voluntary disclosure to the SEC.  The company informed the SEC of the results of the internal investigation and cooperated with the SEC's investigation, including waiving its attorney-client privilege over communications during the relevant time period.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 March 2004, without admitted or denying the allegations, BJ Services consented to the entry of the cease-and-desist order by the SEC.  In light of BJ Services's prompt remedial actions and cooperation with the SEC, the company received no monetary penalty.  BJ Services also undertook certain remedial actions immediately following its internal investigation, including:  (i) arranging for the proper classification of the equipment associated with the January 2001 payment; (ii) revising the accounting treatment of the subject payments and including the appropriate supporting documentation in the accounting records; (iii) replacing the management of its Latin American region; (iv) expanding its existing corporate internal audit department and adding an additional audit manager in its Latin American region reporting directly to the BJ Services' Director of Internal Audit; (v) retaining an additional independent auditor to conduct a forensic audit of its books and records in Argentina; and (vi) adopting an improved and expanded FCPA education and prevention program for all of its regions worldwide.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments made to avoid customs procedures or reduce customs-related costs can form the basis for an FCPA violation.</li><li>Prompt, voluntary disclosure to, and cooperation with, the enforcement authorities and the rapid adoption of remedial measures may result in a settlement involving no monetary penalty.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=37">SEC Cease-and-Desist Order: In the Matter of BJ Services Company (March 10, 2004)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842059jmqn">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184205wvqhc" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BJ SERVICES (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(7)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184205dr15b" width="415" height="61" /></div>
+    
+        <h1>BJ SERVICES (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BJ Services Company ("BJ Services")<br />BJ Services SA (wholly-owned Argentinean subsidiary of BJ Services) ("BJSA")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of fracturing services and technologies to oil and gas operators
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged BJ Services with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of its wholly-owned subsidiary in Argentina, BJSA. According to the SEC, during 2001 employees of BJSA made improper payments totaling approximately ARS 72,000  (note: the Argentinean peso was pegged to the U.S. dollar at the time) to Argentinean customs officials.  In addition, from January 1998 through April 2002, BJSA made approximately ARS 151,000 worth of payments that were undocumented or improperly characterized.  <br /><br />In January 2001, BJSA was attempting to import a used component part into Argentina on a permanent basis, where Argentinean customs regulations only allowed for the temporary importation of used parts.  The customs official holding the equipment offered to release the equipment and overlook the customs law violation in exchange for ARS 75,000.  Unless he received the payment, the customs official stated the equipment would be deported and BJSA would: (i) forfeit the import taxes it previously paid to import the equipment (ARS 71,575); (ii) pay a penalty of 1 to 5 times the value of the equipment, valued at USD 122,420; and (iii) pay importation taxes again when it properly re-imported the equipment.  BJSA would also have incurred freight charges to export and then re-import the equipment and would have risked losing a customer and the revenue the equipment would have immediately started generating.  Through its third party customs agent, BJSA negotiated the payment down to ARS 65,000.  The amount was later improperly characterized as "Amortization - Fixed Costs." <br /><br />In September 2001, BJSA made a payment of ARS 7,000 to another Argentinean customs official so that the official would overlook a previous customs violation by the BJSA and not fine the company.  In exchange, the customs official created false documentation to cover up the violation.  BJSA improperly recorded the payment as import duties paid to a third party customs agent. <br /><br />From January 1998 through April 2002, certain segments of BJ Services's operations in Latin America experienced a variety of breaches of the company's accounting policies, controls and procedures.  BJSA made a total of ARS 151,406 in additional undocumented or improperly characterized payments during this period.  These payments included a ARS 10,994 payment, arguable a facilitating payment, in October 2000 to an official in Argentina's Secretary of Industry and Commerce to expedite the approval of a piece of equipment for importation.  The payment was improperly recorded as an importation cost and improperly supported by an invoice for unspecified services from the third party customs agent.  Other payments were in the ARS 3,000 to ARS 7,400 range, and the remaining payments were under ARS 3,000.   Most of these payments had been made to the third party customs agent for unspecified customs charges and did not contain any supporting documentation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentinean <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 81,000</p>
+</td>
+<td>
+<p style="text-align: center;">Saved over USD 750,000 in additional importation and shipping costs and penalties</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2002, in the course of investigating the possible unauthorized use of funds in Argentina by BJ Services and BJSA personnel, senior management at BJ Services learned that FCPA violations may have occurred in the country.  BJ Services began an internal investigation into these payments and their accounting, engaging outside counsel in both the U.S. and Argentina.  BJ Services disclosed the matter to its outside auditors and its full board of directors.  Upon completion of the internal investigation, BJ Services made a voluntary disclosure to the SEC.  The company informed the SEC of the results of the internal investigation and cooperated with the SEC's investigation, including waiving its attorney-client privilege over communications during the relevant time period.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 March 2004, without admitted or denying the allegations, BJ Services consented to the entry of the cease-and-desist order by the SEC.  In light of BJ Services's prompt remedial actions and cooperation with the SEC, the company received no monetary penalty.  BJ Services also undertook certain remedial actions immediately following its internal investigation, including:  (i) arranging for the proper classification of the equipment associated with the January 2001 payment; (ii) revising the accounting treatment of the subject payments and including the appropriate supporting documentation in the accounting records; (iii) replacing the management of its Latin American region; (iv) expanding its existing corporate internal audit department and adding an additional audit manager in its Latin American region reporting directly to the BJ Services' Director of Internal Audit; (v) retaining an additional independent auditor to conduct a forensic audit of its books and records in Argentina; and (vi) adopting an improved and expanded FCPA education and prevention program for all of its regions worldwide.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments made to avoid customs procedures or reduce customs-related costs can form the basis for an FCPA violation.</li><li>Prompt, voluntary disclosure to, and cooperation with, the enforcement authorities and the rapid adoption of remedial measures may result in a settlement involving no monetary penalty.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=37">SEC Cease-and-Desist Order: In the Matter of BJ Services Company (March 10, 2004)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192019k0353">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192019bbmht" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BJ SERVICES (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(7)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192019fo17p" width="415" height="61" /></div>
+    
+        <h1>BJ SERVICES (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BJ Services Company ("BJ Services")<br />BJ Services SA (wholly-owned Argentinean subsidiary of BJ Services) ("BJSA")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of fracturing services and technologies to oil and gas operators
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged BJ Services with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of its wholly-owned subsidiary in Argentina, BJSA. According to the SEC, during 2001 employees of BJSA made improper payments totaling approximately ARS 72,000  (note: the Argentinean peso was pegged to the U.S. dollar at the time) to Argentinean customs officials.  In addition, from January 1998 through April 2002, BJSA made approximately ARS 151,000 worth of payments that were undocumented or improperly characterized.  <br /><br />In January 2001, BJSA was attempting to import a used component part into Argentina on a permanent basis, where Argentinean customs regulations only allowed for the temporary importation of used parts.  The customs official holding the equipment offered to release the equipment and overlook the customs law violation in exchange for ARS 75,000.  Unless he received the payment, the customs official stated the equipment would be deported and BJSA would: (i) forfeit the import taxes it previously paid to import the equipment (ARS 71,575); (ii) pay a penalty of 1 to 5 times the value of the equipment, valued at USD 122,420; and (iii) pay importation taxes again when it properly re-imported the equipment.  BJSA would also have incurred freight charges to export and then re-import the equipment and would have risked losing a customer and the revenue the equipment would have immediately started generating.  Through its third party customs agent, BJSA negotiated the payment down to ARS 65,000.  The amount was later improperly characterized as "Amortization - Fixed Costs." <br /><br />In September 2001, BJSA made a payment of ARS 7,000 to another Argentinean customs official so that the official would overlook a previous customs violation by the BJSA and not fine the company.  In exchange, the customs official created false documentation to cover up the violation.  BJSA improperly recorded the payment as import duties paid to a third party customs agent. <br /><br />From January 1998 through April 2002, certain segments of BJ Services's operations in Latin America experienced a variety of breaches of the company's accounting policies, controls and procedures.  BJSA made a total of ARS 151,406 in additional undocumented or improperly characterized payments during this period.  These payments included a ARS 10,994 payment, arguable a facilitating payment, in October 2000 to an official in Argentina's Secretary of Industry and Commerce to expedite the approval of a piece of equipment for importation.  The payment was improperly recorded as an importation cost and improperly supported by an invoice for unspecified services from the third party customs agent.  Other payments were in the ARS 3,000 to ARS 7,400 range, and the remaining payments were under ARS 3,000.   Most of these payments had been made to the third party customs agent for unspecified customs charges and did not contain any supporting documentation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentinean <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 81,000</p>
+</td>
+<td>
+<p style="text-align: center;">Saved over USD 750,000 in additional importation and shipping costs and penalties</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2002, in the course of investigating the possible unauthorized use of funds in Argentina by BJ Services and BJSA personnel, senior management at BJ Services learned that FCPA violations may have occurred in the country.  BJ Services began an internal investigation into these payments and their accounting, engaging outside counsel in both the U.S. and Argentina.  BJ Services disclosed the matter to its outside auditors and its full board of directors.  Upon completion of the internal investigation, BJ Services made a voluntary disclosure to the SEC.  The company informed the SEC of the results of the internal investigation and cooperated with the SEC's investigation, including waiving its attorney-client privilege over communications during the relevant time period.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 March 2004, without admitted or denying the allegations, BJ Services consented to the entry of the cease-and-desist order by the SEC.  In light of BJ Services's prompt remedial actions and cooperation with the SEC, the company received no monetary penalty.  BJ Services also undertook certain remedial actions immediately following its internal investigation, including:  (i) arranging for the proper classification of the equipment associated with the January 2001 payment; (ii) revising the accounting treatment of the subject payments and including the appropriate supporting documentation in the accounting records; (iii) replacing the management of its Latin American region; (iv) expanding its existing corporate internal audit department and adding an additional audit manager in its Latin American region reporting directly to the BJ Services' Director of Internal Audit; (v) retaining an additional independent auditor to conduct a forensic audit of its books and records in Argentina; and (vi) adopting an improved and expanded FCPA education and prevention program for all of its regions worldwide.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments made to avoid customs procedures or reduce customs-related costs can form the basis for an FCPA violation.</li><li>Prompt, voluntary disclosure to, and cooperation with, the enforcement authorities and the rapid adoption of remedial measures may result in a settlement involving no monetary penalty.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=37">SEC Cease-and-Desist Order: In the Matter of BJ Services Company (March 10, 2004)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

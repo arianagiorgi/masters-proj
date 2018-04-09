@@ -1,0 +1,165 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923079jv4o">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192307kbv1f" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ELI LILLY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(191)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19230737lbk" width="415" height="61" /></div>
+    
+        <h1>ELI LILLY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Eli Lilly and Company ("Eli Lilly")<br />Lilly-Vostok, a wholly-owned subsidiary in Russia<br />Lilly-China, a wholly-owned subsidiary in China<br />Lilly-Brazil, a wholly-owned subsidiary in Brazil<br />Lilly-Poland, a wholly-owned subsidiary in Poland
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Indianapolis, Indiana, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />China<br />Poland<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Eli Lilly described the ongoing investigation as follows in its SEC Form 10-K filed on 22 February 2011:<br /><br />"In August 2003, we received notice that the staff of the SEC is conducting an  investigation into the compliance by Polish subsidiaries of certain pharmaceutical companies, including Lilly, with the U.S. Foreign Corrupt Practices Act of 1977. The staff has issued subpoenas to us requesting production of documents related to the investigation. In connection with that matter, staffs of the SEC and the Department of Justice (DOJ) have expanded their investigation and have asked us to voluntarily provide additional information related to certain activities of Lilly affiliates in a number of other countries. The SEC staff has also issued a subpoena related to activities in these countries. We are cooperating with the SEC and the DOJ in this investigation."<br /><br />The statement was repeated in the Company's SEC Form 10-K Annual Report for 2011 filed on 24 February 2012. <br /><br />On 20 December 2012, the SEC filed a complaint in which the following allegations are made.<br /><br />Poland Allegations<br /><br />Beginning in 2000, the Company's wholly-owned  subsidiary in Poland ("Lilly-Poland") negotiated contracts with various regional public health authorities, including the Silesian Health Fund, to supply public health facilities with specific pharmaceuticals from a list of approved products.  Gemzar, a cancer drug, became one of the approved products after Lilly-Poland's manager agreed to contribute to the Chudow Foundation, a charitable organization devoted to restoring castles in Silesia.  The Chudow Foundation was founded by and administered by the Director of the Silesian Health Fund.  Lilly-Poland eventually paid about USD 39,000 to the Chudow Foundation,in eight payments, which were falsely recorded in the requesting documentation as "indirect support of educational efforts [of the Silesia Health Fund]."   The Complaint offers evidence that the payments were intended for the improper purpose of inducing the director of the Health Fund to agree to the purchase of Gemzar, and alleges that Lilly-Poland's Medical Grant Committee approved the payments to Chudow without analyzing the circumstances, such as the high-level government health official's involvement in both the Chudow Foundation and the Gemzar negotiations, and without questioning the proximity between the time of payment to the foundation and the date of the meeting at which the Company's drug was approved for purchase by the Health Fund, or the fact that the written justifications given for the payments were different, although the recipient was the same.  (In fact, the Chudow Foundation was alleged to be the recipient of improper payments by Schering Plough during approximately the same period; that company settled FCPA charges in 2004 without admitting or denying the allegations.)<br /><br />Russia Allegations<br /><br />The SEC's complaint alleges that the Company's wholly-owned subsidiary in Russia, Lilly-Vostok, entered into 96 "marketing" or "service" agreements with 42 third-parties selected by government officials.  The third-parties  received a percentage of drug sales or a flat fee in bank accounts located outside of Russia.  The agreements listed services such as "immediate customs clearance" or "immediate delivery," "obtaining payment for the sales transaction," "promotion of products," or "marketing research."  Lilly-Vostok is alleged to have received no actual services pursuant to these contracts, and its employees are alleged to have deemed the payments as necessary for obtaining business with government entities.   Reports were sent to the Company's management in 1997 and 1999 which raised concerns about the contracts and recommended that internal controls be modified.  According to the complaint, despite these warning signs the Company did not limit the use of such agreements or make any effort to ensure that money was not being channeled to foreign officials by means of the agreements.  For example, in 2003 Lilly-Vostok paid  as much as 30% of sales to entities in Cyprus  that were owned and controlled by a member of the Russian Parliament who, according to the complaint, "exercised considerable influence over government decisions relating to the pharmaceutical industry in Russia."  Ultimately, Lilly-Vostok paid the Cypriot entities over USD 5.2 million.  Similar transactions involving a British Virgin Islands company resulted in Lilly-Vostok making 65 payments totaling USD 2 million that were channeled to the Director General of a Russian government entity.  These transactions continued until 2005.  <br /><br />China Allegations<br /><br />Sales representatives  and supervisors employed by the Company's wholly-owned subsidiary in China, "Lilly-China," allegedly submitted false expense reports between 2006 and 2009, and used the cash generated by the false reports to buy gifts such as wine and jewelery, and to pay for entertainment, meals and cosmetics for government-employed physicians.  The gifts are alleged to have been intended to induce doctors to prescribe the Company's products.<br /><br />Brazil Allegations<br /><br />In 2007, the Company's Brazilian subsidiary ("Lilly-Brazil")  gave unusually large discounts to a pharmaceutical distributor.  The Company's pricing committee approved the discounts without adequate verification of the circumstances.  Sales of the highly discounted drugs totaled approximately USD 1.2 million.  The complaint alleges that the distributor used 6% of the purchase price to bribe government officials so that the public health facilities would purchase the Company's product.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Polish Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 39,000 in contributions to the Chudow Castle Foundation</p>
+</td>
+<td>
+<p style="text-align: center;">Placement of Eli-Lilly drug on approved list for reimbursement</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Russian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 7.2 million to offshore entities controlled by government officials</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Unknown</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Brazilian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p style="text-align: center;">USD 70,000 in discounts to distributors</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">USD 1.2 million in drug sales</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 December 2012, the SEC charged Eli Lilly with violations of the anti-bribery, books and records and internal controls provisions of the FCPA.  The Company neither admitted nor denied the allegations in the SEC's complaint, which included payments to offshore companies associated with Russian government officials, conferring benefits such as spa treatments to Chinese government officials, allowing its agents in Brazil to pay bribes to government health officials, and making donations to a Polish charity founded and administered by a Polish regional health director, in order to secure an ensured market position for the Company's pharmaceutical products.  Eli Lilly agreed to pay disgorgement, prejudgment interest and penalties totaling USD 29,398,734.  <br /><br />In its Form 10-K on 19 February 2015, Eli Lilly announced that the DOJ issued a declination.
+		<h2>COMPLIANCE MONITOR</h2>
+        The Company is required to retain an independent consultant to review and make recommendations about its foreign corruption policies and procedures.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may pursue claims against companies based on the payment of relatively small bribe amounts, where the company has failed to scrutinize adequately the offshore entities with which the company dealt, or to assess whether transactions with those entities raised red flags about potential illegal behavior.</li><li>A company's failure to conduct adequate due diligence over a period of several years may result in significant fines, if improper payments have apparently been made as a result of the failure.</li><li>Where books and records and internal controls violations have extended over a period of years in multiple jurisdictions, a company may be required to retain an independent consultant to review and make recommendations about its foreign corruption policies and procedures.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=800">Eli Lilly - 2009 SEC Form 10-K (22 February 2010)</a></p><p><a href="file.asp?id=1396">Eli Lilly - SEC Form 10-K (22 February 2011)</a></p><p><a href="file.asp?id=2082">Eli Lilly - Complaint (20 December 2012)</a></p><p><a href="file.asp?id=2083">Eli Lilly - Press Release (20 December 2012), SEC Charges Eli Lilly and Company with FCPA Violations</a></p><p><a href="file.asp?id=2084">Eli Lilly - Press Release (20 December 2012), Lilly Reaches Agreement with U.S Securities and Exchange Commission</a></p><p><a href="file.asp?id=2148">Eli Lilly - SEC Form 10-K (22 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #000000;">Charities</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

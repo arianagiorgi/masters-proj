@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192244k13e6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922445w778" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MAN GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(166)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192244y24i3" width="415" height="61" /></div>
+    
+        <h1>MAN GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Germany: Munich Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        MAN SE ("MAN")<br />MAN Nutzfahrzeuge AG ("MAN Nutzfahrzeuge") (commercial vehicles subgroup in the MAN Group)<br />MAN Turbo AG ("MAN Turbo") (compressors/turbines subgroup in the MAN Group)<br />MAN Ferrostaal AG ("MAN Ferrostaal") (industrial solutions subgroup in the MAN Group)<br />MAN Diesel & Turbo SE ("MAN Diesel & Turbo")<br />Hakan Samuelsson (former CEO)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering equipment, commercial vehicles and industrial services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Munich, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Slovenia<br />Unspecified<br />Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In May 2009, the Munich Public Prosecutor's Office opened an investigation into allegations that MAN paid unlawful commissions to its customers in order to obtain contracts.  MAN's second and third quarter 2009 Interim Reports stated that prosecutors searched numerous corporate offices and homes of employees or recipients of payments.  MAN reported that prosecutors initially suspected that between 2002 and 2005 hidden commissions of EUR 1 million were paid in Germany, and several million euros abroad, although prosecutors were investigating transactions through 2009.  The payments abroad were characterized either as commissions or consultant fees and were often paid through various shell corporations.  <br /><br />Following the company's settlement with the Munich Public Prosecutor's Office in December 2009, MAN reported that EUR 51.6 million in suspect payments, in connection with 80 instances of possible bribery, had been identified during its internal investigation.  <br /><br />In July 2009, the Munich Public Prosecutor's Office announced that it was also investigating certain responsible managers  at the relevant subgroups, including MAN Turbo and MAN Ferrostaal.  According to press reports, on 11 December 2009, Munich prosecutors filed charged against Heinz Juergen Maus, the former chief executive of MAN Turbo, in connection with EUR 9 million in bribes - described as "market entry fees" - allegedly paid to Kazakh officials between 2005 and 2008 in order to secure a gas pipeline modernization contract and gas turbine compressor orders in Kazakhstan.  According to press reports, the CEO of MAN Diesel & Turbo, Klaus Stahlmann, resigned on 22 February 2011 and is also the target of the Munich prosecutors' investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <p>Approximate Alleged Payments to Foreign Officials Business Advantage Allegedly Obtained   EUR 51.6 million Unspecified</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It appears that allegations regarding improper conduct at the MAN Nutzfahrzeuge subgroup were reported to MAN's internal audit department around May 2009.  The internal audit department began its own investigation into the allegations at MAN Nutzfahrzeuge, and then expanded the investigation to the MAN Diesel, MAN Turbo and Renk subgroups.   <br /><br />MAN's Executive Board engaged the law firms of Knierem & Kollegen and Flick Gocke Schaumburg, as well as the audit firm of PricewaterhouseCoopers, to oversee the internal clarification of the allegations and to manage the company's cooperation with the criminal prosecution authorities.  <br /><br />In addition, the Supervisory Board of MAN engaged the law firm of Wilmer Cutler Pickering Hale & Dorr LLP to conduct an independent investigation into the business activities of MAN and its subgroups, and its compliance organization, in light of the bribery allegations.  WilmerHale regularly reports to the Supervisory Committee and the Audit Committee.  <br /><br />In order to facilitate its internal investigation, MAN implemented an employee amnesty program.  MAN has also taken a variety of measures to strengthen and improve its compliance system in response to the bribery allegations.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 December 2009, the public prosecution authorities at the Munich District Court imposed a EUR 75.3 million fine against MAN Nutzfahrzeuge and a EUR 75.3 million fine against MAN Turbo.  Both companies acquiesced in the decisions.  These fines mark the closure of the investigations against the companies of the MAN Group regarding the alleged bribery between 2002 and 2009.  According to MAN, the settlements were possible due to the extensive measures taken by MAN's Executive Board and Supervisory Board to conduct an internal investigation and cooperate with the public prosecution authorities.  <br /><br />According to press reports, on 11 December 2009, Munich prosecutors filed charged against Heinz Juergen Maus, the former chief executive of MAN Turbo, in connection with EUR 9 million in bribes - described as "market entry fees" - allegedly paid to Kazakh officials between 2005 and 2008 in order to secure a gas pipeline modernization contract and gas turbine compressor orders in Kazakhstan.  According to press reports, the CEO of MAN Diesel & Turbo, Klaus Stahlmann, resigned on 22 February 2011 and is also the target of the Munich prosecutors' investigation.<br /><br />On 5 September 2012, it was reported that prosecutors in Germany were investigating former Man SE Chief Executive Officer Hakan Samuelsson and former Chief Financial Officer Karlheinz Hornung for allegations of corruption.  Weinmann, Hornung and CEO Hakan Samuelsson left the company in November 2009.<br /> <br />MAN reportedly terminated 20 employees in connection with the bribery allegations and is considering whether to sue certain former employees for damages.<br /><br />According to press reports, the cost of MAN's internal investigations have totaled around EUR 50 million since commencing in May 2009.<br /><br />On 22 August 2013, the former CEO of MAN, Hakan Samuelsson, agreed to settle a German investigation into possible corruption in Slovenia linked to his tenure by paying EU 500,000 to charity and EU 1.25 million to MAN in response to a financial claim brought by the company related to the probe.<br /><br />On 10 April 2014, MAN AG disclosed in the proxy materials for its annual general meeting of shareholders that the five-year old bribery scandal has cost the company €250 million (approximately USD $344 million) in fines and penalties and investigation costs, exceeding earlier estimates. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Although the cases are not highly publicized (especially during the investigation stage), German authorities reportedly have the second highest rate of foreign bribery cases after the United States.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=600">MAN Group - Interim Report - Q2 2009</a></p><p><a href="file.asp?id=601">MAN Group - Interim Report - Q3 2009</a></p><p><a href="file.asp?id=602">MAN SE Press Release (10 December 2009)</a></p><p><a href="file.asp?id=603">MAN Nutzfahrzeuge Press Release (10 December 2009)</a></p><p>Reuters: "Senior exec leaves Germany's MAN amid bribery probe" (22 Feb. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

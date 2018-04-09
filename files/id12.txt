@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170659gof2n">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1706595ys11" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DELTA & PINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(12)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170659n3u23" width="415" height="61" /></div>
+    
+        <h1>DELTA & PINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Delta & Pine Land Company ("Delta & Pine")<br />Turk Deltapine, Inc. (subsidiary of Delta & Pine) ("Turk Deltapine")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Cottonseed production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Scott, Mississippi, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Delta & Pine with violating the book and records and internal controls provisions of the FCPA.  Its subsidiary, Turk Deltapine, was charged with substantive violations of the FCPA.  <br /><br />From 2001-2006, Turk Deltapine made payments worth approximately USD 43,000 to multiple officials of the Turkish Ministry of Agriculture and Rural Affairs ("MOA"), including cash, payment of travel and hotel expenses,  air conditioners, computers, office furniture and refrigerators.  These payments were made in order to obtain governmental reports and certifications necessary to enable Turk Deltapine to conduct business in Turkey.  Some of the payments were made to provincial MOA officials responsible for conducting time-sensitive inspections of the fields of Turkish farmers prior to the farmers sale of their seed to Turk Deltapine.  Turk Deltapine made improper payments to a number of officials, who then completed inspection reports without actually inspecting the fields at issue.  The company also made improper payments to officials in MOA laboratories responsible for performing quality controls tests, and granting related certifications, as mandated by the Organisation for Economic Cooperation and Development ("OECD"), and to sampling officials at the MOA protection plant responsible for granting certifications for the export of seed for sale.  Turk Deltapine was able to obtain these certifications without the officials performing their duties under the applicable regulations.     <br /><br />Prior to May 2004, the improper payments were made from the proceeds of the sales of Turk Deltapine waste products and products from waste allowance; these payments were not recorded in the company's books and records.  Separately, some of the payments to MOA officials were recorded in the company's books and records as Porter Fees paid to non-existent persons.  <br /><br />In May 2004, Delta & Pine learned that Turk Deltapine was making payments to MOA officials but did not halt the conduct.  Rather, the company instituted a procedure whereby Turk Deltapine would make the payments indirectly through one of Turk Deltapine's chemical company suppliers.  The chemical company made the payments to MOA officials and then included these sums, along with a 10% fee for handling the transactions, in its invoices to Turk Deltapine for chemical supplies.  The SEC noted that, in establishing this procedure, an internal Delta & Pine memorandum stated that there were no effective controls to put in place to monitor this process.  The post-May 2004 payments were similarly not recorded in the books and records of either Turk Deltapine or Delta & Pine.  <br /><br />On 1 June 2007, Delta & Pine was acquired by Monsanto Company; the conduct charged by the SEC occurred prior to the acquisition.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Turkish Officials<br /></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 43,000</p>
+</td>
+<td>
+<p style="text-align: center;">Circumventing multiple government inspection and certification requirements of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Turk Deltapine's payments to MOA officials did not cease until 2006, when the payments came to light in connection with Monsanto's pre-acquisition due diligence of Delta & Pine.   Delta & Pine self-disclosed to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 July 2007, Delta & Pine and Turk Deltapine settled with the SEC, jointly agreeing to pay a USD 300,000 civil penalty.   On 26 July 2007, the SEC filed a cease-and-desist order against the two companies, under which Delta & Pine agreed to retain an independent consultant for a one-year period to review and make recommendations to enhance the company's compliance program.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to secure a general improper advantage (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=73">SEC Litigation Release: July 26, 2007 (Delta & Pine and Turk Deltapine Agree to Pay a $300,000 Penalty to Settle FCPA Charges)</a></p><p><a href="file.asp?id=74">Complaint: SEC v. Delta & Pine Land Company and Turk Deltapine, Inc.</a></p><p><a href="file.asp?id=75">Cease-and-Desist Order: In the Matter of Delta & Pine Land Company and Turk Deltapine, Inc.</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184210894ly">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184210180m6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DELTA & PINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(12)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842102pl40" width="415" height="61" /></div>
+    
+        <h1>DELTA & PINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Delta & Pine Land Company ("Delta & Pine")<br />Turk Deltapine, Inc. (subsidiary of Delta & Pine) ("Turk Deltapine")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Cottonseed production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Scott, Mississippi, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Delta & Pine with violating the book and records and internal controls provisions of the FCPA.  Its subsidiary, Turk Deltapine, was charged with substantive violations of the FCPA.  <br /><br />From 2001-2006, Turk Deltapine made payments worth approximately USD 43,000 to multiple officials of the Turkish Ministry of Agriculture and Rural Affairs ("MOA"), including cash, payment of travel and hotel expenses,  air conditioners, computers, office furniture and refrigerators.  These payments were made in order to obtain governmental reports and certifications necessary to enable Turk Deltapine to conduct business in Turkey.  Some of the payments were made to provincial MOA officials responsible for conducting time-sensitive inspections of the fields of Turkish farmers prior to the farmers sale of their seed to Turk Deltapine.  Turk Deltapine made improper payments to a number of officials, who then completed inspection reports without actually inspecting the fields at issue.  The company also made improper payments to officials in MOA laboratories responsible for performing quality controls tests, and granting related certifications, as mandated by the Organisation for Economic Cooperation and Development ("OECD"), and to sampling officials at the MOA protection plant responsible for granting certifications for the export of seed for sale.  Turk Deltapine was able to obtain these certifications without the officials performing their duties under the applicable regulations.     <br /><br />Prior to May 2004, the improper payments were made from the proceeds of the sales of Turk Deltapine waste products and products from waste allowance; these payments were not recorded in the company's books and records.  Separately, some of the payments to MOA officials were recorded in the company's books and records as Porter Fees paid to non-existent persons.  <br /><br />In May 2004, Delta & Pine learned that Turk Deltapine was making payments to MOA officials but did not halt the conduct.  Rather, the company instituted a procedure whereby Turk Deltapine would make the payments indirectly through one of Turk Deltapine's chemical company suppliers.  The chemical company made the payments to MOA officials and then included these sums, along with a 10% fee for handling the transactions, in its invoices to Turk Deltapine for chemical supplies.  The SEC noted that, in establishing this procedure, an internal Delta & Pine memorandum stated that there were no effective controls to put in place to monitor this process.  The post-May 2004 payments were similarly not recorded in the books and records of either Turk Deltapine or Delta & Pine.  <br /><br />On 1 June 2007, Delta & Pine was acquired by Monsanto Company; the conduct charged by the SEC occurred prior to the acquisition.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Turkish Officials<br /></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 43,000</p>
+</td>
+<td>
+<p style="text-align: center;">Circumventing multiple government inspection and certification requirements of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Turk Deltapine's payments to MOA officials did not cease until 2006, when the payments came to light in connection with Monsanto's pre-acquisition due diligence of Delta & Pine.   Delta & Pine self-disclosed to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 July 2007, Delta & Pine and Turk Deltapine settled with the SEC, jointly agreeing to pay a USD 300,000 civil penalty.   On 26 July 2007, the SEC filed a cease-and-desist order against the two companies, under which Delta & Pine agreed to retain an independent consultant for a one-year period to review and make recommendations to enhance the company's compliance program.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to secure a general improper advantage (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=73">SEC Litigation Release: July 26, 2007 (Delta & Pine and Turk Deltapine Agree to Pay a $300,000 Penalty to Settle FCPA Charges)</a></p><p><a href="file.asp?id=74">Complaint: SEC v. Delta & Pine Land Company and Turk Deltapine, Inc.</a></p><p><a href="file.asp?id=75">Cease-and-Desist Order: In the Matter of Delta & Pine Land Company and Turk Deltapine, Inc.</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19202457021">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19202465782" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DELTA & PINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(12)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192024s2462" width="415" height="61" /></div>
+    
+        <h1>DELTA & PINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Delta & Pine Land Company ("Delta & Pine")<br />Turk Deltapine, Inc. (subsidiary of Delta & Pine) ("Turk Deltapine")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Cottonseed production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Scott, Mississippi, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Delta & Pine with violating the book and records and internal controls provisions of the FCPA.  Its subsidiary, Turk Deltapine, was charged with substantive violations of the FCPA.  <br /><br />From 2001-2006, Turk Deltapine made payments worth approximately USD 43,000 to multiple officials of the Turkish Ministry of Agriculture and Rural Affairs ("MOA"), including cash, payment of travel and hotel expenses,  air conditioners, computers, office furniture and refrigerators.  These payments were made in order to obtain governmental reports and certifications necessary to enable Turk Deltapine to conduct business in Turkey.  Some of the payments were made to provincial MOA officials responsible for conducting time-sensitive inspections of the fields of Turkish farmers prior to the farmers sale of their seed to Turk Deltapine.  Turk Deltapine made improper payments to a number of officials, who then completed inspection reports without actually inspecting the fields at issue.  The company also made improper payments to officials in MOA laboratories responsible for performing quality controls tests, and granting related certifications, as mandated by the Organisation for Economic Cooperation and Development ("OECD"), and to sampling officials at the MOA protection plant responsible for granting certifications for the export of seed for sale.  Turk Deltapine was able to obtain these certifications without the officials performing their duties under the applicable regulations.     <br /><br />Prior to May 2004, the improper payments were made from the proceeds of the sales of Turk Deltapine waste products and products from waste allowance; these payments were not recorded in the company's books and records.  Separately, some of the payments to MOA officials were recorded in the company's books and records as Porter Fees paid to non-existent persons.  <br /><br />In May 2004, Delta & Pine learned that Turk Deltapine was making payments to MOA officials but did not halt the conduct.  Rather, the company instituted a procedure whereby Turk Deltapine would make the payments indirectly through one of Turk Deltapine's chemical company suppliers.  The chemical company made the payments to MOA officials and then included these sums, along with a 10% fee for handling the transactions, in its invoices to Turk Deltapine for chemical supplies.  The SEC noted that, in establishing this procedure, an internal Delta & Pine memorandum stated that there were no effective controls to put in place to monitor this process.  The post-May 2004 payments were similarly not recorded in the books and records of either Turk Deltapine or Delta & Pine.  <br /><br />On 1 June 2007, Delta & Pine was acquired by Monsanto Company; the conduct charged by the SEC occurred prior to the acquisition.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Turkish Officials<br /></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 43,000</p>
+</td>
+<td>
+<p style="text-align: center;">Circumventing multiple government inspection and certification requirements of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Turk Deltapine's payments to MOA officials did not cease until 2006, when the payments came to light in connection with Monsanto's pre-acquisition due diligence of Delta & Pine.   Delta & Pine self-disclosed to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 July 2007, Delta & Pine and Turk Deltapine settled with the SEC, jointly agreeing to pay a USD 300,000 civil penalty.   On 26 July 2007, the SEC filed a cease-and-desist order against the two companies, under which Delta & Pine agreed to retain an independent consultant for a one-year period to review and make recommendations to enhance the company's compliance program.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to secure a general improper advantage (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=73">SEC Litigation Release: July 26, 2007 (Delta & Pine and Turk Deltapine Agree to Pay a $300,000 Penalty to Settle FCPA Charges)</a></p><p><a href="file.asp?id=74">Complaint: SEC v. Delta & Pine Land Company and Turk Deltapine, Inc.</a></p><p><a href="file.asp?id=75">Cease-and-Desist Order: In the Matter of Delta & Pine Land Company and Turk Deltapine, Inc.</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

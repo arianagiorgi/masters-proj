@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184322k083i">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843222b183" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BALFOUR BEATTY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(93)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184322nm99u" width="415" height="61" /></div>
+    
+        <h1>BALFOUR BEATTY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Balfour Beatty plc ("Balfour Beatty")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering and construction services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Balfour Beatty was part of a joint venture to build the Bibliotheca Alexandrina, a prestigious library in Alexandria, Egypt.  The project was completed in 2001. Balfour Beatty carried out an internal investigation into accounting records made in relation to certain payment irregularities, which resulted in Balfour Beatty being in breach of section 221 of the Companies Act 1985. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">No apparent financial benefit to the company</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Balfour Beatty reported the matter to the U.K. Serious Fraud Investigation Office ("SFO") in April 2005.  The company itself had carried out an internal investigation prior to reporting matters to the SFO.  The matter was then investigated by the SFO.  <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter concluded on 6 October 2008 with a Consent Order being made in the High Court of England and Wales.  The Order was the first Civil Recovery Order made under the Proceeds of Crime Act 2002.  Such Orders have only been available since April 2008. <br /><br />Balfour Beatty agreed to a payment of GBP 2.25 million together with a contribution towards the cost of the Civil Recovery Order proceedings.  The company also agreed to continue to review and improve its compliance function and to engage in an agreed external monitoring programme. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In appropriate cases the SFO will use the civil route as opposed to criminal proceedings, which for a business avoids the difficulties caused by being debarred from various public works contracts as a result of being subject to a criminal conviction.  Details of which matters are appropriate to be dealt with by way of civil proceedings are contained within the SFO publication Approach of the Serious Fraud Office to dealing with overseas corruption. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=192">SFO Press Release: 6 October 2008</a></p><p>Daily Telegraph: 6 October 2008 (SFO uses new powers to penalise Balfour Beatty)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192140fh02d">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192140v9tl9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BALFOUR BEATTY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(93)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192140zqc8k" width="415" height="61" /></div>
+    
+        <h1>BALFOUR BEATTY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Balfour Beatty plc ("Balfour Beatty")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering and construction services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Balfour Beatty was part of a joint venture to build the Bibliotheca Alexandrina, a prestigious library in Alexandria, Egypt.  The project was completed in 2001. Balfour Beatty carried out an internal investigation into accounting records made in relation to certain payment irregularities, which resulted in Balfour Beatty being in breach of section 221 of the Companies Act 1985. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">No apparent financial benefit to the company</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Balfour Beatty reported the matter to the U.K. Serious Fraud Investigation Office ("SFO") in April 2005.  The company itself had carried out an internal investigation prior to reporting matters to the SFO.  The matter was then investigated by the SFO.  <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter concluded on 6 October 2008 with a Consent Order being made in the High Court of England and Wales.  The Order was the first Civil Recovery Order made under the Proceeds of Crime Act 2002.  Such Orders have only been available since April 2008. <br /><br />Balfour Beatty agreed to a payment of GBP 2.25 million together with a contribution towards the cost of the Civil Recovery Order proceedings.  The company also agreed to continue to review and improve its compliance function and to engage in an agreed external monitoring programme. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In appropriate cases the SFO will use the civil route as opposed to criminal proceedings, which for a business avoids the difficulties caused by being debarred from various public works contracts as a result of being subject to a criminal conviction.  Details of which matters are appropriate to be dealt with by way of civil proceedings are contained within the SFO publication Approach of the Serious Fraud Office to dealing with overseas corruption. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=192">SFO Press Release: 6 October 2008</a></p><p>Daily Telegraph: 6 October 2008 (SFO uses new powers to penalise Balfour Beatty)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

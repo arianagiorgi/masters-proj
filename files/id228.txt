@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192342o0rx7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192342y5p6s" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TENARIS </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(228)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923424v72v" width="415" height="61" /></div>
+    
+        <h1>TENARIS </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tenaris S.A. ("Tenaris")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global manufacturer and supplier of steel pipe products and related services to the oil and gas industry
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Luxembourg
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uzbekistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that Tenaris violated the FCPA by making improper payments to officials at OJSC O’ztashqineftgaz (OAO), Uzbekistan's state-controlled oil and gas production company, in order to gain access to competitors' confidential bids during four tenders in 2006 and 2007 for oilfield pipe and related services for energy extraction and transportation projects.  Tenaris allegedly used the confidential information to revise its own bids.  As a result, the company was awarded four contracts by the Uzbekistan government, which yielded approximately $5 million in profits.  The alleged improper payments were made via an agent, which earned a 3.0 - 3.5% commission on the value of the contracts awarded to Tenaris.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to Uzbekistan Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Pipeline supply contracts, valued at $5 million in profits</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Tenaris SA had described the (at the time ongoing) investigation as follows in its SEC Form 20-F filed on June 30, 2010:<br /><br />“The Company has learned from one of its customers in Central Asia that certain sales agency payments made by one of the Company’s subsidiaries may have improperly benefited employees of the customer and other persons. These payments may have violated certain applicable laws, including the U.S. FCPA (“Foreign corrupt practices act”). The Audit Committee of the Company’s Board of Directors has engaged external counsel in connection with a review of these payments and related matters, and the Company has voluntarily notified the U.S. Securities and Exchange Commission and the U.S. Department of Justice. The Company will share the results of this review with the appropriate regulatory agencies, and will cooperate with any investigations that may be conducted by such agencies. At this time, the Company cannot predict the outcome of these matters or estimate the range of potential loss or extent of risk, if any, to the Company’s business that may result from resolution of these matters.”
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On May 17, 2011, Tenaris settled FCPA charges with the DOJ and SEC.  Tenaris entered into a non-prosecution agreement with the DOJ, agreeing to pay a $3.5 million criminal penalty.  Tenaris entered into a two-year deferred prosecution agreement with the SEC (the SEC's first such agreement) and agreed to pay $5,428,338 in disgorgement and prejudgment interest, as well as to comply with certain undertakings regarding its FCPA compliance program.<br /><br />The DOJ and SEC highlighted Tenaris's voluntary disclosure and "extraordinary cooperation", as well as the company's enhanced compliance efforts.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This case represents the SEC's first use of a deferred prosecution agreement.  In 2010, the SEC established a new incentives program to reward cooperation.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=842">Tenaris SA - Annual Report (2009)</a></p><p><a href="file.asp?id=1416">Tenaris SA - SEC Form 20-F (30 June 2010)</a></p><p><a href="file.asp?id=1484">DOJ Press Release: May 17, 2011 (Tenaris S.A. Agrees to Pay $3.5 Million Criminal Penalty to Resolve Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=1485">SEC Press Release: May 17, 2011 (Tenaris to Pay $5.4 Million in SEC's First-Ever Deferred Prosecution Agreement)</a></p><p><a href="file.asp?id=1486">Deferred Prosecution Agreement with SEC (May 17, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,141 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192346b5qh5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192346480g4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VERAZ NETWORKS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(233)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19234697p0n" width="415" height="61" /></div>
+    
+        <h1>VERAZ NETWORKS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Veraz Networks, Inc. ("Veraz")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Multimedia communications services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Jose, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Veraz with violations of the books and records and internal controls provisions of the FCPA in connection with improper payments made or offered to government officials in China and Vietnam following the company's initial public offering in April 2007.  <br /><br />Veraz allegedly hired a consultant in China who gave $4,500 worth of improper gifts in 2007 to officials at a state-controlled telecommunications company in China in an effort to win business for Veraz.  The gifts were described internally at Veraz as a "gift scheme."  The same consultant also offered $35,000 in improper payments in 2008 to officials at the state-controlled telecommunications company in order to secure a deal for Veraz valued at approximately $233,000.  The $35,000 payment was described internally as a 15% "consultant fee" and the contract at issue was awarded to Veraz even though the company's bid was higher than those of competitors.  Veraz discovered the improper offer prior to receiving any money from the transaction and cancelled the deal.  <br /><br />Veraz also allegedly made and offered improper payments in 2007 and 2008 to the CEO of a state-controlled telecommunications company in Vietnam to win business for the company.  The payments were made or offered by a Veraz employee through a Singapore-based reseller.  Veraz also approved and reimbursed questionable gifts and entertainment expenses incurred by the employee for the benefit of employees at Vietnamese state-controlled telecommunications company, as well as flowers purchased for the wife of the CEO.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to&nbsp;Chinese Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$39,500 in the form of gifts and cash</p>
+</td>
+<td>
+<p>Sales to a state-controlled telecommunications company, valued at $233,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to&nbsp;Vietnamese Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Sales to a state-controlled telecommunications company, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Veraz Networks described the (at the time ongoing) investigation as follows in its 2009 SEC Form 10-K:<br /><br />"On April 3, 2008, the Company received a letter from the SEC informing it that the SEC was conducting a confidential inquiry, or SEC Inquiry, and requesting that the Company voluntarily produce documents in connection with the SEC Inquiry. On April 5, 2008, the Company’s Board of Directors appointed a special committee, or Special Committee, consisting entirely of independent directors to cooperate with the SEC in connection with the SEC Inquiry and to oversee an independent investigation into the matters raised by the SEC Inquiry. Keker & Van Nest LLP, or Independent Counsel, was retained as independent counsel to conduct an investigation. Keker & Van Nest LLP had not previously represented the Company in any matters. On July 17, 2008, Independent Counsel reported their findings to representatives of the SEC and, on July 21, 2008, provided to the SEC copies of certain documents collected by Independent Counsel during the course of its independent investigation. The Company provided all the requested documents to SEC. As a result of the SEC Inquiry, the Company was not able to file timely its quarterly report on Form 10-Q for the first quarter ended March 31, 2008 and, on May 21, 2008, the Company received a notification letter from NASDAQ stating that its common stock may be subject to delisting in accordance the NASDAQ rules. The Company’s management attended a hearing on July 24, 2008 to request that NASDAQ grant the Company’s request for an extension of time in which to comply with the NASDAQ listing standards. On July 29, 2008, the Company filed its quarterly report on Form 10-Q for the quarter ended March 31, 2008 and now believes it is in compliance with all SEC filing requirements. Additionally, on August 6, 2008, the Company received notification from NASDAQ informing the Company that the NASDAQ hearing panel had determined to continue listing the Company’s common stock on the NASDAQ.<br /><br />During the course of the SEC inquiry, the Company became aware of allegations of misconduct relating to the Company’s business practices in the Asia Pacific region that, if true, may constitute violations of the U.S. Foreign Corrupt Practices Act, or FCPA. These potential FCPA violations include alleged misconduct related to a Chinese customer and an Indonesian customer. In addition, the Special Committee was informed and made the Company aware of allegations of possible fraud perpetrated against the Company and violations of the Company’s Code of Conduct and Ethics, or Policy. The allegations of possible fraud and violations of the Policy involve payments from a reseller to certain non-management employees (whose employment has since been terminated) and other potentially inappropriate commercial relationships between non-management employees and a reseller. <br /><br />On January 27, 2009, the Company received a subpoena from the SEC requesting documents related to the Company’s business practices in Vietnam. In connection with such SEC investigation, the Company produced documents and provided testimony relevant to the SEC’s investigation and is continuing to cooperate with the SEC in its investigation. In January 2010, the Company reached a tentative resolution with the staff of the SEC regarding the matters described above. Under the terms of the resolution, the Company will consent, without admitting or denying the allegations, to the entry of an injunction prohibiting violations of the non-fraud provisions of the FCPA and to pay a civil penalty of $300,000. The agreement requires approval by the SEC and is subject to court approval. <br /><br />The Company has incurred expenses related to the SEC inquiry of approximately $0.5 million and $2.5 million for 2009 and 2008, respectively. To date, the Company has incurred expenses related to the SEC investigation of approximately $3.0 million.”
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On June 29, 2010, without admitting or denying the SEC's allegations, Veraz consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Veraz was ordered to pay a $300,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Gifts or entertainment provided to employees of state-controlled entities may constitute improper payments under the FCPA, as may gifts or entertainment provided to family members of such employees. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=849">Veraz Networks - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1016">SEC Litigation Release: SEC Charges California Telecommunications Company With FCPA Violations (June 29, 2010)</a></p><p><a href="file.asp?id=1017">Complaint: SEC v. Veraz Networks, Inc. (June 29, 2010)</a></p><p><a href="file.asp?id=1036">Final Judgment: SEC v. Veraz Networks, Inc. (June 29, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

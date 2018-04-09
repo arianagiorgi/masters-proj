@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192301z07v8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192301tjjv3" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAUSCH & LOMB</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(184)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192301w4i8a" width="415" height="61" /></div>
+    
+        <h1>BAUSCH & LOMB</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bausch & Lomb Inc. ("Bausch & Lomb")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Eye care products, pharmaceuticals and surgical equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rochester, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Spain<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Bausch & Lomb describes the ongoing investigation as follows in a 2006 U.S. Securities and Exchange Commission (“SEC”) Form 10-K:<br /><br />"As previously reported, the Audit Committee of the Board of Directors had commenced an investigation of the potential Foreign Corrupt Practices Act implications of the Company's Spanish subsidiary's providing free product, principally intraocular lenses used in cataract surgery, and other things of value to doctors performing surgical procedures in public facilities in Spain. This investigation was initiated following reports of potentially improper sales practices by a former employee and was voluntarily reported to the Northeast Regional Office of the SEC. The Audit Committee's investigation is now complete and found no evidence that the Company's senior  management in Rochester or regional management in London authorized, directed, controlled or knowingly acquiesced in the subject sales practices engaged in by the Company's Spanish subsidiary. It also appears that, in certain instances, the Spanish subsidiary's provision of free products and other things of value to doctors and hospitals in Spain were not appropriately documented or accurately recorded in the subsidiary's books and records. We cannot predict the outcome or potential liability of the Company or its Spanish subsidiary in connection with these matters, which may also raise issues under local laws."<br /><br />Bausch & Lomb's April 1, 2007 Form 10-Q revealed that a previously reported internal investigation by the company's Audit Committee is now complete.  The Company's internal investigation failed to find evidence that the company's senior management in Rochester or regional management in London "authorized, directed, controlled or knowingly acquiesced in the subject sales practices. . . ."<br /><br />Bausch & Lomb was taken private in 2007 and no additional information regarding the investigation has been made available since. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation appear to be ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=793">Bausch & Lomb - SEC Form 10-Q (Aug. 2007)</a></p><p><a href="file.asp?id=794">Bausch & Lomb - SEC Form 10-K (2006)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

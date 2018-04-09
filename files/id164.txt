@@ -1,0 +1,142 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922430o536">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922437g91v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ABB </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(164)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19224335k7z" width="415" height="61" /></div>
+    
+        <h1>ABB </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Italy: Milan Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ABB Ltd. (Zurich-based parent company for the ABB engineering group) ("ABB Ltd.")<br />ABB Inc. (ABB subsidiary in the U.S.) ("ABB Inc.")<br />ABB Network Management (Sugar Land, Texas-based business unit of ABB Inc.) ("ABB NM")<br />John Joseph O'Shea (former General Manager of ABB NM)<br />Fernando Maya Basurto (principal of the Mexican company serving as ABB NM's sales representative in Mexico)<br />ABB SpA (ABB subsidiary in Italy) ("ABB Italy")<br />ABB Near East Trading Ltd. ("ABB Jordan")<br />ABB Automation, ABB Industrie AC Machines and ABB Solyvent-Ventec (collectively referred to as "ABB France")<br />ABB AG ("ABB Austria")<br />ABB Elektrik Sanayi AS ("ABB Turkey")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Electrical network system management and maintenance
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Zurich, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />Italy<br />Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        One of ABB Inc.'s business units based in Sugar Land, Texas, ABB Network Management ("ABB NM"), allegedly made approximately USD 1.9 million in improper payments from 1997 and 2004 to officials at two government-owned electric utilities, Comisión Federal de Electridad ("CFE") and Luz y Fuerza del Centro ("LyFZ").  ABB NM allegedly received contracts worth more than USD 90 million in revenue in exchange for the improper payments.  <br /><br />The payments were made through three intermediary companies, including a Mexican company that served as ABB NM's sales representative in Mexico.  Fernando Maya Basurto, the principal of the Mexican sales representative company, and John Joseph O'Shea, the former General Manager of ABB NM, orchestrated various cash payments to multiple officials, as well as gifts including a yacht, a Ferrari and a Mediterranean cruise vacation for certain officials and their wives.  <br /><br />O'Shea, Basurto and others allegedly used fictitious invoices from Mexican companies for "technical services" and "maintenance support services" as the basis for international wire transfers that were then used to make improper payments to the officials.  "Commission" payments were also made to Basurto and his family members, which were then transferred on to officials.  <br /><br />Following O'Shea's termination from ABB NM in fall 2004, O'Shea, Basurto and others allegedly engaged in a cover up, including fabricating documents to purportedly substantiate a legitimate business relationship between ABB NM and the Mexican companies, which had provided false invoices.  <br /><br />Separately, ABB Ltd.'s Jordanian subsidiary, ABB Near East Trading Ltd., allegedly paid over USD 300,000 in kickbacks from 2000 to 2004 to the former Iraqi government during the U.N.'s Oil-for-Food program.  The subsidiary paid the kickbacks, on behalf of itself and five other ABB subsidiaries, in order to secure contracts with the General Company for Electricity Energy Production, the Baghdad Mayoralty and the State Company Baghdad Electricity Distribution, all of which were regional companies of the Iraqi Electricity Commission.  ABB improperly recorded the kickbacks on its books as legitimate payments for after sales services, consultation costs and commissions. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Mexican Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.9 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts with CFE and LyFZ, valued at over USD 90 million in revenue (USD 13 million in profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 300,000</p>
+</td>
+<td>
+<p style="text-align: center;">Oil-for-Food contracts worth USD 13.5 million in revenues (USD 3.8 million in profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        ABB Ltd. and ABB Inc. voluntarily disclosed the matter to the DOJ, SEC and Italian authorities.  ABB provided the following description of the investigations in its 2009 SEC Form 20-F:<br /><br />"In June 2004, we disclosed to the SEC and the Italian authorities the preliminary results of our inquiry conducted with the assistance of outside counsel and forensic accountants. Those results showed that from the first quarter of 1998 through the first quarter of 2004, the medium voltage business of our Power Products division overstated its earnings before interest and taxes (operating income) and net income through the early recognition of certain revenue from incomplete projects, improper capitalization of costs on certain projects, unrecorded liabilities and borrowings, and other improper journal entries. As a result, the financial statements and certain financial data were restated in September 2004. The inquiry also uncovered improper payments to an employee of an Italian power generation company. The Company has reported this matter to the Italian authorities, who have initiated formal criminal proceedings, as well as to the SEC and the U.S. Department of Justice (the DoJ). The Company cannot reasonably predict the outcome of the criminal proceedings or what action, if any, the SEC or the DoJ may take.<br /><br />"In April 2005, we made the first of a series of voluntary disclosures to the DoJ and the SEC of certain suspect payments made by employees of ABB. The first disclosure concerned our U.S.-based network management business unit. Subsequently, we made additional voluntary disclosures regarding suspect payments by employees in several countries, including countries in the Middle East, Asia, South America, and Europe. These suspect payments were discovered as a result of our internal audit and compliance program. These payments may be in violation of the FCPA or other applicable laws. If we are found to have violated any of these laws, we could be liable for penalties and other costs and the violations could otherwise negatively impact our business. We are cooperating on these issues with the relevant authorities and are continuing our internal investigations and compliance reviews.<br /><br />"On 27 October 2005, the United Nations Independent Inquiry Committee issued its final report on the United Nations Oil-for-Food Program. This report alleges that certain ABB subsidiaries made illicit payments to the Iraqi government under contracts for humanitarian goods. We are cooperating on a voluntary basis with the SEC in its ongoing investigation of the matters raised in the report.<br /><br />"In August 2007, we made a voluntary disclosure to the SEC and the DoJ about suspect payments made by employees of ABB's recently divested Lummus Global business. These suspect payments were discovered as a result of our internal audit and compliance program. These payments may be in violation of the FCPA or other applicable laws. In connection with ABB's sale of the Lummus Global business, ABB retained certain liabilities, including for potential fines and penalties relating to these suspect payments. We are cooperating on these issues with the relevant authorities. In connection with these suspect payment matters we anticipate an unfavorable outcome and expect that fines will be imposed."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 16 November 2009, a federal grand jury in the Southern District of Texas returned an 18-count indictment charging John Joseph O'Shea with conspiracy, violations of the FCPA, international money laundering and falsification of records in a federal investigation. O'Shea was arrested on 18 November 2009, at which time the indictment was unsealed.  For the conspiracy count and the falsification of records in a federal investigation count, separately, O'Shea faces a maximum penalty of five years in prison and a fine of the greater of USD 250,000 or twice the value gained or lost.  He faces a maximum penalty of five years in prison and a fine of the greater of USD 100,000 or twice the value gained or lost for each of the 12 FCPA counts.  For each of the four international money laundering counts, he faces a maximum penalty of 20 years in prison and a fine of the greater of USD 500,000 or twice the value of the property involved in the transaction.  The indictment also gave notice of criminal forfeiture.<br /><br />On 16 November 2009, Fernando Maya Basurto pleaded guilty to a one-count information charging him with conspiracy to violate the FCPA.  Under this plea agreement, he admitted that, while acting as a sales representative for the ABB Sugar Land, he conspired with others to make improper payments to CFE officials, he helped launder the monies and he engaged in a cover up to obstruct the DOJ and SEC's investigations.  He also admitted to submitting false invoices and helping to fabricate correspondence in contemplation of the government's investigations.  Basurto agreed to cooperate with the DOJ's ongoing investigation.  He faces a maximum penalty of five years in prison and a fine of the greater of USD 250,000 or twice the value gained or lost.  (Basurto was previously arrested in Dallas, Texas on 25 April 2009 in connection wtih a criminal complaint charging him with conspiracy to structure transactions and structuring transactions to evade currency reporting requirements.  He was subsequently detained and, on 10 June 2009, was indicted on those charges.)  In April 2012, Judge Hughes dismissed the original charges against Basurto, and granted the prosecution's request that Basurto's sentence not extend beyond the twenty-two months he spent in jail between his arrest in 2009 and his release on bail in July 2011.  The judge agreed to limit the sentence to "time served."  The requirement in his plea agreement that he forfeit approximately USD 2 million in illegal profits remains in place.<br /><br />On 29 September 2010, the SEC filed a settled civil action against ABB Ltd., charging the company with violating the FCPA's anti-bribery, books and records and internal controls provisions in connection with bribes allegedly paid, through its subsidiaries, to Mexican government officials to obtain business with state-owned electric utilities, and to the former Iraqi regime to obtain contracts under the U.N. Oil-for-Food Program.  Without admitting or denying the allegations the SEC's allegations, ABB Ltd. consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA.  ABB Ltd. was ordered to pay USD 22,804,262 in disgorgement and prejudgment interest and a USD 16,510,000 civil penalty, and is also required to comply with certain undertakings regarding its FCPA compliance program.<br /><br />Also on 29 September 2010, ABB Ltd. and two of its subsidiaries reached settlements with the DOJ regarding the agency's criminal investigation into the matter.  At a plea hearing in U.S. District Court for the Southern District of Texas, ABB Ltd.'s U.S. subsidiary, ABB Inc., pleaded guilty to a criminal information charging it with one count of violating the anti-bribery provisions of the FCPA and one count of conspiracy to violate these provisions.  ABB Inc. was ordered to pay a criminal fine of USD 17.1 million.  ABB Ltd. itself entered into a three-year deferred prosecution agreement with the DOJ, agreeing to cooperate with the ongoing investigations of the DOJ and foreign authorities, as well as to various enhanced corporate compliance and reporting obligations, including the recommendations of an independent compliance consultant.  ABB Ltd. also agreed to the DOJ's filing of a criminal information charging its Jordanian subsidiary, ABB Near East Trading Ltd., with one count of conspiracy to commit wire fraud and to violate the FCPA's books and records provisions of the FCPA, and agreed to pay a criminal penalty of USD 1.9 million.<br /><br />The DOJ and ABB had originally agreed to a USD 28.1 million criminal fine.  U.S. District Court Judge Lynn Hughes, however, reduced the fine to USD 17.1 million, disagreeing with the DOJ's assessment of ABB as a recidivist company and refusing to "rubber stamp" the agency's settlements. <br /><br />The bribery and cover up trial against O'Shea's opened on 11 January 2012 in the U.S. District Court for the Southern District of Texas.   Earlier in January, Judge Lynn Hughes had denied O'Shea's motion to dismiss the indictment based on the claim that the state-owned Mexican electric company, Comisión Federal de Electricidad (CFE) whose employees allegedly received payments were not "foreign officials" within the meaning of the FCPA.<br /><br />On 16 January 2012, the Court acquitted O'Shea of all bribery and cover-up charges, on the grounds that the evidence did not sufficiently demonstrate a link between O'Shea and the illegal conduct.  Then, on 9 February 2012, the Department of Justice filed a motion to dismiss all remaining charges against O'Shea.  The remaining charges included conspiracy, obstruction of justice and money laundering.<br /><br />It  is unclear what become of the Italian investigation into ABB Italy's alleged bribery of Italian officials.  While discussed in ABB's SEC Form 20-F for 2009, there is no mention of the Italian investigation in its Form 20-F for 2010 (filed on 17 March 2011).
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While district court judges typically approve the settlement agreements reached between the DOJ and defendants facing FCPA charges, some judges will push back on the amount of fines or lengths of sentences requested, resulting in less onerous outcomes for defendants.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=594">DOJ Press Release: "Former General Manager of Texas Business Arrested for Role in Alleged Scheme to Bribe Officials at Mexican State-Owned Electrical Utility" (23 November 2009)</a></p><p><a href="file.asp?id=591">Criminal Indictment: U.S. v. John Joseph O'Shea (16 November 2009)</a></p><p><a href="file.asp?id=592">Criminal Information: U.S. v. Fernando Maya Basurto (16 November 2009)</a></p><p><a href="file.asp?id=593">Plea Agreement: U.S. v. Fernando Maya Basurto (16 November 2009)</a></p><p><a href="file.asp?id=777">ABB: Annual Report (2009)</a></p><p><a href="file.asp?id=907">ABB: SEC Form 20-F (19 March 2010)</a></p><p><a href="file.asp?id=1155">SEC Litigation Release: "SEC Charges ABB For Bribery Schemes in Mexico and Iraq - ABB to Pay $39 Million in Disgorgement and Civil Penalties" (29 September 2010)</a></p><p><a href="file.asp?id=1156">DOJ Press Release: "ABB Ltd and Two Subsidiaries Resolve Foreign Corrupt Practices Act Investigation and Will Pay $19 Million in Criminal Penalties" (29 September 2010)</a></p><p><a href="file.asp?id=1157">Complaint: SEC v. ABB Ltd. (29 September 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

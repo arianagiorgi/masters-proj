@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192423e191e">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192423rrcmi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KOREA FTC PHARMA ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(276)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924235e6y9" width="415" height="61" /></div>
+    
+        <h1>KOREA FTC PHARMA ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Korea: Fair Trade Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        2009 case:<br /><br />GlaxoSmithKline plc (UK-based multinational pharma company)<br />Pfizer Inc. (US-based multinational pharma company)<br />Eli Lilly and Company (US-based multinational pharma company)<br />Otsuka Pharmaceutical Co., Ltd. (Japan-based multinational pharma company)<br />Daewoong Co., Ltd. (Korean pharma company)<br />MSD Korea Co., Ltd. (Korean pharma company)<br />Jeil Pharmaceutical Co., Ltd. (Korean pharma company)<br /><br />2011 case:<br /><br />Sanofi (France-based multinational pharma company)<br />Bayer AG (Germany-based multinational pharma company)<br />AstraZeneca (UK-based multinational pharma company)<br />Novartis AG (Switzerland-based multinational pharma company)<br />Johnson & Johnson (US-based multinational pharma company)<br />CJ Cheiljedang Corp. (Korean pharma company)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Foreign and domestic pharmaceutical companies operating in Korea
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Various
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in January 2009, the Korea Fair Trade Commission ("FTC") fined four multinational and three local pharmaceutical companies a combined 20.4 billion won for unfair business practices in connection with the sale and marketing of products to Korean hospitals.  The improper conduct included gifts, travel and consulting fees provided to hospital staff, as well as other improper rebates and kickback arrangements. <br /><br />In a similar case two years later, the FTC fined five additional multinational pharmaceutical companies approximately USD 9.3 million for similar conduct, along with one domestic drugmaker.  According to press reports, the companies allegedly organized free seminars and conferences for doctors, clinics and hospitals, around which they then offered improper golf outings, spa treatments, movie showings, dinners, gifts of carpets and wine, speaking and consulting fees as well as cash.  The benefits were provided ostensibly for post-marketing surveillance.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Improper Payments to Korean Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The 2009 companies were fined a combined KRW 20.4 billion.  The 2011 companies were fined a combined USD 9.3 million.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Governments may use competition laws to penalize companies for conduct also involving bribery of government officials.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=882">Korea Fair Trade Commission: "Sanctions against seven pharmaceutical companies for unfairly luring customers and maintaining resale prices" (3 March 2009)</a></p><p>Pharmalot: "Drugmakers Fined By South Korea Over Kickbacks" (22 Sept. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

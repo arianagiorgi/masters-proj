@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18430108y49">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843013xnz4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TESORO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(70)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843011l5g4" width="415" height="61" /></div>
+    
+        <h1>TESORO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tesoro Petroleum Corporation ("Tesoro")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Exploration, development, production, purchase and sale of oil and gas
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Antonio, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Tesoro with violating the reporting and proxy provisions of the Exchange Act  Sections 13(a) and 14(a)  in connection with a variety of unusual, disproportionate and unsubstantiated payments made to finders and consultants who assisted the company with material foreign asset acquisitions during the 1970s.  The SEC alleged that the circumstances surrounding some of these unaccounted-for funds indicated that payments may have been made to foreign government officials or political leaders.  Tesoro allegedly knew that this course of business posed a material risk to the company and failed to make timely and adequate disclosure of the course of business, the unaccountability of such payments, and the particular risks that such course of business posed to material assets and revenues of the company.  <br /><br />The conduct at issue took place prior to the enactment of the FCPA in 1977, which added paragraphs (b)(2) through (b)(5) to Section 13 of the Securities Exchange Act of 1934, covering the recordkeeping and internal controls provisions of the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Foreign Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 20, 1980, without admitting or denying the SEC's allegations, Tesoro consented to the entry of a final judgment permanently enjoining the company from future violations of Sections 13(a) and 14(a) of the Exchange Act.  Tesoro undertook to appoint a new director, satisfactory to the SEC, who would also serve as chairman of the audit committee of the companys Board of Directors.  <br /><br />Tesoro also committed itself to not making payments, or offers of payment, directly or indirectly, to any foreign official or foreign political party or leader thereof for purposes of influencing or inducing such officials to affect a foreign government act or decision, per the anti-bribery provisions of the FCPA.  The company also undertook to keep accurate books and records and to file with the SEC a current Form 8-K. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While the FCPA accounting provisions - the books and records and internal controls provisions in Section 13(b) of the Exchange Act - are commonly used by the SEC today in enforcing the FCPA, in the Page Airways case the activity at issue predated the FCPA's enactment in 1977 and thus the SEC resorted to the reporting provisions of Section 13(a) and the proxy provisions of Section 14(a) to capture the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=278">SEC News Digest: November 21, 1980 (Complaint Names Tesoro Petroleum Corporation)</a></p><p><a href="file.asp?id=438">SEC Litigation Release, Complaint, Final Judgment and Consent </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192118z7g8a">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192118oftq3" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TESORO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(70)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921187u7r2" width="415" height="61" /></div>
+    
+        <h1>TESORO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tesoro Petroleum Corporation ("Tesoro")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Exploration, development, production, purchase and sale of oil and gas
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Antonio, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Tesoro with violating the reporting and proxy provisions of the Exchange Act  Sections 13(a) and 14(a)  in connection with a variety of unusual, disproportionate and unsubstantiated payments made to finders and consultants who assisted the company with material foreign asset acquisitions during the 1970s.  The SEC alleged that the circumstances surrounding some of these unaccounted-for funds indicated that payments may have been made to foreign government officials or political leaders.  Tesoro allegedly knew that this course of business posed a material risk to the company and failed to make timely and adequate disclosure of the course of business, the unaccountability of such payments, and the particular risks that such course of business posed to material assets and revenues of the company.  <br /><br />The conduct at issue took place prior to the enactment of the FCPA in 1977, which added paragraphs (b)(2) through (b)(5) to Section 13 of the Securities Exchange Act of 1934, covering the recordkeeping and internal controls provisions of the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Foreign Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 20, 1980, without admitting or denying the SEC's allegations, Tesoro consented to the entry of a final judgment permanently enjoining the company from future violations of Sections 13(a) and 14(a) of the Exchange Act.  Tesoro undertook to appoint a new director, satisfactory to the SEC, who would also serve as chairman of the audit committee of the companys Board of Directors.  <br /><br />Tesoro also committed itself to not making payments, or offers of payment, directly or indirectly, to any foreign official or foreign political party or leader thereof for purposes of influencing or inducing such officials to affect a foreign government act or decision, per the anti-bribery provisions of the FCPA.  The company also undertook to keep accurate books and records and to file with the SEC a current Form 8-K. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While the FCPA accounting provisions - the books and records and internal controls provisions in Section 13(b) of the Exchange Act - are commonly used by the SEC today in enforcing the FCPA, in the Page Airways case the activity at issue predated the FCPA's enactment in 1977 and thus the SEC resorted to the reporting provisions of Section 13(a) and the proxy provisions of Section 14(a) to capture the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=278">SEC News Digest: November 21, 1980 (Complaint Names Tesoro Petroleum Corporation)</a></p><p><a href="file.asp?id=438">SEC Litigation Release, Complaint, Final Judgment and Consent </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

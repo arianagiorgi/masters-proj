@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922242thxc">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19222456b12" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - THOMSON-CSF / THALES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(142)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922246768g" width="415" height="61" /></div>
+    
+        <h1>THOMSON-CSF / THALES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        France: Public Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Thomson-CSF (became Thales SA in 2000)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Electronics and defense contractor
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Neuilly-sur-Seine, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Taiwan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2001, French prosecutors opened an investigation into Thomson-CSF for alleged bribery in connection with the sale of six Lafayette frigates to the Taiwanese government in 1991, a deal valued at USD 2.8 billion.  The company allegedly paid between USD 400 million and USD 600 million in commissions into Swiss bank accounts held by middlemen.  The contract with the Taiwanese government forbade the payment of commissions.<br /><br />In October 2008 a French judge ruled that no prosecutions could proceed due to lack of evidence. <br /><br />The Taiwanese government then forced Thales into arbitration, seeking damages.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 600 million in commissions to Thomson-CSF's Taiwanese agent&nbsp;</td>
+<td style="text-align: center;">&nbsp;Securing the sale of six frigates, valued at USD 2.8 billion</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The French authorities' investigation was closed in 2008 due to lack of evidence.  <br /><br />On May 3, 2010, a Paris-based International Court of Arbitration under the International Chamber of Commerce (ICC) ordered Thales to pay approximately USD 591 million in damages (including interest and legal expenses) to the Taiwanese government.  While Thales (Thomson-CSF at the time) spearheaded the deal, French state-owned shipbuilder DCN held the main stake in the contract and the French government guaranteed the contract. <br /><br />In June 2011, the Paris Court of Appeals ruled that Thales was obligated to make the payment awarded by the arbitration court, now amounting to 630 million euros (USD 913 million).  Thales announced that it would not appeal the ruling.  The French government will reportedly contribute 72.5% of the payment. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Securing business deals through improper payments or commissions may constitute a breach of contract provisions, thus enabling the damaged party (e.g., the government customer) to seek damages.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>France 24: "Thales ordered to pay Taiwan in frigate row" (4 May 2010)</p><p>Taipei Times: "Paris court rules in favor of Taiwan" (11 June 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

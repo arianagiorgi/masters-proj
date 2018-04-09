@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924018f733">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192401pz801" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ZTE CORPORATION (Zhongxing Telecommunications Equipment)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(250)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192401nlb61" width="415" height="61" /></div>
+    
+        <h1>ZTE CORPORATION (Zhongxing Telecommunications Equipment)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Liberia: Attorney General <br />Mongolia:  Anti-Corruption Agency of Mongolia <br />Algeria:  Ministry of Justice<br />Philippines:  Antigraft Tribunal<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Zhongxing Telecommunications Equipment ("ZTE")<br />ZTE Corporation ("ZTE," the fifth largest telecom equipment maker worldwide)<br />ZTE Algérie<br />Huawei Technologies Co., Ltd. (a private company wholly owned by its employees, and the second-largest maker of telecom equipment worldwide)<br />Huawei Enterprises<br />Algérie Télécom (the state-owned telecommunications company of Algeria)<br />Mohamed Boukhari (former CEO of Algérie Télécom)<br />El Hachemi Belhamdi (CEO of Algérie Télécom from August 2011 to March 2012)<br />Mejdoub Chani (also Chami Majdjoub, an Algerian-Luxembourg businessman)<br />ZTE USA<br />Chen Zhibao (former ZTE employee in Algeria, convicted in absentia)<br />Dong Tao (former ZTE employee in Algeria, convicted in absentia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications hardware
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Shenzhen, Guangdong, China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />Uganda<br />Liberia<br />Zambia<br />Algeria<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ZTE is under increasing pressure following years of allegations of large-scale bribery in several African countries, where the governments are fighting back. <br /><br />Algeria<br /><br />ZTE established an office in Algeria in 2002, three years after another Chinese company, Huawei.  As a result of an investigation in Luxembourg into corruption in connection with the construction of a highway in Algeria, it was discovered that Mr. Chani, an Algerian businessman, had opened offshore bank accounts which were used by Huawei and ZTE to make corrupt payments to a high-ranking executive in Algérie Télécom, Mr. Boukhari, in compensation for services rendered.  The two Chinese companies used a shell company in the British Virgin Islands to transfer up to USD 10 million to Mr. Boukhari's account.<br /><br />Kenya<br /><br />There is an ongoing investigation into the August 2011 award of a contract for development of Kenya's digital television signal distribution network to the Pan African Network Group of China, based on allegations of corruption and anti-competitive practices in the tender process. <br /><br />Liberia<br /><br />According to press reports in February 2006, Liberian authorities indicted ZTE's Liberian agent for allegedly bribing  three state telecom officials at the Liberia Telecommunications Corporation in order to secure a contract with the government. The current status of the prosecution is unclear.<br /><br />Nigeria<br /><br />In December 2011, the Nigerian parliament appointed a joint committee of police, public procurement, debt management and IT officials to investigate ZTE's conduct of a USD 470 million contract for the National Communication Security System.  The purpose of the investigation is to determine whether the award of the project to ZTE conformed to due process guidelines for government contracts, and whether substandard materials were used by ZTE in its performance of the contract.   The Nigerian government, feeling pressure from the rise of terrorist groups on Nigerian soil, had entered into the agreement with ZTE to install a National Public Service Communication System (NPSCS), including closed circuit television cameras, in the Federal Capital Territories, to help the Nigerian security services deal with the threat, particularly from Boko Haram. The Nigerian government guaranteed the agreement for USD 399 million to enable ZTE to obtain loans from the Chinese government for the project.<br /><br />Long before these allegations, questions had arisen in Nigeria as to ZTE's relationship with certain government officials, and the Company's obscure practices in Nigeria.  For example, a "factory" to build consumer telecommunications products was opened only briefly in 2004, apparently for sham purposes, with ministerial photo-ops and workers in new company coveralls who were paid for two days' work and sent home, with one sole worker remaining at the empty Maitana facility.<br /><br />Uganda<br /><br />In September 2011, the Ugandan government froze a USD 74 million loan from the Import and Export Bank of China ("EXIM"), pending an investigation into allegations of procurement flaws and overpricing.  <br /><br />Additional allegations in Uganda involve a tender by Huawei to lay fiber-optic cable for the Ugandan transmission infrastructure project, based on a USD 106 million project funded with a loan from the Export-Import Bank of China.  This project has been suspended due to allegations of inflated costs and incorrect (substandard) cables.<br /><br />Zambia<br /><br />A contract was entered into between the government of Zambia and ZTE and Huawei to migrate Zambian networks from analogue to digital broadcasting.  In May 2012, the Zambian Minister of Information and Broadcasting, Mr. Shamenda, led a delegation of government officials to visit Huawei and ZTE in China, which was paid for twice over, by both the Zambian government and the two Chinese companies. <br /><br />In September 2013, the Zambian government terminated the USD 210 million closed circuit television camera contract with ZTE because of the alleged corruption. Zambia estimated it would have lost USD 100 million in inflated costs had the contract continued. The contract was reportedly issued by senior Zambian government officials under a direct agreement, without an open tender procedure, raising suspicions of corruption. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Algeria <br /><br />A corruption investigation in Luxembourg related to the construction of a highway connecting the eastern and western portions of Algeria revealed that Majdoub Chani, a local business involved in the highway construction scandal, had opened offshore bank accounts into which the Chinese businesses deposited their commissions.<br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Algeria<br /><br />On 6 June 2012,  employees of both Huawei and ZTE were convicted of bribery related to telephone company contracts in Algeria between 2003 and 2006.  The men, Mr. Xiao of Huawei and Mr. Chen and Mr. Dong of ZTE, were sentenced in absentia to ten years in prison, and fined USD 65,000, in a case concluded in Algiers by Judge Derbouchi.<br /><br />Mr. Boukhari, a former senior official with Algérie Télécom, and Mr. Madjdoub, a businessman who also holds Luxembourg citizenship, were found guilty of money laundering and mismanagement and received sentences of 18 years, along with a fine of USD 111,660, plus confiscation of any goods or wealth acquired during the period in question.<br /><br />Both companies, Huawei and ZTE, were fined, and have been debarred from bidding on public contracts in Algeria for two years.  It is the first time the Algerian government has ever banned a company from public tenders.  <br /><br />International warrants were issued for the arrest of the three Chinese employees.<br /><br />Zambia<br /><br />The Zambian government terminated its USD 210 million contract with ZTE as a result of the allegations. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>ZTE is under increasing pressure following years of allegations of large-scale bribery in Algeria, Kenya, Liberia, Mongolia, Nigeria, Philippines, Uganda, and Zambia</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>	CIPACO: "Liberia : Telecom Bidders in Court for 'Illegal' Contract" (17 February 2006)</p><p>IDG News Service: "Nigeria investigates ZTE cybersecurity contract" (9 December 2011)   </p><p>	Maghreb Emergent: "Lourde peine de prison ferme requise contre un ex- cadre dirigeant d'Alg&eacute;rie T&eacute;l&eacute;com" (24 May 2012)</p><p>Info Algerie: "Medjdoub et Boukhari condamn&eacute;s &agrave; 18 ans de prison ferme: Affaire opposant Alg&eacute;rie t&eacute;l&eacute;com aux soci&eacute;s chinoises zte et huawei" (7 June 2012)</p><p>Channel News: "ZTE et Huawei condamn&eacute;s en Alg&eacute;rie pour corruption" (8 June 2012)</p><p>ZD Net: "Huawei et ZTE condamn&eacute;s pour corruption en Algerie" (12 June 2012)</p><p>Global Times: "Telecom executives convicted of bribery" (12 June 2012)</p><p>Financial Times: "ZTE faces Mongolia corruption probe" (12 April 2013)</p><p>All Africa: "Zambian Terminates Ksh. 18.4 Billion ZTE Contract Over Corruption Allegations" (11 September 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

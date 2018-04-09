@@ -1,0 +1,128 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192249v312g">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922496un9q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NATCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(171)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19224969c4e" width="415" height="61" /></div>
+    
+        <h1>NATCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        NATCO Group Inc. ("NATCO")<br />TEST Automation & Controls, Inc. (wholly-owned subsidiary of NATCO based in Harvey, Louisiana) ("TEST")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oilfield services provider
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged NATCO Group Inc. ("NATCO") with violating the FCPA's books and records and internal controls provisions in connection with the improper recording of extorted immigration fines and immigration visa fees paid by NATCO's wholly-owned subsidiary, TEST Automation & Controls, Inc. ("TEST"), in the Republic of Kazakhstan in 2007.  According to the SEC, NATCO created and accepted false statements in connection with the recording of the payments and the company's internal controls system failed to ensure that TEST recorded the true purpose of the payments, resulting in inaccuracies in NATCO's consolidated books and records.  <br /><br />In June 2005, TEST's branch office in Kazakhstan ("TEST Kazakhstan") was awarded a contract to provide instrumentation and electrical services in Kazakhstan, for which it hired both expatriate and local Kazakh workers.  Under Kazakh law, TEST was required to obtain immigration documentation prior to an extapriate worker's entry into the country.  Kazakh law also allowed for periodic immigration audits of companies operating in the country.  <br /><br />In February and September 2007, Kazakh immigration prosecutors conducted audits at TEST Kazakhstan, after which they claimed that the company's expatriates were working without proper immigration documentation.  Following threats from the prosecutors to fine, jail or deport the expatriate workers unless the company paid cash fines - threats believed to be genuine by TEST Kazakhstan employees - TEST Kazakhstan sought and received authorization from TEST senior management in Louisiana to make a USD 25,000 and a USD 20,000 cash payment to the prosecutors using personal funds.  TEST then reimbursed the employees for the payments, inaccurately describing the USD 25,000 reimbursement as a payroll advance against the paying employee's "substantial" upcoming bonus and the USD 20,000 reimbursement as for visa fines.<br /><br />TEST Kazakhstan also relied on consultants to assist in obtaining immigration visas for expatriate employees.  One of these consultants did not have a license to provide visa services, but rather had a close relationship with an official at the Kazakh Ministry of Labor, which was responsible for issuing the visas.  On two occasions, the consultant requested cash from TEST Kazakhstan to assist in obtaining the visas, providing the company with fictitious invoices for "cable" that company employees then presented to Kazakh commercial banks in support of their cash withdrawals.  TEST Kazakhstan knew the invoices - which totaled USD 80,000 - were false when it made the withdrawals and submitted requests for reimbursement to TEST headquarters.  TEST then paid the reimbursements, knowing that the invoices did not accurately reflect the services rendered.  The SEC noted that it is not known how the funds were used by the consultant or to whom the funds were paid. <br /><br />During the period in which the conduct at issue took place, NATCO's common stock was listed on the New York Stock Exchange ("NYSE") and registered with the SEC.  In November 2009, Cameron International Corporation acquired NATCO, at which time NATCO's listing on the NYSE ended.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Extorted Payments to Kazakh Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 55,000 in immigration "fines"</td>
+<td style="text-align: center;">&nbsp;Avoidance of threatened fines, jailing and deportation of expatriate workers</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">
+<p><strong>Approximate Alleged Questionable Payments to Kazakh Consultant</strong></p>
+</td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 80,000 to consultant to assist in obtaining immigration visas from Kazakh Ministry of Labor</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        NATCO discovered the potential irregularities during a routine internal audit review at TEST in late 2007, after which the company conducted an internal investigation and self-disclosed the results to the SEC.  <br /><br />The SEC noted that NATCO undertook a variety of remedial measures, including disciplining and terminating employees, revising its agent agreement and establishing new third party due diligence procedures, increasing its compliance staff and appointing a full-time Chief Compliance Officer, improving its anti-bribery training worldwide, investing in software to enhance compliance and its internal controls system, and reorganizing and enhancing its internal audit function and compliance monitoring and testing processes.  <br /><br />The SEC also noted that NATCO joined "a non-profit association specializing in anti-bribery due diligence that, among other things, screens potential partners and other third parties that work with multinational corporations."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 January 2010, without admitting or denying the SEC's allegations, NATCO consented to the entry of a final judgment requiring the company to pay a USD 65,000 civil penalty.  On the same day, without admitting or denying the SEC's allegations, NATCO also agreed to the entry of a cease-and-desist order prohibiting the company from future violations of the FCPA's books and records and internal controls provisions.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Even if certain bribe-like payments are made in response to extortionate demands or qualify as true facilitation payments - and thus do not violate the FCPA or otherwise do not warrant significant prosecutorial attention - such payments must be accurately recorded in a company's books and records.  Companies can face civil books and records and internal controls charges even in situations where the government could not prove corrupt intent if charges had been brought under the FCPA's anti-bribery provisions.</li><li>Internal investigations prompted by potential FCPA violations discovered in one area of a company's operations will typically be expanded to cover operations in other countries and/or business units, to determine whether the wrongdoing was an isolated incident or symptomatic of a broader problem.  In its cease-and-desist order in the NATCO matter, the SEC noted that NATCO's internal investigation covered TEST's worldwide operations, including Nigeria, Angola and China, "geographic locations with historic FCPA concerns."  NATCO's expanded investigation found no other wrongdoing.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=657">SEC Litigation Release: January 11, 2010 (SEC Files Settled Civil Action Charging NATCO Group Inc. with Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=658">Complaint: SEC v. NATCO Group Inc. (January 11, 2010)</a></p><p><a href="file.asp?id=659">SEC Cease-and-Desist Order: In the Matter of NATCO Group Inc. (January 11, 2010)</a></p><p><a href="file.asp?id=660">Consent: SEC v. NATCO Group Inc. (January 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

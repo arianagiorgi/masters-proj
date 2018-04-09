@@ -1,0 +1,117 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192345dwije">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19234523lrf" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - UNIVERSAL CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(232)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19234520j40" width="415" height="61" /></div>
+    
+        <h1>UNIVERSAL CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Universal Corporation ("Universal Corp.")<br />Universal Leaf Tabacos Ltda. (Universal Corporation's wholly-owned subsidiary in Brazil) ("Universal Brazil")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Leaf tobacco merchant and processor
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Richmond, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Malawi<br />Mozambique<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 2000 until 2004, Universal Brazil, Dimon Incorporated and Standard Commercial Corporation collaborated through their respective sales agents in Thailand in order to apportion sales of tobacco to the Thailand Tobacco Monopoly. The sales agents also paid kickbacks to officials of the Thailand Tobacco Monopoly in order to guarantee a share of the Thai tobacco market for each company. The amount of the kickbacks were determined by the number of kilograms of tobacco sold to the Thailand Tobacco Monopoly and were described as "commissions" to their sales agents in the companies' books and records. Payments to Thai officials included providing "pocket money" to officials while visiting Universal Brazil and the provision of tourist aspects of the officials' trips to Brazil. <br /><br />In addition, between 2004 and 2007 Universal Corp. made approximately USD 165,000 in improper payments to officials in Mozambique in order to secure the exclusive right to purchase tobacco and to influence the government to pass legislation favorable to the company. These payments were made through subsidiaries in Belgium and Africa. In addition, Universal Corp.'s subsidiaries paid USD 850,000 to government officials in Malawi between 2002 and 2003, which were improperly recorded on the company's books and records. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>Approximately USD 800,000</td>
+<td>USD 11,500,000 in sales of tobacco</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Universal Corp.'s Audit Committee retained outside counsel to conduct an internal investigation because of a call to the company's Ethics Complaint hotline.  The company then voluntarily disclosed the matter to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On August 6, 2010, Universal Corp.'s subsidiary, Universal Brazil, was charged with and pleaded guilty to FCPA violations related to bribes paid to Thai officials to secure contracts with the Thailand Tobacco Monopoly in U.S. District Court for the Eastern District of Virginia.  Under the plea agreement, Universal Brazil agreed to pay a USD 4.4 million criminal fine.  Additionally, Universal entered into a non-prosecution agreement with the DOJ under which the company agreed to retain a compliance monitor for a minimum of three years.  <br /><br />On the same day, Universal Corp. and Alliance One International, Inc. consented to the entry of final judgments  enjoining both companies from future violations of the anti-bribery, books and records and internal controls provisions of the FCPA. In addition, Universal agreed to disgorge approximately USD 4.5 million in profits. <br /><br />[Please see a separate Compendium entry titled "Alliance One" for information regarding that company's settlement with the DOJ and SEC.]
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>U.S. companies are responsible for illegal payments made through third party intermediaries and foreign subsidiaries.</li><li>Payments to secure favorable legislation violate the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=848">Universal Corp. - SEC Form 10-Q (Dec. 2009)</a></p><p><a href="file.asp?id=1071">Complaint: SEC v. Universal Corporation</a></p><p><a href="file.asp?id=1073">Litigation Release No. 21618 and Accounting and Auditing Enforcement Release No. 3170 (August 6, 2010) SEC v. Universal Corporation, Inc. and SEC v. Alliance One International, Inc.</a></p><p><a href="file.asp?id=1077">Press Release: Universal Settlement (August 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

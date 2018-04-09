@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1927022bsx9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192702t6493" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OZ MINERALS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(460)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192702et1ot" width="415" height="61" /></div>
+    
+        <h1>OZ MINERALS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Australia: Federal Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        OZ Minerals
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Copper mining and other minerals
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Melbourne, New South Wales, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Cambodia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Media reports on 13 January 2013 reported that a Cambodian newspaper had published allegations in 2011 that OZ Minerals had paid over USD 1 million in bribes during its acquisition of a company called Shin Ha in 2009.  The bribes were allegedly paid to three individuals who were both on the board of Shin Ha, and relatives of Cambodian officials who could influence mining sector decisions.  <br /><br />Without naming the company specifically, the OECD's Phase 3 report on Australian implementation of its anti-bribery legislation, published in October 2012, noted that the Australian Federal Police had failed to investigate the case thoroughly, relying on information that adequate due diligence had been performed.  The report stated that the AFP intended to re-open the investigation.  The OECD report is quoted below:<br /><br />"The Joint Venture Buyout Case concretely illustrates the inquiries that would be made before a foreign bribery case is terminated without a formal investigation. Media reports indicated that an Australian company bought out its joint venture partner's stake in a gold mine in a foreign country. To facilitate the transaction, part of the proceeds of the buy-out were allegedly channelled to board members of the joint venture partner. These board members reportedly were closely related to public officials of the foreign country, thus raising the prospect that these officials were the ultimate beneficiaries of the buy-out proceeds. The AFP declined to open an investigation because it received information from the AFP's overseas network that the transaction had been undertaken with due diligence and that all payments were made at the joint venture partner's request. The AFP did not inquire into key matters that could have corroborated the allegations, such as whether the board members were indeed related to foreign public officials; the due diligence conducted by the company was sound; and the buy-out proceeds were channelled to the board members."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Over USD 1 million<br /></td>
+<td style="text-align: center;">To influence mining sector decisions <br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2092">OZ Minerals - Phase 3 Report on Implementing the OECD Anti-Bribery Convention in Australia (October 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192644d6o13">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192644hjat6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ADIDAS AG</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(439)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192644r7r30" width="415" height="61" /></div>
+    
+        <h1>ADIDAS AG</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Adidas Aktiengesellschaft<br />Reebok India Company, an Indian subsidiary of the Adidas holding group<br />Subhinder Singh Prem, Managing Director at Reebok India until March 2012<br />Vishnu Bhagat, Chief Operating Officer at Reebok India until March 2012
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Designer and manufacturer of sports clothing, footwear, equipment  and accessories
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Herzogenaurach, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Media reports on 30 May 2012 revealed that the Indian Ministry of Corporate Affairs submitted a file for investigation to the U.K. Serious Fraud Investigation Office ("SFO"), following a complaint filed by Adidas AG in Gurgaon, a suburb of New Delhi where many company headquarters are located.  The requested probe focuses on alleged criminal conduct by two former Reebok India executives, Mr.  Prem and Mr.  Bhagat, who have publicly denied the charges.  Mr. Prem was managing director of Reebok India, and Mr. Bhagat served as Chief Operating Officer. The two men are suspected of fraud, theft and accounting malpractices resulting in losses of INR 8.7 billion (approximately USD 160 million) for the Company. <br /><br />Specifically, media sources allege that the economic crimes unit of the Gurgaon police found that Mr. Singh and Mr. Bhatt secretly rented four warehouses and used them to store goods which they claimed had been supplied to bona fide dealers.  But the goods were sold to distributors across the country.  In an interview prior to his arrest in September 2012, former Managing Director Prem explained that sales arrangements with retailers included minimum sales requirements, which resulted in the Company compensating retailers for items not sold.  But some sources allege that the arrangement involved kickbacks to Mr. Prem and his colleagues.<br /><br />Adidas confirmed the irregularities at Reebok India in a press release on 30 April 2012:  <br /><br />"Management also announces that commercial irregularities discovered at Reebok India Company, in India, will  likely affect the consolidated financial statements of the Adidas Group. The currently estimated maximum negative impact could be up to a  pre-tax amount of € 125 million. Due to the sensitivity of the on-going investigation, specific details will be disclosed as appropriate in due course. . . . Management assures its stakeholders that it has, and will continue to, vigorously pursue a course of action to protect the Group’s interests, which has  already resulted in the appointment of a new local leadership team in India at the end of March."<br /><br />The statements in the press release were repeated in Adidas' half-year report issued in July 2012.<br /><br />Some, however, allege that the corruption allegations are nothing more than an attempt by Adidas to lower the value of Reebok India in advance of a buy-out of <br />the minority shareholder in the company.  Both Mr. Prem and former COO Mr. Bhagat filed lawsuits in June 2012 in the Delhi High Court, in which they claim that they were asked to "carry out certain illegal and unethical actions" by the Adidas Group, such as manipulating accounts, booking irrelevant expenses and cancelling large distributorships, to ensure that the market value of Reebok India fell significantly.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained </strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The financial director of the Company, Shahim Padath, filed a formal complaint against the Managing Director and the India Chief Operating Officer.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.<br /><br />On 19 September 2012, Mr. Prem, Mr. Baghat and three other individuals were arrested by the Indian authorities.  The five men appeared in court on 20 September 2012.<br /><br />Mr. Prem has apparently initiated a defamation claim against his former employer.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1999">Adidas Press Release: "adidas Group announces preliminary first quarter 2012 results, commercial irregularities at Reebok India Company and increased 2012 financial outlook" (30 April 2012)</a></p><p><a href="file.asp?id=2000">Adidas: First Half Year Report (July 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

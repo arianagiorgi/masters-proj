@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192354167ia">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19235482752" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIGI </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(242)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19235453u5m" width="415" height="61" /></div>
+    
+        <h1>DIGI </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Digi International Inc. ("Digi")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Device networking of electronic devices
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Minnetonka, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Digi described the ongoing investigation as follows in its SEC Form 10-Q filed on 10 May 2010:<br /><br />"We are investigating potential violations of our gifts, travel and entertainment policy, as well as corresponding internal control issues, including any possible violations of law, such as the Foreign Corrupt Practices Act. The outcome and impact of this investigation are unknown at this time. <br /><br />"We received allegations regarding possible violations of our gifts, travel and entertainment policy in the Asia Pacific region by a few employees. We are conducting an investigation of these policy and corresponding internal control issues, including any possible related violations of applicable law, such as the Foreign Corrupt Practices Act, under the direction of the Audit Committee, utilizing outside counsel. We voluntarily disclosed this matter to the United States Department of Justice and the Securities and Exchange Commission. Our Chief Financial Officer resigned during the course of this investigation. Our investigation is not complete; however, as of the date of this filing we are not aware of any material impact to our reported consolidated financial statements. We cannot predict the outcome of this matter at this time or whether it will have a materially adverse impact on our business prospects and our consolidated financial condition, results of operations or cash flow. However, we do anticipate additional general and administrative expense in the quarter ending June 30, 2010 related to the cost of the investigation, which is expected to be material."<br /><br />According to press reports on 12 May 2010, Digi's Chief Financial Officer, Subramanian Krishnan, resigned the previous week following announcement of the internal investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 2 August 2010, Digi reported that received confirmation from the DOJ and SEC that the agencies would not be initiating any enforcement action against the company.  Digi's press release explained as follows: <br /><br />"As previously reported in the third fiscal quarter 2010 earnings release of July 22, 2010, after receiving allegations regarding possible violations of our gifts, travel and entertainment policy for activities in the Asia Pacific (APAC) region by a few employees, we initiated an investigation of these policy and corresponding internal control issues, and any possible related violations of applicable law, including the Foreign Corrupt Practices Act (FCPA).  We voluntarily disclosed the allegations to the United States Department of Justice (DOJ) and the United States Securities and Exchange Commission (SEC).  The investigation has been under the direction of the Audit Committee, comprised solely of independent directors, utilizing outside counsel, and focused on the APAC region.  For completeness purposes, the investigation reviewed certain other foreign regions where no allegations have been made.  We believed the investigation was substantially complete, pending input from the DOJ and the SEC.  We have been providing the DOJ and SEC with updates and our proposed remediation plan.<br /><br />"Digi has now received confirmation through discussions with representatives of the DOJ and the SEC that they will not be initiating any enforcement proceedings against Digi, including not seeking any monetary or other sanctions. <br /><br />"Based upon what we have learned from the investigation, we are strengthening our monitoring controls over foreign locations and other operational and regulatory compliance procedures, including third party assistance in implementation of our remediation plan.   We are also evaluating any impact of this matter on our Internal Controls over Financial Reporting.  Based on the results of our investigation, we are not aware of any material impacts to our reported consolidated financial statements that would require restatement, and no issues were detected outside of the Asia Pacific region."<br /><br />In its SEC Form 10-K filed on 29 November 2010, Digi provided the following additional details regarding its investigation:<br /><br />"During the third quarter of fiscal 2010, we received allegations regarding possible violations of our gifts, travel and entertainment policy for activities in the Asia Pacific (APAC) region by a few employees. We initiated an investigation of these policy and corresponding internal control issues, and any possible related violations of applicable law, including the Foreign Corrupt Practices Act (FCPA). We voluntarily disclosed the allegations to the United States Department of Justice (DOJ) and the United States Securities and Exchange Commission (SEC). The investigation was under the direction of the Audit Committee, comprised solely of independent directors, utilizing outside counsel, and focused on the APAC region. For completeness purposes, the investigation reviewed certain other foreign regions where no allegations had been made. We provided the DOJ and SEC with updates and our proposed remediation plan.<br /><br />"We announced on August 2, 2010 that we received confirmation through discussions with representatives of the DOJ and the SEC that they would not be initiating any enforcement proceedings against Digi, including not seeking any monetary or other sanctions.<br /><br />"The investigation identified violations of company policy that primarily involved three individuals in Hong Kong and our former Chief Financial Officer. The investigation also found an unsubstantiated accrued liability recorded in Hong Kong. All four individuals were terminated or had resigned from the company as of May 12, 2010. While we determined that no adjustment was required to our previously reported consolidated financial statements, we recorded an immaterial out−of−period adjustment during the third quarter of fiscal 2010 in order to correct the unsubstantiated accrued liability in Hong Kong.<br /><br />"Based upon what we learned from the investigation, we have and are further strengthening our monitoring controls over foreign locations and other operational and regulatory compliance procedures, including retention of third party assistance to enhance our controls. We incurred general and administrative expense of $1.4 million related to the cost of the investigation and remediation during fiscal 2010."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC regularly state publicly that they decline and/or take no action following voluntary disclosures by companies of potential FCPA violations.  The agencies have not stated, however, how many cases are declined.  Some companies, such as Digi, choose to publicly disclose the agencies' declination.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=867">Digi International Inc. - SEC Form 10-Q (May 10, 2010)</a></p><p>Star Tribune: "Digi CFO Subramanian Krishnan resigns; investigation launched" (May 12, 2010)</p><p><a href="file.asp?id=1062">Digi International Inc. - Press Release (August 2, 2010)</a></p><p><a href="file.asp?id=1226">Digi International Inc. - SEC Form 10-K (November 29, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

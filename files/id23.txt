@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170710qop7p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170710m2609" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGA MEDICAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(23)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707103m81j" width="415" height="61" /></div>
+    
+        <h1>AGA MEDICAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGA Medical Corporation ("AGA")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plymouth, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) alleged that AGA violated the anti-bribery provisions of the FCPA in connection with kickbacks paid to physicians in China between 1997 and 2005 and improper payments made to patent officials between 2000 and 2002.  <br /><br />Between 1997 and 2005, a high-ranking AGA officer and other AGA employees paid kickbacks to physicians employed at government-owned hospitals in China, directing the payments through AGA's Chinese distributor.  In exchange for the kickbacks, the physicians directed the hospitals to purchase AGA products over those of competitors.  AGA and its Chinese distributor often referred to the kickbacks as commissions, rewards or rebates owed to the physicians.<br /><br />In addition, from 2000 through 2002, AGA and a high-ranking AGA officer made improper payments, also through its Chinese distributor, to officials at the State Intellectual Property Office to secure the patent approval of AGA products.  The Chinese distributor would, at times, describe the payments as sponsoring the patent official.  <br /><br />AGA paid at least USD 460,000 in kickbacks to doctors in government-owned hospitals and patent-office officials.  For the period from 1997 to 2005, AGA earned USD 13.5 million in sales to government-owned hospitals in China.  <br /><br />On 3 June 2008, agreed to pay a USD $2 million criminal penalty in connection with corrupt payments to Chinese government officials in violation of the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Doctors at Government-Owned Hospitals in China</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Sales to Government-Owned Hospitals in China from 1997 to 2005</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 460,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 13.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        AGA self-disclosed the violations to the DOJ.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 2 June 2008, AGA entered into a three-year deferred prosecution agreement, admitting to violations of the FCPA and agreeing to pay a USD 2 million criminal penalty.  AGA also agreed to retain an independent compliance monitor for three years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Physicians employed at government-owned hospitals fall under the FCPA's definition of foreign officials.</li><li>The FCPA prohibits corrupt payments made through third party intermediaries, including local distributors.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=4">DOJ Press Release: "AGA Medical Corporation Agrees to Pay $2 Million Penalty and Enter Deferred Prosecution Agreement for FCPA Violations" (3 June 2008)</a></p><p><a href="file.asp?id=5">Criminal Information: U.S. v. AGA Medical Corporation (3 June 2008)</a></p><p><a href="file.asp?id=6">Deferred Prosecution Agreement: U.S. v. AGA Medical Corporation (2 June 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184219w9w07">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184219g3tol" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGA MEDICAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(23)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842192lh8s" width="415" height="61" /></div>
+    
+        <h1>AGA MEDICAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGA Medical Corporation ("AGA")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plymouth, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) alleged that AGA violated the anti-bribery provisions of the FCPA in connection with kickbacks paid to physicians in China between 1997 and 2005 and improper payments made to patent officials between 2000 and 2002.  <br /><br />Between 1997 and 2005, a high-ranking AGA officer and other AGA employees paid kickbacks to physicians employed at government-owned hospitals in China, directing the payments through AGA's Chinese distributor.  In exchange for the kickbacks, the physicians directed the hospitals to purchase AGA products over those of competitors.  AGA and its Chinese distributor often referred to the kickbacks as commissions, rewards or rebates owed to the physicians.<br /><br />In addition, from 2000 through 2002, AGA and a high-ranking AGA officer made improper payments, also through its Chinese distributor, to officials at the State Intellectual Property Office to secure the patent approval of AGA products.  The Chinese distributor would, at times, describe the payments as sponsoring the patent official.  <br /><br />AGA paid at least USD 460,000 in kickbacks to doctors in government-owned hospitals and patent-office officials.  For the period from 1997 to 2005, AGA earned USD 13.5 million in sales to government-owned hospitals in China.  <br /><br />On 3 June 2008, agreed to pay a USD $2 million criminal penalty in connection with corrupt payments to Chinese government officials in violation of the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Doctors at Government-Owned Hospitals in China</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Sales to Government-Owned Hospitals in China from 1997 to 2005</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 460,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 13.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        AGA self-disclosed the violations to the DOJ.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 2 June 2008, AGA entered into a three-year deferred prosecution agreement, admitting to violations of the FCPA and agreeing to pay a USD 2 million criminal penalty.  AGA also agreed to retain an independent compliance monitor for three years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Physicians employed at government-owned hospitals fall under the FCPA's definition of foreign officials.</li><li>The FCPA prohibits corrupt payments made through third party intermediaries, including local distributors.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=4">DOJ Press Release: "AGA Medical Corporation Agrees to Pay $2 Million Penalty and Enter Deferred Prosecution Agreement for FCPA Violations" (3 June 2008)</a></p><p><a href="file.asp?id=5">Criminal Information: U.S. v. AGA Medical Corporation (3 June 2008)</a></p><p><a href="file.asp?id=6">Deferred Prosecution Agreement: U.S. v. AGA Medical Corporation (2 June 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920354y0u2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192035f2ojw" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGA MEDICAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(23)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192035r6s3e" width="415" height="61" /></div>
+    
+        <h1>AGA MEDICAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGA Medical Corporation ("AGA")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plymouth, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) alleged that AGA violated the anti-bribery provisions of the FCPA in connection with kickbacks paid to physicians in China between 1997 and 2005 and improper payments made to patent officials between 2000 and 2002.  <br /><br />Between 1997 and 2005, a high-ranking AGA officer and other AGA employees paid kickbacks to physicians employed at government-owned hospitals in China, directing the payments through AGA's Chinese distributor.  In exchange for the kickbacks, the physicians directed the hospitals to purchase AGA products over those of competitors.  AGA and its Chinese distributor often referred to the kickbacks as commissions, rewards or rebates owed to the physicians.<br /><br />In addition, from 2000 through 2002, AGA and a high-ranking AGA officer made improper payments, also through its Chinese distributor, to officials at the State Intellectual Property Office to secure the patent approval of AGA products.  The Chinese distributor would, at times, describe the payments as sponsoring the patent official.  <br /><br />AGA paid at least USD 460,000 in kickbacks to doctors in government-owned hospitals and patent-office officials.  For the period from 1997 to 2005, AGA earned USD 13.5 million in sales to government-owned hospitals in China.  <br /><br />On 3 June 2008, agreed to pay a USD $2 million criminal penalty in connection with corrupt payments to Chinese government officials in violation of the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Doctors at Government-Owned Hospitals in China</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Sales to Government-Owned Hospitals in China from 1997 to 2005</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 460,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 13.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        AGA self-disclosed the violations to the DOJ.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 2 June 2008, AGA entered into a three-year deferred prosecution agreement, admitting to violations of the FCPA and agreeing to pay a USD 2 million criminal penalty.  AGA also agreed to retain an independent compliance monitor for three years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Physicians employed at government-owned hospitals fall under the FCPA's definition of foreign officials.</li><li>The FCPA prohibits corrupt payments made through third party intermediaries, including local distributors.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=4">DOJ Press Release: "AGA Medical Corporation Agrees to Pay $2 Million Penalty and Enter Deferred Prosecution Agreement for FCPA Violations" (3 June 2008)</a></p><p><a href="file.asp?id=5">Criminal Information: U.S. v. AGA Medical Corporation (3 June 2008)</a></p><p><a href="file.asp?id=6">Deferred Prosecution Agreement: U.S. v. AGA Medical Corporation (2 June 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

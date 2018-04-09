@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192645ssb2t">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926455g777" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CENTRAL EUROPEAN DISTRIBUTION CORP (CEDC)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(440)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192645u6832" width="415" height="61" /></div>
+    
+        <h1>CENTRAL EUROPEAN DISTRIBUTION CORP (CEDC)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Central European Distribution Corporation ("CEDC")<br />Russian Alcohol Group ("RAG"), a subsidiary of CEDC operating in Russia<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Maker of vodka, and importer of wines, spirits and liqueurs 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Mount Laurel, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Company filed an SEC Form 8-K on 13 September 2012, announcing the resignation the following day of Chief Financial Officer of CEDC, Christopher Biedermann.  The Company then filed SEC Form 10-Q on 4 October 2012, explaining:<br /><br />"This Form 10-Q restates the unaudited condensed consolidated financial statements for the three and six months ended June 30, 2011 . . . The Restatement corrects certain accounting errors primarily related to the accounting for retroactive trade rebates and trade marketing refunds provided to customers during that period.<br /><br />"As previously disclosed, the Company changed its senior management at its principal operating subsidiary in Russia,  Russian Alcohol Group, during April 2012. Following this change, senior Company management requested that the new management team review RAG's business operations and internal controls, including an assessment of the resources and needs of the corporate finance and reporting departments. Based on the preliminary findings of that review, senior management concluded that the Company's financial statements for the years ended December 31, 2011 and 2010 should no longer be relied upon because of a failure to reflect the timely reporting of the full amount of retroactive trade rebates and trade marketing refunds provided to RAG's customers in Russia.<br /><br />"Thereafter, the Audit Committee of the Company's Board of Directors initiated an internal investigation, with the assistance of outside counsel and forensic accountants engaged by outside counsel, regarding the Company's retroactive trade rebates, trade marketing refunds and related accounting issues. The Audit Committee, through its counsel, voluntarily notified SEC of the investigation and is cooperating with the SEC. The Audit Committee has completed its accounting investigation, and has identified accounting irregularities at RAG, which resulted in the understatement of retroactive trade rebates and trade marketing refunds, as well as certain other errors that were concealed from both the Company's senior management and the independent auditors. . . .<br /><br />"As a result of the investigation Company has also determined that a control deficiency existed which contributed to the incorrect accounting for the Company's retroactive trade rebates and trade marketing refunds provided to customers giving rise to the Restatement and that this deficiency constituted a material weakness in internal control over financial reporting. In connection with the investigation, the Company's management also identified a material weakness in the Company's internal control over financial reporting regarding the implementation of our policy on compliance with applicable laws as of December 31, 2011."<br /><br />Then, in its SEC Form 8-K filed on 8 October 2012, the Company referred to a press statement on the same day, in which announcements are made that, "As previously disclosed, upon the recommendation of CEDC's management, CEDC's Board of Directors concluded that CEDC's financial statements for the years ending December 31, 2010 and 2011, should no longer be relied upon because of a failure to reflect the timely reporting of the full amount of retroactive trade rebates and trade marketing refunds provided to the customers of CEDC's principle operating subsidiary in Russia, the Russian Alcohol Group. The Audit Committee of CEDC's Board of Directors initiated an internal investigation regarding CEDC's retroactive trade rebates, trade marketing expenses and related accounting issues. This internal investigation has been completed."<br /><br />On 16 November 2012, the company published an open letter to shareholders, in which it aired complaints about a major shareholder and the company owned by him, Russian Standard, and provided a statement regarding the FCPA investigation:<br /><br />"Despite suggestions in the Russian Standard letter to the contrary, the company is NOT on notice that any of its current executives are under investigation with respect to FCPA violations or otherwise. The Company's forthcoming statement on Form 10-Q will contain the correct disclosure regarding FCPA matters, including the fact that it has volunteered information to the authorities in relation to the restatement and related matters and will continue to do so. The Special Committee is extremely concerned and disappointed by the disparaging statements of Russian Standard."<br /><br />On 5 October 2013, CEDC disclosed findings of books and records violations in its Form 10-Q: "It has also been determined that there has been a breach of the books and records provisions of the Foreign Corrupt Practices Act (FCPA) of the United States and potentially other breaches of the FCPA. It was determined that payments or gifts were made in a foreign jurisdiction in which the Company operates, and that there was a failure to maintain documentation in respect of certain of these payments or gifts adequate to establish whether there was a valid business purpose in making the payments or gifts. Furthermore, our management also identified a material weakness in our internal control over financial reporting regarding the implementation of our policy on compliance with applicable laws as of December 31, 2011. Our conclusion that this deficiency is a material weakness in our internal control over financial reporting is not based on misstatements in our historical consolidated financial statements or our consolidated financial statements as of and for the period ended December 31, 2011, but instead on the determination that we did not design or maintain sufficient policies, procedures, controls, communications or training to deter or prevent the risk of violations of law, including the Foreign Corrupt Practices Act ("FCPA") of the United States."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A change of management followed by an internal audit precipitated an internal investigation, which was disclosed to the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2015">CEDC - SEC Form 8-K (8 October 2012)</a></p><p><a href="file.asp?id=2016">CEDC - SEC Form 10-QA (4 October 2012)</a></p><p><a href="file.asp?id=2017">CEDC - SEC Form 10-QAA (4 October 2012)</a></p><p><a href="file.asp?id=2050">CEDC - Open Letter to Shareholders (16 November 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

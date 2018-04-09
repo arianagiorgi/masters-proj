@@ -1,0 +1,246 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184256y3c70">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842569zzc6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INGERSOLL-RAND (IRAQ)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(64)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184256c81x4" width="415" height="61" /></div>
+    
+        <h1>INGERSOLL-RAND (IRAQ)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ingersoll-Rand Company Limited ("Ingersoll-Rand")<br />Thermo King Ireland Limited (wholly-owned Irish subsidiary of Ingersoll-Rand) ("Thermo-King")<br />Ingersoll-Rand Italiana S.p.A. (wholly-owned Italian subsidiary of Ingersoll-Rand) ("I-R Italiana")<br />ABG Allgemeine Baumaschinen-GesellschaftmbH (wholly-owned German subsidiary of Ingersoll-Rand) ("ABG")<br />Ingersoll-Rand Benelux, N.V. (wholly-owned Belgian subsidiary of Ingersoll-Rand) ("I-R Benelux")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bermuda
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC brought a variety of charges against Ingersoll-Rand and certain subsidiaries in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  The DOJ charged Thermo King Ireland Limited with conspiracy to commit wire fraud and Ingersoll-Rand Italiana SpA with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions.  The SEC charged Ingersoll-Rand with violating the books and records and internal controls provisions of the FCPA in connection with conduct of four subsidiaries.<br /><br />According to court documents, between October 2000 and August 2003, employees of four Ingersoll-Rand subsidiaries paid a total of approximately USD 963,148  and authorized an additional USD 544,697 in kickbacks (characterized as after-sales service fees ("ASSFs") to the Iraqi government in order to obtain contracts for the sale of industrial equipment, including road construction equipment, air compressors and refrigeration equipment.  Ingersoll-Rand inflated the price of contracts by approximately 10% before submitting them to the U.N. for approval, concealing from the U.N. the fact that the contract prices contained a kickback to the Iraqi government.<br /><br />In addition, in February 2002, I-R Italiana allegedly sponsored eight officials from the Iraqi Ministry of Oil to spend two days in Italy, ostensibly touring a manufacturing facility but, as internal email messages demonstrated, actually spending the time on holiday in Florence at the company's expense and with USD 8,000 in pocket money.<br /><br />According to the SEC, Ingersoll-Rand knew or was reckless in not knowing that improper payments were either offered or paid by its distributors and agents in connection with its transactions with the Iraqi government under the U.N. Oil for Food Program.  The company's accounting for the transactions typically described the ASSFs as "sales deductions" or "other commissions."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made and Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,507,845</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of industrial equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Ingersoll-Rand subsidiaries.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ's and SEC's investigations.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 October 2007, Ingersoll-Rand entered into a three-year deferred prosecution agreement with the DOJ, agreeing to pay a criminal fine of USD 2.5 million.  Ingersoll-Rand also agreed to engage an outside consultant to complete a thorough review of the companys compliance program with respect to the FCPA and other applicable anti-corruption laws.<br /><br />On the same day, without admitting or denying the SEC's allegations, Ingersoll-Rand consented to the entry of a final judgment enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Ingersoll-Rand was ordered to disgorge USD 1,710,034 in profits, plus USD 560,953 in pre-judgment interest, and to pay a civil penalty of USD 1,950,000.  The company was also ordered to comply with certain undertakings regarding its FCPA compliance program.   <br /><br />On 31 October 2010, Ingersoll-Rand's deferred prosecution agreement expired.  On 16 February 2011, the DOJ filed a motion to dismiss the Oil-for-Food charges against the company, noting that the company had fully cooperated with the investigation and had met its obligations regarding improving its FCPA compliance policies and procedures.
+		<h2>COMPLIANCE MONITOR</h2>
+        Jeffrey Kaplan
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provisions apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=125">DOJ Press Release: October 31, 2007 (Ingersoll-Rand Agrees to Pay $2.5 Million Fine in Connection with Payment of Kickbacks Under the U.N. Oil-for-Food Program)</a></p><p><a href="file.asp?id=126">SEC Litigation Release: October 31, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Ingersoll-Rand Company Ltd. For Improper Payments to Iraq Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=127">Complaint: SEC v. Ingersoll-Rand Company Limited (October 31, 2007)</a></p><p><a href="file.asp?id=128">Criminal Information: U.S.  v. Ingersoll-Rand Italiana SpA (October 31, 2007) </a></p><p><a href="file.asp?id=129">Criminal Information: U.S.  v. Thermo King Ireland Limited (October 31, 2007)</a></p><p><a href="file.asp?id=700">Deferred Prosecution Agreement (October 31, 2007)</a></p><p><a href="file.asp?id=130">Statement of Facts: Attachment A to Deferred Prosecution Agreement</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192112n5nik">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19211293r97" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INGERSOLL-RAND (IRAQ)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(64)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192112gp720" width="415" height="61" /></div>
+    
+        <h1>INGERSOLL-RAND (IRAQ)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ingersoll-Rand Company Limited ("Ingersoll-Rand")<br />Thermo King Ireland Limited (wholly-owned Irish subsidiary of Ingersoll-Rand) ("Thermo-King")<br />Ingersoll-Rand Italiana S.p.A. (wholly-owned Italian subsidiary of Ingersoll-Rand) ("I-R Italiana")<br />ABG Allgemeine Baumaschinen-GesellschaftmbH (wholly-owned German subsidiary of Ingersoll-Rand) ("ABG")<br />Ingersoll-Rand Benelux, N.V. (wholly-owned Belgian subsidiary of Ingersoll-Rand) ("I-R Benelux")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bermuda
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC brought a variety of charges against Ingersoll-Rand and certain subsidiaries in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  The DOJ charged Thermo King Ireland Limited with conspiracy to commit wire fraud and Ingersoll-Rand Italiana SpA with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions.  The SEC charged Ingersoll-Rand with violating the books and records and internal controls provisions of the FCPA in connection with conduct of four subsidiaries.<br /><br />According to court documents, between October 2000 and August 2003, employees of four Ingersoll-Rand subsidiaries paid a total of approximately USD 963,148  and authorized an additional USD 544,697 in kickbacks (characterized as after-sales service fees ("ASSFs") to the Iraqi government in order to obtain contracts for the sale of industrial equipment, including road construction equipment, air compressors and refrigeration equipment.  Ingersoll-Rand inflated the price of contracts by approximately 10% before submitting them to the U.N. for approval, concealing from the U.N. the fact that the contract prices contained a kickback to the Iraqi government.<br /><br />In addition, in February 2002, I-R Italiana allegedly sponsored eight officials from the Iraqi Ministry of Oil to spend two days in Italy, ostensibly touring a manufacturing facility but, as internal email messages demonstrated, actually spending the time on holiday in Florence at the company's expense and with USD 8,000 in pocket money.<br /><br />According to the SEC, Ingersoll-Rand knew or was reckless in not knowing that improper payments were either offered or paid by its distributors and agents in connection with its transactions with the Iraqi government under the U.N. Oil for Food Program.  The company's accounting for the transactions typically described the ASSFs as "sales deductions" or "other commissions."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made and Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,507,845</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of industrial equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Ingersoll-Rand subsidiaries.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ's and SEC's investigations.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 October 2007, Ingersoll-Rand entered into a three-year deferred prosecution agreement with the DOJ, agreeing to pay a criminal fine of USD 2.5 million.  Ingersoll-Rand also agreed to engage an outside consultant to complete a thorough review of the companys compliance program with respect to the FCPA and other applicable anti-corruption laws.<br /><br />On the same day, without admitting or denying the SEC's allegations, Ingersoll-Rand consented to the entry of a final judgment enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Ingersoll-Rand was ordered to disgorge USD 1,710,034 in profits, plus USD 560,953 in pre-judgment interest, and to pay a civil penalty of USD 1,950,000.  The company was also ordered to comply with certain undertakings regarding its FCPA compliance program.   <br /><br />On 31 October 2010, Ingersoll-Rand's deferred prosecution agreement expired.  On 16 February 2011, the DOJ filed a motion to dismiss the Oil-for-Food charges against the company, noting that the company had fully cooperated with the investigation and had met its obligations regarding improving its FCPA compliance policies and procedures.
+		<h2>COMPLIANCE MONITOR</h2>
+        Jeffrey Kaplan
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provisions apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=125">DOJ Press Release: October 31, 2007 (Ingersoll-Rand Agrees to Pay $2.5 Million Fine in Connection with Payment of Kickbacks Under the U.N. Oil-for-Food Program)</a></p><p><a href="file.asp?id=126">SEC Litigation Release: October 31, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Ingersoll-Rand Company Ltd. For Improper Payments to Iraq Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=127">Complaint: SEC v. Ingersoll-Rand Company Limited (October 31, 2007)</a></p><p><a href="file.asp?id=128">Criminal Information: U.S.  v. Ingersoll-Rand Italiana SpA (October 31, 2007) </a></p><p><a href="file.asp?id=129">Criminal Information: U.S.  v. Thermo King Ireland Limited (October 31, 2007)</a></p><p><a href="file.asp?id=700">Deferred Prosecution Agreement (October 31, 2007)</a></p><p><a href="file.asp?id=130">Statement of Facts: Attachment A to Deferred Prosecution Agreement</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

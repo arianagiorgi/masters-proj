@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19255472347">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192554rg7rf" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - QUALCOMM INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(382)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192554t9378" width="415" height="61" /></div>
+    
+        <h1>QUALCOMM INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />China: People's Procuratorate<br />China: Ministry of Public Security<br />China: State Administration for Industry and Commerce <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Qualcomm Incorporated ("Qualcomm")<br />Zhang Xinzhu, advisor to China's State Council
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Development and sale of chips for cellphones and mobile devices; licensing of patents for use in the devices; sale of other consumer electronics and tracking devices.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Following a whistleblower's allegations of non-compliant financial practices in 2009, the U.S. Securities and Exchange Commission ("SEC") issued a formal order to Qualcomm requiring a private investigation. Assisted by outside counsel and independent forensic accountants, the company's audit committee conducted a review of the allegations; the investigation did not identify any errors on the company's financial statements.  <br /><br />On 27 January 2012, the Company was informed that the U.S. Department of Justice ("DOJ") had initiated an investigation of the company's FCPA compliance.  <br /><br />In its 18 July 2012 10-Q filing with the SEC, the Company noted that its audit committee had begun an internal review into the Company’s FCPA compliance, with the assistance of independent counsel.  In connection with the investigation, the Company informed the SEC and the DOJ of "instances in which special hiring consideration, gifts or other benefits ... were provided to several individuals associated with Chinese state-owned companies or agencies. Based on the facts currently known, the Company believes the aggregate monetary value of the benefits in question to be less than $250,000, excluding employment compensation."<br /><br />In the Company's SEC Form 10-K filed on 7 November 2012, the statement about the SEC and DOJ investigation was repeated, but no additional information was given about the jurisdictions, transactions or individuals involved. Likewise, the Company repeated the statement about the internal investigation in its SEC Form 10-Q filed on 24 July 2013. <br /><br />On 23 April 2014, Qualcomm disclosed in its Form 10-Q that it received a Wells notice from the SEC.  The Wells notice indicated that SEC staffers decided to recommend action be taken with regard to alleged FCPA violations related to benefits offered or provided to individuals associated with Chinese state-owned companies or agencies.<br /><br />On 12 August 2014, China's State Council fired one of its senior advisors to the State Council’s Anti-Monopoly Commission after he allegedly provided consulting services to Qualcomm at a time when Qualcomm is facing an antitrust probe in China.  Qualcomm allegedly hired the senior advisor without approval from the State Council and allegedly paid him USD $975,000 for his assistance in providing a report to China’s National Development and Reform Commission ("NDRC") to show that the company didn’t engage in monopolistic practices.  Qualcomm denied paying the advisor directly because the report was allegedly written by Chicago-based Global Economics Group LLC and co-authored by Mr. Zhang, and the fee was paid to Global Economics for its services. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr style="text-align: center;">
+<td style="text-align: center;">&nbsp;USD 250,000 plus employment compensation<br /></td>
+<td>&nbsp;Unspecified<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A whistleblower from within the company informed the SEC.  The FCPA investigation was initiated by the DOJ in response to the  allegations made by the whistleblower.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        A preliminary investigation by the DOJ and SEC was initiated in January 2012.  It is ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1685">Qualcomm: SEC Form 10-Q (1 February 2012)</a></p><p><a href="file.asp?id=1896">Qualcomm: SEC Form 10-Q (18 July 2012)</a></p><p><a href="file.asp?id=2038">Qualcomm: SEC Form 10-K (7 November 2012)</a></p><p><a href="file.asp?id=2378">Qualcomm: SEC Form 10-Q (24 July 2013)</a></p><p><a href="file.asp?id=2533">Qualcomm Form 10-Q (4 23 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

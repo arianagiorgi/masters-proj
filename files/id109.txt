@@ -1,0 +1,229 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921548u798">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192154k1n02" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALSTOM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(109)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192154rp952" width="415" height="61" /></div>
+    
+        <h1>ALSTOM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />United Kingdom: Crown Prosecution Service<br />Switzerland: Federal Public Prosecutor's Office<br />Italy: Milan Public Prosecutor's Office<br />France: Public Prosecution Service<br />Brazil: Public Ministry<br />Mexico: Ministry of Public Administration<br />Slovenia: Commission for the Prevention of Corruption<br />Slovenia:  National Investigations Office<br />World Bank: Integrity Vice Presidency<br />European Investment Bank<br />European Bank for Reconstruction and Development<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Alstom SA ("Alstom")<br />Alstom Network Schweiz AG (formerly Alstom Prom AG, Switzerland)<br />Oskar Holenweger (Swiss banker who managed funds for Alstom)<br />Alstom Hydro France SA (formerly called Alstom Hydraulique SA, also Alstom Power Hydraulique)<br />Alstom Grid, Inc. ("Alstom Grid") New Jersey based subsidiary of Alstom, formerly Alstom T&D<br />Alstom Hydro Holding SA<br />Alstom Power, Inc. ("Alstom Power"), Connecticut-based subsidiary of Alstom<br />William Pomponi (a former vice president of regional sales at Alstom Power Inc.)<br />Alstom Network UK Ltd., Alstom's UK subsidiary<br />Termoelektrarna Šoštanj d.o.o. ("Termo," utility company operating the Šoštanj plan built by Alstom in Slovenia)<br />Holding Slovenske elektrarne d.o.o (parent company of Termo)<br />TEŠ 6 project (Power Island of Block 6 of the Sostanj Power Station/Termoelektrarna Šoštanj, d.o.o.)<br />CEE Inženiring za energetiko in ekologijo d.o.o. (a company that prepared the tender for the TES project)<br />Sol Intercontintental<br />Alstom Hrvatska<br />Frederic Pierucci (Alstom sales executive)<br />David Rothschild (former vice president of sales of Alstom USA)<br />William Pomponi (former vice president of sales of Alstom USA)<br />Lawrence Hoskins (former senior vice president for Asia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Transport and energy infrastructure, hydroelectric projects, the manufacture of internal combustion piston engines and parts
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Levallois-Perret, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Latvia<br />Bahamas<br />Slovenia<br />Tunisia<br />Zambia<br />Brazil<br />China<br />Egypt<br />India<br />Indonesia<br />Italy<br />Malaysia<br />Mexico<br />Poland<br />Saudi Arabia<br />Singapore<br />Taiwan<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Authorities from France, Switzerland, the United Kingdom, the United States and other countries reportedly opened investigations into Alstom SA and certain Alstom subsidiaries and employees in connection with suspected money laundering and bribery allegations. The alleged activities involve foreign officials in Singapore, Saudi Arabia, Egypt, Indonesia, Taiwan, Brazil, Italy, Zambia, Poland, Mexico, Latvia, Tunisia and Malaysia.  Alstom allegedly made the payments through shell companies based in Switzerland and neighboring Liechtenstein and used intermediaries to facilitate the payments. There are additional allegations specific to certain countries, described here.<br /><br /><br />BAHAMAS<br /><br />According to the criminal information filed by the U.S. Department of Justice (“DOJ”), Alstom and its subsidiaries bid on power projects with the Bahamas Electricity Corporation (“BEC”), a government-owned and controlled power company.  In connection with the bidding for the BEC projects, Alstom allegedly retained a consultant known to be a close personal friend of a government official who had the ability to influence the award of projects.  Alstom allegedly retained the consultant despite several red flags and deviations from internal policies. For example, the consultant admitted that he had no understanding of the power industry and failed to provide documentation of the services he purportedly provided.  The DOJ criminal information includes several excerpts of communications between employees and executives of Alstom’s various subsidiaries discussing the consultant and bribe payments.  In total, the consultant allegedly made payments totaling USD $325,000 to the official at BEC from 2000 to 2003.<br /><br /><br />BRAZIL<br /><br />Alstom projects investigated in Brazil reportedly include potential improper payments of USD $6.5 million to win a USD $45 million contract to expand the underground network in São Paulo and USD $200 million in commissions to secure a USD $1.4 billion contract to build a hydroelectric power plant in Brazil.  Some of the projects involved, including the São Paulo subway, were reportedly funded in part by the World Bank.<br /><br />On 22 January 2014, the governor of Sao Paulo called for an investigation of Alstom following allegations by a former Alstom executive.  The former Alstom executive admitted in court that the company paid bribes in the form of commissions reaching 15 percent on a USD $45.7 million deal.  The company has denied paying bribes for the contract.<br /><br /><br />EGYPT<br /><br />According to the criminal information filed by the DOJ against Alstom on 22 December 2014, Alstom and several of its subsidiaries, including the ones based in the U.S., made several improper payments in connection with projects with the Egyptian Electricity Holding Company (“EEHC”).  The two major EEHC projects that Alstom sought to retain were the Nubaria power station, worth USD $70 million, and the El Tebbin power station, worth USD $60 million.  In connection with bidding for these projects, Alstom allegedly hired a consultant to funnel bribes to government officials.  The retention of the consultant allegedly violated Alstom’s own internal policies. For example, rather than the standard pro-rata payment scheme, the agreement with the consultant provided an exception so that he could receive 50 million euros up front.  Over the course of two years, the consultant allegedly transferred approximately USD $600,000 to officials at EEHC.<br /><br />In a separate instance, Alstom and its subsidiaries allegedly made improper payments in connection with retaining two projects with the Egyptian Electricity Transmission Company (“EETC”).  According to the DOJ’s criminal information, the two projects were the USD $15 million Reactive Power Compensation project and the USD $30 million Three Substations Project, both of which were funded in part by the U.S. Agency for International Development (“USAID”).  Similar to the other Egypt allegations, Alstom allegedly retained three consultants to funnel bribes to government officials responsible for awarding the contracts.<br /><br /><br />INDONESIA<br /><br />On 16 April 2013, the DOJ announced that two individuals connected to Alstom were charged with violations of the FCPA relating to allegations in Indonesia. The charges alleged that Frederic Pierucci (current Alstom sales executive) and David Rothschild (former vice president of sales of Alstom USA) engaged in a bribery scheme involving a member of the Indonesian Parliament and officials at Indonesia's state-owned and state-controlled power company Perusahaan Listrik Negara (PLN). According to the criminal information filed by the DOJ on 22 December 2014, bribes were paid to these officials in order to help Alstom win contracts for the USD $118 million Tarahan power project and the USD $260 million Muara Tawar power plant project. <br /><br />According to the DOJ, Mr. Rothschild and Mr. Pierucci hired two consultants under what appeared to be legitimate consulting contracts, but instead were arrangements to funnel bribes to the member of Parliament and PLN officials.  For example, both consultants were allegedly hired to perform the same services and the terms of payment for the second consultant were front-loaded in violation of Alstom’s internal policies.  Mr. Rothschild and Mr. Pierucci allegedly transferred hundreds of thousands of dollars to one consultant's bank account, which he then sent to the bank account of the member of Parliament as a bribe.  According to the DOJ criminal information, one consultant was paid very high commissions, from which the agent was expected to pay bribes to officials.  The DOJ criminal information includes several excerpts of communications between executives of the various Alstom subsidiaries discussing the alleged bribe payments and debating how best to structure the payments over the course of three years.  Alstom and its subsidiaries were ultimately awarded the Tarahan project and the Muara Tawar power plant project.  <br /><br /><br />ITALY<br /><br />Alstom disclosed in its 2004/2005 Annual Report that Italian authorities launched an investigation into alleged illegal payments in Italy involving government officials.<br /><br /><br />MEXICO<br /><br />Alstom disclosed in its 2004/2005 Annual Report that Mexican authorities launched an investigation into alleged illegal payments in Mexico to government officials.<br /><br /><br />SLOVENIA<br /><br />In February 2012, the Slovenia Commission for the Prevention of Corruption (“SCPC”) claimed that the bidding process for an electricity plant may have been improperly influenced.  In 2007, Alstom bid against Siemens and other companies to win a contract to build an electricity plant in Sostanj, Slovenia.  According to the SCPC, one or more government officials responsible for the contract award failed to disclose business connections with Alstom.  Alstom won the contract, bidding about EUR 100 million below Siemens.  The SCPC report claimed that during the bidding process, when collecting offers for the main technological equipment, government officials disclosed Siemens’ business secrets to Alstom. <br /><br />The report also stated generally that the bidding and construction of the electricity plant were "designed and implemented non-transparently, lack[ed] supervision and is burdened with political and lobbying influences, because of which there was (and still is) high risk of corruption and conflict of interest." It further stated that "[w]hen suspicions of irregularities occurred, the governmental institutions and politics acted in an uncoordinated and non-transparent manner, delaying key decisions."<br /><br /><br />SAUDI ARABIA<br /><br />In 2000, Alstom completed the acquisition of a separate international power company with whom Alstom had previously operated a joint venture in Saudi Arabia.  In the 22 December 2014 criminal information against Alstom, the DOJ alleged that Alstom, its joint venture, and the predecessor entity, made tens of millions of dollars in improper payments to the Saudi Electric Company in order to win the Shoaiba Projects, which involved the construction of an oil-fired power plant with 11 power generating units at a total value of approximately USD $3 billion.  According to the DOJ criminal information, although the consulting agreements that were used to funnel the bribes originated with the acquired company, Alstom continued to honor and renew the consulting arrangement despite lacking adequate due diligence.  Specifically, Alstom allegedly retained at least 6 consultants that were ostensibly providing the same services in connection with the Shoaiba Projects without adequate supporting documentation and a number of red flags raised by failure to comply with the company’s internal policies.  In total, the six consultants were allegedly given USD $49 million without any documentation that services had actually been performed.  In addition, the company paid USD $2.2 million to a U.S.-based Islamic education foundation associated with one of the government officials at the Saudi Electric Company; this payment was recorded as an expense associated with the Shoaiba Projects rather than an independent charitable contribution. <br /><br /><br />TAIWAN<br /><br />According to the DOJ’s criminal information, between 2001 and 2008, Alstom and its subsidiaries began bidding on transport-related projects with Taipei’s Department of Rapid Transit System (“DORTS”), including one for the command and control room (“CCR”) worth USD $15 million.  In connection with the CCR project, Alstom Transport S.A. retained a local company to be a purported consultant on the project, but whose real purpose was allegedly to funnel bribes.  The consultant had no experience or knowledge of the power industry, instead specializing in cigarettes, wines, and pianos; the company also did not meet the internal Alstom requirements for qualifications.  <br /><br /><br />ZAMBIA<br /><br />Alstom disclosed that on 6 October 2010 that its subsidiary in the hydro business was formally charged in France for alleged illegal payments concerning operations in Zambia.  The World Bank and the European Investment Bank have also launched investigations relating to the alleged illegal payments made in Zambia.  The company noted that it may face administrative sanctions, such as disbarment.<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Bahamas Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>USD $325,000&nbsp;</td>
+<td>Contracts with the Bahamas Electric Corporation<br /><br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Brazilian Officials</strong></p>
+</td>
+<td width="50%" align="center"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>
+<p>(1) USD 200 million (15% of the contract value);</p>
+<p>(2) USD 6.5 million</p>
+</td>
+<td align="left">
+<p>&nbsp;(1) Contract to build a hydroelectric power plant, worth USD 1.4 billion;</p>
+<p>(2) Contract to expand S&atilde;o Paulo subway, worth USD 45 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>At least USD $600,000<br /></td>
+<td>Contracts with the Egyptian Electricity Holding Company worth USD $130 million<br /><br />Contracts with the Egyptian Electricity Transmission Company worth USD $45 million</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>At least hundreds of thousands of dollars<br /></td>
+<td>Contracts for the Tarahan power project and the Muara Tawar project worth USD $378 million<br /><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Saudi Arabian Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>Approximately USD $49 million in bribes <br />&nbsp;Approximately USD $2.2 million in improper charitable contributions<br /></td>
+<td>Contract for the Shoaiba Projects worth USD $3 billion<br /><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Saudi Arabian Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>Approximately USD $49 million in bribes&nbsp;<br />&nbsp;Approximately USD $2.2 million in improper charitable contributions<br /></td>
+<td>Contract for the Shoaiba Projects worth USD $3 billion<br /><br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to Taiwanese Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>Unspecified<br /></td>
+<td>Contract worth USD $15 million<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%" align="center">
+<p><strong>Approximate Alleged Payments to All Foreign Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>USD $75 million</td>
+<td>USD $4 billion in power projects</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        SWITZERLAND<br /><br />The investigations started in Switzerland in 2004 following the discovery of documentation detailing questionable transfers to companies in other countries in Alstom-related transactions.  These transfers were reportedly uncovered by auditors from Zurich-based KPMG Fides Peat, working for the Swiss Federal Banking Commission, who uncovered documents detailing the flow of about EUR 20 million from Alstom to shell companies in Switzerland and Liechtenstein.<br /><br /><br />SLOVENIA<br /><br />Several NGOs raised questions in 2008, following the 2007 bidding process for the power plant contract in Sostanj. They brought their concerns to the development banks and the Slovene government, which opened an investigation in 2009.<br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNITED STATES<br /><br />On 22 December 2014, Alstom agreed to pay a USD $772,290,000 fine to resolve charges related to a widespread scheme involving tens of millions of dollars in bribes in countries around the world, including Indonesia, Saudi Arabia, Egypt and the Bahamas.<br />Alstom pleaded guilty to a two-count criminal information filed in the U.S. District Court for the District of Connecticut, charging the company with violating the FCPA by falsifying its books and records and failing to implement adequate internal controls.  <br />In addition, Alstom Network Schweiz AG, Alstom’s Swiss subsidiary, pleaded guilty to a criminal information charging the company with conspiracy to violate the anti-bribery provisions of the FCPA.  Alstom Power and Alstom Grid, two U.S. subsidiaries, both entered into deferred prosecution agreements, admitting that they conspired to violate the anti-bribery provisions of the FCPA.  <br /><br />Individual (US)<br /><br />On 16 April 2013, the DOJ announced charges for two individuals associated with Alstom.  Frederic Pierucci (Alstom sales executive) was arrested on 14 April 2013 and charged with money laundering and violating the FCPA and conspiracy to launder money and conspiracy to violate the FCPA. Pierucci pleaded guilty on 30 July 2013 to the two FCPA charges.  As of 7 April 2014, Alstom faces an expanded probe including power projects in China and India, according to court documents in a related case. <br />David Rothschild (former vice president of sales of Alstom USA) pleaded guilty on 2 November 2012 to conspiracy to violate the FCPA.  His charges were unsealed by the DOJ on 16 April 2013. <br /><br />On 1 May 2013, the DOJ announced charges for another former executive, William Pomponi - money laundering and violating the FCPA and conspiracy to launder money and conspiracy to violate the FCPA.  Mr. Pomponi pleaded guilty on 17 July 2014 in connection with the awarding of the Tarahan power project in Indonesia. The DOJ announced the same charges for another former Alstom executive, Lawrence Hoskins, on 30 July 2013. <br /><br /><br />UNITED KINGDOM<br /><br />On 24 March 2010, the Serious Fraud Office (SFO) in the United Kingdom carried out dawn raids at nine locations, including five business locations and four personal residences, in a sting codenamed Operation Ruthenium. Three board members of Alstom's UK subsidiaries were arrested during the raids on suspicion of bribery and corruption, conspiracy to pay bribes, money laundering and false accounting. Stephen Burgin, Robert Purcell and Alan Cledwyn Davies were released later the same day without being charged. The SFO stated that it is working closely with Swiss authorities to investigate allegations of overseas bribery within the Company. Alstom stated that it is cooperating with the investigation.<br /><br />The Times of London reported on 7 September 2011 that a "senior figure" from Alstom had met with the SFO to discuss a possible settlement of the investigation. No settlement has occurred. The Telegraph reported, however, on 22 November 2011 that the amount that the SFO would require Alstom to pay under a settlement would be higher than the EUR 31 million paid by the Company under its settlement with Swiss authorities.<br /><br />In June 2014, the Attorney General gave the SFO permission to prosecute Alstom and its former employees for alleged overseas bribery, and on 24 July 2014, the SFO started criminal proceedings against Alstom's UK subsidiary, charging it with three corruption offenses, and three counts of conspiracy to corrupt.  On 10 September 2014, the trial of a U.K. subsidiary of Alstom began, with the SFO alleging in filings that the company paid USD $8.5 million in bribes for large transportation contracts in India, Poland, and Tunisia. <br /><br />A former managing director at the industrial giant Alstom appeared in court on 27 October 2014 after he was accused of bribing Indian transport officials to win lucrative contracts.  Robert Hallett, who worked for the company’s UK business, was accused of paying agents of Delhi Metro Rail Corporation USD $3.82 million (£2.44 million) and 19.9 million rupees (USD $316,792) “as inducements or rewards for showing favor to the Alstom in relation to the award or performance of a contract."<br /><br />Graham Hill, a former director of Alstom, was charged by a British court on 15 January 2015 with corruption and conspiring to dishonestly obtain services in relation to transportation contracts in India and Poland.  Two of the charges relate to Mr. Hill corruptly giving or agreeing to give payments to an official or officials or other agents of the Delhi Metro Rail Corporation Limited.  According to the allegations, Mr. Hill improperly gave "the sum of INR 19,895,000 disguised as payments in respect of a Consultancy Agreement with Indo European Ventures Pte Ltd."  Mr. Hill also allegedly gave "the sum of 3,131,600 euros disguised as a payment in respect of a Consultancy Agreement with Global King Technology Ltd dated 3rd May 2002 as inducements or rewards for showing favour to the Alstom Group in relation to the award or performance of a contract with the said Delhi Metro Rail Corporation Ltd for a Train Control, Signalling and Telecommunications System for the Delhi Metro Phase 1."  Mr. Hill's case was sent to Southwark Crown Court in London for a preliminary hearing on 28 January 2015.<br /><br /><br />BRAZIL<br /><br />Domestic bribery investigations in Brazil appear to be ongoing.  According to one press report on 2 March 2011, Brazil's Ministry of Justice received relevant documents from the Swiss and French authorities in early February 2011. According to news reports, in February 2015 a Brazilian court blocked approximately $104 million of assets belonging to Alstom, three former employees and a Sao Paulo judge.<br /><br /><br />ITALY<br /><br />Domestic bribery investigations in Italy appear to be ongoing.  <br /><br /><br />MEXICO<br /><br />According to a 2007 OECD report, in 2001 Mexican authorities brought civil charges against Alstom for bribing two high-ranking Mexican officials in 1999 in order to win a tender.  In 2004, Mexico's Ministry of Public Administration fined Alstom MXN 341,100 and barred the Company from participating in public tender procedures for two years. (Areva, another French company, was similarly charged and penalized in connection with the matter.)<br /><br /><br />SLOVENIA<br /><br />After an investigation into the contract for the power plant in Sostanj, the Slovenia Commission for the Prevention of Corruption (SCPC) released its findings in February 2012, saying that "there was (and still is) high risk of corruption and conflict of interest" in the project. Reuters reported on 20 April 2012 that the Slovene Parliament voted to guarantee the loan provided for the project in spite of the SCPC's report of potential corruption. Aspects of Alstom's winning bid for the project appear to still be under investigation by the Slovenian National Investigations Office.<br /><br /><br />SWITZERLAND<br /><br />On 6 May 2010, Swiss prosecutors indicted Swiss banker Oskar Holenweger for money laundering and fraud in connection with his management of Alstom funds.  According to press reports, the indictment alleges that he received about CHF 1 million (USD 900,000) in exchange for arranging bribe payments from Alstom to business partners.  On 21 April 2011, it was reported that a Swiss court acquitted Holenweger of the charges and awarded him more than CHF 400,000 (USD 450,000) in damages, having found the evidence to be insufficient. <br /><br />On 22 November 2011, the Swiss Office of Attorney General (OAG) closed its investigation into Alstom.  Prosecutors identified three cases in which improper payments were made by Alstom Network Schweiz AG to civil servants in Latvia, Malaysia and Tunisia.  The Company was sanctioned for "corporate negligence" and fined CHF 2.5 million (around EUR 2 million), as well as  an amount corresponding to the estimated profits in the order of CHF 36 million (around EUR 29 million).  The OAG noted the Company's cooperation and remedial compliance measures. <br /><br /><br />WORLD BANK<br /><br />On 22 February 2012, a Negotiated Resolution Agreement was reached between Alstom and the World Bank.  This settlement includes (1) the debarment of Alstom Hydro France and Alstom Network Schweiz AG and their affiliates for a period of three years, and (2) payment of approximately USD 9.5 million in restitution by the two companies.  The period of debarment could be reduced to 21 months with enhanced oversight if all conditions are complied with.  Alstom SA and its affiliates are conditionally non-debarred.  However, Alstom Hydro France and Alstom Network Schweiz are subject to cross-debarment by other development banks.  The penalties are based on a finding that Alstom made an improper payment of a USD $145,000 (EUR 110,000) consultancy fee to an entity controlled by a former senior government official in Zambia in 2002.  Alstom did not admit the allegations.<br /><br />On 24 February 2015, Alstom disclosed that its subsidiaries Alstom Hydrom France, Alstom Network Schweiz and their affiliates had been released from the World Bank debarment based on the World Bank's Integrity Compliance Office's determination that Alstom had satisfied the conditions of its 21 February 2012 settlement with the World Bank. As part of its determination, the Integrity Compliance Office determined that Alstom had implemented a compliance program that is "in line with the World Bank's integrity compliance guidelines."<br /><br /><br />EUROPEAN INVESTMENT BANK AND EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT<br /><br />In April 2012, media reports stated that the European Investment Bank (EIB) and the European Bank for Reconstruction and Development (EBRD) had initiated investigations into the leak of information during the 2007 bidding process. Prior to this announcement, on 16 March 2012, the EBRD suspended payments on the TES project, pending the conclusion of an investigation into bidding and procurement corruption.<br /><br /><br />ANCILLARY CONSEQUENCES: INSTITUTIONAL INVESTORS<br /><br />In December 2011, the Norwegian Ministry of Finance placed Alstom on the Norwegian Government Pension Fund's watch list because of the corruption allegations. The Fund owns about USD $250 million worth of Alstom shares; its Ethics Board will now monitor Alstom's activities for four years before deciding whether to divest or not.  <br />
+		<h2>COMPLIANCE MONITOR</h2>
+        Commitment to cooperate with the WB Integrity Vice Presidency
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ may structure agreements in a way that reduces potential successor liability for the acquiring company as a reward for conducting effective pre-acquisition FCPA due diligence.  For example, the DOJ may specify in plea agreements that fines and settlements must be paid by the predecessor entities.</li><li>The DOJ emphasized the government’s commitment to investing substantial time and resources to pro-actively investigate bribery globally. It also underscored the importance of voluntary disclosure, cooperation and remediation.</li><li>Companies increasingly can find themselves under investigation by authorities in multiple jurisdictions in connection with the same set of alleged misconduct.</li><li>Debarment by one development bank implicates debarment by others, according to a 2010 agreement.</li><li>The period of debarment may be reduced if the companies comply with all conditions of the agreement and submit to enhanced oversight.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=920">Alstom: Annual Report (2004/2005)</a></p><p><a href="file.asp?id=921">OECD: Phase 2 Report - Mexico (2007)</a></p><p>Transparency International: 2008 Progress Report Questionnaire - Mexico (2008)</p><p><a href="file.asp?id=778">Alstom: Annual Report (2008/2009)</a></p><p>New York Times: "Alstom at Center of Web of Bribery Inquiries" (29 March 2010)</p><p>Bloomberg Businessweek: "Swiss indict banker in alleged Alston bribery case" (7 May 2010)</p><p>Telegraph: "Alstom's bid to clear its name" (12 June 2010)</p><p><a href="file.asp?id=1319">Alstom: Half-Year Financial Report (16 November 2010)</a></p><p>Estadio: "France and Switzerland send documents in the Alstom Case" (in Portuguese) (2 March 2011)</p><p>Bloomberg BusinessWeek: "Swiss court acquits banker in corruption case" (21 April 2011)</p><p><a href="file.asp?id=1539">SFO Press Release: "Judicial Review Judgment in the Alstom case: Applications of Stephen Burgin and Robert Purcell" (13 July 2011)</a></p><p>The Times of London: "Alstom in talks with SFO over resolution of bribery claims" (7 September 2011)</p><p>	Washington Post: "Swiss prosecutors close corruption case against Alstom in return for $43 million payment" (22 November 2011)</p><p><a href="file.asp?id=1654">Alstom Press Release: "The Swiss Office of Attorney General confirms the absence of any bribery system at Alstom. It fines the company for 'corporate negligence' in three isolated cases" (22 November 2011)</a></p><p><a href="file.asp?id=1655">Swiss OAG Press Release: "Criminal proceedings against Alstom entities are brought to a close" (22 November 2011)</a></p><p>The Telegraph: "Alstom in &pound;27m bribery settlement" (22 November 2011)</p><p><a href="file.asp?id=1707">World Bank Press Release: "World Bank Debars Alstom Hydro France, Alstom Network Schweiz AG, and their Affiliates" (22 February 2012)</a></p><p><a href="file.asp?id=1813">Alstom: Letter from NGOs requesting suspension of payments by EBRD (13 March 2012)</a></p><p><a href="file.asp?id=1812">Alstom: Letter announcing suspension of payments by EBRD for Sostanj plant (16 April 2012)</a></p><p>Reuters: "Slovenia moves toward backing Alstom power project" (20 April 2012)</p><p><a href="file.asp?id=2228">DOJ Press Release: "Foreign Bribery Charges Unsealed Against Current and Former Executives of French Power Company" (16 April 2013)</a></p><p><a href="file.asp?id=2263">DOJ Press Release: "Former Executive of French Power Company Subsidiary Charged in Connection with Foreign Bribery Scheme" (1 May 2013)</a></p><p><a href="file.asp?id=2389">DOJ Press Release: "Former Senior Executive of French Power Company Charged in Connection with Foreign Bribery Scheme" (30 July 2013)</a></p><p><a href="file.asp?id=2477">Brazilian pol seeks probe of Alstom bribery claims _ Fox News Latino</a></p><p><a href="file.asp?id=2513">Alstom graft probe widens to India, China projects - WSJ</a></p><p><a href="file.asp?id=2608">DOJ Criminal Information - Alstom SA</a></p><p><a href="file.asp?id=2609">DOJ Criminal Information - Alstom Grid</a></p><p><a href="file.asp?id=2610">DOJ Criminal Information - Alstom Power</a></p><p><a href="file.asp?id=2611">DOJ Criminal Information - Alstom Prom</a></p><p><a href="file.asp?id=2612">DOJ Plea Agreement - Alstom SA</a></p><p><a href="file.asp?id=2613">DOJ Plea Agreement - Alstom Prom</a></p><p><a href="file.asp?id=2614">DOJ Deferred Prosecution Agreement - Alstom Power</a></p><p><a href="file.asp?id=2615">DOJ Deferred Prosecution Agreement - Alstom Grid</a></p><p><a href="file.asp?id=2616">WSJ - DOJ Announces Alstom Settlement</a></p><p><a href="file.asp?id=2624">Former director of Alstom Graham Hill charged in bribery case - Economic Times</a></p><p><a href="file.asp?id=2657">Alstom: "Alstom's compliance program meeting the World Bank's guidelines. Alstom Hydro France released from debarment" (24 February 2015)</a></p><p>Fox Business: "Alstom assets in Brazil are blocked amid a bribery investigation" (3 February 2015)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

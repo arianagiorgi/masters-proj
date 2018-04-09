@@ -1,0 +1,142 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923039soz3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192303ii2vk" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BHP BILLITON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(186)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192303073rs" width="415" height="61" /></div>
+    
+        <h1>BHP BILLITON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />Australia: Securities and Investments Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BHP Billiton Limited ("BHP Billiton")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Natural resources and mining and metals company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Melbourne, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Cambodia<br />China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 15 May 2010, the Sydney Morning Herald reported allegations that BHP Billiton made two improper payments to the Cambodian government in 2006: a USD $1 million payment to receive a mining concession in a region of Cambodia and a USD $2.5 million payment into a "social fund" for development projects. The Sydney Morning Herald reported that these payments were not recorded by the government in its accounting records and that none of the development projects has occurred. Furthermore, the article reports that multiple politicians and bureaucrats in Cambodia have publicly stated that the payments were bribes or payments akin to bribes, including one who said that the USD $2.5 million payment was "tea money" (a bribe) for the mining concession.<br /><br />BHP Billiton described the ongoing investigation by the U.S. Securities and Exchange Commission ("SEC") on 21 April 2010, saying that the investigation was related primarily to certain terminated minerals exploration projects regarding possible violations of applicable anti-corruption laws. <br /><br />BHP Billiton disclosed in its Annual Report released on 22 December 2010 an internal investigation was commenced into possible misconduct involving interactions with government officials.  According to press reports, the Australian and UK authorities are investigating as well.<br /><br />On 13 March 2013, Reuters reported that the U.S. Department of Justice ("DOJ") is investigating allegations surrounding BHP Billiton's sponsorship of the 2008 Beijing Olympics. The allegations are that BHP Billiton provided "inducements, hospitality and gifts" to government officials from China and other countries. According to one source Reuters cited, among the officials that allegedly received the bribes were leaders from Chinalco (a Chinese state-owned aluminum producer) and the China Iron and Steel Association. The DOJ's investigation came to light after an information request carried out by Fairfax Media in Australia. <br /><br />Bloomberg News reported on 17 June 2013 that BHP Billiton provided evidence to Australian and U.S. authorities regarding the Beijing Olympics. <br /><br />In a Company press release dated 16 August 2013, BHP Billiton stated that "the SEC and DOJ have recently notified the Group of the issues they consider could form the basis of enforcement actions and discussions are continuing.  The issues relate primarily to matters in connection with previously terminated exploration and development efforts, as well as hospitality provided as part of the Company’s sponsorship of the 2008 Beijing Olympics."<br /><br />On 25 September 2014, BHP Billiton announced that it is discussing resolution with U.S. enforcement agencies related to matters in connection with previously terminated exploration and development efforts, as well as hospitality provided as part of the company's sponsorship of the 2008 Beijing Olympics.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Cambodian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 3.5 million in two payments</p>
+</td>
+<td>
+<p>Mining concession in Cambodia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unknown</p>
+</td>
+<td>
+<p>Unknown</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=796">BHP Billiton: Press Release (21 April 2010)</a></p><p>The Independent: "US corruption investigation centres on BHP Billiton" (22 April 2010)</p><p>The Australian: "BHP's mystery violation charge" (24 April 2010)</p><p>International Business Times: "Cambodian Minister denies illegal payments from BHP" (27 April 2010)</p><p>Sydney Morning Herald: "BHP's 'tea money' missing in Cambodia" (15 May 2010)</p><p><a href="file.asp?id=1389">BHP Billiton: Annual Report (22 December 2010)</a></p><p>Business Day: "OZ denies allegations of bribery in Cambodia" (1 June 2011)</p><p>Reuters: "BHP Billiton faces corruption probe over Beijing Olympics" (13 March 2013)</p><p>The Australian: "BHP firm on bribe claims: we are clean" (14 March 2013)</p><p>Bloomberg News: "BHP Gives Evidence on Bribery Charges Linked to Beijing Olympics" (17 June 2013)</p><p><a href="file.asp?id=2404">BHP Billiton: Press Release (16 August 2013)</a></p><p><a href="file.asp?id=2590">BHP Billiton Nears End of FCPA Probe _ Compliance Week</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

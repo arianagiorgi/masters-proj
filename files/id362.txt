@@ -1,0 +1,126 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192536vqhl1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925369zpq0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NEWS CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(362)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925367o51r" width="415" height="61" /></div>
+    
+        <h1>NEWS CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />United Kingdom: Crown Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        News Corporation ("News Corp.")<br />News International Group Limited ("News International," wholly-owned U.K. subsidiary of News Corporation)<br />News of the World (UK tabloid newspaper published by News International; closed on 10 July 2011)<br />The Wall Street Journal (owned by News Corp.)<br />The Sun, U.K. based subsidiary of News Corp.<br />Geoff Webster (deputy editor of The Sun, a tabloid newspaper owned by News Corp.)<br />Duncan Larcombe (chief royal correspondent at The Sun)<br />John Kay (former chief reporter for The Sun)<br />Fergus Shanahan (executive editor of The Sun)<br />John Edwards (picture editor at The Sun)<br />John Troup (district reporter at The Sun)<br />Anthony France (crime reporter for The Sun)<br />Andy Coulson (former editor of News of the World)<br />Clive Goodman (former royal editor for News of the World)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global vertically integrated media company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, NY, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 28 June 2013, News Corporation separated into two separate companies: 21st Century Fox and New Newscorp LLC (referred to as News Corporation). <br /><br />UNITED KINGDOM<br /><br />News Corp. has been under investigation by U.K. and U.S. regulators since 2011 in connection with allegations that employees of the company's News of the World tabloid paid bribes to U.K. police officials in exchange for the telephone numbers of celebrities, soldiers, victims and others, which were then allegedly hacked, in violation of anti-bribery and other laws.  On 21 September 2011, the U.S. Department of Justice ("DOJ") sent News Corp. a letter requesting information on the alleged payments made by employees to U.K. police for news-related tips.  The U.K. and the U.S. are investigating whether similar conduct may have occurred at the Company's subsidiaries outside of the U.K. <br /><br />In July 2011, the company announced that it would close its publication, News of the World, after allegations of phone hacking and payments to police.  <br /><br />In addition, the Company has admitted liability in a number of civil cases related to the phone hacking allegations and has settled a number of cases.  The company announced that it had created an independent Management & Standards Committee, which has oversight of, and responsibility for, all matters in relation to the News of the World phone hacking case, police payments and all other connected issues at News International.  On 6 November 2011, a News Corp. employee was arrested by London police on suspicion of corruption in connection with the broader probe.  <br /><br />Without adding specifics, the Company acknowledged the ongoing corruption investigation, noting in its Third Quarter 2012 filing, SEC Form 10-Q on 10 May 2012, "U.K. and U.S. regulators and governmental authorities are conducting investigations initiated in 2011 after allegations of phone hacking and inappropriate payments to public officials at our former publication, The News of the World , and other related matters, including investigations into whether similar conduct may have occurred at the Company's subsidiaries outside of the U.K."<br /><br />CHINA<br /><br />On 17 March 2013, the Wall Street Journal reported that an anonymous whistleblower had contacted the DOJ during its investigation of News Corp. with information regarding bribery allegations involving the Wall Street Journal's China news bureau. The allegations were that one or more Wall Street Journal employees provided gifts including "lavish entertainment and travel" to Chinese government officials in Chongqing for access to newsworthy information. The DOJ began its investigation of the allegations in 2012. The Journal conducted an internal investigation and concluded that there was no evidence to substantiate the allegations. Furthermore, some at News Corp. "suspect the informant was an agent of the Chinese government, seeking to disrupt and possibly retaliate against the Journal for its reporting on China's leadership."<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to UK Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">One source alleged GBP 23,000 paid by one person; the rest of the payment amounts are unspecified</td>
+<td style="text-align: center;">Access to information and phone numbers through which newsworthy information could be obtained through hacking&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Chinese Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Access to newsworthy information</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        UNITED KINGDOM<br /><br />As part of a Metropolitan Police Service investigation into phone hacking by News of the World employees, in June 2011, News International provided the police with documents that indicated that inappropriate payments had been made to police officers. <br /><br /><br />CHINA<br /><br />The Wall Street Journal reported that the allegations involving the Journal in China were reported by an anonymous whistleblower.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNITED KINGDOM<br /><br />On 10 January 2013, April Casburn, formerly the Detective Chief Inspector in the Metropolitan Police's counter-terrorist financing unit, was convicted in Southwark Crown Court of misconduct in public office, for accepting money in exchange for confidential information about the phone-hacking investigation of News of the World. <br /><br />On 14 March 2013, the Wall Street Journal reported that police in the UK had arrested four journalists, bringing the total number of arrests of journalists and police officers in the UK's investigation of News Corp. to 116. The Wall Street Journal reported on the same day that prosecutors announced plans to charge one police officer, James Bowes, for releasing information in exchange for money. <br /><br />On 20 March 2013, the Wall Street Journal reported that Geoff Webster, deputy editor of The Sun (a News Corp. tabloid), had been charged with two offenses of "conspiring to commit misconduct in public office." The charges stem from allegations that Webster authorized bribes to police officers in order to acquire information. <br /><br />The Guardian reported on 24 April 2013 that Duncan Larcombe, chief royal correspondent for The Sun, was charged with bribing a sergeant of a British military academy (where Prince Harry and Prince William had spent part of their military training) and his wife in order to acquire information about the royal family. The Guardian said that 34 bribes totaling approximately GBP 23,000 were allegedly made between 2006 and 2008. <br /><br />On 26 February 2014, three reporters at News Corp.’s Sun tabloid and two former police officers were arrested by the Crown Prosecution Service.  On 12 August 2014, Mr. France, a crime reporter for News Corp subsidiary based out of the U.K., The Sun, was charged by the Crown Prosecution Services with allegedly paying public officials for information.  Mr. France allegedly made improper payments to police officer Timothy Edwards between March 2008 and July 2011, and July 2009 and August 2009 respectively.<br /><br />In 2014, two former News of the World editors, Andy Coulson and Clive Goodman, were on trial for charges related to their alleged payments to police officers for royal phone directories. The jury was unable to reach a verdict, and a retrial will begin in June 2015.<br /><br />On 5 November 2014, a former journalist for News of the World was convicted of conspiracy to commit misconduct in public office. The charges against the journalist were related to his or her payments to a prison officer for information about a murderer. That person's identity cannot be disclosed for legal reasons.<br /><br />On 16 January 2015, Mr. John Edwards and Mr. Troup were acquitted by a jury at Kingston crown court of conspiring to commit misconduct in public office.  Mr. Troup had been charged with paying an unknown prison official at HMP Whitemoor in November 2007 for a story about a suicide there.  During the trial, it emerged that the four-paragraph story had not been written by Mr. Troup, and there was no evidence as to whether the payment was made.<br /><br />Mr. Edwards was cleared of two charges: that he conspired with Pharo, Pyatt and O’Driscoll over payments to the Surrey police officer Simon Quinn, and that he was involved with them in a second conspiracy in connection with leaks from Broadmoor high-security hospital.<br /><br />On 20 March 2015, Fregus Shanahan, executive editor of The Sun (a News Corp. subsidiary), Geoff Webster, the Sun's deputy editor, John Kay, the Sun's former chief reporter, and Duncan Larcombe, a reporter, were found not guilty of charges of conspiring to commit misconduct in a public office. The charges stem from allegations that they had authorized bribes to police officers in order to acquire information. <br /><br /><br />UNITED STATES<br /><br />The DOJ informed News Corp. on 28 January 2015 that its investigation was complete and it would not be prosecuting the company. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1569">News Corp.: SEC Form 8-K (10 August 2011)</a></p><p>Bloomberg: "News Corp. Said to Get Letter From U.S. in Bribery Probe" (20 September 2011)</p><p>Wall Street Journal: "U.S. Request Sent to News Corp." (20 September 2011)</p><p>Bloomberg: "News Corp. Says Employee Arrested in U.K. Police Bribery Probe" (6 November 2011)</p><p><a href="file.asp?id=1816">News Corp.: SEC Form 10-Q (10 May 2012)</a></p><p>Wall Street Journal: "Mirror Journalists Arrested in Phone-Hacking Probe" (14 March 2013)</p><p>Wall Street Journal: "Bribery Allegations Surfaced Against WSJ in China" (17 March 2013)</p><p>Wall Street Journal: "Editor at U.K.'s Sun to Be Charged in Bribe Probe" (20 March 2013)</p><p>The Guardian: "Sun royal editor to be charged over alleged payments to soldier" (24 April 2013)</p><p>The Guardian: "Murdoch's News Corp mulls FCPA deal with US Justice Department" (10 June 2013)</p><p><a href="file.asp?id=2486">News Corp Reporters Arrested in UK Bribery Probe</a></p><p><a href="file.asp?id=2622">Two Sun journalists acquitted of corruption charges _ UK news _ The Guardian</a></p><p><a href="file.asp?id=2632">News Corp.: SEC Form 8-K (2 February 2015)</a></p><p><a href="file.asp?id=2636">The Guardian: Jon Venables leak: journalist found guilty of paying prison officer</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #669966;">Education/Publishing</span><br /><span style="color: #006600;">Entertainment/Film </span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

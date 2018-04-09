@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192647nz281">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926475omxl" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BARCLAYS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(442)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192647122h2" width="415" height="61" /></div>
+    
+        <h1>BARCLAYS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />United Kingdom: Financial Services Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Barclays Plc ("Barclays")<br />Turki bin Abdullah Al Saud (Deputy Governor of Riyadh and son of King Abdullah of Saudi)<br />Al Obayya Corp. (Saudi company that assists foreign companies enter the Saudi market)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Banking and financial services (global financial services provider engaged in personal banking, credit cards, corporate and investment banking and wealth and investment management)
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        United Kingdom Investigation<br /><br />In a press release by the U.K. Serious Fraud Investigation Office ("SFO") on 30 August 2012, it was announced that "[o]n 15 August 2012 the Director of the SFO formally opened an investigation into certain commercial arrangements between Barclays Bank and Qatar Holdings in 2008."<br /><br />Meanwhile, reports in the media indicate that the UK Financial Services Authority is conducting a civil investigation into whether Barclays properly disclosed the fees it paid to Qatar Holding, the investment arm of the Qatar Investment Authority, a  sovereign wealth fund, in 2007 and 2008.  Barclays is said to have disclosed that four current and former senior employees were being investigated by the regulator.  Reports allege that the Abu Dhabi sovereign wealth fund may also have been involved.  Three entities were involved In the 2008 recapitalization:  the QIA, Sheikh Mansour bin Zayed al- Nahhan (a member of the Abu Dhabi royal family), and a Japanese bank, Sumitomo. <br /><br />United States Investigation<br /><br />In the Company's Interim Management Statement for 30 September 2012 and filed with the London Stock Exchange on 31 October 2012, it states, "Barclays has been informed by the US Department of Justice (DOJ) and US Securities and Exchange Commission (SEC) that they are undertaking an investigation into whether the Group's relationships with third parties who assist Barclays to win or retain business are compliant with the United States Foreign Corrupt Practices Act."<br /><br />The Financial Times reported on 9 November 2012 that U.S. prosecutors were pursuing the investigation into whether Barclays made improper payments in order to secure a license to operate a wealth management fund and investment bank in Saudi Arabia in 2009.<br /><br />An International Business Times story from 13 May 2013 reported that the DOJ is specifically looking at the relationship between Barclays and Turki bin Abdullah Al Saud. Bin Abdullah is the son of King Abdullah of Saudi, deputy governor of Riyadh, and a shareholder in Al Obayya Corp. According to the story, Barclays hired Bin Abdullah through Al Obayya, and the DOJ is investigating whether Barclays "paid Bin Abdullah or Al Obayya a fixer's fee in 2002 related to the bank’s attempt to recover what it said was a government-backed $900 million loan to an unnamed borrower to build military compounds that would be leased to the Saudi Defense Ministry." The story also says that the DOJ is investigating whether Bin Abdullah is the individual that allegedly received the improper payments to help Barclays acquire a banking license in 2009.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unknown</td>
+<td style="text-align: center;">Unknown</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2027">Barclays: SFO Press Release (30 August 2012)</a></p><p><a href="file.asp?id=2028">Barclays: Interim Management Statement to London Stock Exchange (30 September 2012)</a></p><p>Financial Times: "Barclays in US probe over Saudi licence" (9 November 2012)</p><p>International Business Times: "Did Barclays Pay The Son Of Saudi King Abdullah Bribes For Market Access?" (13 May 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192407w5f1w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192407jd34b" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GENERAL DYNAMICS EUROPE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(257)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924072q896" width="415" height="61" /></div>
+    
+        <h1>GENERAL DYNAMICS EUROPE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Austria: Vienna Prosecution Office<br />Czech Republic: Anti-Corruption Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        General Dynamics Corporation (Virginia-based defense contractor) ("GD")<br />General Dynamics European Land Systems (European business unit of GD) ("GDELS")<br />Steyr-Daimler-Puch Spezialfahrzeug GmbH (one of four European companies comprising GDELS) ("Steyr")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Land combat systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Vienna, Austria
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Czech Republic<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2010 Czech authorities began an investigation into alleged corruption in connection with the Czech military's purchase of Pandur armored personnel carriers ("APCs") from Steyr-DaimIer-Puch Spezialfahrzeug GmbH ("Steyr").  Steyr is an Austrian subsidiary of General Dynamics and, along with MOWAG in Switzerland, Santa Bárbara Sistemas in Spain and General Dynamics European Land Systems in Germany, constitutes the defense company's General Dynamics European Land Systems business unit.  <br /><br />The deal was first struck by a social democratic cabinet right before the general elections in 2006.  The Government bought 199 APCs plus an option for an additional 35 APCs for CZK 20 billion. The social democrats then lost the general election and the opposition, led by a center-right party called ODS, formed a new cabinet.  In 2007, the new Government cancelled the deal as disadvantageous and renegotiated it.  The renegotiated deal was for 107 APC for CZK 14.4 billion.  The price per unit thus went up 33% in CZK.  <br /><br />According to press reports, Austrian authorities have also begun investigating the matter.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to&nbsp;Czech Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Contract for the supply of APCs to the Czech military</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Czech investigation started in February 2010 upon a report by investigative journalists.  Steyr managers had allegedly admitted that each of the five Czech parliamentary parties at the time had received 2-3% of the volume of the contract.  <br /> <br />The head of the Czech Police stated at the outset that he does not believe the investigation could be successful because the alleged improper payments occurred "so long ago."  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing; however, the head of the Czech Police stated at the outset that he does not believe the investigation could be successful because the alleged improper payments occurred "so long ago."  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Prague Post: "Police launch investigation of Pandur military vehicle deal" (24 Feb. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184254o89v8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842541w2w5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(62)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184254d40pv" width="415" height="61" /></div>
+    
+        <h1>AGCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGCO Corporation ("AGCO")<br />AGCO Ltd. (wholly-owned U.K. subsidiary of AGCO)<br />AGCO Danmark A/S (wholly-owned Danish subsidiary of AGCO) <br />AGCO S.A. (wholly-owned French subsidiary of AGCO)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of agricultural machinery and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Duluth, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) charged AGCO's wholly-owned subsidiary in the United Kingdom, AGCO Ltd., with conspiracy to commit wire fraud and violate the FCPAs books and records provisions in connection with improper payments made to the government of Iraq under the United Nations ("UN") Oil for Food Program.  The SEC charged AGCO with violating the books and records and internal controls provisions of the FCPA in connection with the activities of certain subsidiaries under the UN Oil for Food Program.  <br /><br />According to the criminal information filed against AGCO Ltd., between 2000 and 2003 the company paid approximately USD 553,000 in kickbacks to the former government of Iraq to secure three contracts with the Iraqi Ministry of Agriculture to sell agricultural equipment and parts.  AGCO Ltd. inflated the price of the contracts by 13-21% before submitting the contracts to the U.N. for approval. <br /><br />According to the SEC, from 2000 through 2003, AGCO's U.K., Danish and French subsidiaries made a total of USD 5,912,393 in kickback payments to the Iraqi government in connection with sixteen contracts for the sale of agricultural equipment to Iraqi ministries.  The payments were characterized as after-sales service fees ("ASSFs") and were largely made through a Jordanian agent.  To conceal the kickback scheme, AGCO's employees created a fictional account in its books and records denoted as "Ministry Accrual."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 5,912,393</p>
+</td>
+<td>
+<p style="text-align: center;">Profits of USD 13,907,393 from sales of agricultural machinery and equipment to Iraqi ministries</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including AGCO subsidiaries.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 September 2009, AGCO entered into a three-year deferred prosecution agreement with the DOJ, under which ACGO acknowledged responsibility for the conduct of its subsidiaries and agreed to pay a USD 1.6 million criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, AGCO consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  AGCO was ordered to disgorge USD 13,907,393 in profits plus USD 2,000,000 in pre-judgment interest, and to pay a civil penalty of USD 2,400,000.<br /><br />The DOJ reported that, also on the same day, AGCO settled an ongoing investigation by the Danish State Prosecutor for Serious Economic Crime in connection with two Oil for Food contracts executed by AGCO Danmark A/S.  AGCO agreed to disgorge USD 630,000 of profits in connection with these charges.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=10">DOJ Press Release: September 30, 3009 (AGCO Corp. to Pay $1.6 Million in Connection with Payments to the Former Iraqi Government Under the U.S. Oil-for-Food Program)</a></p><p><a href="file.asp?id=11">SEC Litigation Release: September 30, 2009 (SEC Files Settled Books and Records and Internal Controls Charges Against AGCO Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program...)</a></p><p><a href="file.asp?id=12">Criminal Information: U.S. v. AGCO Limited (September 30, 2009)</a></p><p><a href="file.asp?id=13">Complaint: SEC v. AGCO Corporation (September 30, 2009)</a></p><p><a href="file.asp?id=14">Deferred Prosecution Agreement (September 30, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921115q852">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192111c8rbt" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(62)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192111p44he" width="415" height="61" /></div>
+    
+        <h1>AGCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGCO Corporation ("AGCO")<br />AGCO Ltd. (wholly-owned U.K. subsidiary of AGCO)<br />AGCO Danmark A/S (wholly-owned Danish subsidiary of AGCO) <br />AGCO S.A. (wholly-owned French subsidiary of AGCO)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of agricultural machinery and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Duluth, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) charged AGCO's wholly-owned subsidiary in the United Kingdom, AGCO Ltd., with conspiracy to commit wire fraud and violate the FCPAs books and records provisions in connection with improper payments made to the government of Iraq under the United Nations ("UN") Oil for Food Program.  The SEC charged AGCO with violating the books and records and internal controls provisions of the FCPA in connection with the activities of certain subsidiaries under the UN Oil for Food Program.  <br /><br />According to the criminal information filed against AGCO Ltd., between 2000 and 2003 the company paid approximately USD 553,000 in kickbacks to the former government of Iraq to secure three contracts with the Iraqi Ministry of Agriculture to sell agricultural equipment and parts.  AGCO Ltd. inflated the price of the contracts by 13-21% before submitting the contracts to the U.N. for approval. <br /><br />According to the SEC, from 2000 through 2003, AGCO's U.K., Danish and French subsidiaries made a total of USD 5,912,393 in kickback payments to the Iraqi government in connection with sixteen contracts for the sale of agricultural equipment to Iraqi ministries.  The payments were characterized as after-sales service fees ("ASSFs") and were largely made through a Jordanian agent.  To conceal the kickback scheme, AGCO's employees created a fictional account in its books and records denoted as "Ministry Accrual."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 5,912,393</p>
+</td>
+<td>
+<p style="text-align: center;">Profits of USD 13,907,393 from sales of agricultural machinery and equipment to Iraqi ministries</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including AGCO subsidiaries.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 September 2009, AGCO entered into a three-year deferred prosecution agreement with the DOJ, under which ACGO acknowledged responsibility for the conduct of its subsidiaries and agreed to pay a USD 1.6 million criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, AGCO consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  AGCO was ordered to disgorge USD 13,907,393 in profits plus USD 2,000,000 in pre-judgment interest, and to pay a civil penalty of USD 2,400,000.<br /><br />The DOJ reported that, also on the same day, AGCO settled an ongoing investigation by the Danish State Prosecutor for Serious Economic Crime in connection with two Oil for Food contracts executed by AGCO Danmark A/S.  AGCO agreed to disgorge USD 630,000 of profits in connection with these charges.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=10">DOJ Press Release: September 30, 3009 (AGCO Corp. to Pay $1.6 Million in Connection with Payments to the Former Iraqi Government Under the U.S. Oil-for-Food Program)</a></p><p><a href="file.asp?id=11">SEC Litigation Release: September 30, 2009 (SEC Files Settled Books and Records and Internal Controls Charges Against AGCO Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program...)</a></p><p><a href="file.asp?id=12">Criminal Information: U.S. v. AGCO Limited (September 30, 2009)</a></p><p><a href="file.asp?id=13">Complaint: SEC v. AGCO Corporation (September 30, 2009)</a></p><p><a href="file.asp?id=14">Deferred Prosecution Agreement (September 30, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

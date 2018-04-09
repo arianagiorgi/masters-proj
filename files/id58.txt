@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184250srrt1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842502688f" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHEVRON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(58)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842508qff3" width="415" height="61" /></div>
+    
+        <h1>CHEVRON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Kazakhstan:  Public Prosecutor of Kazakhastan<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chevron Corporation ("Chevron")<br />Overseas International  Constructors  GmbH ("OIC")<br />KazMunaiGas ("KMG"), Kazakhstan's state-owned oil company<br />Karachaganak Petroleum Operating B.V. ("KPO")  <br />Deutsche Post AG<br />DHL<br />Tengizchevroil, partnership for the development of the Tengiz and Korolev oil fields<br />ExxonMobil<br />LukArco, a subsidiary of OAO Lukoil Holdings
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Ramon, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Oil for Food (Iraq)<br /><br />The SEC charged Chevron with books and records and internal controls violations of the FCPA in connection with the company's procurement of Iraqi oil under the United Nations (U.N.) Oil for Food Program.  The SEC alleged that, from approximately April 2001 through May 2002, Chevron made approximately USD 20 million in kickback payments, through third parties, in connection with its purchases of crude oil through the program.  According to the SEC, Chevron knew or should have known that the third parties paid a portion of the premiums they received from Chevron to Iraq as illegal surcharges. These surcharges bypassed the U.N. Oil for Food escrow account and were instead paid to Iraqi-controlled bank accounts in Jordan and Lebanon.<br /><br />According to the SEC's complaint, during this period Chevron purchased approximately 78 million barrels of crude oil from Iraq through 36 contracts with third parties.  In January 2001, Chevron learned of surcharge demands by Iraq's State Oil Marketing Organization ("SOMO") and implemented a company-wide policy prohibiting such payments, requiring its oil traders' to obtain prior written approval for all proposed oil purchases from Iraq and obliging management to review each proposed Iraqi oil deal.  Chevron's oil traders did not follow this policy and management did not successfully ensure its compliance, failing to conduct proper due diligence into the third parties and instead relying on traders representations.  Chevron's management routinely approved Iraqi oil purchases despite the obvious increase in premiums going to third parties.  <br /><br />Kazakhstan<br /><br />Chevron was one of four major oil companies involved in Karachaganak Petroleum Operating B.V. (KPO), a consortium formed for the purpose of developing the Karachaganak oil and gas condensate field in northwestern Kazakhstan, that initiated internal investigations after a whistleblower sent them an email in March 2012 alleging improper payments to Kazakh customs officials.  The email alleged that the members of the consortium, Chevron, ENI, Lukoil and BG Group, have been using DHL to make improper payments to Kazakh customs authorities since 2004.  The purpose of the payments is to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.<br /><br />Additional allegations were made by the whistleblower based on Chevron's involvement in a second consortium, Tengizchevroil, a partnership of Exxon, Chevron and KMG for the development of the Tengiz and Korolev oil fields.  These allegations centered around payments to customs officials for expedited or cursory inspections of imported goods and equipment, as well as payments to officials to allow convoys to be officially escorted as required by Kazakh law, and to move through customs without delay.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 20 million</p>
+</td>
+<td>
+<p style="text-align: center;">Purchases of 78 million barrels of crude oil, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil for Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Chevron.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.<br /> <br />The Kazakhstan allegations were exposed when a whistleblower reported to the members of the consortium and DHL, in April 2012, that the Tengizchevroil consortium had been making improper payments to Kazakh customs officials since 2004.    The purpose of the payments was to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.   The whistleblower also alleged that DHL regularly pays "convoy bribes" on behalf of Tengizchevroil, often amounting to bribes of USD 150 to USD 300 paid to customs officials and official escorts required by Kazakh law, to ensure that shipments would not be delayed. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Iraq<br /><br />Chevron resolved these violations by entering into a non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York and the New York Country District Attorney's Office.  Chevron also entered into a separate agreement with the Office of Foreign Assets Control of the U.S. Department of the Treasury ("OFAC") and reached a settlement with the SEC.<br /><br />On 14 November 2007, without admitting or denying the SEC's allegations, Chevron consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Chevron was ordered to disgorge USD 25,000,000 in profits and to pay a civil penalty of USD 3,000,000.  <br /><br />Chevron will satisfy its disgorgement obligation by forfeiting USD 20,000,000 pursuant to its non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York and paying USD 5,000,000 in disgorgement the New York Country District Attorney's Office pursuant to the agreement.  Chevron will also pay a USD 2,000,000 civil penalty to OFAC.<br /><br />The U.S. Attorney's Office for the Southern District of New York was to transfer the USD 20,000,000 forfeited by Chevron to the Development Fund of Iraq (established on 21 May 2003, by United Nations Security Council Resolution 1483) as restitution to the people of Iraq.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws to investigate and prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=45">Press Release, U.S. Attorney's Office, Southern District of New York: November 14, 2007 (Chevron Corporation Agrees to Pay $30 Million in Oil-for-Food Settlement)  </a></p><p><a href="file.asp?id=512">Complaint: SEC v. Chevron Corporation (November 14, 2007)</a></p><p><a href="file.asp?id=513">SEC Litigation Release: November 14, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Chevron Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program - Company Agrees to Pay a Total of $30 Million) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921079174i">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192107gp17k" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHEVRON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(58)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192107e224e" width="415" height="61" /></div>
+    
+        <h1>CHEVRON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Kazakhstan:  Public Prosecutor of Kazakhastan<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chevron Corporation ("Chevron")<br />Overseas International  Constructors  GmbH ("OIC")<br />KazMunaiGas ("KMG"), Kazakhstan's state-owned oil company<br />Karachaganak Petroleum Operating B.V. ("KPO")  <br />Deutsche Post AG<br />DHL<br />Tengizchevroil, partnership for the development of the Tengiz and Korolev oil fields<br />ExxonMobil<br />LukArco, a subsidiary of OAO Lukoil Holdings
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Ramon, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Oil for Food (Iraq)<br /><br />The SEC charged Chevron with books and records and internal controls violations of the FCPA in connection with the company's procurement of Iraqi oil under the United Nations (U.N.) Oil for Food Program.  The SEC alleged that, from approximately April 2001 through May 2002, Chevron made approximately USD 20 million in kickback payments, through third parties, in connection with its purchases of crude oil through the program.  According to the SEC, Chevron knew or should have known that the third parties paid a portion of the premiums they received from Chevron to Iraq as illegal surcharges. These surcharges bypassed the U.N. Oil for Food escrow account and were instead paid to Iraqi-controlled bank accounts in Jordan and Lebanon.<br /><br />According to the SEC's complaint, during this period Chevron purchased approximately 78 million barrels of crude oil from Iraq through 36 contracts with third parties.  In January 2001, Chevron learned of surcharge demands by Iraq's State Oil Marketing Organization ("SOMO") and implemented a company-wide policy prohibiting such payments, requiring its oil traders' to obtain prior written approval for all proposed oil purchases from Iraq and obliging management to review each proposed Iraqi oil deal.  Chevron's oil traders did not follow this policy and management did not successfully ensure its compliance, failing to conduct proper due diligence into the third parties and instead relying on traders representations.  Chevron's management routinely approved Iraqi oil purchases despite the obvious increase in premiums going to third parties.  <br /><br />Kazakhstan<br /><br />Chevron was one of four major oil companies involved in Karachaganak Petroleum Operating B.V. (KPO), a consortium formed for the purpose of developing the Karachaganak oil and gas condensate field in northwestern Kazakhstan, that initiated internal investigations after a whistleblower sent them an email in March 2012 alleging improper payments to Kazakh customs officials.  The email alleged that the members of the consortium, Chevron, ENI, Lukoil and BG Group, have been using DHL to make improper payments to Kazakh customs authorities since 2004.  The purpose of the payments is to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.<br /><br />Additional allegations were made by the whistleblower based on Chevron's involvement in a second consortium, Tengizchevroil, a partnership of Exxon, Chevron and KMG for the development of the Tengiz and Korolev oil fields.  These allegations centered around payments to customs officials for expedited or cursory inspections of imported goods and equipment, as well as payments to officials to allow convoys to be officially escorted as required by Kazakh law, and to move through customs without delay.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 20 million</p>
+</td>
+<td>
+<p style="text-align: center;">Purchases of 78 million barrels of crude oil, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil for Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Chevron.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.<br /> <br />The Kazakhstan allegations were exposed when a whistleblower reported to the members of the consortium and DHL, in April 2012, that the Tengizchevroil consortium had been making improper payments to Kazakh customs officials since 2004.    The purpose of the payments was to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.   The whistleblower also alleged that DHL regularly pays "convoy bribes" on behalf of Tengizchevroil, often amounting to bribes of USD 150 to USD 300 paid to customs officials and official escorts required by Kazakh law, to ensure that shipments would not be delayed. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Iraq<br /><br />Chevron resolved these violations by entering into a non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York and the New York Country District Attorney's Office.  Chevron also entered into a separate agreement with the Office of Foreign Assets Control of the U.S. Department of the Treasury ("OFAC") and reached a settlement with the SEC.<br /><br />On 14 November 2007, without admitting or denying the SEC's allegations, Chevron consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Chevron was ordered to disgorge USD 25,000,000 in profits and to pay a civil penalty of USD 3,000,000.  <br /><br />Chevron will satisfy its disgorgement obligation by forfeiting USD 20,000,000 pursuant to its non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York and paying USD 5,000,000 in disgorgement the New York Country District Attorney's Office pursuant to the agreement.  Chevron will also pay a USD 2,000,000 civil penalty to OFAC.<br /><br />The U.S. Attorney's Office for the Southern District of New York was to transfer the USD 20,000,000 forfeited by Chevron to the Development Fund of Iraq (established on 21 May 2003, by United Nations Security Council Resolution 1483) as restitution to the people of Iraq.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws to investigate and prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=45">Press Release, U.S. Attorney's Office, Southern District of New York: November 14, 2007 (Chevron Corporation Agrees to Pay $30 Million in Oil-for-Food Settlement)  </a></p><p><a href="file.asp?id=512">Complaint: SEC v. Chevron Corporation (November 14, 2007)</a></p><p><a href="file.asp?id=513">SEC Litigation Release: November 14, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Chevron Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program - Company Agrees to Pay a Total of $30 Million) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

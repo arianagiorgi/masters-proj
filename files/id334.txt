@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192513ca8lb">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925131oohy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RIAD EL-TAHER </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(334)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192513wgym4" width="415" height="61" /></div>
+    
+        <h1>RIAD EL-TAHER </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Riad El-Taher
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Riad El-Taher, a British citizen, admitted to making four illegal payments to the Iraqi Government in 2001 totalling over USD 500,000 in order to secure lucrative oil contracts under the United Nations Oil for Food Programme. During this period, payments to Iraq could legally only be made after a licence had been granted by Her Majesty's Treasury.  El-Taher had neither obtained nor sought any such licence.<br /><br />The contracts obtained by the illegal payments were for two million barrels of oil valued at over $50 million. This oil was sold for a profit of over $600,000, most of which was deposited in an offshore bank account controlled by El-Taher.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;Approximate Alleged Payments to the Iraqi Government</td>
+<td style="text-align: center;" width="50%">&nbsp;Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Over USD 500,000</td>
+<td style="text-align: center;">&nbsp;Contracts for 2 million barrels of oil valued at over USD 50 million and sold for a profit of over USD 600,000</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        After the fall of the Saddam Hussein regime in Iraq, the United Nations set up a committee to investigate sanctions breaches. In the committee's findings published in October 2005, El-Taher was identified as one of the individuals involved in breaking sanctions.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SFO commenced an investigation which led to the arrest of El-Taher in August 2008.  He was charged in August 2009 and pleaded guilty to all charges on January 13, 2011.  On February 25, 2011, El-Taher was sentenced to 10 months in jail.  <br /><br />The UK made the breach of United Nation sanctions on Iraq a criminal offence in by legislation implemented in 1990 and 2000.  El-Taher pleaded guilty to offences under the legislation implemented in 2000 - i.e., The Iraq (United Nations Sanctions) Order 2000 (Statutory Instrument 3241) - which made it a criminal offence to make funds available to the Iraqi Government without a licence granted by HM Treasury.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The UK SFO has pursued both companies and individuals involved in breaches of the United Nations sanctions against Iraq in the early 2000's.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1357">SFO Press Release (25 Feb. 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

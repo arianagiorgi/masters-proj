@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18432449xur">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18432410v61" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CBRN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(95)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184324ktkke" width="415" height="61" /></div>
+    
+        <h1>CBRN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        CBRN Solutions UK ("CBRN")<br />Niels Tobiasen (Managing Director of CBRN)<br />Ananias Tumukunbe (an adviser to Uganda's President)<br />Rusoke Togaswire (a Ugandan military officer)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security consulting services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Salisbury, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Niels Tobiasen, a Danish national, was the Managing Director of CBRN, a UK specialist consultancy that advises on the threat of chemical and nuclear attacks.  In May 2007, CBRN was awarded a Ugandan government contract, worth GBP 210,000, to supply training and equipment to guard the commonwealth meeting in Kampala which was attended by world leaders including the Queen and Gordon Brown (the UK Prime Minister).  <br /><br />CBRN was in total awarded six contracts worth in excess of GBP 500,000.  Ananias Tumukunbe, a science and technology adviser to the Ugandan President, Yoweri Museveni, attended at CBRN's offices and demanded payments for what he called "local taxes."  Over eight months Tobiasen sent Tumukunbe five payments worth GBP 83,000.  The payments went to Tumukunbe and a Ugandan military officer, Rusoke Togaswire. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Ugandan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP&nbsp;83,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts worth over GBP 500,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is unknown.  It is possible that it was the result of a Suspicious Activity Report ("SAR") made in compliance with the UK anti-money laundering legislation. <br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The convictions in this case, in September 2008, were the first convictions achieved by the newly formed specialist squad at the City of London Police.  <br /><br />Niels Tobiasen pleaded guilty and was given a jail sentence of five months suspended for a year. <br /><br />Ananias Tumukunbe who had been a Private Secretary in the Ugandan Government's Science and Technology Department, pleaded guilty and was jailed for a year.  He has since been deported to Uganda.  Tumukunbe appears to still be serving as an adviser to the Ugandan President.   <br /><br />Rusoke Togaswire, the Ugandan military officer, is still wanted by the City of London Police.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In this case a foreign public official, who committed the relevant act while abroad, was prosecuted and convicted of an offense by the UK courts. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921413qfqk">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921412dwd4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CBRN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(95)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192141l60uw" width="415" height="61" /></div>
+    
+        <h1>CBRN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        CBRN Solutions UK ("CBRN")<br />Niels Tobiasen (Managing Director of CBRN)<br />Ananias Tumukunbe (an adviser to Uganda's President)<br />Rusoke Togaswire (a Ugandan military officer)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security consulting services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Salisbury, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Niels Tobiasen, a Danish national, was the Managing Director of CBRN, a UK specialist consultancy that advises on the threat of chemical and nuclear attacks.  In May 2007, CBRN was awarded a Ugandan government contract, worth GBP 210,000, to supply training and equipment to guard the commonwealth meeting in Kampala which was attended by world leaders including the Queen and Gordon Brown (the UK Prime Minister).  <br /><br />CBRN was in total awarded six contracts worth in excess of GBP 500,000.  Ananias Tumukunbe, a science and technology adviser to the Ugandan President, Yoweri Museveni, attended at CBRN's offices and demanded payments for what he called "local taxes."  Over eight months Tobiasen sent Tumukunbe five payments worth GBP 83,000.  The payments went to Tumukunbe and a Ugandan military officer, Rusoke Togaswire. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Ugandan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP&nbsp;83,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts worth over GBP 500,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is unknown.  It is possible that it was the result of a Suspicious Activity Report ("SAR") made in compliance with the UK anti-money laundering legislation. <br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The convictions in this case, in September 2008, were the first convictions achieved by the newly formed specialist squad at the City of London Police.  <br /><br />Niels Tobiasen pleaded guilty and was given a jail sentence of five months suspended for a year. <br /><br />Ananias Tumukunbe who had been a Private Secretary in the Ugandan Government's Science and Technology Department, pleaded guilty and was jailed for a year.  He has since been deported to Uganda.  Tumukunbe appears to still be serving as an adviser to the Ugandan President.   <br /><br />Rusoke Togaswire, the Ugandan military officer, is still wanted by the City of London Police.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In this case a foreign public official, who committed the relevant act while abroad, was prosecuted and convicted of an offense by the UK courts. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

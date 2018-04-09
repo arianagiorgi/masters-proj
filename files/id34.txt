@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170720540u6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707208rd7o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INTERNATIONAL MATERIALS SOLUTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(34)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170720isnr7" width="415" height="61" /></div>
+    
+        <h1>INTERNATIONAL MATERIALS SOLUTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Materials Solutions Corporation ("IMS")<br />Thomas K. Qualey (President and shareholder of IMS)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Purchase, repair and resale of surplus military equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Beavercreek, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Sometime in 1995, Thomas Qualey, President of IMS, met with a Lieutenant Colonel in the Brazilian Air Force who was stationed as a Foreign Liaison Officer at the Wright Patterson Air Force Base in Ohio.   The Lt. Col. was authorized to make purchases of military equipment on behalf of the purchasing agent of the Brazilian Air Force, the Brazilian Aeronautical Commission ("BAC").  Sometime in 1995, the Lt. Col. and Thomas Qualey agreed that IMS would purchase fork lift trucks, recondition them and then resell them to the BAC.   The Lt. Col. would approve the BAC's purchases in exchange for payments from IMS.  <br /><br />Between 1995 and 1996, Thomas Qualey arranged two purchases of fork lifts for repair and resale.  After each purchase, the Lt. Col. was paid by IMS for his approval of the transaction.  IMS paid the Lt. Col. USD 42,950 for the first transaction, and received USD 229,000 in revenue from the BAC.  IMS paid the Lt. Col. USD 24,613 for the second transaction, and received USD 163,250 in revenue.  IMS falsely described the payments to the Lt. Col. as sales commissions.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Brazilian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 67,563</p>
+</td>
+<td>
+<p style="text-align: center;">USD 392,250 (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 September 1999, IMS pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  IMS was sentenced to a one-year probationary term and ordered to pay a USD 1,000 fine and a USD 400 assessment fee.  <br /><br />On 1 September 1999, Qualey pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  He was sentenced to 3 years of probation, 150 hours of community service and 4 months of home confinement.  He was ordered to pay a USD 5,000 fine and USD 100 assessment fee.  The judgment was satisfied on 2 March 2002.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA prohibits corrupt payments to a foreign official intended to influence any act or decision of the official in his or her official capacity, to induce the official to do or omit to do any act in violation of his or her lawful duty, to obtain any improper advantage, or to induce an official to use his or her influence improperly to affect or influence any act or decision.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=131">Judgment: U.S. v. International Materials Solutions Corporation </a></p><p><a href="file.asp?id=132">Satisfaction and Judgment: U.S. v. Thomas K. Qualey</a></p><p><a href="file.asp?id=410">Information: U.S. v. International Materials Solutions Corporation, and Thomas K. Qualey (February 8, 1999)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842291e54k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184229920g8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INTERNATIONAL MATERIALS SOLUTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(34)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184229a69qq" width="415" height="61" /></div>
+    
+        <h1>INTERNATIONAL MATERIALS SOLUTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Materials Solutions Corporation ("IMS")<br />Thomas K. Qualey (President and shareholder of IMS)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Purchase, repair and resale of surplus military equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Beavercreek, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Sometime in 1995, Thomas Qualey, President of IMS, met with a Lieutenant Colonel in the Brazilian Air Force who was stationed as a Foreign Liaison Officer at the Wright Patterson Air Force Base in Ohio.   The Lt. Col. was authorized to make purchases of military equipment on behalf of the purchasing agent of the Brazilian Air Force, the Brazilian Aeronautical Commission ("BAC").  Sometime in 1995, the Lt. Col. and Thomas Qualey agreed that IMS would purchase fork lift trucks, recondition them and then resell them to the BAC.   The Lt. Col. would approve the BAC's purchases in exchange for payments from IMS.  <br /><br />Between 1995 and 1996, Thomas Qualey arranged two purchases of fork lifts for repair and resale.  After each purchase, the Lt. Col. was paid by IMS for his approval of the transaction.  IMS paid the Lt. Col. USD 42,950 for the first transaction, and received USD 229,000 in revenue from the BAC.  IMS paid the Lt. Col. USD 24,613 for the second transaction, and received USD 163,250 in revenue.  IMS falsely described the payments to the Lt. Col. as sales commissions.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Brazilian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 67,563</p>
+</td>
+<td>
+<p style="text-align: center;">USD 392,250 (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 September 1999, IMS pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  IMS was sentenced to a one-year probationary term and ordered to pay a USD 1,000 fine and a USD 400 assessment fee.  <br /><br />On 1 September 1999, Qualey pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  He was sentenced to 3 years of probation, 150 hours of community service and 4 months of home confinement.  He was ordered to pay a USD 5,000 fine and USD 100 assessment fee.  The judgment was satisfied on 2 March 2002.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA prohibits corrupt payments to a foreign official intended to influence any act or decision of the official in his or her official capacity, to induce the official to do or omit to do any act in violation of his or her lawful duty, to obtain any improper advantage, or to induce an official to use his or her influence improperly to affect or influence any act or decision.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=131">Judgment: U.S. v. International Materials Solutions Corporation </a></p><p><a href="file.asp?id=132">Satisfaction and Judgment: U.S. v. Thomas K. Qualey</a></p><p><a href="file.asp?id=410">Information: U.S. v. International Materials Solutions Corporation, and Thomas K. Qualey (February 8, 1999)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192045qfa37">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192045jbj91" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INTERNATIONAL MATERIALS SOLUTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(34)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920455ud60" width="415" height="61" /></div>
+    
+        <h1>INTERNATIONAL MATERIALS SOLUTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Materials Solutions Corporation ("IMS")<br />Thomas K. Qualey (President and shareholder of IMS)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Purchase, repair and resale of surplus military equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Beavercreek, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Sometime in 1995, Thomas Qualey, President of IMS, met with a Lieutenant Colonel in the Brazilian Air Force who was stationed as a Foreign Liaison Officer at the Wright Patterson Air Force Base in Ohio.   The Lt. Col. was authorized to make purchases of military equipment on behalf of the purchasing agent of the Brazilian Air Force, the Brazilian Aeronautical Commission ("BAC").  Sometime in 1995, the Lt. Col. and Thomas Qualey agreed that IMS would purchase fork lift trucks, recondition them and then resell them to the BAC.   The Lt. Col. would approve the BAC's purchases in exchange for payments from IMS.  <br /><br />Between 1995 and 1996, Thomas Qualey arranged two purchases of fork lifts for repair and resale.  After each purchase, the Lt. Col. was paid by IMS for his approval of the transaction.  IMS paid the Lt. Col. USD 42,950 for the first transaction, and received USD 229,000 in revenue from the BAC.  IMS paid the Lt. Col. USD 24,613 for the second transaction, and received USD 163,250 in revenue.  IMS falsely described the payments to the Lt. Col. as sales commissions.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Brazilian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 67,563</p>
+</td>
+<td>
+<p style="text-align: center;">USD 392,250 (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 September 1999, IMS pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  IMS was sentenced to a one-year probationary term and ordered to pay a USD 1,000 fine and a USD 400 assessment fee.  <br /><br />On 1 September 1999, Qualey pleaded guilty to conspiracy and violating the anti-bribery provisions of the FCPA.  He was sentenced to 3 years of probation, 150 hours of community service and 4 months of home confinement.  He was ordered to pay a USD 5,000 fine and USD 100 assessment fee.  The judgment was satisfied on 2 March 2002.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA prohibits corrupt payments to a foreign official intended to influence any act or decision of the official in his or her official capacity, to induce the official to do or omit to do any act in violation of his or her lawful duty, to obtain any improper advantage, or to induce an official to use his or her influence improperly to affect or influence any act or decision.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=131">Judgment: U.S. v. International Materials Solutions Corporation </a></p><p><a href="file.asp?id=132">Satisfaction and Judgment: U.S. v. Thomas K. Qualey</a></p><p><a href="file.asp?id=410">Information: U.S. v. International Materials Solutions Corporation, and Thomas K. Qualey (February 8, 1999)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

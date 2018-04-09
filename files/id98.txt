@@ -1,0 +1,326 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843277c9ah">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18432790x7d" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MABEY & JOHNSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(98)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184327olfaj" width="415" height="61" /></div>
+    
+        <h1>MABEY & JOHNSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Mabey & Johnson Limited ("Mabey & Johnson")<br />Richard Charles Edward Forsyth (former Managing Director of Mabey & Johnson)<br />David Mabey (former Sales Director of Mabey & Johnson)<br />Richard Gledhill (former Sales Manager for contracts in Iraq)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering firm specializing in temporary bridges
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lydney, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Jamaica<br />Ghana<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1994 until January 2001, Mabey & Johnson made corrupt payments to representatives of the governments of Ghana and Jamaica.  Also, between May 2001 and November 2002, Mabey & Johnson made funds available to the government of Iraq or a person resident in Iraq in breach of United Nations sanctions. <br /><br />The payments made to those in Ghana, Jamaica and Iraq were the subject of a number of criminal charges to which Mabey & Johnson pleaded guilty. <br /><br />The court was informed that bribes totalling GBP 470,000 were paid to politicians and officials in Ghana and also, over an eight year period, GBP 200,000 was paid to Jamaican officials.  Payments in Iraq amounted to over GBP 420,000, and were made in order to secure a contract to supply 13 steel modular bridges.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials in Ghana</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP 470,792.60</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue of approximately GBP 26 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP&nbsp;420,000</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue of approximately EUR 4.2 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Jamaican Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over GBP 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue in excess of GBP 8 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In January 2007, Mabey & Johnson commenced civil proceedings in the High Court in London against some former employees and its agent in Jamaica.  A Defence and Counterclaim filed within those proceedings alleged that it was common practice for Mabey & Johnson to pay government officials in order to secure contracts.  The lawyers instructed by Mabey & Johnson in relation to these civil proceedings, upon a separate Mabey and Johnson instruction, undertook an internal investigation.  The results of that internal investigation were provided to the SFO.  Mabey & Johnson cooperated fully with the SFO, including providing the SFO with privileged notes of internal interviews, directors and employees conducted during the internal investigation. <br /><br />After discovery of the corrupt payment there was a wholesale change of the senior management at Mabey & Johnson. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 September 2009, Mabey & Johnson received the following sentence: (i) for bribes paid for work in Ghana, the company was fined GBP 750,000 and (ii) for bribes paid for work in Jamaica, the company was fined GBP 750,000; for breach of the UN sanctions in Iraq, the company was fined GBP 2 million.<br /><br />Under the Confiscation Order in relation to money received under contracts secured by illegal payments, the company was ordered to pay GBP 1.1 million.<br /><br />Mabey & Johnson was also ordered to pay the following amounts as reparations: (i) GBP 658,000 to Ghana; (ii) GBP 139,000 to Jamaica; and (iii) GBP 618,000 to Iraq. <br /><br />The company was ordered to pay GBP 350,000 in SFO costs.<br /><br />As part of the agreement reached with the SFO, Mabey & Johnson agreed to strengthen its compliance code and work with a compliance monitor.  The company was expected to spend up to GBP 250,000 in first year monitoring costs.<br /><br />The total financial penalties were approximately GBP 6.5 million.<br /><br />On 10 February 2011, two former directors of Mabey & Johnson - Richard Charles Edward Forsyth (former Managing Director) and David Mabey (former Sales Director) - were found guilty by a jury in Southwark Crown Court of making illegal payments to Iraq during 2001 and 2002 in breach of United Nations sanctions. Another defendant, Richard Gledhill who was Sales Manager for contracts in Iraq, pleaded guilty to sanctions offences at an earlier hearing and gave evidence for the Prosecution.<br /><br />On 23 February 2011, Richard Charles Edward Forsyth was sentenced to 21 months imprisonment, disqualified from acting as a company director for five years and was ordered to pay prosecution costs of GBP 75,000.  David Mabey was sentenced to eight months imprisonment, disqualified from acting as a company director for two years and was ordered to pay prosecution costs of GBP 125,000.  Richard Gledhill was sentenced to eight months imprisonment, suspended for two years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This was the first successful UK prosecution of a company for corruption, as well as the first prison sentences handed down by any enforcement authority to individuals for engaging in bribery in breach of UN sanctions in Iraq.</li><li>After the disclosure was made by Mabey & Johnson, the SFO produced its voluntary disclosure programme which is described in an SFO publication Approach of the Serious Fraud Office for dealing with overseas corruption.  The guidance contained with the SFO booklet together with the anticipated further enforcement actions by the SFO will provide a combined body of case law and guidance which will give a good indication of the benefits of using the SFO's disclosure programme.</li><li>The SFO used the Proceeds of Crime Act to require disgorgement of GBP 130,000 based on dividends that were derived from bribe-tainted contracts, in a novel prosecution of investors.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=202">SFO Press Release: 25 September 2009 (Mabey & Johnson Ltd sentencing)</a></p><p><a href="file.asp?id=203">Prosecution Opening Note (Iraq)</a></p><p><a href="file.asp?id=204">SFO Guidance: 21 July 2009 (Approach of the Serious Fraud Office to Dealing with Overseas Corruption)</a></p><p><a href="file.asp?id=407">Prosecution Opening Note (Jamaica; Ghana)</a></p><p><a href="file.asp?id=1344">SFO Press Release: 10 February 2011 (Mabey & Johnson directors made illegal payments to Sadam Hussein's Iraq to gain contract)</a></p><p><a href="file.asp?id=1352">SFO Press Release: 23 February 2011 (Mabey & Johnson Ltd: Former executives jailed for helping finance Sadam Hussein's government)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19214479p1j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921443y31h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MABEY & JOHNSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(98)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192144q2xtz" width="415" height="61" /></div>
+    
+        <h1>MABEY & JOHNSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Mabey & Johnson Limited ("Mabey & Johnson")<br />Richard Charles Edward Forsyth (former Managing Director of Mabey & Johnson)<br />David Mabey (former Sales Director of Mabey & Johnson)<br />Richard Gledhill (former Sales Manager for contracts in Iraq)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering firm specializing in temporary bridges
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lydney, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Jamaica<br />Ghana<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1994 until January 2001, Mabey & Johnson made corrupt payments to representatives of the governments of Ghana and Jamaica.  Also, between May 2001 and November 2002, Mabey & Johnson made funds available to the government of Iraq or a person resident in Iraq in breach of United Nations sanctions. <br /><br />The payments made to those in Ghana, Jamaica and Iraq were the subject of a number of criminal charges to which Mabey & Johnson pleaded guilty. <br /><br />The court was informed that bribes totalling GBP 470,000 were paid to politicians and officials in Ghana and also, over an eight year period, GBP 200,000 was paid to Jamaican officials.  Payments in Iraq amounted to over GBP 420,000, and were made in order to secure a contract to supply 13 steel modular bridges.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials in Ghana</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP 470,792.60</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue of approximately GBP 26 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP&nbsp;420,000</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue of approximately EUR 4.2 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Jamaican Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over GBP 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Revenue in excess of GBP 8 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In January 2007, Mabey & Johnson commenced civil proceedings in the High Court in London against some former employees and its agent in Jamaica.  A Defence and Counterclaim filed within those proceedings alleged that it was common practice for Mabey & Johnson to pay government officials in order to secure contracts.  The lawyers instructed by Mabey & Johnson in relation to these civil proceedings, upon a separate Mabey and Johnson instruction, undertook an internal investigation.  The results of that internal investigation were provided to the SFO.  Mabey & Johnson cooperated fully with the SFO, including providing the SFO with privileged notes of internal interviews, directors and employees conducted during the internal investigation. <br /><br />After discovery of the corrupt payment there was a wholesale change of the senior management at Mabey & Johnson. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 September 2009, Mabey & Johnson received the following sentence: (i) for bribes paid for work in Ghana, the company was fined GBP 750,000 and (ii) for bribes paid for work in Jamaica, the company was fined GBP 750,000; for breach of the UN sanctions in Iraq, the company was fined GBP 2 million.<br /><br />Under the Confiscation Order in relation to money received under contracts secured by illegal payments, the company was ordered to pay GBP 1.1 million.<br /><br />Mabey & Johnson was also ordered to pay the following amounts as reparations: (i) GBP 658,000 to Ghana; (ii) GBP 139,000 to Jamaica; and (iii) GBP 618,000 to Iraq. <br /><br />The company was ordered to pay GBP 350,000 in SFO costs.<br /><br />As part of the agreement reached with the SFO, Mabey & Johnson agreed to strengthen its compliance code and work with a compliance monitor.  The company was expected to spend up to GBP 250,000 in first year monitoring costs.<br /><br />The total financial penalties were approximately GBP 6.5 million.<br /><br />On 10 February 2011, two former directors of Mabey & Johnson - Richard Charles Edward Forsyth (former Managing Director) and David Mabey (former Sales Director) - were found guilty by a jury in Southwark Crown Court of making illegal payments to Iraq during 2001 and 2002 in breach of United Nations sanctions. Another defendant, Richard Gledhill who was Sales Manager for contracts in Iraq, pleaded guilty to sanctions offences at an earlier hearing and gave evidence for the Prosecution.<br /><br />On 23 February 2011, Richard Charles Edward Forsyth was sentenced to 21 months imprisonment, disqualified from acting as a company director for five years and was ordered to pay prosecution costs of GBP 75,000.  David Mabey was sentenced to eight months imprisonment, disqualified from acting as a company director for two years and was ordered to pay prosecution costs of GBP 125,000.  Richard Gledhill was sentenced to eight months imprisonment, suspended for two years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This was the first successful UK prosecution of a company for corruption, as well as the first prison sentences handed down by any enforcement authority to individuals for engaging in bribery in breach of UN sanctions in Iraq.</li><li>After the disclosure was made by Mabey & Johnson, the SFO produced its voluntary disclosure programme which is described in an SFO publication Approach of the Serious Fraud Office for dealing with overseas corruption.  The guidance contained with the SFO booklet together with the anticipated further enforcement actions by the SFO will provide a combined body of case law and guidance which will give a good indication of the benefits of using the SFO's disclosure programme.</li><li>The SFO used the Proceeds of Crime Act to require disgorgement of GBP 130,000 based on dividends that were derived from bribe-tainted contracts, in a novel prosecution of investors.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=202">SFO Press Release: 25 September 2009 (Mabey & Johnson Ltd sentencing)</a></p><p><a href="file.asp?id=203">Prosecution Opening Note (Iraq)</a></p><p><a href="file.asp?id=204">SFO Guidance: 21 July 2009 (Approach of the Serious Fraud Office to Dealing with Overseas Corruption)</a></p><p><a href="file.asp?id=407">Prosecution Opening Note (Jamaica; Ghana)</a></p><p><a href="file.asp?id=1344">SFO Press Release: 10 February 2011 (Mabey & Johnson directors made illegal payments to Sadam Hussein's Iraq to gain contract)</a></p><p><a href="file.asp?id=1352">SFO Press Release: 23 February 2011 (Mabey & Johnson Ltd: Former executives jailed for helping finance Sadam Hussein's government)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924297nhgk">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924297xxc5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CASA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(283)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192429118z0" width="415" height="61" /></div>
+    
+        <h1>CASA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Korea: Incheon District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        EADS-CASA ("CASA," Spanish branch of European aerospace corporation EADS)<br />"Company A" (CASA's distributor in Korea)<br />Mr. Lee (former representative director of Company A)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aircraft manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Madrid, Spain
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In order to obtain an advantage in connection with the import of components of CN-235 transport aircraft which have been introduced into and operated by the Republic of Korea Air Force and the inspection process thereof, Lee allegedly colluded with an employee of CASA in Spain to arrange for CASA to pay travel expenses including airfare, lodging, etc. which amounted to KRW 10,370,000 for the then-Deputy Chief of Staff for Logistics of Republic of Korea Air Force Headquarters and his wife to participate in the Product Support Management Review held in Spain in June 2004.<br /><br />In addition, in order to advantage in connection with the import of CN-235 components and Ka-32A helicopters and their components and the inspection process thereof, Lee allegedly colluded with an employee of CASA in Spain to have CASA pay travel expenses including airfare, lodging, etc. which amounted to KRW 19,976,000 for the then-Air Force Logistics Commander and his wife for participation in the Product Support Management Review held in Spain in May 2005.  Lee thereby allegedly gave bribes to public officials in relation to the performance of their official duties in order to obtain improper advantage.<br /><br />In March 3, 2005, Lee allegedly gave a corporate credit card of Company A to an official at the Guard and Rescue Bureau of the Korea Coast Guard with a view to enjoying improper advantage in connection with the import and inspection process of turbo-prop aircraft.  From March 2005 through August 2006, the official allegedly spent KRW 10,013,377 with the credit card through 84 transactions.  In August 2005, Lee also allegedly gave the official EUR 1,000 in cash. <br /><br />It was alleged that, as a result, from 2003 through 2007 the Air Force Logistics Command arranged to purchase repair components for CN-235 aircrafts from CASA, with a contract price amounting to approximately four billion won in 2003-2004, five billion won in 2005-2006 and seven billion won in 2007.  The amount of revenues allegedly resulting from agreements with the Korea Coast Guard is unknown. <br /><br />CASA has stated to TRACE there was never any collusion between the company and Lee and that the company never obtained any undue advantage in connection with the alleged conduct.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Payments to Korean Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Over KRW 40 million<br /></td>
+<td style="text-align: center;">&nbsp;Contracts with the Korea Air Force&nbsp; and Korea Coast Guard, valued at over KRW 16 billion<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Board of Audit and Inspection of Korea ("BAI") requested an investigation by the Incheon District Prosecutor's Office into a case involving alleged false statements in a report prepared in connection with the introduction of turbo-prop aircraft in 2005.  The prosecutors then learned that Korea Coast Guard officers may have colluded with supplier companies to have specific types of model selected.  Based on the foregoing, the Incheon District Prosecutor's Office opened an investigation into potential corruption.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Lee was charged and sentenced to one year in prison by the Incheon District Court for his role in the conduct.  <br /><br />Neither CASA nor any CASA employee was charged in connection with the matter.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payment of travel expenses for high-ranking public officials for participation in meetings abroad by a company that has a direct interest in their official duties can constitute the offense of giving bribery under Korean law.</li><li>Under Korean law, in case where two parties colluded on a bribe and the bribe was provided only by one party, the other party who did not contribute to the bribe can also be deemed to be a joint principal offender.</li><li>Compliance with internal approval procedure (for participation in events abroad and associated expenses) by an offender can be considered favorably by the court in weighing the gravity of the offense and the harshness of the penalty.  However, that would not indemnify the offender from the bribery offense.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Incheon District Prosecutor's Office Press Release: January 3, 2008 (Results of the Investigation of Introduction of Equipment by the Korea Coast Guard)</p><p>Incheon District Court Decision (Criminal Division12): May 8, 2008</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

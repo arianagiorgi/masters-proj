@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842448pwlh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842449w1jy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NEXUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(51)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184244e255s" width="415" height="61" /></div>
+    
+        <h1>NEXUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nexus Technologies, Inc. ("Nexus")<br />Nam Quoc Nguyen (founder and President of Nexus)<br />Joseph T. Lukas (a partner in Nexus)<br />Kim Anh Nguyen (Nexus employee responsible for negotiating with suppliers and handling finances)<br />An Nguyen (a.k.a. Andrew Nguyen and Ethan Roberts) (Nexus employee responsible for negotiating with suppliers and handling logistics)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Export of various defense, security and communications-related products and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Philadelphia, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Nexus, a privately-held export company with offices in Philadelphia, New Jersey and Vietnam, bought various products and equipment from suppliers in the United States for export and sale to customers in Vietnam.  Nexus' government customers in Vietnam included Vung Tau Airport ("VTA") and Southern Flight Management Center ("SFMC"), which were operated by the Ministry of Transportation; Vietsovpetro Joint Venture ("VSP") and Petro Vietnam Gas Company ("PVGC"), which were operated by the Ministry of Industry; and Tourism and Trading Company ("T&T"), which was operated by the Ministry of Public Safety.  <br /><br />According to the indictment, Nexus allegedly paid approximately $150,000 from 1999 until 2008 to a number of Vietnamese officials who worked for the company's government customers in Vietnam.  These payments were usually described as commissions.  The defendants also allegedly established relationships with officials who they then described as supporters in exchange for confidential information and bid rigging.  The indictment cites a number of emails from the defendants to support the allegations, including an email sent on August 11, 2004 from Nam Nguyen to Kim Anh Nguyen that states "SFMC could have bought this  equipment from a local dealer for cheaper than ours. But they agreed to buy from us since we can  agree for them to add into the contract a fat markup for themselves."  The defendants allegedly routed the payments through a company based in Hong Kong. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Vietnamese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $250,000</p>
+</td>
+<td>
+<p style="text-align: center;">Total amount unclear, but more than $500,000 in revenue/profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The individuals involved were arrested on September 5, 2008.  It is unclear how the DOJ learned of the conduct. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 5, 2008, Nam Nguyen, Joseph Lukas, Kim Nguyen, and An Nguyen were arrested on charges that they violated the FCPA.  They, along with Nexus, were indicted on September 4, 2008 by a grand jury on one count of conspiracy to violate the FCPA and four substantive counts of violating the FCPA.  On October 29, 2009, the DOJ filed a superseding indictment charging one count of conspiracy to violate the FCPA, nine substantive FCPA violations, nine violations of the Travel Act, nine counts of money laundering in furtherance of a crime, aiding and abetting, and a forfeiture provision. Nexus was the first company ever to be indicted for FCPA violations. <br /><br />On June 29, 2009, Joseph Lukas pleaded guilty to the charges and agreed to cooperate with the DOJ.  On September 16, 2010, he was sentenced to two years of probation and ordered to pay a $1,000 fine<br /><br />On March 16, 2010, Nexus and three employees entered guilty pleas in U.S. District Court in Philadelphia.  Nexus pleaded guilty to conspiracy, violations of the FCPA and violations of the Travel Act violations n connection with commercial bribes and money laundering.  Nam Nguyen and An Nguyen each pleaded guilty to conspiracy, a substantive FCPA violation, a violation of the Travel Act and money laundering.  Kim Nguyen pleaded guilty to conspiracy, a substantive FCPA violation and money laundering.<br /><br />In connection with the guilty pleas, Nexus and the individual defendants admitted that, from 1999 to 2008, they knowingly paid over $250,000 in bribes to Vietnamese officials in order to obtain contracts with the agencies and companies for which the bribe recipients worked, and that the bribes were falsely described as "commissions" in the Nexus's records. Nexus, in pleading guilty, also acknowledged that it operated primarily through criminal means and the company agreed cease operations as a condition of the guilty plea.<br /><br />On September 16, 2010, Nam Nguyen was sentenced to 16 months in prison and ordered to serve two years of supervised release following the prison term. On the same day, An Nguyen (Nam Nguyen's brother) was sentenced to nine months in prison, to be followed by three years of supervised release. Kim Nguyen (sister to Nam and An Nguyen) was sentenced to two years of probation and ordered to pay a $20,000 fine.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies as well as individuals can be indicted for violations of the FCPA.</li><li>As part of a plea agreement, a company may agree to cease operations.</li><li>The government uses a number of tactics to investigate FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=210">DOJ Press Release: September 5, 2008 (Philadelphia Export Company and Employees Indicted for Paying Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=211">DOJ Press Release: June 29, 2009 (Former Executive of Philadelphia Export Company Pleads Guilty to Paying Bribes to Vietnamese Officials)</a></p><p><a href="file.asp?id=212">Indictment: United States v. Nam Quoc Nguyen et al (September 4, 2008)</a></p><p><a href="file.asp?id=577">Superseding Indictment: United States v. Nam Quoc Nguyen et al (October 29, 2009) </a></p><p><a href="file.asp?id=705">DOJ Press Release: March 16, 2010 (Nexus Technologies Inc. and Three Employees Plead Guilty to Paying Bribes to Vietnamese Officials)</a></p><p><a href="file.asp?id=1153">DOJ Press Release: September 16, 2010 (Former Nexus Technologies Inc. Employees and Partner)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19210135ljy">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19210167tie" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NEXUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(51)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19210181wv1" width="415" height="61" /></div>
+    
+        <h1>NEXUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nexus Technologies, Inc. ("Nexus")<br />Nam Quoc Nguyen (founder and President of Nexus)<br />Joseph T. Lukas (a partner in Nexus)<br />Kim Anh Nguyen (Nexus employee responsible for negotiating with suppliers and handling finances)<br />An Nguyen (a.k.a. Andrew Nguyen and Ethan Roberts) (Nexus employee responsible for negotiating with suppliers and handling logistics)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Export of various defense, security and communications-related products and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Philadelphia, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Nexus, a privately-held export company with offices in Philadelphia, New Jersey and Vietnam, bought various products and equipment from suppliers in the United States for export and sale to customers in Vietnam.  Nexus' government customers in Vietnam included Vung Tau Airport ("VTA") and Southern Flight Management Center ("SFMC"), which were operated by the Ministry of Transportation; Vietsovpetro Joint Venture ("VSP") and Petro Vietnam Gas Company ("PVGC"), which were operated by the Ministry of Industry; and Tourism and Trading Company ("T&T"), which was operated by the Ministry of Public Safety.  <br /><br />According to the indictment, Nexus allegedly paid approximately $150,000 from 1999 until 2008 to a number of Vietnamese officials who worked for the company's government customers in Vietnam.  These payments were usually described as commissions.  The defendants also allegedly established relationships with officials who they then described as supporters in exchange for confidential information and bid rigging.  The indictment cites a number of emails from the defendants to support the allegations, including an email sent on August 11, 2004 from Nam Nguyen to Kim Anh Nguyen that states "SFMC could have bought this  equipment from a local dealer for cheaper than ours. But they agreed to buy from us since we can  agree for them to add into the contract a fat markup for themselves."  The defendants allegedly routed the payments through a company based in Hong Kong. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Vietnamese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $250,000</p>
+</td>
+<td>
+<p style="text-align: center;">Total amount unclear, but more than $500,000 in revenue/profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The individuals involved were arrested on September 5, 2008.  It is unclear how the DOJ learned of the conduct. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 5, 2008, Nam Nguyen, Joseph Lukas, Kim Nguyen, and An Nguyen were arrested on charges that they violated the FCPA.  They, along with Nexus, were indicted on September 4, 2008 by a grand jury on one count of conspiracy to violate the FCPA and four substantive counts of violating the FCPA.  On October 29, 2009, the DOJ filed a superseding indictment charging one count of conspiracy to violate the FCPA, nine substantive FCPA violations, nine violations of the Travel Act, nine counts of money laundering in furtherance of a crime, aiding and abetting, and a forfeiture provision. Nexus was the first company ever to be indicted for FCPA violations. <br /><br />On June 29, 2009, Joseph Lukas pleaded guilty to the charges and agreed to cooperate with the DOJ.  On September 16, 2010, he was sentenced to two years of probation and ordered to pay a $1,000 fine<br /><br />On March 16, 2010, Nexus and three employees entered guilty pleas in U.S. District Court in Philadelphia.  Nexus pleaded guilty to conspiracy, violations of the FCPA and violations of the Travel Act violations n connection with commercial bribes and money laundering.  Nam Nguyen and An Nguyen each pleaded guilty to conspiracy, a substantive FCPA violation, a violation of the Travel Act and money laundering.  Kim Nguyen pleaded guilty to conspiracy, a substantive FCPA violation and money laundering.<br /><br />In connection with the guilty pleas, Nexus and the individual defendants admitted that, from 1999 to 2008, they knowingly paid over $250,000 in bribes to Vietnamese officials in order to obtain contracts with the agencies and companies for which the bribe recipients worked, and that the bribes were falsely described as "commissions" in the Nexus's records. Nexus, in pleading guilty, also acknowledged that it operated primarily through criminal means and the company agreed cease operations as a condition of the guilty plea.<br /><br />On September 16, 2010, Nam Nguyen was sentenced to 16 months in prison and ordered to serve two years of supervised release following the prison term. On the same day, An Nguyen (Nam Nguyen's brother) was sentenced to nine months in prison, to be followed by three years of supervised release. Kim Nguyen (sister to Nam and An Nguyen) was sentenced to two years of probation and ordered to pay a $20,000 fine.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies as well as individuals can be indicted for violations of the FCPA.</li><li>As part of a plea agreement, a company may agree to cease operations.</li><li>The government uses a number of tactics to investigate FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=210">DOJ Press Release: September 5, 2008 (Philadelphia Export Company and Employees Indicted for Paying Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=211">DOJ Press Release: June 29, 2009 (Former Executive of Philadelphia Export Company Pleads Guilty to Paying Bribes to Vietnamese Officials)</a></p><p><a href="file.asp?id=212">Indictment: United States v. Nam Quoc Nguyen et al (September 4, 2008)</a></p><p><a href="file.asp?id=577">Superseding Indictment: United States v. Nam Quoc Nguyen et al (October 29, 2009) </a></p><p><a href="file.asp?id=705">DOJ Press Release: March 16, 2010 (Nexus Technologies Inc. and Three Employees Plead Guilty to Paying Bribes to Vietnamese Officials)</a></p><p><a href="file.asp?id=1153">DOJ Press Release: September 16, 2010 (Former Nexus Technologies Inc. Employees and Partner)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

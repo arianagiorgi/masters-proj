@@ -1,0 +1,202 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19241892i4w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192418094bb" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ERICSSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(270)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192418jmxsn" width="415" height="61" /></div>
+    
+        <h1>ERICSSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Switzerland: Federal Public Prosecutor's Office<br />Sweden: Prosecution Authority, Anti-Corruption Unit<br />China: People's Procuratorate<br />Costa Rica: National Institute of Electricity<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Telefonaktiebolaget LM Ericsson ("Ericsson")<br />China Mobile - Sichuan branch<br />Chongqing Ericsson Technology Co., Ltd (the sole subsidiary of Ericsson in Western China)<br />Thomas Lundin (former Romania country manager for Ericsson)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Mobile broadband infrastructure
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stockholm, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bulgaria<br />Slovenia<br />China<br />Costa Rica<br />Greece<br />Libya<br />Oman<br />Poland<br />Romania<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Oman<br /><br />According to a Thomson Financial News report on 21 November 2007, Swedish Radio released a story alleging that Ericsson had used a Swiss bank account to make payments to an official in Oman in the late 1990s. According to the allegations, the Company made payments totaling SEK 12 million (approximately USD 1.9 million in November 2007) to the account of the Omani official in close proximity to Ericsson's winning bid for mobile network expansion in Oman (worth SEK 300 million). However, the story quoted a Swedish prosecutor as saying that authorities there will not open an investigation of these allegations due to the expiration of the statute of limitations.  <br /><br />Bulgaria, Libya, Poland and Slovenia<br /><br />According to press reports from 26 May 2003, the Swiss Federal Public Prosecutor's Office began investigating Ericsson in 2003 for alleged bribery of officials in Bulgaria, Libya, Poland and Slovenia in connection with mobile contracts.  The investigation was apparently prompted by reports from Swiss bank UBS after finding CHF 550 million in irregularities in the Company's financial transactions. According to a report from Reuters on 10 September 2003, the Swiss investigators did not find enough evidence to charge Ericsson with bribery.<br /><br />Russia<br /><br />The Local, a Swedish English-language newspaper, reported on 25 November 2004 that Swiss authorities began investigating allegations of a "payment of one billion crowns from Switzerland via Austria to Russia in connection with a railway building project that was never implemented." The current status of this investigation is unclear.<br /><br />Costa Rica<br /><br />Transparency International's OECD Anti-Bribery Convention Progress Report 2009 says that Ericsson has been under investigation in Costa Rica for "alleged bribery of officials at the National Institute of Electricity," which is the state-owned Instituto Costarricense de Electricidad ("ICE"). According to Inside Costa Rica's report of 6 October 2004, ICE initiated an investigation into allegations that Ericsson had paid for two ICE officials to travel to Prague. ICE's investigation purportedly determined that the allegations were true, and decided to re-open the bid for 600,000 new cellular phone lines that Ericsson had originally won. Inside Costa Rica reported on 3 June 2005 that Ericsson would proceed with the contract, presumably after having won the bid that was re-opened after ICE's investigation of Ericsson.<br /><br />Romania<br /><br />According to a Business New Europe report on 7 November 2012, allegations of bribery in Romania surfaced due to an arbitration case between Ericsson and its former Romania country manager, Thomas Lundin.  In the arbitration case, Ericsson accused Lundin of embezzling money from the Company, while Lundin has insisted that the Company's board in Romania knew that the money was in fact given as bribes to Romanian politicians. According to the story, Lundin alleges that USD 7 million was paid to Romanian officials in exchange for the award of a EUR 40 million contract for the "112" national emergency assistance service to Ericsson in 2003.  <br /><br />The Business New Europe article says that Cristian Sima, the owner of a British Virgin Islands investment company called WBS Holding, made public statements in Icelandic media to the effect that Lundin served as a managing partner in WBS Holding and told him that bribes were paid through the accounts of a Romanian journalist at WBS Holding. <br /><br />The Wall Street Journal reported on 23 May 2013 that the U.S. Securities & Exchange Commission ("SEC") has initiated an investigation into the allegations of bribery in Romania. <br /><br />China<br /><br />In an 11 October 2011 story, the China Times reported that Shen Changfu, former chairman and president of China Mobile Chongqing Branch, was on trial for accusations of bribery. The allegations were that he accepted CNY 36.2 million from Ericsson as well as the Chinese telecommunications supplier Huawei in 1996 when he arranged for Ericsson's facilities to be purchased by the Chongqing Telecom Bureau, which Shen then directed.  The CNY 36.2 million bribe represented 2% of the purchase deal, according to the prosecution. Shen was also accused of procuring advantages for members of his family (from Huawei), including a few years of salary for his son, who was employed briefly by Huawei.<br /><br />Greece<br /><br />According to Reuters, Ericsson allegedly paid 116 million Swedish crowns (approximately USD $18 million) to a commercial agent, which was then used to bribe Greek officials to secure a deal for Ericsson in 1999.  Ericsson said in a statement that it had paid money to the commercial agent, but did not know what became of it. The Greek order was for the Ericsson airborne surveillance system Erieye and was worth 4.9 billion Swedish crowns (USD $759 million).  Ericsson subsequently sold its defense business to Swedish group Saab.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Omani Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>SEK 12 million (approximately USD 1.9 million)<br /></td>
+<td>Contract for mobile network expansion in Oman worth SEK 300 million</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Romanian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>USD 7 million<br /></td>
+<td>EUR 40 million contract for servicing of the national emergency assistance number<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>CNY 36.2 million</td>
+<td>Assistance in selling facilities to the Chongquin Telecom Bureau<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Russian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>SEK 1 billion<br /></td>
+<td>Unspecified</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Costa Rican Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>Travel for two officials to Prague<br /></td>
+<td>Unspecified</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Greek Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>USD $18 million</td>
+<td>Contract for Ericsson's airborne surveillance system worth&nbsp;USD $759 million<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations appear to be ongoing. <br /><br />United States<br /><br />On 23 May 2013, the Wall Street Journal reported that the SEC has initiated an investigation into the allegations of bribery involving Ericsson in Romania. <br /><br />China<br /><br />Media reports on 18 November 2012 stated that an equipment procurement officer from Ericsson had been questioned by Chinese authorities, as part of the investigation of Li Hua, general manager of the Sichuan office of China Mobile, and Chen Binglan, deputy general manager of the same branch.  Li and Chen are in custody.  Another Chinese executive, Shen Changfu, former director of the Chongqing Telecom Administration and subsequently general manager of China Mobile Chongqing, was detained in an investigation by the Chinese authorities of procurement contracts with foreign suppliers, including Ericsson. It is unclear whether Ericsson itself is a subject of the Chinese investigation. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Telecompaper: "Swiss prosecutors investigate Ericsson bribes in Eastern Europe" (26 May 2003)</p><p>Reuters: "Ericsson cleared of bribe suspicions" (10 September 2003)</p><p>Inside Costa Rica: "Ericsson Contract Gone" (6 October 2004)</p><p>The Local: "Swiss officials investigate bribes at Ericsson" (25 November 2004)</p><p>Inside Costa Rica: "Court Upholds Ericsson Contract" (3 June 2005)</p><p>Thomson Financial: "Swedish prosecutor says no evidence Ericsson bribed Oman govt" (21 November 2007)</p><p>Le Matin: "Ericsson aurait vers&eacute; des pots de vin &agrave; Djilali Mehri" (24 November 2007)</p><p><a href="file.asp?id=2291">Transparency International: "OECD Anti-Bribery Convention: Progress Report 2009" (June 2009)</a></p><p>China Times: "Ericsson, Huawei said to Bribe China Mobile Official" (10 October 2011)</p><p>Business New Europe: "Romania corruption scandals ensnare Ericsson, SocGen" (7 November 2012)</p><p>OCCRP: "SEC Investigates Ericsson Bribe Allegations" (22 May 2013)</p><p>	Wall Street Journal: "Corruption Currents: From An Ericsson Investigation to Vatican's Defense" (23 May 2013)</p><p><a href="file.asp?id=2510">Ericsson money used for Greek bribes</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

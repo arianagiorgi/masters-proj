@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192641455uu">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192641qz935" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TELIASONERA AB</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(435)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926410eu0q" width="415" height="61" /></div>
+    
+        <h1>TELIASONERA AB</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Sweden: Prosecution Authority, Anti-Corruption Unit<br />Netherlands: National Police Services Agency<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        TeliaSonera AB (a Swedish company 37.3% owned by the Swedish government, and 11.7% by the Finnish government)<br />Takilant Limited (a Gibraltar company operating in Uzbekistan)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications, including mobile network operation, land line and internet services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stockholm, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uzbekistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 19 September 2012, the Swedish television station Sveriges Television ("SVT") broadcast allegations concerning TeliaSonera's conduct in Uzbekistan in 2007.  In the broadcast, it was alleged that the Company purchased a USD $333 million 3G license from a company owned by a 22-year old woman who had no background in telecommunications.  The broadcast further alleged that the young woman, Gayane Avakyan, is closely connected to the family of Uzbekistan's ruler, Islam Abduganiyevich Karimov, through Karimov's daughter Gulnara, and that part of the purchase price was paid as a bribe to the president and his family.  <br /><br />Radio Free Europe reported on 22 May 2013 that the alleged improper payments may have been as much as USD $300 million. The same story also reported that documents, purportedly with Gulnara Karimov's handwriting on them, have surfaced allegedly showing that TeliaSonera was asked to pay significant bribes in exchange for business in Uzbekistan.<br /><br />Even before the broadcast aired, the Company issued a statement explaining that in order to obtain ownership of Ucell, it was required to purchase a 3G license from Takilant Limited (a Gibraltar company).  The Company noted that it had "no insights into how Takilant used the proceeds, or whether there are any connections to other persons in Uzbekistan."<br /><br />Less than a week later, on Wednesday 26 September 2012, the National Anti-corruption Unit of Sweden, operating from the office of the Prosecutor General, ordered the police to open an investigation into TeliaSonera's operations in Uzbekistan in 2007.  Police removed documents from the Company's offices. <br /><br />On 29 November 2013, TeliaSonera dismissed four top executives on Friday for possible links to an alleged corruption case during the group's expansion in Uzbekistan, citing loss of trust of the board.   In February 2013, TeliaSonera's chief executive Lars Nyberg stepped down after receiving criticism for his handling of the affair and was replaced by Per Arne Blomquist, who acted as interim CEO for five months.  Mr. Blomquist was one of the executives dismissed on 29 November 2013.<br /><br />Although TeliaSonera initially denied the payment was a bribe, it seems to have changed its approach based on the first conclusions by the law firm it hired to review the case.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Potentially up to USD 300 million<br /></td>
+<td style="text-align: center;">Access to the Uzbek telecom market<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The conduct was revealed in a television exposé on the SVT program "Uppdrag granskning." 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Sweden<br /><br />On 26 September 2012, the National Anti-corruption Unit of Sweden, operating from the office of the Prosecutor General, ordered the police to open an investigation into TeliaSonera's operations in Uzbekistan in 2007.  Police removed documents from the Company's offices.<br /><br />A few weeks later, on 16 October 2012, the Swedish court approved the prosecutors' request to freeze an account controlled by Takilant at Nordea Bank, which holds about USD 30 million.  The court agreed to the freeze by explaining that it had grounds to suspect two Uzbek nationals, Gayane Avakyan and Alisher Ergashev, of money laundering.  Attorneys for the two Uzbekis have denied the money laundering allegations.  <br /><br />On 28 March 2013, the Wall Street Journal reported that Swedish prosecutors gave notice to TeliaSonera that the Company might be liable for fines and forfeiture depending on the outcome of the investigation of the Company's former employees. A source told the Wall Street Journal that this notice is required under Swedish law and that it does not mean that prosecutors have initiated a new investigation of the Company. The Company again said that the allegations are not true. The Wall Street Journal reported on 18 April 2013 that the Company has hired an outside law firm to investigate the allegations and review the Company's transactions in Eurasia.<br /><br />Investigations are ongoing.<br /><br />United States<br /><br />On 17 March 2014, TeliaSonera said that it had received requests from the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC"), which are investigating TeliaSonera's purchase of a 3G license in Uzbekistan in 2007.<br /><br />Netherlands<br /><br />On 12 March 2014, TeliaSonera said that its Dutch holding companies that control its operations in Uzbekistan had been raided by authorities in a preliminary investigation into bribery.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1971">TeliaSonera Press Release: "TeliaSonera comments on developments in Uzbekistan" (19 September 2012)</a></p><p><a href="file.asp?id=1974">TeliaSonera Press Release: "Management changes in Mobility Services" (21 September 2012)</a></p><p><a href="file.asp?id=1973">TeliaSonera Press Release: "Comment by Chairman Anders Narvinger on recent allegations" (24 September 2012)</a></p><p><a href="file.asp?id=1972">TeliaSonera Press Release: "Uzbekistan update"  (26 September 2012)</a></p><p>Wall Street Journal: "TeliaSonera Could Face Fines in Uzebikstan Bribery Case" (28 March 2013)</p><p>Wall Street Journal: "TeliaSonera Board Orders Transactions Review" (18 April 2013)</p><p>Radio Free Europe: "New Documents Suggest Fresh Evidence Of TeliaSonera Ties To Karimova" (22 May 2013)</p><p><a href="file.asp?id=2518">US Investigating TeliaSonera </a></p><p><a href="file.asp?id=2519">Reuters - Dutch raid on TeliaSonera</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

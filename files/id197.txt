@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192313tbg22">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923138pz0c" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GLOBAL INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(197)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192313nhj2q" width="415" height="61" /></div>
+    
+        <h1>GLOBAL INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Global Industries, Ltd. ("Global Industries")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Offshore construction and support services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Carlyss, Louisiana, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Global Industries announced the conclusion of the U.S. government investigation in a press release on 24 February 2010: <br /><br />"We are pleased to also announce that our and the Government's investigation of our activities in West Africa have concluded without any fines or penalties being imposed upon the Company. Both the DOJ and SEC have concluded their investigations and are not recommending any enforcement actions against the Company. We remain committed to conducting our operations in an ethical fashion and in compliance with applicable laws."<br /><br />The conclusion of the investigation was also reported in the company's 2009 SEC Form 10-K.<br /><br />Global Industries previously described the (at the time, ongoing) investigation as follows in a 2007 SEC Form 10-K:<br /><br />"In June 2007, the Company announced that it was conducting an internal investigation of its West Africa operations, focusing on the legality, under the U.S. Foreign Corrupt Practices Act (FCPA) and local laws, of one of its subsidiary's reimbursement of certain expenses incurred by a customs agent in connection with shipments of materials and the temporary importation of vessels into West African waters. The Company further announced that the Audit Committee of the Company's Board of Directors had engaged the law firm of Mayer Brown LLP, an international law firm with significant experience in investigating and advising on FCPA matters, to lead the investigation. The investigation is ongoing.<br /><br />"The Audit Committee began its internal investigation after management brought to the attention of the committee concerns about certain actions by a customs agent in connection with shipments of materials, obtaining temporary importation permits for its vessels into Nigeria, and the settlement of the FCPA proceedings involving certain Vetco Gray entities. In addition, the Company's management and the Audit Committee were aware of press releases by three other companies disclosing that they are conducting internal investigations into the FCPA implications of certain actions by a customs agent in connection with the temporary importation of their vessels into Nigeria. The Company's management considered it prudent to review the Company's operations since it uses customs agents and the Company's vessels that have operated in Nigeria do so under temporary importation permits.<br /><br />"The Company voluntarily contacted the staff of the Securities and Exchange Commission (SEC) and the U.S. Department of Justice to advise them that an independent investigation is under way and that it intends to cooperate fully with both agencies. The Company received a subpoena from the SEC requesting documents related to the Company's dealings with the customs agent in question, focusing primarily on transactions in the Company's West African operations, which indicates that the SEC has opened a formal non-public investigation into the matter. The letter accompanying the SEC subpoena states that the investigation and subpoena do not mean that the SEC or its staff has concluded that any violation of law has occurred, nor does it mean that they have a negative opinion of any person, entity or security. The Company has been cooperating fully with both agencies in connection with the matter and will continue to do so. Special counsel to the Audit Committee for the investigation has and will continue to provide interim updates to the agencies and the Audit Committee as the investigation progresses. <br /><br />"At this stage of the internal investigation the Company is unable to predict what conclusions, if any, the SEC will reach or whether the Department of Justice will open a separate investigation to investigate this matter or what potential remedies these agencies may seek. If the SEC or Department of Justice determines that violations of the FCPA have occurred, they could seek civil and criminal sanctions, including monetary penalties, against us and/or certain of our employees, as well as changes to our business practices and compliance programs, any of which could have a material adverse effect on our business and financial condition. In addition, such actions, whether actual or alleged, could damage our reputation and ability to do business. Further, detecting, investigating, and resolving these matters is expensive and consumes significant time and attention of our senior management. <br /><br />"Based on information obtained to date in our internal investigation, we have not determined if any potential liability that may result is either probable or can be reasonably estimated. As a result, we have not made any accrual in our financial statements at December 31, 2007. Management and the Audit Committee will work with independent counsel and appropriate personnel within the Company to implement promptly such measures as are considered appropriate. <br /><br />"We continue to use alternative procedures adopted after the commencement of the investigation to obtain Nigerian temporary import permits. These procedures are designed to assure FCPA compliance. Although we are still working and pursuing additional work in West Africa, we have declined or terminated available projects and delayed the start of certain projects in Nigeria in order to ensure FCPA compliance and appropriate security for our personnel and assets. The possibility exists that we may have to curtail or cease our operations in Nigeria if appropriate long-tern solutions cannot be identified and implemented. We have worldwide customer relationships and a mobile fleet, and we are prepared to redeploy vessels to other areas as necessary to assure the vessels are utilized to the fullest extent possible. <br /><br />"Notwithstanding that the internal investigation is ongoing, we have concluded that certain changes to our compliance program would provide us with greater assurance that we are in compliance with the FCPA and its record-keeping requirements. We have had a long-time published policy requiring compliance with the FCPA and broadly prohibiting any improper payments by us to foreign or domestic officials as well as training programs for our employees, we have since the commencement of the internal investigation adopted, and may adopt additional, measures intended to enhance our compliance procedures and ability to audit and confirm our compliance. Additional measures also may be required once the investigation concludes."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The DOJ and SEC investigations concluded with no action taken.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>If a company discovers a potential FCPA violation internally, conducts a thorough investigation, voluntarily discloses to the DOJ and SEC and cooperates with the agencies, it is possible that the agencies will close their investigaitons without taking any enforcement action.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=809">Global Industries Ltd. - SEC Form 10-K (2009).pdf</a></p><p><a href="file.asp?id=808">Global Industries Ltd. - Press Relase (2010)</a></p><p><a href="file.asp?id=810">Global Industries Ltd. - SEC Form 10-K (2007).pdf</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

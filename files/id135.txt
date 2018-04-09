@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192217vxte3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192217z3w43" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NAPCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(135)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19221791u2e" width="415" height="61" /></div>
+    
+        <h1>NAPCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Venturian Corporation ("Venturian")<br />NAPCO International, Inc. (wholly-owned subsidiary of Venturian) ("NAPCO")<br />Richard H. Liebo (Vice President of Napco's Aerospace Division)<br />Dornier Reparaturwer GmbH ("Dornier")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of military equipment and supplies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hopkins, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Niger<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Under the U.S. Foreign Military Sales ("FMS") Program, the U.S. government loaned USD 5.5 million to the Republic of Niger between September 1981 and September 1983.  Under the FMS Program, the foreign government was permitted to work with a non-U.S. third party intermediary as long as the intermediary worked with a U.S.-based defense supplier.  <br /><br />A West German company, Dornier Reparaturwer GmbH ("Dornier"), signed a contract with the Niger government to perform maintenance on aircraft in February 1983.  The Niger Air Force, the Escardrille Nationale Nigerienne ("ENN"), however, could not come up with the required funds.  Not wanting to loose this potential business, Dornier established a relationship with NAPCO so that the Niger government could tap into the FMS funds.  From 1983-1987, the U.S. government approved three purchase orders worth approximately USD 3.2 million for aircraft parts for two airplanes owned by the Niger Air Force.  <br /><br />During the course of their relationship with the government of Niger, NAPCO's primary contacts were Tahirou Barke Doka, a Niger official serving as a Counselor in their Washington, D.C. embassy, and Captain Ali Tiemogo, the Chief of Maintenance for the Niger Air Force.<br /><br />The first contract, approved in December 1983, was worth USD 681,000.  In order to facilitate this order, NAPCO paid approximately USD 39,000 in bribes to Barke and Tiemogo through a fictitious sales agent, known as "E. Dave," with a bank account in Minnesota which was controlled by Barke.   <br /><br />The second contract, agreed upon in August 1984, was worth USD 1,000,000.  NAPCO ended its "relationship" with E. Dave at this time and employed a different "sales agent," the brother-in-law of Tiemogo, Amadou Mailele.  For the duration of the contract, at total of USD 49,000 in payments were made to Mailele and deposited in a Paris bank account.  In September 1985, NAPCO also offered to pay USD 2,028 to Barke for airline tickets on his honeymoon.  <br /><br />The third contract, worth approximately USD 1.5 million, was negotiated in August 1984.  The parties changed the "sales agent" again, this time to Fatouma Mailele Boube, the sister-in-law of Captain Tiemogo.  For her "services" she received USD 40,000 in payments from NAPCO, which were also wired to a bank account in Paris.<br /><br />Under FMS regulations, NAPCO was required to provide certain certifications relating to its contracts, agents, and various financial information in order for the funds to be issued.  From 1983-1987, NAPCO falsified documents submitted to the Defense Security Assistance Agency in order to conceal the improper payments it had made to Niger officials and/or their family members.  Furthermore, NAPCO filed inaccurate tax returns with the IRS in order to deduct the "commissions."<br /><br />NAPCO's representative throughout the incidents described above was Richard Liebo, Vice President for NAPCO's Aerospace Division.  The DOJ brought separate charges against both NAPCO and Liebo for violations of the FCPA in connection with the FMS sales to Niger.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Niger Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 130,813.83</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of military equipment and supplies worth approximately USD 3.2 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 May 1989, Napco pleaded guilty to a three-count information charging it with conspiracy to violate the FCPA, substantive violations of the FCPA's anti-bribery and books and records provisions and aiding and assisting in the filing of false corporate tax returns.  The company was ordered to pay a USD 785,000 criminal fine.  It was also ordered to make restitution in the amount of USD 140,000 for full payment of its civil tax liability to the Defense Security Assistance Agency, to be credited toward the Foreign Military Sales account of the Republic of Niger.<br /><br />Napco was also required to make USD 75,000 in restitution to the Internal Revenue Service for full payment of all criminal and civil tax liabilities, interest and penalties. <br /><br />In late 1991, Liebo was convicted of one count of aiding and abetting violations of the FCPA's anti-bribery provisions and one count of making a false statement to the Defense Security Assistance Agency.  On 28 January 1992, he was sentenced to 18 months in prison.  In the end, Liebo only served two of the 18 months, having petitioned for, and eventually received, a retrial.  At the conclusion of the retrial, Liebo was convicted again and sentenced to three years probation, two months home detention and 400 hours of community service.  <br /><br />Separately, the DOJ charged Dornier with violating the FCPA in connection with its role as a subcontractor to Napco.  Dornier allegedly made USD 175,000 in improper payments to the Chief of Maintenance in the Niger Air Force in order to obtain over USD 3.5 million in business.  Without admitting or denying the DOJ's allegations, Dornier consented to the entry of a final judgment permanently enjoining it from future violations of the FCPA.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Where appropriate, a court will order a defendant to pay restitution for the benefit for the government whose foreign official the defendant paid bribes to, in violation of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=480">Criminal Information: U.S. v. Napco International, Inc. and Venturian Corp. (April 20, 1989)</a></p><p><a href="file.asp?id=481">Judgment: U.S. v. Napco International, Inc. (May 25, 1989)</a></p><p><a href="file.asp?id=482">Indictment: U.S. v. Richard H. Liebo (May 4, 1989)</a></p><p><a href="file.asp?id=483">Judgment: U.S. v. Richard H. Liebo (January 28, 1992)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

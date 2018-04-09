@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192329br7re">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192329ka7ij" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PARKER DRILLING</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(214)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192329l5m32" width="415" height="61" /></div>
+    
+        <h1>PARKER DRILLING</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Parker Drilling Company ("Parker Drilling")<br />Parker Drilling (Nigeria) Limited (wholly owned Nigerian subsidiary of Parker Drilling)<br />Parker Drilling Offshore International, Inc. (wholly owned subsidiary of Parker Drilling incorporated in the Cayman Islands)<br />Panalpina World Transport (Nigeria) Limited ("Panalpina Nigeria;" Nigerian logistics and customs services company and majority-owned subsidiary of Panalpina World Transport Limited)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of barge, land and helicopter-transportable drilling rigs 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In its SEC Form 10-K filed on 1 March 2011, Parker Drilling stated that it had received  information requests from the U.S. Department of Justice ("DOJ") in 2007 and the U.S. Securities & Exchange Commission ("SEC") in 2008 "relating to the Company's utilization of the services of a customs agent" and possible FCPA violations in Nigeria, Kazakhstan and other countries. Parker Drilling then initiated an internal investigation, through which it discovered that "an individual who may be considered a foreign official under the FCPA owns in trust a substantial stake in a foreign subcontractor with whom the Company does business through a joint venture relationship in Kazakhstan." <br /><br />Additional details regarding the FCPA allegations surfaced on 16 April 2013, when it was announced that Parker Drilling reached a settlement with both the DOJ and SEC to resolve FCPA charges stemming from allegations in Nigeria. According to the Deferred Prosecution Agreement ("DPA") between Parker Drilling and the DOJ, Parker Drilling's customs agent (Panalpina Nigeria) submitted false paperwork on Parker Drilling's behalf from 2001 to 2004 in order to receive temporary import permits ("TIPs") and thereby avoid import duties on the Company's five oil rigs in Nigeria. A government panel called the Temporary Import Panel, which had been created to determine whether Nigeria was losing customs duty revenue from illegal TIPs, began investigating Parker Drilling in 2002. The Panel found that Parker Drilling had unlawfully received TIPs and TIP extensions through the falsified paperwork submitted by Panalpina Nigeria, and imposed a USD 3.8 million fine on the Company. <br /><br />According to the DPA, Parker Drilling sought to reduce this fine through a Nigerian customs agent. Throughout 2004, the Company allegedly made multiple payments totaling USD 1.25 million to the agent, and he spent some portion of this money on entertainment for Nigerian government officials potentially including officials from the Temporary Import Panel, the Ministry of Finance, the Nigerian president's office and the State Security Service. The customs agent negotiated a reduction in Parker Drilling's fine from USD 3.8 million to USD 750,000. Parker Drilling's payments to the agent were allegedly approved by senior executives. According to the SEC's complaint of 16 April 2013, the payments were not properly recorded in the Company's books and records.<br /><br />Although the Company mentioned in its 2011 Form 10-K that the SEC and DOJ were investigating possible FCPA violations in Kazakhstan and other countries in addition to Nigeria, neither the DOJ's DPA nor the SEC's complaint mentions any allegations outside of Nigeria.<br /><br />Parker Drilling also faces several shareholder derivative suits based on the alleged misconduct.  These are described in the attached SEC Form 10-K from 1 March 2011. On 11 March 2013, the U.S. Court of Appeals for the Fifth Circuit dismissed one of these derivative suits (the suit by Douglas Freuler) without providing any written opinion. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Nigerian Foreign Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>Some portion of USD 1.25 million on entertainment</td>
+<td>Reduction of a customs penalty from USD 3.8 million to USD 750,000</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unknown
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The DOJ and SEC announced on 16 April 2013 that the two agencies have agreed to settlements with Parker Drilling regarding the FCPA charges against the Company. Parker Drilling and the DOJ reached a Deferred Prosecution Agreement, through which Parker Drilling agreed to pay a USD 11.76 million penalty. In its settlement with the SEC, Parker Drilling agreed to pay USD 3.05 million in disgorgement of profits and USD 1.04 million in pre-judgment interest. The total amount of these two settlements is USD 15.85 million. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies can be held liable for the FCPA violations of their agents and other third parties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=826">Parker Drilling: Annual Report (2009)</a></p><p><a href="file.asp?id=865">Parker Drilling: 10-Q (2010)</a></p><p><a href="file.asp?id=1408">Parker Drilling: SEC Form 10-K (1 March 2011)</a></p><p><a href="file.asp?id=2137">Parker Drilling News Release: "Parker Drilling Records Charge Regarding Proposed Settlement of DOJ and SEC Investigations and Issues Outlook for 2012 Fourth Quarter Results" (15 February 2013)</a></p><p><a href="file.asp?id=2170">Parker Drilling: 5th Circuit Decision (11 March 2013)</a></p><p><a href="file.asp?id=2221">Parker Drilling: Deferred Prosecution Agreement (16 April 2013)</a></p><p><a href="file.asp?id=2222">DOJ Press Release: "Parker Drilling Company Resolves FCPA Investigation and Agrees to Pay $11.76 Million Penalty" (16 April 2013)</a></p><p><a href="file.asp?id=2223">Parker Drilling: SEC Complaint (16 April 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

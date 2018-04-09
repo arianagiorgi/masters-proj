@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707288u40q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707284kw3w" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DANISH OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(42)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707283vq6k" width="415" height="61" /></div>
+    
+        <h1>DANISH OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Danish entities that have made an agreement with the Prosecutor for Serious Economic Crime:<br /><br />Novo Nordisk A/A<br />Grundfos DK A/S<br />Ferring A/S<br />Jrgen Kruuse A/S<br />Unomedical A/S<br />Vikima Seed A/S<br />Bisca A/S<br />AGCO Danmark A/S<br /><br />Danish entities that have NOT made an agreement with the Prosecutor for Serious Economic Crime and therefore court cases are pending:<br /><br />AVK International A/S<br />Bukkehave A/S<br />Kosan Teknova A/S<br />Kosan Crisplant A/S<br />Leo Pharmaceutical Products A/S<br />Polystan A/S<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The companies listed above were all under suspicion of having paid illegal kickbacks to the former Iraqi government. <br /><br />The Oil-for-Food Program was established by United Nations ("U.N.") to enable Iraq to sell its oil for human purposes, in the context of an extensive international sanctions regime. The Oil-for-Food Program mandated that the proceeds of oil sales be deposited in a UN bank account and that those proceeds be used by the Iraqi government only for the purchase of humanitarian goods and services, such as food and medicine, approved by the UN. <br /><br />Beginning in 2000, the former Iraqi government began requiring companies wishing to sell humanitarian goods to government ministries to pay a kickback to the government in order to be granted a contract. The amount of that fee was usually 10 percent of the contract price.  Such payments were not permitted under the Oil-for-Food Program or other sanction regimes then in place.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract price</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of humanitarian goods and services, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following serious allegations towards the UN administration, among others, the Independent Inquiry Committee ("IIC") was established in 2004 in order to carry out an in-depth inquiry. <br /><br />IIC published eight reports that included information that foreign companies, including Danish companies, had bypassed UN sanctions by making illegal payments when entering into contracts with the Iraqi government.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On the basis of the IIC reports the Prosecutor for Serious Economic Crime initiated an investigation of the Danish companies, against which IIC claimed to have evidence.<br /><br />Subsequently the Prosecutor for Serious Economic Crime brought action towards 17 Danish companies. In the fall of 2006, the Ministry of Justice decided that the action against the companies should be dropped as the cases had become statute-barred. Instead the investigation continued with the purpose of confiscating the companies proceeds in relation to the Oil-for-Food Program.  <br /><br />In May 2009, Novo Nordisk A/S reached a settlement with U.S. Department of Justice ("DOJ") and U.S. Securities and Exchange Commission ("SEC") resolving their investigations of the companys sales to Iraq during 2001-2003 under the Oil for Food Program. Under the term of the settlements, Novo Nordisk was to pay a fine, disgorgement of past profits and interest of a total of approximately USD 18 million. <br /><br />Consequently, when learning of the Novo Nordisk settlement with DOJ and SEC, the Danish Prosecutor for Serious Economic Crime resumed the cases filed and Novo Nordisk A/S has, together with the 7 other companies listed above, made similar settlements with the Prosecutor for Serious Economic Crime to pay a disgorgement of past profits totaling DKK 45 million.<br /><br />The remaining 6 companies have not agreed on a settlement and these cases will be settled by the Danish courts. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Although criminal cases have to be dropped due to having become statute-barred, authorities may still be successful in confiscating profits made by illegal conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18423735orj">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184237ojxd0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DANISH OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(42)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184237w3kyx" width="415" height="61" /></div>
+    
+        <h1>DANISH OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Danish entities that have made an agreement with the Prosecutor for Serious Economic Crime:<br /><br />Novo Nordisk A/A<br />Grundfos DK A/S<br />Ferring A/S<br />Jrgen Kruuse A/S<br />Unomedical A/S<br />Vikima Seed A/S<br />Bisca A/S<br />AGCO Danmark A/S<br /><br />Danish entities that have NOT made an agreement with the Prosecutor for Serious Economic Crime and therefore court cases are pending:<br /><br />AVK International A/S<br />Bukkehave A/S<br />Kosan Teknova A/S<br />Kosan Crisplant A/S<br />Leo Pharmaceutical Products A/S<br />Polystan A/S<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The companies listed above were all under suspicion of having paid illegal kickbacks to the former Iraqi government. <br /><br />The Oil-for-Food Program was established by United Nations ("U.N.") to enable Iraq to sell its oil for human purposes, in the context of an extensive international sanctions regime. The Oil-for-Food Program mandated that the proceeds of oil sales be deposited in a UN bank account and that those proceeds be used by the Iraqi government only for the purchase of humanitarian goods and services, such as food and medicine, approved by the UN. <br /><br />Beginning in 2000, the former Iraqi government began requiring companies wishing to sell humanitarian goods to government ministries to pay a kickback to the government in order to be granted a contract. The amount of that fee was usually 10 percent of the contract price.  Such payments were not permitted under the Oil-for-Food Program or other sanction regimes then in place.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract price</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of humanitarian goods and services, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following serious allegations towards the UN administration, among others, the Independent Inquiry Committee ("IIC") was established in 2004 in order to carry out an in-depth inquiry. <br /><br />IIC published eight reports that included information that foreign companies, including Danish companies, had bypassed UN sanctions by making illegal payments when entering into contracts with the Iraqi government.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On the basis of the IIC reports the Prosecutor for Serious Economic Crime initiated an investigation of the Danish companies, against which IIC claimed to have evidence.<br /><br />Subsequently the Prosecutor for Serious Economic Crime brought action towards 17 Danish companies. In the fall of 2006, the Ministry of Justice decided that the action against the companies should be dropped as the cases had become statute-barred. Instead the investigation continued with the purpose of confiscating the companies proceeds in relation to the Oil-for-Food Program.  <br /><br />In May 2009, Novo Nordisk A/S reached a settlement with U.S. Department of Justice ("DOJ") and U.S. Securities and Exchange Commission ("SEC") resolving their investigations of the companys sales to Iraq during 2001-2003 under the Oil for Food Program. Under the term of the settlements, Novo Nordisk was to pay a fine, disgorgement of past profits and interest of a total of approximately USD 18 million. <br /><br />Consequently, when learning of the Novo Nordisk settlement with DOJ and SEC, the Danish Prosecutor for Serious Economic Crime resumed the cases filed and Novo Nordisk A/S has, together with the 7 other companies listed above, made similar settlements with the Prosecutor for Serious Economic Crime to pay a disgorgement of past profits totaling DKK 45 million.<br /><br />The remaining 6 companies have not agreed on a settlement and these cases will be settled by the Danish courts. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Although criminal cases have to be dropped due to having become statute-barred, authorities may still be successful in confiscating profits made by illegal conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920524b9cp">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192052uq247" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DANISH OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(42)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192052w5gl6" width="415" height="61" /></div>
+    
+        <h1>DANISH OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Danish entities that have made an agreement with the Prosecutor for Serious Economic Crime:<br /><br />Novo Nordisk A/A<br />Grundfos DK A/S<br />Ferring A/S<br />Jrgen Kruuse A/S<br />Unomedical A/S<br />Vikima Seed A/S<br />Bisca A/S<br />AGCO Danmark A/S<br /><br />Danish entities that have NOT made an agreement with the Prosecutor for Serious Economic Crime and therefore court cases are pending:<br /><br />AVK International A/S<br />Bukkehave A/S<br />Kosan Teknova A/S<br />Kosan Crisplant A/S<br />Leo Pharmaceutical Products A/S<br />Polystan A/S<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The companies listed above were all under suspicion of having paid illegal kickbacks to the former Iraqi government. <br /><br />The Oil-for-Food Program was established by United Nations ("U.N.") to enable Iraq to sell its oil for human purposes, in the context of an extensive international sanctions regime. The Oil-for-Food Program mandated that the proceeds of oil sales be deposited in a UN bank account and that those proceeds be used by the Iraqi government only for the purchase of humanitarian goods and services, such as food and medicine, approved by the UN. <br /><br />Beginning in 2000, the former Iraqi government began requiring companies wishing to sell humanitarian goods to government ministries to pay a kickback to the government in order to be granted a contract. The amount of that fee was usually 10 percent of the contract price.  Such payments were not permitted under the Oil-for-Food Program or other sanction regimes then in place.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract price</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of humanitarian goods and services, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following serious allegations towards the UN administration, among others, the Independent Inquiry Committee ("IIC") was established in 2004 in order to carry out an in-depth inquiry. <br /><br />IIC published eight reports that included information that foreign companies, including Danish companies, had bypassed UN sanctions by making illegal payments when entering into contracts with the Iraqi government.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On the basis of the IIC reports the Prosecutor for Serious Economic Crime initiated an investigation of the Danish companies, against which IIC claimed to have evidence.<br /><br />Subsequently the Prosecutor for Serious Economic Crime brought action towards 17 Danish companies. In the fall of 2006, the Ministry of Justice decided that the action against the companies should be dropped as the cases had become statute-barred. Instead the investigation continued with the purpose of confiscating the companies proceeds in relation to the Oil-for-Food Program.  <br /><br />In May 2009, Novo Nordisk A/S reached a settlement with U.S. Department of Justice ("DOJ") and U.S. Securities and Exchange Commission ("SEC") resolving their investigations of the companys sales to Iraq during 2001-2003 under the Oil for Food Program. Under the term of the settlements, Novo Nordisk was to pay a fine, disgorgement of past profits and interest of a total of approximately USD 18 million. <br /><br />Consequently, when learning of the Novo Nordisk settlement with DOJ and SEC, the Danish Prosecutor for Serious Economic Crime resumed the cases filed and Novo Nordisk A/S has, together with the 7 other companies listed above, made similar settlements with the Prosecutor for Serious Economic Crime to pay a disgorgement of past profits totaling DKK 45 million.<br /><br />The remaining 6 companies have not agreed on a settlement and these cases will be settled by the Danish courts. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Although criminal cases have to be dropped due to having become statute-barred, authorities may still be successful in confiscating profits made by illegal conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

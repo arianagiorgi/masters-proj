@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192314yk455">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192314f8075" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LOTTOMATICA / GTECH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(199)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192314z22fc" width="415" height="61" /></div>
+    
+        <h1>LOTTOMATICA / GTECH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Brazil: Public Ministry<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lottomatica S.p.A. ("Lottomatica")<br />GTECH Corporation (Providence, Rhode Island-based company purchased by Lottomatica in 2006) ("GTECH")<br />Antonio Carlos Rocha (former Senior Vice President of GTECH and President of GTECH Brazil)<br />Marcelo Rovai (previously GTECH Brazil's marketing director; currently employed in GTECH's Latin American Group)<br />Marcos Andrade (a former officer of GTECH Brazil)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Lottery services company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rome, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Lottomatica described the matter as follows in its Third Quarter 2010 Report:<br /><br />"Criminal Allegations Against Certain Employees<br /><br />"a.  In late March 2004, federal attorneys with Brazil's Public Ministry (the 'Public Ministry Attorneys') recommended that criminal charges be brought against nine individuals, including four senior officers of CEF, Antonio Carlos Rocha, the former Senior Vice President of GTECH and President of GTECH Brazil, and Marcelo Rovai, then GTECH Brazil's marketing director and currently employed in GTECH's Latin America Group ('Denuncia 1'). The Public Ministry Attorneys had recommended that Messrs. Rocha and Rovai be charged with offering an improper inducement in connection with the negotiation of the 2003 Contract Extension, and co-authoring, or aiding and abetting, certain allegedly fraudulent or inappropriate management practices of the CEF management who agreed to enter into the 2003 Contract Extension. Neither GTECH nor GTECH Brazil were the subject of this criminal investigation, and under Brazilian law, entities cannot be subject to criminal charges in connection with this matter.<br /><br />"In June 2004, the judge reviewing the charges in Denuncia 1 prior to their being filed refused to initiate the criminal charges against the nine individuals but instead granted a request by the Brazilian Federal Police to continue the investigation which had been suspended upon the recommendation of the Public Ministry Attorneys that criminal charges be brought. The Brazilian Federal Police subsequently ended their nvestigation and presented a report of their findings to the court. This report did not recommend that indictments be issued against Messrs. Rocha or Rovai, or against any current or former employee of GTECH or GTECH Brazil. The Public Ministry Attorneys then requested that the Brazilian Federal Police reopen their investigation. We understand that the Federal Police subsequently completed their investigation and, in August 2010 issued a report, based entirely upon the June 21, 2006 Brazilian congressional report described below, which has been sent to the Public Ministry Attorneys.<br /><br />"b.  Notwithstanding the favourable resolution of the Brazilian Federal Police's initial investigation, on June 21, 2006, a special investigating panel of the Brazilian congress issued a report and voted, among other things, to ask the Public Ministry Attorneys to indict 84 individuals, including one current and three former employees of GTECH Brazil, alleging that the individuals helped GTECH Brazil to illegally obtain the 2003 Contract Extension. GTECH found nothing in the congressional report to cause it to believe that any present or former employee of GTECH or GTECH Brazil committed any criminal offence in connection with obtaining the 2003 Contract Extension.<br /><br />"c.  GTECH conducted an internal investigation of the 2003 Contract Extension under the supervision of the independent directors of GTECH Holdings Corporation. GTECH found no evidence that GTECH, GTECH Brazil, or any of their current or former employees violated any law, or is otherwise guilty of any wrongdoing in connection with these matters.<br /><br />"The U.S. SEC began an informal inquiry in February 2004, which formal inquiry became a formal investigation in July 2004, into the Brazilian criminal allegations against Messrs. Rocha and Rovai, and GTECH's involvement in the facts surrounding the 2003 Contract Extension, to ascertain whether there has been any violation of United States law in connection with these matters. In addition, in May 2005, representatives of the United States Department of Justice asked to participate in a meeting with GTECH and the SEC. GTECH cooperated fully with the SEC and the United States Department of Justice with regard to these matters, including by responding to their requests for information and documentation. In August 2009, GTECH was advised by the SEC that the SEC had concluded its investigation and did not intend to recommend enforcement action.<br /><br />"d.  These favourable developments notwithstanding, in late 2010, GTECH received copies of the following two related sets of new criminal charges (each, a 'Denuncia') that Public Ministry Attorneys recommend be brought  against individuals (including one current and two former GTECH employees), respecting CEF's contracts with Racimec and GTECH Brazil.<br /><br />"(1)  In September 2010, GTECH received a copy of new criminal charges that Public Ministry Attorneys recommend to a Brazilian Federal judge be filed against 16 individuals, including 14 current or former CEF officers and employees, Antonio Carlos Rocha and Marcos Andrade, a former officer of GTECH Brazil ('Denuncia 2'). The Public Ministry Attorneys assert that the defendants 'swindled public money' through entering into successive illegal price changes, contract extensions and other amendments to CEF's contracts with Racimec and GTECH Brazil, and agreeing to reduce or eliminate contractual fines and penalties that should properly have been imposed upon Racimec and GTECH Brazil. Such allegations echo charges, discussed below, which have been made in the past by the: (i) Public Ministry Attorneys in their April 2004 civil action, and (ii) Federal Court of Accounts in their 2003 TCU Audit Report. These more recent allegations by the Public Ministry Attorneys include the claim made in the April 2004 civil action that a consulting company in which a former CEF director held an interest served as an intermediary in contract negotiations between CEF and a Brazilian public utility pursuant to which CEF allowed the public utility to provide prepaid cellular phone cards through the CEF lottery network operated by GTECH Brazil. GTECH Brazil was not a party to this agreement, entered into in 1999. The Public Ministry Attorneys advance the theory that the consulting company received the 1999 contract in consideration for the former CEF director's assistance in influencing CEF negotiations to the advantage of GTECH Brazil. The Public Ministry Attorneys advance no new facts that would support this new allegation.<br /><br />"(2)  In November 2010, GTECH received a copy of criminal charges that Public Ministry Attorneys recommend to a Brazilian Federal judge be filed against nine individuals, including Antonio Carlos Rocha, Marcelo Rovai and Marcos Andrade ('Denuncia 3'). The Public Ministry Attorneys assert that the defendants be charged with corruption for using improper influence and offering undue advantage as a form of payment to obtain the 2003 Contract Extension. The Public Ministry Attorneys advance no new facts that would support this new allegation. GTECH finds nothing in these charges that would lead it to believe that any present or former employee of GTECH or GTECH Brazil committed any criminal offense involving any contract between Racimec or GTECH Brazil and CEF.  Neither GTECH nor GTECH Brazil is named as a defendant in these criminal charges and, as noted above, under Brazilian law entities cannot be subject to criminal charges in connection with these matters.<br /><br />"Each of these charges must be approved by a Brazilian Federal judge prior to their being filed. As part of this process, the judge has allowed each of the defendants in Denuncia 2, including Messrs. Rocha and Andrade, an opportunity to present a defense prior to his decision to accept or reject Denuncia 2. We have not been advised as to whether the judge in Denuncia 3 will likewise allow the defendants to present a defense prior to deciding whether to accept or reject each of the charges in Denuncia 3. Messrs. Rocha, Rovaand Andrade have not yet been served with any Denuncia setting forth charges against them. GTECH believes that its two former employees and one current employee involved have strong substantive and procedural defenses and that the assertions made against them are groundless."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to&nbsp;Brazilian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Contract extension with Brazil's Caixa Econ<span class="tealdark">&ocirc;</span>mica Federal (CEF)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations in Brazil involving several former and current GTECH employees remain ongoing.  <br /><br />As stated above, the SEC in the United States closed its investigation without taking any enforcement action. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>US DOJ and SEC inquiries into possible FCPA violations do not always result in a formal investigation or enforcement action.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=812">GTECH - Annual Report (2004)</a></p><p><a href="file.asp?id=813">Lottomatica - Annual Report (2009)</a></p><p><a href="file.asp?id=1178">Lottomatica - First Half 2010 Report (11 August 2010)</a></p><p>Lottomatica - Third Quarter 2010 Report (11 Dec. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

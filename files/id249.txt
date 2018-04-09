@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924007d9w8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192400yvd6n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LESOTHO HIGHLANDS WATER PROJECT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(249)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192400ayg00" width="415" height="61" /></div>
+    
+        <h1>LESOTHO HIGHLANDS WATER PROJECT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Lesotho: High Court<br />World Bank: Department of Institutional Integrity<br />World Bank: Sanctions Committee<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Acres International Limited (Canada-based engineering consultancy) ("Acres")<br />Lahmeyer International GmbH (Germany-based engineering consultancy)("Lahmeyer")<br />Impregilo SpA (Italy-based engineering and construction company) ("Impregilo")<br />Jacobus Michiel Du Plooy (intermediary acting behalf of Impregilo) <br />Spie Batignolles (France-based construction company, which later merged to become Schneider Electric SA) ("Spie Batignolles")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Hydro-power engineering project
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Various
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Lesotho<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Lesotho Highlands Water Project ("LHWP") is a multi-billion water transfer and hydro-power project implemented by governments of Lesotho and South Africa.  The project is funded by bilateral and multilateral donors and is being completed in phases, with contracts awarded via tender.<br /><br />Several multinational engineering and construction firms were convicted by the High Court of Lesotho for paying bribes to the chief executive of the Lesotho Highlands Development Agency in order to secure contracts related to the project.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Lesotho Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>Unspecified</td>
+<td>Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        An audit conducted in the early 1990s by Ernst & Young uncovered certain irregularities, which eventually led to the dismissal of the chief executive of the Lesotho Highlands Development Agency ("LHDA"), Ephraim Masupha Sole, and the discovery of Swiss bank accounts into which project contractors and consultants had placed large amounts of money.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 2002, the High Court of Lesotho found Sole guilty of accepting bribes from various multinational companies that were attempting to secure LHWP contracts.  In 2003, Sole's appeal was denied.  He is currently serving a 15-year prison term.<br /><br />In 2003, the High Court convicted Acres of bribery and fined the company ZAR 15 million.  In 2004, Acres was debarred by the World Bank for a three-year term.<br /><br />In 2003, the High Court convicted Lahmeyer of bribery and fined the company ZAR 10.6 million.  The company appealed against the conviction and on appeal the fine was increased to ZAR 12 million. In 2006, Lahmeyer was debarred from World Bank contracts for a seven-year term.  In August 2011, two years ahead of schedule, the World Bank removed Lahmeyer from its list of illegible firms in recognition of the company's improved compliance efforts.<br /><br />In 2003, Jacobus Michiel Du Plooy, an intermediary acting behalf of Impregilo, which was the lead partner of the consortium that built the main dam in the project, pleaded guilty to paying bribes to Sole on behalf of Impregilo. In exchange for cooperation with prosecutors, the High Court fined Du Plooy ZAR 500,000 and sentenced him to a conditionally suspended prison term.<br /><br />In 2004, Spie Batignolles (now Schneider Electric SA), the multinational French construction company responsible for building the transfer tunnels in the project, pleaded guilty to sixteen counts of bribery.  The High Court imposed a fine of ZAR 10 million.  [While Schneider Electric became legally liable for the offenses  allegedly committed by Spie Batignolles prior to the merger, it did not itself have any involvement in the matter.]<br /><br />In 2006, Impregilo pleaded guilty and was fined ZAR 15 million by the High Court.<br /><br />Lahmeyer assisted prosecutors in their case against two other Lesotho officials, Reatile Mochebelele and Letlafuoa Molapo, former delegates of Lesotho on the Highlands Water Commission.  Mochebelele and Molapo were initially acquitted by the High Court but then found guilty on appeal. <br /><br />Other multinational companies involved with the LHWP were initially investigated in connection with the Sole bribery scandal - including Sir Alexander Gibb and Company and Balfour Beatty of the UK, ABB of Switzerland, and Sogreah, Dumez, and Cegelec of France - but it appears that no formal charges were brought against these entities.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Bribery in connection with donor-funded development projects may result in prosecution by the host country government as well as investigation and debarment by multilateral lenders such as the World Bank.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=888">EU Anti-Fraud Conference: Case Study - The Lesotho Bribery Prosecutions (May 2007)</a></p><p>Cape Times: "Corruption's putrid stink" (11 Dec. 2009)</p><p><a href="file.asp?id=890">Acres International - Judgment (2002)</a></p><p><a href="file.asp?id=893">Acres International - World Bank Notice of Debarment Proceedings (2001)</a></p><p><a href="file.asp?id=892">Acres International - World Bank Debarment Press Release (2005)</a></p><p><a href="file.asp?id=891">Acres International - World Bank Debarment Press Release (2004)</a></p><p><a href="file.asp?id=894">Lahmeyer International - Indictment (2001)</a></p><p><a href="file.asp?id=895">Lahmeyer International - Appeal (2002)</a></p><p><a href="file.asp?id=896">Schneider Electric - Judgment (2003)</a></p><p><a href="file.asp?id=897">Impregilo - Arbitration Appeal (2005)</a></p><p><a href="file.asp?id=1576">World Bank Press Release: 6 Nov. 2006 ( World Bank Sanctions Lahmeyer International for Corrupt Activities in Bank-Financed Projects)</a></p><p><a href="file.asp?id=1573">World Bank News Release: 15 August 2011 (LAHMEYER INTERNATIONAL GMBH RELEASED FROM DEBARMENT: First such determination by World Bank's Integrity Compliance Officer)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

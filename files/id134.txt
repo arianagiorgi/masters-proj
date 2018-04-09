@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192217wy9ve">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922177t20f" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ITALIAN OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(134)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192217048n6" width="415" height="61" /></div>
+    
+        <h1>ITALIAN OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Italy: Milan Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Cogep S.r.l. ("Cogep")<br />NRG Oils S.r.l. ("NRG")<br />Three Cogep managers<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil trade 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Genova; Milan, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 2000 to 2002, Cogep and NRG paid bribes to Iraqi officials by effecting payment, respectively, in the amount of USD 942,000 and USD 242,000 to secret bank accounts with Fransabank of Beirut and Jordan National Bank of Amman.  The purpose of the bribes was to be obtain allocation of crude oil supplies within the United Nations Oil-for-Food program.<br /><br />The bribe recipients included Saddam Zibn Hassan, the former general manager of the Iraqi national oil company.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD<span style="font-size: 11pt; line-height: 115%; font-family: Calibri;"> 942,000 (Cogep); USD 242,000 (NRG)</span></p>
+</td>
+<td>
+<p style="text-align: center;">Crude oil supplies, yielding EUR 2,491,000 in profits for Cogep and EUR 690,000 in profits for NRG</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Cogep and NRG.  The Milan Public Prosecutor's Office subsequently opened a criminal investigation into the matter.<br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Under Italian law (Legislative Decree n. 231 of 2001), companies may be held liable for a number of criminal offences through the concept of vicarious criminal liability, including corruption, bribery, extortion committed abroad.  This is in addition to the personal criminal liability of the individual who committed the offence.<br /><br />The following basic requirements must be satisfied in order for a legal person to be administratively liable for the relevant offences:<br /><br />1. The offence must be committed for the benefit or interest of the legal person. There is no offence committed where the person responsible commits the offence exclusively in his/her own interest or in the interest of a third party.<br /><br />2. The offence must be committed by a person acting as a representative, director or manager (de facto), a person exercising powers of management and control or a person subject to the direction or control of one of the aforementioned persons.<br /><br />3. The offence must be committed through non-compliance with the duties connected to the functions of the responsible person.  In order to avoid administrative liability, companies must prove that they have, in a timely manner, adopted effective organisation, management and control programs aimed to prevent the above crimes.<br /><br />In 2006, the Court of Milan adopted an interim decision ordering seizure of the profits of the illicit behavior.  The amount of said profits was established by an independent expert appointed by the Court.  Subsequently, Cogep, NRG and the various convicted individuals were admitted to trial. The legal proceedings ended in March 2009 when the Court adopted its final decision, the first one in Europe of this kind with regard to the Oil for Food scandal.<br /><br />The court condemned three involved individuals to two years of imprisonment. In addition, the Court debarred them from participating in public tenders for one year and ordered confiscation of the amounts previously seized.  The court rejected the individuals' argument that their crime was merely to violate U.N. sanctions, instead finding them guilty under Italy's anti-bribery laws.<br /><br />Cogep and NRG have not been condemned due to the application of statute of limitations.<br /><br />The three individual defendants appealed the decision and, according to press reports on 16 April 2010, the convictions were overturned and the EUR 1.2 million fine returned to the accused. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This is the first European case related to the U.N. Oil-for-Food scandal to have gone to trial.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Court of Milan, Decision of 9 March 2009</p><p>Corriere della Sera: 16 April 2010 (Oil for food, tutto prescritto: Tangenti, cade l' unica condanna in Europa per il programma Onu)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

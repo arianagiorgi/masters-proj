@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19251336twa">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192513k20j1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KRAFT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(335)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19251365q7l" width="415" height="61" /></div>
+    
+        <h1>KRAFT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kraft Foods, Inc. ("Kraft")<br />Mondelēz International, Inc. (Kraft changed its name to this on 1 October 2012, following the spin-off of its North American grocery business, which is now Kraft Foods Group, Inc.)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Large confectionary, food and beverage corporation
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Northfield, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Kraft described the ongoing investigation as follows in its SEC Form 10-K filed on 28 February 2011: <br /><br />"A compliant and ethical corporate culture, which includes adhering to laws and industry regulations in the United States and abroad, is integral to our success. To this end, after we acquired Cadbury in February 2010 we began reviewing and adjusting, as needed, Cadbury's operations in light of U.S. and international standards as well as Kraft Foods' policies and practices. We initially focused on such high priority areas as food safety, the Foreign Corrupt Practices Act ("FCPA") and antitrust. Based upon Cadbury's pre-acquisition policies and compliance programs and our post-acquisition reviews, our preliminary findings indicated that Cadbury's overall state of compliance was sound. Nonetheless, through our reviews, we determined that in certain jurisdictions, including India, there appeared to be facts and circumstances warranting further investigation. We have undertaken these investigations, which are ongoing.<br /><br />"On February 1, 2011, we received a subpoena from the SEC. The subpoena, issued in connection with an investigation under the FCPA, primarily relates to a Cadbury facility in India that we acquired in the Cadbury acquisition and primarily requests information regarding dealings with Indian governmental agencies and officials to obtain approvals related to the operation of that facility. We are cooperating with the U.S. government in its investigation of these matters."<br /><br />As of February 2013, the investigation is ongoing.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1358">Kraft - SEC Form 10-K (28 Feb. 2011)</a></p><p><a href="file.asp?id=1916">Kraft - SEC Form 10-Q (3 August 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

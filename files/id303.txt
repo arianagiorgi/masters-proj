@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192446b0976">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192446qjar6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TATA COMMUNICATIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(303)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924461d026" width="415" height="61" /></div>
+    
+        <h1>TATA COMMUNICATIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tata Communications Limited ("Tata Communications")<br />Tata Communications International Pte Ltd. (wholly-owned subsidiary of Tata Communications)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telephone network servicing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Mumbai, India
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Tata Communications described the ongoing investigations as follows in its SEC Form 20-F filed on September 30, 2010:<br /><br />"Tata Communications International Pte Ltd.--Possible non-compliance with U.S. Foreign Corrupt Practices Act ("FCPA")<br /><br />In April 2010, the Company voluntarily disclosed to the U.S. Department of Justice and the U.S. Securities and Exchange Commission the results of an internal investigation conducted by outside counsel for the Company relating to the activities of a reseller of one of the Company's subsidiaries, Tata Communications International Pte Ltd. The internal investigation found evidence that the reseller may have offered and made improper payments to officials of a government purchaser in a Southeast Asian country in connection with the resale of the Company's products. The investigation also found evidence that the Company's sales consultant in the country was aware of the reseller's potentially improper activities. Such activities may have violated the U.S. Foreign Corrupt Practices Act. The investigation did not reveal any prior involvement or knowledge regarding these activities by senior management of the Company or its subsidiary. <br /><br />The Company has taken remedial action, including terminating its relationship with the sales consultant and with the reseller. The Company cannot predict the ultimate consequences of these matters at this time, nor can it reasonably estimate the potential liability, if any, related to these matters. However, based on the facts currently known, the Company does not believe that these matters will have a material adverse effect on its business, financial condition, results of operations or cash flow."<br /><br />. . . <br /><br />"a) Business related claims <br /><br />In April 2010, the Company voluntarily disclosed to the U.S. Department of Justice and the U.S. Securities and Exchange Commission the results of an internal investigation conducted by outside counsel for the Company relating to the activities of a reseller of one of the Company's subsidiaries, Tata Communications International Pte Ltd. The internal investigation found evidence that the reseller may have offered and made improper payments to officials of a government purchaser in a Southeast Asian country in connection with the resale of the Company's products. The investigation also found evidence that the Company's sales consultant in the country was aware of the reseller's potentially improper activities. Such activities may have violated the U.S. Foreign Corrupt Practices Act. The investigation did not reveal any prior involvement or knowledge regarding these activities by senior management of the Company or its subsidiary. The Company has taken remedial action, including terminating its relationship with the sales consultant and with the reseller. The Company cannot predict the ultimate consequences of these matters at this time, nor can we reasonably estimate the potential liability, if any, related to these matters. However, based on the facts currently known, we do not believe that these matters will have a material adverse effect on our business, financial condition, results of operations or cash flow. <br /><br />In August, 2004, Teleglobe initiated investigations into potential instances of non-compliance with the United States Foreign Corrupt Practices Act ("FCPA") by ITXC Corp. ("ITXC"), which it had acquired. Those instances related to ITXC's operations in certain African countries prior to its acquisition by Teleglobe. Teleglobe also voluntarily notified the SEC and the U.S. Department of Justice (the "DOJ") of the matter, and the Company has been cooperating fully with the SEC and the DOJ. In February 2005, ITXC was also made the subject of a formal order of investigation by the SEC in connection with possible violations of the FCPA and related violations of US securities laws. Resulting from complaints filed by the SEC and DOJ in the federal court in New Jersey, ITXC's former regional director for Africa was charged with and sentenced for both civil and criminal violations of the FCPA. On September 7, 2006, the SEC filed a civil action in U.S. District Court in New Jersey against two former ITXC employees, charging them with FCPA bribery and books and records violations. Both these former employees pleaded guilty to the charges and were sentenced in July and September 2008. The Company intends to continue to cooperate fully with the SEC and DOJ in the investigation. The Company cannot predict the extent to which the SEC, the DOJ or any other governmental authorities will pursue administrative, civil or criminal proceedings, the imposition of fines or penalties or other remedies or sanctions. The Company has not identified, and does not believe it is likely that, any material adjustment to its consolidated financial statements is or will be required in connection with the results of this investigation, although it is possible that a monetary penalty, if any, may be material to its results of operations in the period in which it is imposed.<br /><br />On February 9, 2007, the plaintiff, 21st Century Technologies Ltd. filed a suit against Teleglobe America Inc. before the Federal High Court of Nigeria, Lagos Division, alleging that Teleglobe improperly terminated a GlobeInternet Services Agreement pursuant to which Teleglobe rendered Internet access and satellite connectivity services to 21st Century. The suit alleges that Teleglobe's termination of the agreement was improper, resulting in damages arising from 21st Century's lease of capacity from INTELSAT. The plaintiff is seeking $2,067,000 as damages. The Company entered a conditional appearance and filed a motion challenging the jurisdiction of the Court to hear the matter in view of the jurisdiction provisions in the applicable Internet Services Agreement. It is our assertion that Virginia, USA constitutes the proper venue for resolution of any disputes based upon the terms of the contract. All hearings for this matter have so far been adjourned and not proceeded. (Note that in November 2003, Teleglobe filed suit against the plaintiff in Virginia, USA alleging that the plaintiff improperly terminated the abovementioned GlobeInternet Services Agreement, whereby the Company rendered Internet access and satellite connectivity services to the plaintiff. On February 27, 2004, the Court entered a default judgment against 21st Century, and later set damages at $1,231,492.05. The Company is seeking to enforce the judgment in Nigeria. 21st Century initiated an action before the Federal High Court of Lagos State, Nigeria, seeking a declaratory judgment barring enforcement of any judgment obtained by the Company based upon improper service of process. The High Court ruled in favour of 21st Century. The Company appealed the ruling to the Court of Appeal and the appeal was heard on April 10, 2008. On July 4, 2008, judgment in the appeal was delivered in favour of the Company (the Court of Appeal set aside the judgment of the Federal High Court where it refused to register the judgment obtained by Teleglobe in Virginia, USA). However, 21st Century have filed a Notice of Appeal and Motion for stay of execution of the Court of Appeal's judgment. The Company is presently awaiting the hearing notice and delivery of the ruling. <br /><br />The Company is routinely party to suits for collection, commercial disputes, claims from customers and/or suppliers over reconciliation of payments for voice minutes, circuits, Internet bandwidth and/or access to the public switched telephone network, leased equipment, and claims from estates of bankrupt companies alleging that we received preferential payments from such companies prior to their bankruptcy filings. While management currently believes that resolving such suits and claims, individually or in aggregate, will not have a material adverse impact on the Company's financial position, the FCPA investigations are subject to inherent uncertainties and management's view of this matter may change in the future. If an unfavorable final outcome were to occur, such an outcome could have a material adverse impact on the Company's financial position and results of operations for the period in which the effect becomes reasonably estimable. Claims against the Company of Rs 446 million (US$ 9.9 million) are disputed by the Company of which an amount of Rs 83 million (US$ 1.8 million) has been accrued as liability. If the dispute goes against the Company, Rs. 363 million (US$ 8.1 million) will be charged to statement of operations."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The DOJ and SEC investigations are ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1158">Tata Communications - SEC Form 20-F (30 Sept. 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

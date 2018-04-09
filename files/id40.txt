@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170726y519h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707261s222" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LUCENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(40)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170726yxyy8" width="415" height="61" /></div>
+    
+        <h1>LUCENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lucent Technologies Inc. ("Lucent")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Communications systems and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Murray Hill, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 2000 through 2003, Lucent spent over USD 10 million to send around 1000 Chinese government officials on approximately 315 trips, both pre-sale and post-sale, to the United States and other countries.  Many of the trips were primarily for leisure, entertainment and sight-seeing, although they were often characterized as factory inspections or training, sometimes where no factories existed.  Some of the trips were to Disneyland, Universal Studios, New York City and the Grand Canyon, costing between USD 25,000 and USD 55,000 per trip.  <br /><br />Many of the individuals participating in the trips were senior government officials, including heads of state-owned telecommunications companies in Beijing and the leaders of provincial telecommunications subsidiaries.  The officials traveling at Lucents expenses were often referred to internally at Lucent as the "decision makers" and the trips were categorized either as pre-sale trips or post-sale trips.  The post-sale trips constituted around 90 percent of expenditures.    <br /><br />Senior Lucent Chinese officials approved and consented to the various trips and received logistical and administrative from Lucent employees in the U.S.  Lucent improperly recorded expenses for these trips in its books and records and failed to provide adequate internal controls to monitor the provision of travel and other things of value to Chinese government officials.  <br /><br />In November 2006, Lucent merged with Alcatel SA, creating Alcatel-Lucent, which is incorporated in France.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Amount Spent on Leisure Trips for Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p style="text-align: center;">USD 10 million</p>
+</td>
+<td>
+<p>Over USD 950 million (estimated value of combined contracts in China)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Lucent voluntarily disclosed the conduct to the DOJ and SEC in 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2007, Lucent entered into a two-year non-prosecution agreement with the DOJ relating to its violations of the anti-bribery, books and records and internal controls provisions of the FCPA.  Under the agreement, Lucent admitted to the conduct and agreed to a USD 1 million fine.  Lucent also committed to adopting new  or modifying existing  internal controls, policies and procedures related to FCPA and anti-bribery compliance.  <br /><br />On 21 December 2007, without admitting or denying the SEC's allegations, Lucent consented to the entry of a final judgment enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering Lucent to pay a civil penalty of USD 1.5 million.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To qualify under the FCPA affirmative defense, promotional expenses for government officials must be directly related to a legitimate business purpose and must be recorded accurately in a company's books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1134">Non-Prosecution Agreement U.S. v. Lucent Technologies Inc. (November 14, 2007)</a></p><p><a href="file.asp?id=149">DOJ Press Release: December 21, 2007 (Lucent Technologies Inc. Agrees to Pay $1 Million Fine to Resolve FCPA Allegations)</a></p><p><a href="file.asp?id=151">Complaint: SEC v. Lucent Technologies Inc. (December 21, 2007)</a></p><p><a href="file.asp?id=150">SEC Litigation Release: December 21, 2007 (SEC Files Settled Action Against Lucent Technologies Inc. in Connection With Payments of Chinese Officials' Travel and Entertainment Expenses; Company Agrees to Pay $1.5 Million Civil Penalty)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842359akd2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184235qj3o2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LUCENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(40)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184235cld9b" width="415" height="61" /></div>
+    
+        <h1>LUCENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lucent Technologies Inc. ("Lucent")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Communications systems and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Murray Hill, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 2000 through 2003, Lucent spent over USD 10 million to send around 1000 Chinese government officials on approximately 315 trips, both pre-sale and post-sale, to the United States and other countries.  Many of the trips were primarily for leisure, entertainment and sight-seeing, although they were often characterized as factory inspections or training, sometimes where no factories existed.  Some of the trips were to Disneyland, Universal Studios, New York City and the Grand Canyon, costing between USD 25,000 and USD 55,000 per trip.  <br /><br />Many of the individuals participating in the trips were senior government officials, including heads of state-owned telecommunications companies in Beijing and the leaders of provincial telecommunications subsidiaries.  The officials traveling at Lucents expenses were often referred to internally at Lucent as the "decision makers" and the trips were categorized either as pre-sale trips or post-sale trips.  The post-sale trips constituted around 90 percent of expenditures.    <br /><br />Senior Lucent Chinese officials approved and consented to the various trips and received logistical and administrative from Lucent employees in the U.S.  Lucent improperly recorded expenses for these trips in its books and records and failed to provide adequate internal controls to monitor the provision of travel and other things of value to Chinese government officials.  <br /><br />In November 2006, Lucent merged with Alcatel SA, creating Alcatel-Lucent, which is incorporated in France.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Amount Spent on Leisure Trips for Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p style="text-align: center;">USD 10 million</p>
+</td>
+<td>
+<p>Over USD 950 million (estimated value of combined contracts in China)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Lucent voluntarily disclosed the conduct to the DOJ and SEC in 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2007, Lucent entered into a two-year non-prosecution agreement with the DOJ relating to its violations of the anti-bribery, books and records and internal controls provisions of the FCPA.  Under the agreement, Lucent admitted to the conduct and agreed to a USD 1 million fine.  Lucent also committed to adopting new  or modifying existing  internal controls, policies and procedures related to FCPA and anti-bribery compliance.  <br /><br />On 21 December 2007, without admitting or denying the SEC's allegations, Lucent consented to the entry of a final judgment enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering Lucent to pay a civil penalty of USD 1.5 million.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To qualify under the FCPA affirmative defense, promotional expenses for government officials must be directly related to a legitimate business purpose and must be recorded accurately in a company's books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1134">Non-Prosecution Agreement U.S. v. Lucent Technologies Inc. (November 14, 2007)</a></p><p><a href="file.asp?id=149">DOJ Press Release: December 21, 2007 (Lucent Technologies Inc. Agrees to Pay $1 Million Fine to Resolve FCPA Allegations)</a></p><p><a href="file.asp?id=151">Complaint: SEC v. Lucent Technologies Inc. (December 21, 2007)</a></p><p><a href="file.asp?id=150">SEC Litigation Release: December 21, 2007 (SEC Files Settled Action Against Lucent Technologies Inc. in Connection With Payments of Chinese Officials' Travel and Entertainment Expenses; Company Agrees to Pay $1.5 Million Civil Penalty)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192051bgi1r">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920517n61a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LUCENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(40)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192051wsig8" width="415" height="61" /></div>
+    
+        <h1>LUCENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lucent Technologies Inc. ("Lucent")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Communications systems and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Murray Hill, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 2000 through 2003, Lucent spent over USD 10 million to send around 1000 Chinese government officials on approximately 315 trips, both pre-sale and post-sale, to the United States and other countries.  Many of the trips were primarily for leisure, entertainment and sight-seeing, although they were often characterized as factory inspections or training, sometimes where no factories existed.  Some of the trips were to Disneyland, Universal Studios, New York City and the Grand Canyon, costing between USD 25,000 and USD 55,000 per trip.  <br /><br />Many of the individuals participating in the trips were senior government officials, including heads of state-owned telecommunications companies in Beijing and the leaders of provincial telecommunications subsidiaries.  The officials traveling at Lucents expenses were often referred to internally at Lucent as the "decision makers" and the trips were categorized either as pre-sale trips or post-sale trips.  The post-sale trips constituted around 90 percent of expenditures.    <br /><br />Senior Lucent Chinese officials approved and consented to the various trips and received logistical and administrative from Lucent employees in the U.S.  Lucent improperly recorded expenses for these trips in its books and records and failed to provide adequate internal controls to monitor the provision of travel and other things of value to Chinese government officials.  <br /><br />In November 2006, Lucent merged with Alcatel SA, creating Alcatel-Lucent, which is incorporated in France.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Amount Spent on Leisure Trips for Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p style="text-align: center;">USD 10 million</p>
+</td>
+<td>
+<p>Over USD 950 million (estimated value of combined contracts in China)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Lucent voluntarily disclosed the conduct to the DOJ and SEC in 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2007, Lucent entered into a two-year non-prosecution agreement with the DOJ relating to its violations of the anti-bribery, books and records and internal controls provisions of the FCPA.  Under the agreement, Lucent admitted to the conduct and agreed to a USD 1 million fine.  Lucent also committed to adopting new  or modifying existing  internal controls, policies and procedures related to FCPA and anti-bribery compliance.  <br /><br />On 21 December 2007, without admitting or denying the SEC's allegations, Lucent consented to the entry of a final judgment enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering Lucent to pay a civil penalty of USD 1.5 million.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To qualify under the FCPA affirmative defense, promotional expenses for government officials must be directly related to a legitimate business purpose and must be recorded accurately in a company's books and records.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1134">Non-Prosecution Agreement U.S. v. Lucent Technologies Inc. (November 14, 2007)</a></p><p><a href="file.asp?id=149">DOJ Press Release: December 21, 2007 (Lucent Technologies Inc. Agrees to Pay $1 Million Fine to Resolve FCPA Allegations)</a></p><p><a href="file.asp?id=151">Complaint: SEC v. Lucent Technologies Inc. (December 21, 2007)</a></p><p><a href="file.asp?id=150">SEC Litigation Release: December 21, 2007 (SEC Files Settled Action Against Lucent Technologies Inc. in Connection With Payments of Chinese Officials' Travel and Entertainment Expenses; Company Agrees to Pay $1.5 Million Civil Penalty)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

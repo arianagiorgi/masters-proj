@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192657cj339">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926573relw" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SWIFT </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(454)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192657z9462" width="415" height="61" /></div>
+    
+        <h1>SWIFT </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Swift Group ("Swift")<br />Swift Technical Energy Solutions Ltd. (STES), a Nigerian subsidiary of Swift<br />Paul Jacobs, former CFO of Swift<br />Bharat Sodha, former Tax Manager of Swift<br />Nidhi Vyas, former Financial Controller of Swift<br />Trevor Bruce, former Swift Area Director for Nigeria
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas manpower provider
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Enfield, Middlesex, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Employees or agents of Swift are alleged to have paid GBP 180,000 in bribes to tax officials in two Nigerian states between 2008 and 2009 in order to avoid, reduce or delay paying taxes on behalf of workers placed by Swift.  The officials are identified as agents of the Rivers State Board of Internal Revenue, and the Lagos State Board of Internal Revenue. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is not yet known how the conduct was discovered.  The case was accepted for investigation by the SFO in August 2010 following a referral by City of London Police.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />On 17 December 2012, four individuals were charged by the Serious Fraud Office with conspiracy to corrupt.  The four are Paul Jacobs, Bharat Sodha, Nidhi Vyas, and Trevor Bruce. A preliminary hearing is scheduled for 22 February 2013.<br /><br />The Swift Group is cooperating with the SFO in its investigation.  The Company is not facing criminal charges.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2074">Swift -SFO Press Release (17 December 2012), Four charged in Nigerian corruption investigation</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

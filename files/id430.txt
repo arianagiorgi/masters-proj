@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192636l3n79">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192636c13ll" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NORDION INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(430)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192636kg8no" width="415" height="61" /></div>
+    
+        <h1>NORDION INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Canada: Royal Canadian Mounted Police<br />Canada: Office of the Attorney General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nordion, Inc.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of medical isotopes, sterilization techniques, therapies and medical research
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Ottowa, Ontario, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In a press statement on 8 August 2012, the Company gave notice that it had discovered potential "compliance irregularities" during its internal CFPOA compliance review, and that the Company had:<br /> <br />(1) commenced an investigation into the issues, which relate to "potential improper payments and other related financial irregularities in connection with the supply of materials and services to the Company;" <br /><br />(2) engaged outside legal counsel and external forensic and accounting firms to conduct the investigation and report to the Company's Board; and <br /><br />(3) voluntarily contacted the Royal Canadian Mounted Police ("RCMP"), the Canadian Public Prosecution Service ("PPSC"), the SEC and the DOJ.  <br /><br />In its financial reports for the same period, the Company noted that it had ceased to make payments to and terminated its contractual arrangements with the affected foreign supplier.  The Company also noted that the internal investigation was expected to cost USD 5 million by the end of 2012, and that it had already cost USD 1.356 million.<br /><br />On 28 January 2013, the Company said in a regulatory filing with the SEC that it had ceased payments and terminated contractual agreements with an unnamed supplier as a result of the internal investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unknown</td>
+<td style="text-align: center;">&nbsp;Unknown</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Details are not yet known.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1932">Nordion - Press Release (8 August 2012), Statement on Voluntary Disclosure</a></p><p><a href="file.asp?id=1947">Nordion - Press release (5 September 2012), Ex. 99 to 6-K</a></p><p><a href="file.asp?id=1948">Nordion - Q3 Interim Report (31 July 2012)</a></p><p><a href="file.asp?id=2121">Nordion - Annual Report (January 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,184 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922362jv37">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922368f6z2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ABB / VETCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(157)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192236121aj" width="415" height="61" /></div>
+    
+        <h1>ABB / VETCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ABB Ltd. (Swiss parent company) ("ABB")<br />ABB Vetco Gray, Inc. (US subsidiary) ("ABB Vetco Gray")<br />ABB Vetco Gray UK Ltd. (UK subsidiary) ("ABB Vetco Gray UK")<br />John Samson (Former West Africa regional sales manager for Vetco Nigeria)<br />John G. A. Munro (Former senior vice president of operations for ABB Vetco Gray UK)<br />Ian N. Campbell (Former vice president of finance for ABB Vetco Gray UK)<br />John H. Whelan (Former vice president of sales for ABB Vetco Gray) ("Aibel")<br />Vetco Gray UK Ltd. (Successor company to ABB Vetco Gray UK and wholly-owned subsidiary of Vetco International) ("Vetco Gray UK")<br />Vetco Gray Controls, Inc. (wholly-owned subsidiary of Vetco International Ltd.) ("Vetco Gray Controls")<br />Vetco Gray Controls Ltd. (wholly-owned subsidiary of Vetco International, Ltd.)<br />Aibel Group Ltd. (wholly-owned subsidiary of Vetco International Ltd.)<br />Vetco International, Ltd. (Parent company of Vetco Gray UK, Vetco Gray Controls, Vetco Gray Controls UK and Aibel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering, procurement services, and construction for deepwater oil drilling
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Zurich, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />Kazakhstan<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+         From 1998 until 2003, ABB Vetco Gray and ABB Vetco Gray UK and their foreign subsidiaries made over USD 1.1 million in payments to government officials in Nigeria, Angola and Kazakhstan in order to obtain and retain lucrative oil and gas contracts. <br /><br />In 1998, ABB Vetco Gray prepared to bid on a major oil and gas project in Nigeria known as the Bonga Project, Nigeria's first deepwater drilling operation. From the beginning, Nigerian officials, who worked for the National Petroleum Investment Management Services ("NAPIMS"), asked ABB Vetco Gray to provide gifts and cash in exchange for favorable treatment in the bidding process, including providing confidential information regarding evaluations of competing bids and favorable consideration for ABB Vetco Gray UK's bids. <br /><br />From 1998 until 2001, ABB Vetco Gray and ABB Vetco Gray UK paid over USD 1 million in cash and gifts to NAPIMS officials. The gifts included, an automobile, an electric generator, lavish shopping excursion in the United States, a country club membership, the payment of household expenses, pedicures and medical appointments.  In addition, the companies paid "commissions" to these officials through a local Nigerian agent. As a result of these payments, ABB Vetco Gray and ABB Vetco Gray UK were awarded a number of oil and gas contracts in Nigeria, which resulted in approximately USD 187,775,000 in gross revenue for the companies. <br /><br />According to the U.S. Securities and Exchange Commission ("SEC") complaint, four former employees were involved in the Nigerian bribery scheme.  John Samson was the former West Africa regional sales manager for ABB Vetco Gray Nigeria, Ltd., John G.A. Munro was the former senior vice president of operations for ABB Vetco Gray UK, Ian N. Campbell was the former vice president of finance for ABB Vetco Gray UK, and John H. Whelan was the former vice president of sales for ABB Vetco Gray. <br /><br />During the period in which the Vetco companies were trying to obtain contracts in Nigeria, Samson allegedly agreed to pay six NAPIMS officials USD 800,000 in bribes through a consultant under the cover of false invoices for "consulting work."  At least USD 100,000 of this money was wired into a U.S. bank account held by the Nigerian official. Further, Samson allegedly personally benefited from the illicit payments by receiving approximately USD 50,000 in kickbacks from one of the NAPIMS officials.  <br /><br />In addition to payments to Nigerian officials, ABB Vetco Gray and UK subsidiaries allegedly made payments to engineers from Sonangol, the state-owned oil company in Angola. The engineers were responsible for the technical evaluations of bids.  ABB Vetco Gray and ABB Vetco Gray UK allegedly authorized and paid for three training trips for the engineers, two to the United States and Brazil and one to Norway and the United Kingdom. The companies allegedly paid for the officials' travel, lodging and meals and provided a USD 120-200 per diem to each official. On one trip to the United States in 2001, ABB Vetco Gray made a total of USD 21,600 in payments to five officials, amounting to USD 4,320 to each official. ABB Vetco Gray's Angola country manager handed the cash to the officials from a brown paper bag. These payments were inaccurately recorded on the companies' books and records. In exchange for the trips, the officials allegedly provided confidential information on bids, which resulted in the companies receiving contracts worth over USD 11 million. <br /><br />ABB Vetco Gray and ABB Vetco Gray UK also allegedly made improper payments totaling USD 125,126 to a former ABB Kazakhstan Ltd. ("ABB KZ") employee who was working for KazMunaiGas, the Kazakh state-owned oil company.  The payments were made through ABB KZ and resulted in USD 11,841,857 in revenue and approximately USD 1,421,157 in profits. <br /><br />On 12 July 2004, ABB Vetco Gray, ABB Vetco Gray UK Ltd. along with other companies in the Vetco Group were acquired by a group of investors who agreed to investigate and stop the conduct and ensure the companies complied with the FCPA moving forward.  In 2004, ABB Vetco Gray and ABB Vetco Gray UK became wholly-owned subsidiaries of Vetco International, Ltd., a company headquartered in London, United Kingdom. After the acquisition, ABB Vetco Gray UK changed its name to Vetco Gray UK Ltd. Despite assurances to U.S. enforcement agencies, the investors were not able to carry out their obligations.  <br /><br />From September 2002 until 2007, Vetco Gray Controls, Vetco Gray UK, Vetco Gray Controls, Ltd., and Aibel, an affiliated company, engaged the services of an international freight forwarding and customs clearance company to assist with importing equipment needed to perform Vetco Gray UK's contract related to the Bonga Project.  The freight forwarding company made approximately USD 2.1 million in improper payments to Nigerian customs officials during that time in order to receive preferential treatment during the customs clearance process. The payments were coordinated through Vetco Gray Controls' Houston offices. <br />	<br />In 2007, General Electric ("GE") acquired the Vetco companies. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Amount of Payments to Nigerian officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Resulting Revenue/Profit</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1 million</p>
+</td>
+<td>
+<p style="text-align: center;"><span style="line-height: 115%; font-size: 11pt;">USD 187,775,000 (Revenue)</span> <br />USD 2.6 million (Profit)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Items of Value Provided to Angolan Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profit</strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p>Training trips to the United States, Brazil, Norway and the United Kingdom that included payment of expenses plus per diem payments</p>
+</td>
+<td>
+<p><span style="line-height: 115%; font-size: 11pt;">USD 11,249,000 (Revenue)<br />USD 1,480,000 (Profit)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Items of Value Provided to Kazakh Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Resulting Revenue/Profit</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 125,126</p>
+</td>
+<td>
+<p style="text-align: center;"><span style="line-height: 115%; font-size: 11pt;">USD 11,841,857 (Revenue)<br />USD 1,421,157 (Profit)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Amount of Payments Made to Nigerian Customs Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 2.1 million</p>
+</td>
+<td>
+<p style="text-align: center;"><span style="line-height: 115%; font-size: 11pt;">Preferential treatment during the customs clearance process</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        ABB voluntarily disclosed the payments to the DOJ and SEC in 2003, after the conduct was discovered during pre-merger due diligence. A group of investors was negotiating a deal with ABB to purchase its oil, gas and petrochemical division, which included the Vetco group of companies. <br /><br />In addition to requiring that ABB voluntarily disclose the conduct, the investors requested an Opinion Procedure Release from the DOJ, asking whether they could face successor liability for the conduct if they proceeded with the acquisition. According to Opinion Procedure Release 04-02, the investors and ABB undertook an extensive FCPA review of the upstream oil business for the previous five years. They each engaged independent auditors and counsel to review and analyze the information.  The FCPA review involved over 115 lawyers and 44,700 man-hours across 21 countries.  The investors and ABB turned over all of the information uncovered by the investigation to the DOJ and SEC. <br /><br />The investors also agreed to take remedial action, including implementing a robust FCPA compliance program and investigating the companies' conduct in other countries, to ensure that such payments would not continue in the future. Based on the representations made in Opinion Procedure Release 04-02, the DOJ agreed not to take any enforcement action against the investors for the conduct after closing. <br /><br />The investors did not comply with the representations made in the Opinion Procure Release and improper payments continued until 2007. It is believed that GE discovered the subsequent payments that led to the Vetco companies' second settlement during its own pre-merger due diligence to acquire the companies.  GE completed the acquisition in 2007, after the Vetco companies' settlement with the government, and assumed responsibility for maintaining the compliance monitor and ensuring that the Vetco companies complied with the terms of the settlement agreement. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 July 2004, the ABB Vetco Gray and ABB Vetco Gray UK pleaded guilty to charges of bribing government officials in violation of the FCPA.  Each company agreed to pay a fine of USD 5.25 million. ABB Vetco Gray UK was only the second company charged under the provisions of the FCPA that cover foreign companies that take an act in furtherance of bribing a foreign official while in the territory of the United States.  The acts in question included making improper payments to U.S. bank accounts and reimbursing ABB Vetco Gray for bribes paid to Nigerian officials.   <br /><br />On the same day, without admitting or denying the SEC's allegations, ABB consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions. ABB was required to pay a total of USD 16.4 million in penalties, including USD 5.9 million in disgorgement of profits and a USD 10.5 million civil penalty. The SEC also required ABB to retain an independent consultant to review the company's FCPA compliance policies and procedures.  <br /><br />In a related case, on 5 July 2006, without admitting or denying the SEC's allegations, Samson, Munro, Campbell and Whelan consented to the entry of final judgments permanently enjoining each of them from future violations of the FCPA's anti-bribery, books and records and internal controls provisions. In addition, Samson was ordered to pay a USD 50,000 civil penalty and USD 64,674 in disgorgement and pre-judgment interest and Campbell and Munro were each required to pay a USD 40,000 civil penalty.  <br /><br />On 6 February 2007, Vetco Gray UK, Vetco Gray Controls and Vetco Gray Controls, Ltd. pleaded guilty to violating the FCPA's anti-bribery provisions and conspiracy to violate the FCPA. The companies were required to pay a combined criminal fine of USD 26 million, broken out as follows: Vetco Gray Controls - USD 6 million; Vetco Gray Controls, Ltd. - USD 8 million; and Vetco Gray UK - USD 12 million. In addition, the companies were required to appoint an independence compliance monitor; undertake a complete investigation of the companies' conduct in other countries, as promised under Opinion Procedure Release 04-02; and ensure that any sale of the companies binds the purchaser to comply with the monitoring and investigating obligations. <br /><br />On the same date, Aibel entered into a deferred prosecution agreement with the government for its role in the bribery scheme. The DOJ agreed not prosecute Aibel if it complied with the terms of the agreement. On 21 November 2008, Aibel pleaded guilty to conspiracy to violate the FCPA and one substantive count of violating the FCPA and was required to pay a USD 4.2 million criminal fine. According to the DOJ, Aibel had not complied with the terms of its deferred prosecution agreement. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Foreign companies that cause acts in furtherance of the payment of bribes to foreign officials within the United States can be held liable for FCPA violations. Such acts can include causing money to be transferred to a bank account in the United States in order to make an improper payment, or reimbursing an entity in the United States for improper payments.</li><li>It is important for companies engaging in a merger or acquisition to conduct pre-merger due diligence on the target company in order to avoid acquiring an FCPA liability.</li><li>Payments to customs officials can form the basis for FCPA violations.</li><li>A company that appears before the DOJ twice for related conduct will face harsher penalties.</li><li>In order to avoid FCPA liability, a company must comply with the terms of any agreement it has entered into with the government.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=520">Criminal Information: U.S. v. ABB Vetco Gray, Inc. et al (22 June 2004)</a></p><p><a href="file.asp?id=519">DOJ Press Release: "ABB Vetco Gray, Inc. and ABB Vetco Gray UK Ltd. Plead Guilty to Foreign Bribery Charges" (6 July 2004)</a></p><p><a href="file.asp?id=521">Plea Agreement: U.S. v. ABB Vetco Gray, Inc. et al (6 July 2004)</a></p><p><a href="file.asp?id=522">SEC Litigation Release: "SEC Sues ABB Ltd. in Foreign Bribery Case" (6 July 2004)</a></p><p><a href="file.asp?id=523">Complaint: SEC v. ABB Ltd. (6 July 2004)</a></p><p><a href="file.asp?id=526">DOJ Opinion Procedure Release 04-02 (12 July 2004)</a></p><p><a href="file.asp?id=524">SEC Litigation Release: "SEC Files Charges Against Four Former Senior Employees of ABB Ltd. Subsidiaries" (5 July 2006)</a></p><p><a href="file.asp?id=525">Complaint: SEC v. John Samson, John G. A. Munro, Ian N. Campbell, and John H. Whelan (5 July 2006)</a></p><p><a href="file.asp?id=527">DOJ Press Release: "Three Vetco International Ltd. Subsidiaries Plead Guilty" (6 February 2007)</a></p><p><a href="file.asp?id=528">DOJ Press Release: "Aibel Group Ltd. Pleads Guilty to Foreign Bribery and Agrees to Pay $4.2 Million in Criminal Fines" (21 November 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

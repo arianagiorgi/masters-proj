@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1926073u3w3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19260715q6n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DELTA TUCKER HOLDINGS, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(398)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192607s35t3" width="415" height="61" /></div>
+    
+        <h1>DELTA TUCKER HOLDINGS, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Delta Tucker Holdings, Inc. ("Delta Tucker")<br />DynCorp International Inc. ("DynCorp," a wholly owned subsidiary of Delta Tucker)<br />Al Ghabban (a subcontractor performing trucking services)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Support services for military installations and operations
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Falls Church, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 28 November 2009, Reuters reported that DynCorp, which was later acquired by Delta Tucker, had discovered approximately USD 300,000 in payments "made to expedite the issuance of a limited number of visas and licenses from foreign government agencies. . . ." As reported in Delta Tucker's SEC Form 10-K filed on 9 April 2012, facts relating to these payments were voluntarily disclosed to the DOJ and the SEC in November 2009. In its Form 10-K submitted to the SEC on 27 March 2013, Delta Tucker said that the DOJ had notified the Company on 5 February 2013 that it was closing its investigation without taking any action. The Form 10-K mentioned nothing, however, about the SEC's investigation.<br /><br />In its 9 April 2012 Form 10-K, Delta Tucker also reported that it was served with a DOJ subpoena in August 2005 "seeking documents concerning work performed by a former subcontractor, Al Ghabban," who performed line-hauling services in the Middle East between 2002 and 2005.  The Company received a follow-up telephone call in April 2009, continued to have discussions with the DOJ about it and has provided information to the DOJ on the subject. The Company "believe[s] that the likelihood of an unfavorable judgment resulting from this matter is reasonably possible."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 300,000<br /></td>
+<td style="text-align: center;">&nbsp;Expedited visa and license issuance<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unknown
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Regarding the alleged payments to expedite licenses and visas, the DOJ notified the Company on 5 February 2013 that "their inquiry regarding this matter has been closed based upon a number of factors, including, but not limited to, the voluntary disclosure by the company, the thorough investigation undertaken by the company, and the steps taken to enhance the company's anti-corruption compliance program." The SEC's investigation of these allegations appears to be ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An FCPA investigation by the DOJ does not always result in an enforcement action or penalty against a company.</li><li>Effective internal investigations and enhancements of anti-corruption compliance program can be persuasive factors in the DOJ's decision to close an investigation without taking a formal enforcement action.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Reuters: "DynCorp Intl LLC executive counsel terminated" (28 November 2009)</p><p><a href="file.asp?id=1785">Delta Tucker Holdings: SEC Form 10-K (9 April 2012)</a></p><p><a href="file.asp?id=2200">Delta Tucker Holdings: SEC Form 10-K (27 March 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

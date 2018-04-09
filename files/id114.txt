@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19215869ov3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192158wx6s7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ASHLAND OIL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(114)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19215847175" width="415" height="61" /></div>
+    
+        <h1>ASHLAND OIL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ashland Oil, Inc.  ("Ashland Oil")<br />Ashland Development Inc. (wholly-owned subsidiary of Ashland Oil) ("ADI")<br />Orin E. Atkins (Chairman and Chief Executive Officer of Ashland Oil)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Refining, transporting and marketing of crude oil products 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lexington, Kentucky, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Oman<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Securities and Exchange Commission (“SEC”) charged Ashland Oil and Orin E. Atkins, its Chairman and CEO, with violations of the FCPA's anti-bribery provisions in connection with improper payments allegedly made to government officials in Oman between 1979 and 1981.  <br /><br />Starting in late 1979, Ashland Oil, Inc., through its subsidiary Ashland Development Inc., made USD 29 million in improper payments to James Langdon, a British Army officer seconded to Oman (and hence an official of Oman for purposes of the FCPA) in return for crude oil contracts from Oman's government.  <br /><br />ADI began investing in Midland Chrome Mines (Private) Ltd., a company in Zimbabwe owned by Langdon and his family.  Over the next few years, ADI made approximately USD 25 million in payments and USD 4 million in interest by acquiring a 75% ownership interest in Midland Mines.  The mines themselves, due to a hostile political atmosphere in Zimbabwe and technical problems in removing the minerals, among other reasons, ultimately proved a worthless investment.  <br /><br />In return for the payments, Langdon used his influence with the Sultan of Oman to aid Ashland Oil in the procurement of crude contracts at a reduced price.  Central in these negotiations was Atkins, who approved many of the payments and proceeded with the dealings despite warnings from company lawyers and managers about possible FCPA violations.  <br /><br />In late 1983, shareholders filed suit against directors and officers of Ashland Oil for alleging waste of company funds in connection with the mine in Zimbabwe.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Omani Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD 29 million</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Price reductions in crude oil contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 8 July 1986, without admitting or denying the SEC's allegations, Ashland Oil and Orin Atkins each consented to the entry of a final judgment permanently enjoining them from future violations of the FCPA's anti-bribery provisions.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Investing in a company owned by a foreign official or an official's family may constitute an improper payment under the FCPA if the investment is intended to influence the official in order to obtain an improper advantage. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=324">Complaint for Permanent Injunction: U.S. v. Ashland Oil, Inc. and Orin E. Atkins (July 8, 1986)</a></p><p><a href="file.asp?id=325">Consent: Ashland Oil, Inc. (July 8, 1986)</a></p><p><a href="file.asp?id=326">Consent: Orin E. Atkins (July 8, 1986)</a></p><p><a href="file.asp?id=327">Final Order: U.S. v. Ashland Oil, Inc. and Orin E. Atkins (July 8, 1986) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

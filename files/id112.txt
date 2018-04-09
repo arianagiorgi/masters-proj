@@ -1,0 +1,122 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192157il112">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192157dste6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VOLVO CONSTRUCTION EQUIPMENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(112)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192157gv61k" width="415" height="61" /></div>
+    
+        <h1>VOLVO CONSTRUCTION EQUIPMENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Volvo Construction Equipment International AB ("VEC")<br />Three key employees at VEC, including the Managing Director at the time and two persons responsible for VEC's Iraq market<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of construction equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Goteburg, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Swedish Prosecution Authority is investigating Volvo Construction Equipment International AB for alleged bribery and sanctions violations in connection with the United Nations ("U.N.") Oil for Food Program, under which the company sold 145 wheel loaders and 43 road graders to Saddam Hussein's regime in Iraq.  The actions are being categorized as major crimes. <br /><br />The accusations should be seen in the light of the significant events in Iraq during the 1990s, where sanctions were initiated against Iraq by the U.N. Security Council.  As Iraq was suspected to possess illegal weapons of mass destruction, no trade was allowed with the country.  However, a strictly controlled sale of, among other things, medicine, water pumps and road-making-machines in exchange for oil was permitted.  At some point during Autumn 2000, the Baghdad-based government began to demand an additional 10% on these sales as kickbacks.  The Iraqi authorities thus forced the contracted companies under the Oil for Food Program to charge excessive prices for their products.  <br /><br />Around 2200 companies worldwide are suspected to have paid bribes to the regime in Baghdad in the early 2000's.  Among these companies, 15 are Swedish, including Volvo, Scania and Atlas Copco. <br /><br />The Swedish Prosecution Authority has investigated the suspicions against VEC since 2006.  In March 2009, the Authority has initiated prosecutions against three key employees at VEC alleged to have orchestrated the kickbacks by the company.  According to the (former) Swedish Chief Prosecutor, VEC will be a test case against which it will decide whether or not to indict any other person at the other 15 Swedish companies. <br /><br />In the application for a summons, the prosecutor emphasizes that the three key persons were, as representatives for VEC, responsible for the decisions that payments should be handled to front companies, which were to execute the kickback payments.  The key persons are accused of committing premediated violations of the U.N. sanctions against Iraq.  The prosecutor has made a claim seeking imprisonment as a penalty.           
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">SEK 6.5 million (in 2001, approximately USD 635,000) [Paid]</p>
+<p style="text-align: center;">SEK 15 million (in 2001, approximately USD 1.46 million) [Promised]</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of construction equipment</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Volvo entities.  The misconduct was also reported in the media.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The case is still pending.  Prosecutions against three VEC employees have been initiated and the main proceedings were to begin in 2010.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192557a39k7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192557a614o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GRAINGER (W.W. GRAINGER, INC.)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(386)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192557saa80" width="415" height="61" /></div>
+    
+        <h1>GRAINGER (W.W. GRAINGER, INC.)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        W.W. Grainger, Inc.<br />Grainger China LLC
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial supply and distribution
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lake Forest, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In the Company's Form 10K filed with the SEC on 27 February 2012, the Company stated:<br /><br />"The Company is conducting an inquiry into alleged falsification of expense accounts submitted by employees in certain sales offices of Grainger China LLC, a subsidiary of the Company. In the course of the investigation the Company learned that sales employees may have provided prepaid gift cards to certain customers. The extent and value of the gift cards are subject to further inquiry. The Company's investigation includes determining whether there were any violations of laws, including the U.S. Foreign Corrupt Practices Act. Consequently, on January 24, 2012, the Company contacted the U.S. Department of Justice (DOJ) and the Securities and Exchange Commission (SEC) to voluntarily disclose that the Company was conducting an internal investigation, and agreed to fully cooperate and update the DOJ and SEC periodically on further developments.<br /><br />"The Company has retained outside counsel to assist in its investigation of this matter. Because the investigation is on-going, the Company cannot predict at this time whether any regulatory action may be taken or any other potential consequences may result from this matter."<br /><br />This statement was repeated in the Company's SEC Form 10-Q filed on 26 July 2012, with the added note that "[t]he results of the investigation, which have been submitted to the DOJ and the SEC, did not substantiate initial information suggesting significant use of gift cards for improper purposes."<br /><br />(An unrelated Qui Tam claim resulted in a USD 6 million settlement with the DOJ on 25 July 2008, resolving allegations that the company sold items to government agencies at a markup greater than allowed by the GSA, and that Grainger sold government agencies products from countries that do not have reciprocal trade agreements with the United States, such as China and Taiwan, in violation of regulations.)
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A statement in the Company's SEC Form 10-Q filed on 26 July 2012 reads:<br /><br />"On January 24, 2012, the Company contacted the U.S. Department of Justice and the Securities and Exchange Commission (SEC) to voluntarily disclose that the Company was conducting an internal investigation, and agreed to fully cooperate and update the DOJ and SEC periodically on further developments. The results of the investigation, which have been submitted to the DOJ and the SEC, did not substantiate initial information suggesting significant use of gift cards for improper purposes."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its SEC Form 10-Q filed on 1 November 2012, the Company announced the closure of the DOJ investigation:<br /><br />"The Company retained outside counsel to assist in its investigation of this matter. On January 24, 2012, the Company contacted the DOJ and the Securities and Exchange Commission to voluntarily disclose that the Company was conducting an internal investigation, and agreed to fully cooperate and update the DOJ and SEC periodically on further developments. The results of the investigation, which have been submitted to the DOJ and the SEC, did not substantiate initial information suggesting significant use of gift cards for improper purposes. On August 14, 2012, the DOJ closed its inquiry into this matter." <br /><br />It appears that the SEC's investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A thorough investigation and appropriate cooperation may result in the conclusion that, despite initial indications that  violations took place,  enforcement action  is not warranted.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1728">Grainger - SEC 10K filing (27 February 2012)</a></p><p><a href="file.asp?id=1909">Grainger - SEC Form 10-Q (26 July 2012)</a></p><p><a href="file.asp?id=2032">Grainger - SEC Form 10-Q (2 November 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

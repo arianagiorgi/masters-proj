@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192643x27y4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192643z35ii" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BEAM INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(438)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192643u5ac9" width="415" height="61" /></div>
+    
+        <h1>BEAM INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Beam, Inc. ("Beam")<br />Beam Global Spirits & Wines India Pvt. Ltd., a wholly-owned Indian subsidiary of Beam, Inc. ("Beam India")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Maker of wine and spirits, including whiskey, cognac, vodka and rum
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Deerfield, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Media reports on 11 October 2012 revealed that the U.S. Department of Justice is investigating possible FCPA violations by Beam India.  The reports allege that Beam India has put its Asia Pacific management team in charge of the investigation, and has asked local senior management, including the managing director Harish Moolchandana, not to report to work while the investigation is ongoing.  Allegations include excise duty violations and invoicing irregularities.  The reports indicate that the subsidiary's top sales and finance executives and regional sales directors are under investigation.  In an unpublished communication, Beam spokesman Clarkson Hine is reported to have written: "Based on a routine internal audit of operations in India, we are taking a closer look at the actions of certain individuals and practices in the India business."  <br /><br />About 22% of the Company's net sales are attributable to its APSA division, which includes Australia, India and China, among others; unusually for such companies, in 2011 and 2012 the  company's sales have grown faster in India than in China.<br /><br />On 8 November 2012, Beam filed its SEC Form 10-Q, and explained, <br /><br />"As a result of information obtained through our internal compliance procedures and an internal audit of our India business, we commenced an investigation into whether the business has been conducted in compliance with Company policies and applicable law, including the Foreign Corrupt Practices Act. We have voluntarily notified the U.S. Department of Justice ('DOJ') and the Securities and Exchange Commission ('SEC') of our investigation and intend to cooperate fully with the DOJ and SEC. We are presently unable to predict the duration, scope or result of the internal investigation or of any potential investigations by the DOJ or the SEC. At this time, we also cannot reasonably estimate the potential liabilities that may result from this matter, and no accruals for these potential liabilities have been established as of September 30, 2012. However, it is reasonably possible that such liabilities could have a material impact on our results of operations, cash flows or financial condition. In addition, the ongoing conduct of  the investigation and our implementation of remedial measures are likely to have a disruptive effect on our India business over the near term.<br /><br />"The India business accounts for approximately 3% of our annual consolidated net sales and a smaller percentage of our consolidated operating income."<br /><br />A substantially similar statement appeared in Beam's Form 10-K submitted to the SEC on 26 February 2013.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unknown</td>
+<td style="text-align: center;">Unknown</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A whistleblower at Beam India apparently informed auditors of violations. The Company explained: "As a result of information obtained through our internal compliance procedures and an internal audit of our India business, we commenced an investigation into whether the business has been conducted in compliance with Company policies and applicable law."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2037">Beam - SEC Form 10-Q (8 November 2012)</a></p><p><a href="file.asp?id=2157">Beam - SEC Form 10-K (26 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192411w9c7f">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192411svm4b" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SKANSKA AB</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(261)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19241161x9z" width="415" height="61" /></div>
+    
+        <h1>SKANSKA AB</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Skanska AB ("Skanska")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction and property development group
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stockholm, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ARGENTINA<br /><br />According to press reports, in 2007 Argentine authorities began investigating possible wrongdoing in connection with Skanska's win in 2005 of a contract award for a national gas distribution network project.  Skanska employees allegedly paid USD 5.4 million in bribes to government officials to secure the deal.  The Federal Criminal Court in Buenos Aires is investigating the company for possible bribery.  <br /><br />In May 2007, Argentine police arrested five Skanska managers in connection with the investigation.<br /><br /><br />BRAZIL<br /><br />According to a press release issued by Skanska, Brazil's Comptroller General (CGU) and Administrative Council of Economic Defense (CADE) announced that they would begin investigating Skanska's Brazil unit Skanska do Brasil as part of their Petrobras investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center; height: 61px;" border="1" cellspacing="0" cellpadding="2" width="766">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD $5.4 million</p>
+</td>
+<td>Contract for construction of&nbsp;national gas distribution network</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        ARGENTINA<br /><br />The investigation appears to be ongoing. <br /><br /><br />BRAZIL<br /><br />The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Reuters: "Skanska CEO says Argentina scandal smears co. name" (30 May 2007)</p><p>Reuters: "Argentine police arrest Skanska officials-report" (8 May 2007)</p><p><a href="file.asp?id=2634">Skanska press release - Update regarding Skanska in Brazil</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

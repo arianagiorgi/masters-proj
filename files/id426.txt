@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192632in32i">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926329fk28" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NORDAM GROUP INC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(426)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192632j2h8d" width="415" height="61" /></div>
+    
+        <h1>NORDAM GROUP INC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nordam Group Inc. ("Nordam")<br />Nordam Singapore Pte Ltd. ("NSPL"), a wholly owned subsidiary of Nordam based in Singapore <br />World Aviation Associates Pte Ltd. ("WAAPL'), an affiliate of Nordam based in Singapore
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aircraft maintenance and repair
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tulsa, Oklahoma, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        NORDAM, through its subsidiaries and affiliates, is alleged to have paid bribes to state-owned airlines in China in order to secure maintenance contracts with those airlines. No Chinese enterprise is named in the Statement of Facts.<br /><br />Nordam's aircraft maintenance and repair services in China are provided through NSPL and WAAPL (the latter is in charge of marketing and sales services for both NORDAM and NSPL in the Asia Pacific region, including in China).<br /><br />The Statement of Facts, attached to the Non Prosecution Agreement and stipulated by the DOJ and the Company, described how, from 1999 until 2008, employees of NSPL and WAAPL paid bribes to employees of state-owned enterprises in China, and how several Nordam employees in the United States knew of and approved of the bribes.<br /><br />At first, the bribes were referred to as "commissions" or "facilitator fees," and paid to facilitators who were actually employees of the companies' customers.  The facilitators were referred to by Company employees as "internal guys," "internal ghosts," or "our friends inside."  Until 2002, the bribe money was transferred to employees' bank accounts or paid first to WAAPL employees and then withdrawn and paid to the customers' employees in cash.<br /><br />In 2002, a new system was devised for hiding the bribe payments, whereby three WAAPL employees created fictitious entities and entered into sales representation agreements with those entities. The commissions paid to the fictitious companies were later used as bribe payments to employees of the state-owned companies.  On some occasions, Nordam, NSPL and WAAPL inflated invoice amounts in order to offset the bribes, such that Nordam's customers were actually reimbursing the company for bribes Nordam paid the customers' employees.  <br /><br />The fact statement notes that NORDAM, NSPL, and WAAPL paid as much as USD 1.5 million in bribes to secure approximately USD 2.48 million in profits from state-owned and controlled customers in China.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Chinese Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 1.5 million</td>
+<td style="text-align: center;">USD 2.48 million in profits<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 17 July 2012, the Company signed a Non-Prosecution Agreement with the Department of Justice.  The agreement requires the payment of a USD 2 million penalty, as well as full cooperation with the DOJ for the three-year term of the agreement, and the submission of periodic reports to the DOJ regarding compliance efforts. <br /><br />The DOJ noted that the Company had demonstrated to the DOJ and an independent accounting expert that a fine exceeding USD 2 million would substantially jeopardize the Company's continued viability; therefore, the parties agreed to a fine amount well below the range provided by the U.S. Sentencing Guidelines.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A verified demonstration of hardship may enable a company to obtain a significantly reduced fine. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1893">Nordam - DOJ Press Release (17 July 2012), DOJ Resolves FCPA Claims with NORDAM</a></p><p><a href="file.asp?id=1894">Nordam - Statement of Facts (6 July 2012), Attachment A to NPA</a></p><p><a href="file.asp?id=1895">Nordam - Non-Prosecution Agreement (6 July 2012)</a></p><p><a href="file.asp?id=1997">Nordam - Non-Prosecution Agreement with Statement of Facts and Compliance Program (6 July 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

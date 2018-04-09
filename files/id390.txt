@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1926014t13e">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192601uo280" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TENIX</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(390)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19260131743" width="415" height="61" /></div>
+    
+        <h1>TENIX</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Australia: Federal Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tenix Defence (largest defense contractor in Australia until it was taken over by BAE Systems Australia in 2008)<br />Tenix Alliance <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Utility and infrastructure services (delivery of systems and assets to the  owners of gas, electricity, water, wastewater, heavy industrial and mining assets across Australia, New Zealand and the Pacific.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        North Sydney, New South Wales, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Press reports indicated on 7 March 2012 that the company is under investigation by the Australian Federal Police for paying millions of dollars in kickbacks through  third parties agents to win contracts across in Indonesia and the Philippines between 2001 and 2008.   The company is privately held, so there are no public filings.<br /><br />There are five deals suspected of involving corruption.  One of these involved a 2001-02 contract for the supply of six search-and-rescue vessels for the Philippine Coast Guard, in which bribes are thought to have been given to senior officials and politicians, including a cabinet minister. The purchase was supported by a AUD 109 million guarantee from the Export Finance and Insurance Corporation (EFIC, which belongs to the Department of Foreign Affairs and Trade) to enable the Philippines to borrow from banks and pay Tenix for the boats, using a former Minister of Defence, Peter Reith, as a consultant.  Problems began to come to light in 2005, when Philippines Senate president Franklin Drilon refused to recognize the deal, claiming that no provision for the vessels had ever been made in the national budget. The Philippines stopped repaying its loan, leaving Australian taxpayers and the EFIC AUD 100 million in unrepaid loans.<br /><br />Additional information made available in media reports on 24 September 2012 indicates that the Australian government had knowledge of the problematic nature of the contracts in 2005, when the Australian ambassador to the Philippines learned from the Philippines Secretary of Transportation that the purchase order for the vessels was placed without the budgetary approval by the legislature.  At the time, the Philippine parliament had suspended payments to Tenix for six of the search and rescue vessels because of the failure to receive proper approval. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Press reports suggest that BAE discovered and disclosed the Tenix' pre-2008 conduct to the Australian Federal Police while performing due diligence on the newly acquired division of Tenix in 2009.  BAE settled a large bribery investigation in 2010.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation in Australia is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Due diligence performed after an acquisition may lead to an investigation of the acquired company.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

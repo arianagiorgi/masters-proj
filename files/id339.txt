@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192517d67s3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192517av1ls" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HERCULES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(339)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192517wkl89" width="415" height="61" /></div>
+    
+        <h1>HERCULES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Hercules Offshore, Inc. ("Hercules")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global provider of offshore contract drilling, liftboat and inland barge services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The company first announced an SEC and DOJ  investigation in April 2011.  Without revealing details of potentially corrupt practices or the locations where they took place, the Company revealed in July 2012 that the DOJ had closed its investigation and declined to prosecute, although the SEC investigation was ongoing.  Details follow:<br /><br />Hercules described the ongoing investigation as follows in its SEC Form 8-K filed on 7 April 2011:<br /><br />"On April 4, 2011, Hercules Offshore, Inc. (the 'Company') received a subpoena issued by the Securities and Exchange Commission ('SEC') requesting the delivery of certain documents to the SEC in connection with its investigation into possible violations of the securities laws, including possible violations of the Foreign Corrupt Practices Act ('FCPA') in certain international jurisdictions where we conduct operations. The Company was also notified by the Department of Justice ('DOJ') on April 5, 2011, that certain of the Company's activities are under review by the DOJ.<br /><br />"At this time, it is not possible to predict the outcome of the investigations, the expenses we will incur associated with these matters, or the impact on the price of our common stock or other securities if the SEC or DOJ takes any actions regarding these investigations. The Company intends to respond fully to the SEC subpoena and cooperate with the SEC and DOJ in their investigations."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Both the DOJ and the SEC investigations are closed.  <br /><br />In its SEC Form 10-Q filed on 27 July 2012, the Company reported:<br /><br />"On April 24, 2012, the Company received a letter from the DOJ notifying the Company that the DOJ has closed its inquiry into the Company regarding possible violations of the FCPA and does not intend to pursue enforcement action against the Company. The DOJ indicated that its decision to close the matter was based on, among other factors, the thorough investigation conducted by the Company's special counsel and the Company's compliance program."<br /><br />At the time, Hercules noted that "[t]he Company, through the Audit Committee of the Board of Directors, intends to continue to cooperate with the SEC in its investigation. At this time, it is not possible to predict the outcome of the SEC's investigation, the expenses the Company will incur associated with this matter, or the impact on the price of the Company's common stock or other securities as a result of this investigation."<br /> <br />However, in its SEC Form 8-K filed on 8  August 2012, the Company gave notice that the SEC had also closed its investigation as of 7 August 2012:  <br /><br />"On August 7, 2012, Hercules Offshore, Inc. (the 'Company') received a letter from the Securities and Exchange Commission ('SEC') notifying the Company that the SEC staff has completed its investigation into the Company regarding possible violations of the Foreign Corrupt Practices Act ('FCPA') and does not intend to pursue enforcement action against the Company. . . .<br /><br />"As a result of the termination by the SEC and the prior termination by the DOJ, there are no open FCPA investigations against the Company." 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and the SEC may decline to prosecute a company based on the company's thorough investigation by special counsel, and satisfaction with the company's compliance program.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1429">Hercules - SEC Form 8-K (7 April 2011)</a></p><p><a href="file.asp?id=1907">Hercules - SEC Form 10-Q (27 July 2012)</a></p><p><a href="file.asp?id=1927">Hercules - SEC Form 8-K (8 August 2012), Announcing close of all FCPA investigations</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192320jlltm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192320n71f1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LYONDELL BASELL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(204)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192320vs9pb" width="415" height="61" /></div>
+    
+        <h1>LYONDELL BASELL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        LyondellBasell Industries ("LyondellBasell")<br />SAT & Co. (Kazakh joint venture partner with Basell—then a separate entity—in 2006)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Producer of polypropylene and polyethylene, the key ingredients for plastic products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rotterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In its Form 8-K filed with the U.S. Securities and Exchange Commission ("SEC") on 17 June 2013, LyondellBasell said that it has "identified an agreement related to a former project in Kazakhstan under which a payment was made that raises compliance concerns under the U.S. Foreign Corrupt Practices Act . . ." An earlier Bloomberg News report from 7 April 2010 cited anonymous sources as saying that the Company was specifically looking at a payment of USD $7 million made in Kazakhstan. According to the article, the alleged payment involved a person affiliated with SAT & Co., a Kazakh company owned 50.46 percent by the son-in-law (Kenes Rakishev) of Imangali Tasmagambetov, the former prime minister of Kazakhstan and mayor of the nation's capital of Astana. According to Bloomberg News, SAT & Co., Basell (before it acquired Lyondell), and state-owned KazMunaiGaz Exploration & Production entered into a joint venture in 2006 to develop the project that is now allegedly under investigation. The story cited a LyondellBasell spokesman as saying that the payment of USD $7 million was not properly characterized. The spokesman did not elaborate.<br /><br />On 20 February 2014, LyondellBasell announced in an SEC filing that the DOJ closed its investigation into a payment made in Kazakhstan.  The DOJ ended its investigation without assessing any fine or penalty. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Kazakh Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potentially USD 7 million</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 February 2014, LyondellBasell announced in an SEC filing that the DOJ closed its investigation into a payment made in Kazakhstan.  The DOJ ended its investigation without assessing any fine or penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Bloomberg News: "Blavatnik Creation LyondellBasell May Face Bribery Probe of Kazakh Payment" (7 April 2010)</p><p><a href="file.asp?id=1401">LyondellBasell: SEC Form 10-K (18 March 2011)</a></p><p><a href="file.asp?id=1905">LyondellBasell: SEC Form 10-Q (27 July 2012)</a></p><p><a href="file.asp?id=2344">LyondellBasell: SEC Form 8-K (17 June 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

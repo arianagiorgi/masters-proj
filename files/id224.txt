@@ -1,0 +1,117 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923385q1n2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192338t3ms6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - STRYKER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(224)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923384c3fr" width="415" height="61" /></div>
+    
+        <h1>STRYKER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Poland: National Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Stryker Corporation ("Stryker")<br />Stryker Polska Sp. z o. o. ("Stryker Poland")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of surgical products, orthopaedic implants and medical equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kalamazoo, Michigan, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Argentina<br />Greece<br />Mexico<br />Poland<br />Romania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Stryker described the investigation as follows in its Form 10-K filed with the U.S. Securities & Exchange Commission ("SEC") on 18 February 2011:<br /><br />"In 2007 the Company disclosed that the U.S. SEC made an informal inquiry of the Company regarding possible violations of the Foreign Corrupt Practices Act in connection with the sale of medical devices in certain foreign countries. Subsequently, in 2008, the Company received a subpoena from the U.S. Department of Justice, Criminal Division, requesting certain documents for the period since January 1, 2000 in connection with the U.S. SEC inquiry. The Company is fully cooperating with the U.S. Department of Justice and the U.S. SEC regarding these matters."<br /><br />On 24 October 2013, the SEC charged Stryker with FCPA violations. The SEC investigation found that Stryker’s subsidiaries in Argentina, Greece, Mexico, Poland, and Romania allegedly made illicit payments totaling approximately USD $2.2 million that were allegedly incorrectly described as legitimate expenses in the company’s books and records.  Descriptions varied from a charitable donation to consulting and service contracts, travel expenses, and commissions.   Stryker allegedly made approximately USD $7.5 million in illicit profits as a result of the improper payments.<br /><br />Stryker subsidiaries allegedly used third parties to make the payments in order to win or keep lucrative contracts for the sale of Stryker’s medical technology products.  For example, in January 2006, Stryker’s subsidiary in Mexico allegedly directed a law firm to pay approximately USD $46,000 to a Mexican government employee in order to secure the winning bid on a contract.  The result was an alleged USD $1.1 million in profits for Stryker.  The subsidiary allegedly reimbursed the Mexico-based law firm for the bribe and booked the payment as a legitimate legal expense.  However, no legal services were actually provided and the law firm allegedly acted as a funnel to pay the bribe.<br /><br />Stryker has agreed to pay more than USD $13.2 million to settle the SEC’s charges.  The SEC’s order requires Stryker to pay disgorgement of USD $7,502,635, prejudgment interest of USD $2,280,888, and a penalty of USD $3.5 million. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials&nbsp;</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>
+<p>USD $2.2 million</p>
+</td>
+<td>USD $7.5 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Poland Investigation<br /><br />On 31 December 2012, media sources reported that Polish prosecutors in Katowice had conducted searches in dozens of residences and offices over the course of a few months, seeking evidence to support allegations that employees of Stryker Poland bribed hospital administrators between 2003 and 2006.  The purpose of the alleged corrupt payments was to win contracts for the sale of Stryker products.  Kickbacks were purportedly paid to 100 individuals at 51 hospitals. <br /><br />Earlier in 2012, a separate bribery case was heard by a court in the city of Olsztyn in 2012.  In that case, the lower court found a hospital director guilty of accepting bribes from Stryker.  The appeals court overturned both the indictment and the prison sentence.  The case is expected to be retried in 2013. <br /><br />U.S. Investigation<br /><br />Stryker has agreed to pay over $13.2 million to settle the SEC charges.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies may be held liable for FCPA violations committed by subsidiaries in foreign countries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=838">Stryker - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1414">Stryker - SEC Form 10-K (18 Feb. 2011)</a></p><p><a href="file.asp?id=2014">Stryker - SEC Form 10-Q (22 October 2012)</a></p><p><a href="file.asp?id=2436">SEC Cease and Desist Order Stryker</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

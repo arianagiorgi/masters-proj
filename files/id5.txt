@@ -1,0 +1,498 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170653ap92t">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170653bfm1r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAKER HUGHES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(5)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1706539d863" width="415" height="61" /></div>
+    
+        <h1>BAKER HUGHES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Baker Hughes Incorporated ("Baker Hughes")<br />Baker Hughes Services International, Inc. (subsidiary of Baker Hughes) ("BHSI")<br />Rob Fearnley (former Kazakhstan-based Baker Hughes business development manager)<br />Eric L. Mattson (former Chief Financial Officer at Baker Hughes)<br />James W. Harris (former Controller at Baker Hughes)<br />KPMG-Siddharta Siddharta & Harsono (Baker Hughes' agent and accountant in Indonesia until 2001) ("KPMG-SSH")<br />PT Eastman Christensen (Indonesian company beneficially owned by Baker Hughes) ("PTEC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil-field services and products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />Brazil<br />India<br />Indonesia<br />Kazakhstan<br />Nigeria<br />Russia<br />Uzbekistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Baker Hughes II<br /><br />Over the course of approximately two years, BHSI, a wholly-owned subsidiary of Baker Hughes, paid over USD 4.1 million to an intermediary whom BHSI understood and believed would transfer all or a part of the payments to officials of the Kazakh state-owned oil company, Kazakhoil, in exchange for which Baker Hughes and BHSI would receive a contract to provide services in support of the Karachaganak oil-field project.  <br /><br />Specifically, in or about 1997, the Government of Kazakhstan and Kazakhoil entered into an agreement with a consortium of four international oil companies for the development and operation of oil production facilities in Karachaganak, a gas and oil field in northwest Kazakhstan.  In February 2000, BHSI submitted a bid to support a range of oil-field drilling and production services to the project, on behalf of Baker Hughes.  The ultimate award of any contract by the international consortium relied upon the favorable recommendation of Kazakhoil officials.    <br /><br />In September 2000, before the contract award was officially announced, Kazakhoil officials demanded that BHSI pay commission fees to a consulting firm located on the Isle of Man, which it was to hire as an agent.  Although no actual services were rendered, BHSI agreed to pay a commission equal to 2% of the revenue earned on the Karachaganak project and 3% percent on future projects in Kazakhstan.  BHSI agreed and Baker Hughes was awarded the contract for Karachaganak in October 2000. <br /><br />Beginning in May 2001 and continuing through November 2003, BHSI and Baker Hughes made commission payments to the consulting firm totaling USD 4,100,162.70.  Roy Fearnley, a Baker Hughes business development manager located in Kazakhstan, was the primary coordinator for Baker Hughes on the Karachaganak bid.  Baker Hughes and BHSI improperly characterized the commission payments in their books and records as payments for "commissions," "fees," or "legal services."<br /><br />According to the U.S. Securities and Exchange Commission (“SEC”) complaint, other Baker Hughes entities made improper payments to third party consultants and agents.  These included payments of nearly USD 1.1 million made by another Baker Hughes' subsidiary to a commissioned agent at the direction of a high-ranking official at KazTransOil (Kazakhstan's national oil transportation company) in 1998-1999 in order to win a chemical contract worth USD 3.2 million.<br /><br />Additionally, it was alleged that between 1998 and 2005, Baker Hughes made payments to agents or other individuals, including public officials, in Angola (commissioned agent), Kazakhstan (commissioned agent), Nigeria (customs brokers), Indonesia (freight forwarders), Russia (commissioned agent) and Uzbekistan (commissioned agent) in circumstances that reflected a failure to implement sufficient internal controls to determine whether the payments were for legitimate services, whether the payments would be shared with government officials, or whether these payments would be accurately recorded in Baker Hughes' books and records.  <br /><br />Baker Hughes I<br /><br />In addition to violating federal securities laws, the 2007 SEC complaint discussed above also alleged that the conduct violated a cease-and-desist order issued against Baker Hughes on 12 September 2001 in connection with improper payments made to foreign officials in Indonesia, India, and Brazil during 1995-1999. <br /><br />The settlement in 2001 related to a USD 75,000 bribe to a local Indonesian tax official, which was authorized by Baker Hughes' CFO, Eric L. Mattson and its Controller, James W. Harris, and paid in March 1999 by KPMG-Siddharta Siddharta & Harsono ("KPMG-SSH"), Baker Hughes' agent and accountant in Indonesia.  The payment was made in order to reduce a tax assessment from USD 3.2 million to USD 270,000 for PT Eastman Christensen ("PTEC"), an Indonesian company beneficially owned by Baker Hughes.<br /><br />Baker Hughes' managers also authorized payments to Baker Hughes agents in Brazil and India, in 1995 and 1998, respectively, without adequately inquiring as to whether the agents might give all or some of the payments to government officials.  These transactions were incorrectly recorded in the company's books and records as routine business expenditures.  <br /><br />Charges related to the earlier (or, at times, concurrent) conduct in Indonesia, Brazil and India resulted in the entry of a SEC cease-and-desist order on 12 September 2001.  The same day, the SEC also instituted a settled administrative proceeding against KPMG-SSH and Sonny Harsono, a partner in the firm.  Each consented to the entry of final judgments permanently enjoining them from violating, and aiding and abetting violations of, the FCPA's anti-bribery, books and records and internal controls provisions.  The action against KPMG-SSH and Harsono was the first joint civil injunctive action by the U.S. Department of Justice (“DOJ”) and SEC.<br /><br />The SEC also filed a civil injunctive action against Mattson and Harris on 12 September 2001, which the two defendants challenged on the grounds that the reduction in tax assessment was not related to "obtaining or retaining business."  While this issue of interpretation of the FCPA was soon settled by the Kay decision in 2007 [see the "American Rice" Compendium entry], the SEC eventually decided to drop its charges against the two executives. <br /><br />Baker Hughes subsequently violated its 2001 cease-and-desist order in connection with the conduct related to Kazakhstan and other countries discussed above.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Kazakhoil Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4,100,162.70</p>
+</td>
+<td>
+<p style="text-align: center;">USD 189,200,000 (net revenues)</p>
+<p style="text-align: center;">USD 19,944,778 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />a KazTransOil Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.1 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 3.2 million (value of a chemical contract awarded)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 75,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduction in tax assessment by USD 2.93 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The improper conduct was discovered after an ex-employee filed suit against Baker Hughes in 2002 alleging that he lost his job because he refused to go along with a bribery scheme in Nigeria.  The filing of this suit prompted Baker Hughes' board to hire outside counsel to conduct an investigation into the charges, which ultimately lasted for five years and unearthed several violations in multiple countries.   Baker Hughes self-disclosed the violations the SEC and DOJ.  <br /><br />According to the DOJ, Baker Hughes conducted an extensive and thorough internal investigation of its business practices in Kazakhstan and throughout its high-risk global operations and has implemented significant remedial steps and improvements to its controls.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 April 2007, BHSI pleaded guilty to violations of the anti-bribery provisions of the FCPA, conspiracy to violate the FCPA, and aiding and abetting the falsification of the books and records of its parent company Baker Hughes.  BHSI agreed to pay an USD 11 million criminal fine, serve a three-year term of organizational probation, and adopt a comprehensive anti-bribery compliance program.  Simultaneously, Baker Hughes entered into a two-year deferred prosecution agreement with the DOJ regarding the same underlying conduct, accepting responsibility for the conduct of its employees.  Baker Hughes agreed to hire an independent monitor for three years and to cooperate with the DOJ in its ongoing investigations.  <br /><br />Also on 26 April 2007, without admitting or denying the SEC's allegations, Baker Hughes agreed to the entry of a judgment ordering it to comply with the SEC cease-and-desist order issued on 12 September 2001 and permanently enjoining it from future violations of the FCPA's book and records and internal controls provisions.  Baker Hughes agreed to pay USD 19,944,778 in disgorgement, USD 3,133,237.41 in prejudgment interest, and USD 10,000,000 in civil penalties.  It appears that Roy Fearnley has yet to reach a settlement with the SEC regarding the charges filed against him in the complaint.<br /><br />At the time, the USD 44 million in combined fines and penalties was the largest monetary sanction ever imposed in an FCPA case.<br /><br />On 28 April 2009, upon motion by the DOJ, the U.S. District Court for the Southern District of Texas dismissed with prejudice the charges against Baker Hughes, finding that the company had fully complied with all of its obligations under the deferred prosecution agreement.
+		<h2>COMPLIANCE MONITOR</h2>
+        Stephen Fishbein
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Corporate recidivism can result in higher penalties during follow-on enforcement actions.</li><li>Enforcement agencies set a high standard for companies that encounter  and fail to follow up on red flags, such as the retention of commissioned agent at the request a government official late in the procurement process.</li><li>Instances of bribery may lead enforcement agencies to scrutinize other third party payments ultimately found to have been made without adequate internal controls to ensure that no bribe was paid.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=32">Complaint: SEC v. Baker Hughes Incorporated and Rob Fearnley </a></p><p><a href="file.asp?id=33">Cease-and-Desist Order:  In the Matter of Baker Hughes Incorporated (Sept. 12, 2001)</a></p><p><a href="file.asp?id=34">SEC Litigation Release: Sept. 12, 2001 (SEC and Department of Justice File First-Ever Joint Civil Action Against KPMG Siddharta & Harsono and Its Partner Sonny Harsono for Authorizing the Payment of a Bribe in Indonesia)  </a></p><p><a href="file.asp?id=429">SEC Litigation Release: Sept. 12, 2001 (SEC Sues Baker Hughes Incorporated's Former Chief Financial Officer and Controller for Authorizing the Payment of a Bribe)</a></p><p><a href="file.asp?id=31">SEC Litigation Release: April 26, 2007 (SEC Charges Baker Hughes With Foreign Bribery and With Violating 2001 Commission Cease-and-Desist Order)</a></p><p><a href="file.asp?id=29">Criminal Information: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=27">Plea Agreement: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=1101">Sentencing Memo: United States v. Baker Hughes Services International, Inc. (April 24, 2007)</a></p><p><a href="file.asp?id=1097">Affidavit: United States v. Baker Hughes Services International, Inc. (April 26, 2007)</a></p><p><a href="file.asp?id=26">DOJ Press Release: April 26, 2007 (Baker Hughes Subsidiary Pleads Guilty to Bribing Kazakh Official and Agrees to Pay $11 million Criminal Fine as Part of Largest Combined Sanction Ever Imposed in FCPA Case)</a></p><p><a href="file.asp?id=1098">Judgment: United States v. Baker Hughes Services International, Inc. (May 5, 2007)</a></p><p><a href="file.asp?id=30">Criminal Information: United States v. Baker Hughes Incorporated</a></p><p><a href="file.asp?id=28">Deferred Prosecution Agreement: United States v. Baker Hughes Incorporated (April 5, 2007)</a></p><p><a href="file.asp?id=1099">Motion to Dismiss Information: United States v. Baker Hughes Incorporated (April 27, 2009)</a></p><p><a href="file.asp?id=1100">Order Granting Motion to Dismiss United States v. Baker Hughes Incorporated (April 28, 2009)</a></p><p><a href="file.asp?id=1775">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p><p><a href="file.asp?id=1866">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18420445mm7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184204rga8k" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAKER HUGHES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(5)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842048zpkb" width="415" height="61" /></div>
+    
+        <h1>BAKER HUGHES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Baker Hughes Incorporated ("Baker Hughes")<br />Baker Hughes Services International, Inc. (subsidiary of Baker Hughes) ("BHSI")<br />Rob Fearnley (former Kazakhstan-based Baker Hughes business development manager)<br />Eric L. Mattson (former Chief Financial Officer at Baker Hughes)<br />James W. Harris (former Controller at Baker Hughes)<br />KPMG-Siddharta Siddharta & Harsono (Baker Hughes' agent and accountant in Indonesia until 2001) ("KPMG-SSH")<br />PT Eastman Christensen (Indonesian company beneficially owned by Baker Hughes) ("PTEC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil-field services and products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />Brazil<br />India<br />Indonesia<br />Kazakhstan<br />Nigeria<br />Russia<br />Uzbekistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Baker Hughes II<br /><br />Over the course of approximately two years, BHSI, a wholly-owned subsidiary of Baker Hughes, paid over USD 4.1 million to an intermediary whom BHSI understood and believed would transfer all or a part of the payments to officials of the Kazakh state-owned oil company, Kazakhoil, in exchange for which Baker Hughes and BHSI would receive a contract to provide services in support of the Karachaganak oil-field project.  <br /><br />Specifically, in or about 1997, the Government of Kazakhstan and Kazakhoil entered into an agreement with a consortium of four international oil companies for the development and operation of oil production facilities in Karachaganak, a gas and oil field in northwest Kazakhstan.  In February 2000, BHSI submitted a bid to support a range of oil-field drilling and production services to the project, on behalf of Baker Hughes.  The ultimate award of any contract by the international consortium relied upon the favorable recommendation of Kazakhoil officials.    <br /><br />In September 2000, before the contract award was officially announced, Kazakhoil officials demanded that BHSI pay commission fees to a consulting firm located on the Isle of Man, which it was to hire as an agent.  Although no actual services were rendered, BHSI agreed to pay a commission equal to 2% of the revenue earned on the Karachaganak project and 3% percent on future projects in Kazakhstan.  BHSI agreed and Baker Hughes was awarded the contract for Karachaganak in October 2000. <br /><br />Beginning in May 2001 and continuing through November 2003, BHSI and Baker Hughes made commission payments to the consulting firm totaling USD 4,100,162.70.  Roy Fearnley, a Baker Hughes business development manager located in Kazakhstan, was the primary coordinator for Baker Hughes on the Karachaganak bid.  Baker Hughes and BHSI improperly characterized the commission payments in their books and records as payments for "commissions," "fees," or "legal services."<br /><br />According to the U.S. Securities and Exchange Commission (“SEC”) complaint, other Baker Hughes entities made improper payments to third party consultants and agents.  These included payments of nearly USD 1.1 million made by another Baker Hughes' subsidiary to a commissioned agent at the direction of a high-ranking official at KazTransOil (Kazakhstan's national oil transportation company) in 1998-1999 in order to win a chemical contract worth USD 3.2 million.<br /><br />Additionally, it was alleged that between 1998 and 2005, Baker Hughes made payments to agents or other individuals, including public officials, in Angola (commissioned agent), Kazakhstan (commissioned agent), Nigeria (customs brokers), Indonesia (freight forwarders), Russia (commissioned agent) and Uzbekistan (commissioned agent) in circumstances that reflected a failure to implement sufficient internal controls to determine whether the payments were for legitimate services, whether the payments would be shared with government officials, or whether these payments would be accurately recorded in Baker Hughes' books and records.  <br /><br />Baker Hughes I<br /><br />In addition to violating federal securities laws, the 2007 SEC complaint discussed above also alleged that the conduct violated a cease-and-desist order issued against Baker Hughes on 12 September 2001 in connection with improper payments made to foreign officials in Indonesia, India, and Brazil during 1995-1999. <br /><br />The settlement in 2001 related to a USD 75,000 bribe to a local Indonesian tax official, which was authorized by Baker Hughes' CFO, Eric L. Mattson and its Controller, James W. Harris, and paid in March 1999 by KPMG-Siddharta Siddharta & Harsono ("KPMG-SSH"), Baker Hughes' agent and accountant in Indonesia.  The payment was made in order to reduce a tax assessment from USD 3.2 million to USD 270,000 for PT Eastman Christensen ("PTEC"), an Indonesian company beneficially owned by Baker Hughes.<br /><br />Baker Hughes' managers also authorized payments to Baker Hughes agents in Brazil and India, in 1995 and 1998, respectively, without adequately inquiring as to whether the agents might give all or some of the payments to government officials.  These transactions were incorrectly recorded in the company's books and records as routine business expenditures.  <br /><br />Charges related to the earlier (or, at times, concurrent) conduct in Indonesia, Brazil and India resulted in the entry of a SEC cease-and-desist order on 12 September 2001.  The same day, the SEC also instituted a settled administrative proceeding against KPMG-SSH and Sonny Harsono, a partner in the firm.  Each consented to the entry of final judgments permanently enjoining them from violating, and aiding and abetting violations of, the FCPA's anti-bribery, books and records and internal controls provisions.  The action against KPMG-SSH and Harsono was the first joint civil injunctive action by the U.S. Department of Justice (“DOJ”) and SEC.<br /><br />The SEC also filed a civil injunctive action against Mattson and Harris on 12 September 2001, which the two defendants challenged on the grounds that the reduction in tax assessment was not related to "obtaining or retaining business."  While this issue of interpretation of the FCPA was soon settled by the Kay decision in 2007 [see the "American Rice" Compendium entry], the SEC eventually decided to drop its charges against the two executives. <br /><br />Baker Hughes subsequently violated its 2001 cease-and-desist order in connection with the conduct related to Kazakhstan and other countries discussed above.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Kazakhoil Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4,100,162.70</p>
+</td>
+<td>
+<p style="text-align: center;">USD 189,200,000 (net revenues)</p>
+<p style="text-align: center;">USD 19,944,778 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />a KazTransOil Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.1 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 3.2 million (value of a chemical contract awarded)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 75,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduction in tax assessment by USD 2.93 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The improper conduct was discovered after an ex-employee filed suit against Baker Hughes in 2002 alleging that he lost his job because he refused to go along with a bribery scheme in Nigeria.  The filing of this suit prompted Baker Hughes' board to hire outside counsel to conduct an investigation into the charges, which ultimately lasted for five years and unearthed several violations in multiple countries.   Baker Hughes self-disclosed the violations the SEC and DOJ.  <br /><br />According to the DOJ, Baker Hughes conducted an extensive and thorough internal investigation of its business practices in Kazakhstan and throughout its high-risk global operations and has implemented significant remedial steps and improvements to its controls.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 April 2007, BHSI pleaded guilty to violations of the anti-bribery provisions of the FCPA, conspiracy to violate the FCPA, and aiding and abetting the falsification of the books and records of its parent company Baker Hughes.  BHSI agreed to pay an USD 11 million criminal fine, serve a three-year term of organizational probation, and adopt a comprehensive anti-bribery compliance program.  Simultaneously, Baker Hughes entered into a two-year deferred prosecution agreement with the DOJ regarding the same underlying conduct, accepting responsibility for the conduct of its employees.  Baker Hughes agreed to hire an independent monitor for three years and to cooperate with the DOJ in its ongoing investigations.  <br /><br />Also on 26 April 2007, without admitting or denying the SEC's allegations, Baker Hughes agreed to the entry of a judgment ordering it to comply with the SEC cease-and-desist order issued on 12 September 2001 and permanently enjoining it from future violations of the FCPA's book and records and internal controls provisions.  Baker Hughes agreed to pay USD 19,944,778 in disgorgement, USD 3,133,237.41 in prejudgment interest, and USD 10,000,000 in civil penalties.  It appears that Roy Fearnley has yet to reach a settlement with the SEC regarding the charges filed against him in the complaint.<br /><br />At the time, the USD 44 million in combined fines and penalties was the largest monetary sanction ever imposed in an FCPA case.<br /><br />On 28 April 2009, upon motion by the DOJ, the U.S. District Court for the Southern District of Texas dismissed with prejudice the charges against Baker Hughes, finding that the company had fully complied with all of its obligations under the deferred prosecution agreement.
+		<h2>COMPLIANCE MONITOR</h2>
+        Stephen Fishbein
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Corporate recidivism can result in higher penalties during follow-on enforcement actions.</li><li>Enforcement agencies set a high standard for companies that encounter  and fail to follow up on red flags, such as the retention of commissioned agent at the request a government official late in the procurement process.</li><li>Instances of bribery may lead enforcement agencies to scrutinize other third party payments ultimately found to have been made without adequate internal controls to ensure that no bribe was paid.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=32">Complaint: SEC v. Baker Hughes Incorporated and Rob Fearnley </a></p><p><a href="file.asp?id=33">Cease-and-Desist Order:  In the Matter of Baker Hughes Incorporated (Sept. 12, 2001)</a></p><p><a href="file.asp?id=34">SEC Litigation Release: Sept. 12, 2001 (SEC and Department of Justice File First-Ever Joint Civil Action Against KPMG Siddharta & Harsono and Its Partner Sonny Harsono for Authorizing the Payment of a Bribe in Indonesia)  </a></p><p><a href="file.asp?id=429">SEC Litigation Release: Sept. 12, 2001 (SEC Sues Baker Hughes Incorporated's Former Chief Financial Officer and Controller for Authorizing the Payment of a Bribe)</a></p><p><a href="file.asp?id=31">SEC Litigation Release: April 26, 2007 (SEC Charges Baker Hughes With Foreign Bribery and With Violating 2001 Commission Cease-and-Desist Order)</a></p><p><a href="file.asp?id=29">Criminal Information: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=27">Plea Agreement: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=1101">Sentencing Memo: United States v. Baker Hughes Services International, Inc. (April 24, 2007)</a></p><p><a href="file.asp?id=1097">Affidavit: United States v. Baker Hughes Services International, Inc. (April 26, 2007)</a></p><p><a href="file.asp?id=26">DOJ Press Release: April 26, 2007 (Baker Hughes Subsidiary Pleads Guilty to Bribing Kazakh Official and Agrees to Pay $11 million Criminal Fine as Part of Largest Combined Sanction Ever Imposed in FCPA Case)</a></p><p><a href="file.asp?id=1098">Judgment: United States v. Baker Hughes Services International, Inc. (May 5, 2007)</a></p><p><a href="file.asp?id=30">Criminal Information: United States v. Baker Hughes Incorporated</a></p><p><a href="file.asp?id=28">Deferred Prosecution Agreement: United States v. Baker Hughes Incorporated (April 5, 2007)</a></p><p><a href="file.asp?id=1099">Motion to Dismiss Information: United States v. Baker Hughes Incorporated (April 27, 2009)</a></p><p><a href="file.asp?id=1100">Order Granting Motion to Dismiss United States v. Baker Hughes Incorporated (April 28, 2009)</a></p><p><a href="file.asp?id=1775">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p><p><a href="file.asp?id=1866">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19201435zqs">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192014vg408" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAKER HUGHES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(5)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192014o11we" width="415" height="61" /></div>
+    
+        <h1>BAKER HUGHES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Baker Hughes Incorporated ("Baker Hughes")<br />Baker Hughes Services International, Inc. (subsidiary of Baker Hughes) ("BHSI")<br />Rob Fearnley (former Kazakhstan-based Baker Hughes business development manager)<br />Eric L. Mattson (former Chief Financial Officer at Baker Hughes)<br />James W. Harris (former Controller at Baker Hughes)<br />KPMG-Siddharta Siddharta & Harsono (Baker Hughes' agent and accountant in Indonesia until 2001) ("KPMG-SSH")<br />PT Eastman Christensen (Indonesian company beneficially owned by Baker Hughes) ("PTEC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil-field services and products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />Brazil<br />India<br />Indonesia<br />Kazakhstan<br />Nigeria<br />Russia<br />Uzbekistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Baker Hughes II<br /><br />Over the course of approximately two years, BHSI, a wholly-owned subsidiary of Baker Hughes, paid over USD 4.1 million to an intermediary whom BHSI understood and believed would transfer all or a part of the payments to officials of the Kazakh state-owned oil company, Kazakhoil, in exchange for which Baker Hughes and BHSI would receive a contract to provide services in support of the Karachaganak oil-field project.  <br /><br />Specifically, in or about 1997, the Government of Kazakhstan and Kazakhoil entered into an agreement with a consortium of four international oil companies for the development and operation of oil production facilities in Karachaganak, a gas and oil field in northwest Kazakhstan.  In February 2000, BHSI submitted a bid to support a range of oil-field drilling and production services to the project, on behalf of Baker Hughes.  The ultimate award of any contract by the international consortium relied upon the favorable recommendation of Kazakhoil officials.    <br /><br />In September 2000, before the contract award was officially announced, Kazakhoil officials demanded that BHSI pay commission fees to a consulting firm located on the Isle of Man, which it was to hire as an agent.  Although no actual services were rendered, BHSI agreed to pay a commission equal to 2% of the revenue earned on the Karachaganak project and 3% percent on future projects in Kazakhstan.  BHSI agreed and Baker Hughes was awarded the contract for Karachaganak in October 2000. <br /><br />Beginning in May 2001 and continuing through November 2003, BHSI and Baker Hughes made commission payments to the consulting firm totaling USD 4,100,162.70.  Roy Fearnley, a Baker Hughes business development manager located in Kazakhstan, was the primary coordinator for Baker Hughes on the Karachaganak bid.  Baker Hughes and BHSI improperly characterized the commission payments in their books and records as payments for "commissions," "fees," or "legal services."<br /><br />According to the U.S. Securities and Exchange Commission (“SEC”) complaint, other Baker Hughes entities made improper payments to third party consultants and agents.  These included payments of nearly USD 1.1 million made by another Baker Hughes' subsidiary to a commissioned agent at the direction of a high-ranking official at KazTransOil (Kazakhstan's national oil transportation company) in 1998-1999 in order to win a chemical contract worth USD 3.2 million.<br /><br />Additionally, it was alleged that between 1998 and 2005, Baker Hughes made payments to agents or other individuals, including public officials, in Angola (commissioned agent), Kazakhstan (commissioned agent), Nigeria (customs brokers), Indonesia (freight forwarders), Russia (commissioned agent) and Uzbekistan (commissioned agent) in circumstances that reflected a failure to implement sufficient internal controls to determine whether the payments were for legitimate services, whether the payments would be shared with government officials, or whether these payments would be accurately recorded in Baker Hughes' books and records.  <br /><br />Baker Hughes I<br /><br />In addition to violating federal securities laws, the 2007 SEC complaint discussed above also alleged that the conduct violated a cease-and-desist order issued against Baker Hughes on 12 September 2001 in connection with improper payments made to foreign officials in Indonesia, India, and Brazil during 1995-1999. <br /><br />The settlement in 2001 related to a USD 75,000 bribe to a local Indonesian tax official, which was authorized by Baker Hughes' CFO, Eric L. Mattson and its Controller, James W. Harris, and paid in March 1999 by KPMG-Siddharta Siddharta & Harsono ("KPMG-SSH"), Baker Hughes' agent and accountant in Indonesia.  The payment was made in order to reduce a tax assessment from USD 3.2 million to USD 270,000 for PT Eastman Christensen ("PTEC"), an Indonesian company beneficially owned by Baker Hughes.<br /><br />Baker Hughes' managers also authorized payments to Baker Hughes agents in Brazil and India, in 1995 and 1998, respectively, without adequately inquiring as to whether the agents might give all or some of the payments to government officials.  These transactions were incorrectly recorded in the company's books and records as routine business expenditures.  <br /><br />Charges related to the earlier (or, at times, concurrent) conduct in Indonesia, Brazil and India resulted in the entry of a SEC cease-and-desist order on 12 September 2001.  The same day, the SEC also instituted a settled administrative proceeding against KPMG-SSH and Sonny Harsono, a partner in the firm.  Each consented to the entry of final judgments permanently enjoining them from violating, and aiding and abetting violations of, the FCPA's anti-bribery, books and records and internal controls provisions.  The action against KPMG-SSH and Harsono was the first joint civil injunctive action by the U.S. Department of Justice (“DOJ”) and SEC.<br /><br />The SEC also filed a civil injunctive action against Mattson and Harris on 12 September 2001, which the two defendants challenged on the grounds that the reduction in tax assessment was not related to "obtaining or retaining business."  While this issue of interpretation of the FCPA was soon settled by the Kay decision in 2007 [see the "American Rice" Compendium entry], the SEC eventually decided to drop its charges against the two executives. <br /><br />Baker Hughes subsequently violated its 2001 cease-and-desist order in connection with the conduct related to Kazakhstan and other countries discussed above.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Kazakhoil Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4,100,162.70</p>
+</td>
+<td>
+<p style="text-align: center;">USD 189,200,000 (net revenues)</p>
+<p style="text-align: center;">USD 19,944,778 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />a KazTransOil Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.1 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 3.2 million (value of a chemical contract awarded)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 75,000</p>
+</td>
+<td>
+<p style="text-align: center;">Reduction in tax assessment by USD 2.93 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The improper conduct was discovered after an ex-employee filed suit against Baker Hughes in 2002 alleging that he lost his job because he refused to go along with a bribery scheme in Nigeria.  The filing of this suit prompted Baker Hughes' board to hire outside counsel to conduct an investigation into the charges, which ultimately lasted for five years and unearthed several violations in multiple countries.   Baker Hughes self-disclosed the violations the SEC and DOJ.  <br /><br />According to the DOJ, Baker Hughes conducted an extensive and thorough internal investigation of its business practices in Kazakhstan and throughout its high-risk global operations and has implemented significant remedial steps and improvements to its controls.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 April 2007, BHSI pleaded guilty to violations of the anti-bribery provisions of the FCPA, conspiracy to violate the FCPA, and aiding and abetting the falsification of the books and records of its parent company Baker Hughes.  BHSI agreed to pay an USD 11 million criminal fine, serve a three-year term of organizational probation, and adopt a comprehensive anti-bribery compliance program.  Simultaneously, Baker Hughes entered into a two-year deferred prosecution agreement with the DOJ regarding the same underlying conduct, accepting responsibility for the conduct of its employees.  Baker Hughes agreed to hire an independent monitor for three years and to cooperate with the DOJ in its ongoing investigations.  <br /><br />Also on 26 April 2007, without admitting or denying the SEC's allegations, Baker Hughes agreed to the entry of a judgment ordering it to comply with the SEC cease-and-desist order issued on 12 September 2001 and permanently enjoining it from future violations of the FCPA's book and records and internal controls provisions.  Baker Hughes agreed to pay USD 19,944,778 in disgorgement, USD 3,133,237.41 in prejudgment interest, and USD 10,000,000 in civil penalties.  It appears that Roy Fearnley has yet to reach a settlement with the SEC regarding the charges filed against him in the complaint.<br /><br />At the time, the USD 44 million in combined fines and penalties was the largest monetary sanction ever imposed in an FCPA case.<br /><br />On 28 April 2009, upon motion by the DOJ, the U.S. District Court for the Southern District of Texas dismissed with prejudice the charges against Baker Hughes, finding that the company had fully complied with all of its obligations under the deferred prosecution agreement.
+		<h2>COMPLIANCE MONITOR</h2>
+        Stephen Fishbein
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Corporate recidivism can result in higher penalties during follow-on enforcement actions.</li><li>Enforcement agencies set a high standard for companies that encounter  and fail to follow up on red flags, such as the retention of commissioned agent at the request a government official late in the procurement process.</li><li>Instances of bribery may lead enforcement agencies to scrutinize other third party payments ultimately found to have been made without adequate internal controls to ensure that no bribe was paid.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=32">Complaint: SEC v. Baker Hughes Incorporated and Rob Fearnley </a></p><p><a href="file.asp?id=33">Cease-and-Desist Order:  In the Matter of Baker Hughes Incorporated (Sept. 12, 2001)</a></p><p><a href="file.asp?id=34">SEC Litigation Release: Sept. 12, 2001 (SEC and Department of Justice File First-Ever Joint Civil Action Against KPMG Siddharta & Harsono and Its Partner Sonny Harsono for Authorizing the Payment of a Bribe in Indonesia)  </a></p><p><a href="file.asp?id=429">SEC Litigation Release: Sept. 12, 2001 (SEC Sues Baker Hughes Incorporated's Former Chief Financial Officer and Controller for Authorizing the Payment of a Bribe)</a></p><p><a href="file.asp?id=31">SEC Litigation Release: April 26, 2007 (SEC Charges Baker Hughes With Foreign Bribery and With Violating 2001 Commission Cease-and-Desist Order)</a></p><p><a href="file.asp?id=29">Criminal Information: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=27">Plea Agreement: United States v. Baker Hughes Services International, Inc. (April 11, 2007)</a></p><p><a href="file.asp?id=1101">Sentencing Memo: United States v. Baker Hughes Services International, Inc. (April 24, 2007)</a></p><p><a href="file.asp?id=1097">Affidavit: United States v. Baker Hughes Services International, Inc. (April 26, 2007)</a></p><p><a href="file.asp?id=26">DOJ Press Release: April 26, 2007 (Baker Hughes Subsidiary Pleads Guilty to Bribing Kazakh Official and Agrees to Pay $11 million Criminal Fine as Part of Largest Combined Sanction Ever Imposed in FCPA Case)</a></p><p><a href="file.asp?id=1098">Judgment: United States v. Baker Hughes Services International, Inc. (May 5, 2007)</a></p><p><a href="file.asp?id=30">Criminal Information: United States v. Baker Hughes Incorporated</a></p><p><a href="file.asp?id=28">Deferred Prosecution Agreement: United States v. Baker Hughes Incorporated (April 5, 2007)</a></p><p><a href="file.asp?id=1099">Motion to Dismiss Information: United States v. Baker Hughes Incorporated (April 27, 2009)</a></p><p><a href="file.asp?id=1100">Order Granting Motion to Dismiss United States v. Baker Hughes Incorporated (April 28, 2009)</a></p><p><a href="file.asp?id=1775">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p><p><a href="file.asp?id=1866">Baker Hughes - SEC form 10-K, Annual Report 2011 (24 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

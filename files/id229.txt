@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192343x6317">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192343k1v76" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TIDEWATER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(229)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19234380204" width="415" height="61" /></div>
+    
+        <h1>TIDEWATER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tidewater Inc. ("Tidewater")<br />Tidewater Marine International Inc. (Cayman Island subsidiary of Tidewater) ("Tidewater Marine")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global operator of offshore service and supply vessels for energy exploration 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New Orleans, Louisiana, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Azerbaijan<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On November 4, 2010, the DOJ filed a criminal information charging Tidewater Marine with conspiring to violate the FCPA's anti-bribery and books and records provisions, and with violating the books and records provisions.  <br /><br />Tidewater Marine allegedly made approximately USD 160,000 in improper, through its employees and agents, to tax inspectors in Azerbaijan between 2001 and 2005 to secure favorable tax assessments.  The company also allegedly made approximately USD 1.6 million in improper payments, through Panalpina, to Nigerian customs officials from 2002 to 2007 to induce the officials to disregard Nigerian customs regulations relating to the importation of vessels into Nigerian waters. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to Foreign Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 160,000 to tax inspectors in Azerbaijan; USD 1.6 million to Nigerian customs officials</p>
+</td>
+<td>
+<p>Favorable tax assessment in Azerbaijan; Circumvention of Nigerian customs regulations</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Tidewater described the (at the time, ongoing) investigation as follows in its 2008 SEC Form 10-K:<br /><br />“The company previously reported that in the early spring of 2007, its Audit Committee engaged special counsel to conduct an internal investigation into certain practices of the company or certain related parties which practices had been identified as raising potential concerns under the United States Foreign Corrupt Practices Act (FCPA). The investigation initially focused on the procurement, through the use of a third party agent, of temporary importation permits for its vessels operating in Nigeria, but thereafter expanded to review certain aspects of operations in Nigeria, Angola and certain other countries in West Africa, Indonesia, Egypt and Azerbaijan. The investigation in certain of these additional areas of operations focused on customs, immigration and marketing practices, as well as measures taken by the company or related parties in certain of these jurisdictions to obtain local tax relief or abatement. In addition, with the approval of the Audit Committee, special counsel conducted a more limited review of certain aspects of the company’s or related parties’ operations in other selected countries. Pending any additional investigation that may be requested by the United States Department of Justice or the United States Securities and Exchange Commission, special counsel has substantially completed its investigation and its more limited review and reported its findings to the Audit Committee in late May 2008. <br /><br />During the course of its investigation, special counsel identified and periodically reported to the Audit Committee certain weaknesses in the company’s FCPA compliance program, as well as certain practices that needed correction, and the company has diligently responded to counsel’s observations and recommendations to upgrade its overall compliance posture. In addition, the company has independently pursued, under the guidance of its senior management and the Board of Directors, the development and implementation of a more robust FCPA compliance and training program for its employees and agents. As part of that effort, the company appointed its newly-hired general counsel as its chief compliance officer with responsibility for FCPA compliance. <br /><br />From time to time during the investigation, special counsel has been providing the Department of Justice and the Securities and Exchange Commission with informational updates and interim findings, and the company expects that, in the very near future, special counsel will be reporting additional findings of its investigation to the Department of Justice and the Securities and Exchange Commission. As part of its continuing cooperation with these agencies, the company entered into an agreement with the Department of Justice effective as of January 10, 2008 to toll certain statutes of limitations for a nine month period ending on October 10, 2008. The agreement expressly provides that it does not constitute an admission by the company of any facts or of any wrongdoing. The company is unable to predict whether either agency will separately pursue legal or administrative action against the company or any of its employees, or what potential remedies or sanctions, if any, these agencies may seek. These agencies have requested certain documents and information, and the company has been voluntarily cooperating with those requests. In the meantime, however, after considering the findings reported by special counsel, management and the Board of Directors have initiated disciplinary measures against company employees implicated by the findings of the investigation. <br /><br />Based on the findings of the investigation reported to the company and the Audit Committee to date, the company has not concluded that any potential liability that may result from an investigation or enforcement action by the Department of Justice or the Securities and Exchange Commission is both probable and reasonably estimable, and, thus, no accrual has been recorded as of March 31, 2008. Should additional information be obtained, the company will record a provision when the amount is probable and reasonably estimable. While uncertain, ultimate resolution with one or both of these agencies could have a material adverse effect on the company’s results of operations or cash flows.”
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 4, 2010, Tidewater Marine and the DOJ entered into a deferred prosecution agreement that requires, among other things, Tidewater Marine to pay a USD 7.35 million criminal penalty.<br /><br />On the same day, without admitting or denying the SEC's allegations, Tidewater consented to a court order permanently enjoining it from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  Tidewater was ordered to pay USD 7,223,216 in disgorgement plus prejudgment interest of USD 881,146, and a USD 217,000 civil penalty.<br /><br />On January 13, 2011, it was reported that Nigeria's Economic and Financial Crimes Commission (EFCC) had detained twelve oil-industry employees, including several Tidewater employees, in connection with the agency's investigation into the bribery scheme.  Tidewater described the events as follows in a securities filing on February 4, 2011:<br /><br />"On January 10, 2011, representatives of the Nigerian Economic and Financial Crimes Commission (EFCC) entered the offices of the company's operating company in Lagos, Nigeria, and requested that representatives of the operating company participate in a series of interviews. Those representatives agreed to participate and were interviewed by the EFCC.<br /><br />The company has now been asked to participate in discussions with the Nigerian Attorney General's Office to resolve, under Nigerian law, issues raised by the company's FCPA-related settlements with the United States Department of Justice and the United States Securities and Exchange Commission. It is our current understanding that the discussions with the Nigerian Attorney General's Office relate solely to Nigeria operations issues raised in those settlements and that the Nigerian Government seeks monetary restitution based on the same issues. The company has begun participating in those discussions.<br /><br />The company has not concluded that any potential liability that may result from any potential enforcement action by the Nigerian Attorney General's Office is both probable and reasonably estimable and, thus, no accrual has been recorded as of December 31, 2010. Should additional information be obtained that any potential liability is probable and reasonably estimable, the company will record such liability at that time."<br /><br />On March 3, 2011, Tidewater announced in a securities filing that it had agreed to pay USD 6.3 million to settle bribery charges with the Nigerian Government: <br /><br />"Tidewater Inc. (NYSE:TDW) announced today that it has reached agreement with the Federal Government of Nigeria ("FGN") to settle and resolve the previously disclosed investigation by the FGN relating to allegations that the Nigerian affiliate of a Swiss-based freight forwarder had made improper payments to government officials in Nigeria on behalf of Tidewater's foreign subsidiaries. The FGN's investigation in this regard focused on facts and circumstances associated with Nigeria operations in 2007 and previous years that were detailed in Tidewater's previous settlements with the U.S. Department of Justice and U.S. Securities and Exchange Commission. Pursuant to the settlement agreement, the FGN has terminated the above-mentioned investigation and agreed not to bring any criminal charges or civil claims against any Tidewater entity or associated persons arising from these allegations. In return, Tidewater agreed to pay $6.0 million to the FGN and to pay an additional $0.3 million for the FGN's attorneys' fees and other expenses. The total $6.3 million ($0.12 per diluted common share) settlement payments will be made promptly and will be reflected in Tidewater's fourth fiscal quarter results ending March 31, 2011. Among other provisions in the settlement agreement, Tidewater also affirmed a continuing commitment to good corporate governance and compliance."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ/SEC investigations can spring from the agencies' investigations of business partners or competitors of the affected entities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=844">Tidewater - SEC Form 10-K (Mar. 2008)</a></p><p><a href="file.asp?id=843">Tidewater - SEC Form 10-Q (Dec. 2009)</a></p><p><a href="file.asp?id=1046">Tidewater - SEC Form 10-K (May 2010)</a></p><p><a href="file.asp?id=1185">DOJ Press Release: November 4, 2010 (Oil Services Companies and a Freight Forwarding Company Agree to Resolve Foreign Bribery Investigations and to Pay More Than $156 Million in Criminal Penalties)</a></p><p><a href="file.asp?id=1186">SEC Litigation Release: November 4, 2010</a></p><p><a href="file.asp?id=1187">Complaint: SEC v. Tidewater Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1208">Criminal Information: U.S. v. Tidewater Marine International, Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1209">Deferred Prosecution Agreement: U.S. v. Tidewater Marine International, Inc. (November 1, 2010)</a></p><p>WSJ: "Nigeria Arrests 12 Oil Executives Over Alleged Bribery" (13 January 2011)</p><p>Bloomberg Businessweek: "Nigeria Arrests 12 in $100 Million Oil Bribery Probe" (13 January 2011)</p><p>African Manager: "Nigeria's anti-graft agency seizes 12 oil chiefs over US$ 100m bribery scam" (13 January 2011)</p><p><a href="file.asp?id=1339">Tidewater - SEC Form 10-Q (4 Feb. 2011)</a></p><p><a href="file.asp?id=1363">Tidewater - SEC Form 8-K (3 March 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

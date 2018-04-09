@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707291h389">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170729pbb2v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NISHIMATSU CONSTRUCTION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(44)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170729aju47" width="415" height="61" /></div>
+    
+        <h1>NISHIMATSU CONSTRUCTION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nishimatsu Construction Co., Ltd. ("Nishimatsu")<br />Italian-Thai Development Public Co. ("ITDP")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Infrastructure and construction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in 2003 Nishimatsu and ITDP, Nishimatsu's local partner in Thailand, gave bribes of more than JPY 400,000,000 (USD 3,600,000) to foreign officials of the Bangkok Metropolitan Administration in return for favors to secure a USD 77,500,000 drainage tunnel construction project in Thailand.  The TDPPO is continuously investigating this Nishimatsu case.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">JPY 400,000,000<br />(USD 3,600,000)</p>
+</td>
+<td>
+<p style="text-align: center;">Drainage tunnel construction project valued at USD 77,500,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=213">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>The Japan Times: "Tokyo contractor allegedly bribed Thai officials" (7 July 2008)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184238fh9e7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184238b9d14" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NISHIMATSU CONSTRUCTION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(44)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184238un230" width="415" height="61" /></div>
+    
+        <h1>NISHIMATSU CONSTRUCTION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nishimatsu Construction Co., Ltd. ("Nishimatsu")<br />Italian-Thai Development Public Co. ("ITDP")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Infrastructure and construction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in 2003 Nishimatsu and ITDP, Nishimatsu's local partner in Thailand, gave bribes of more than JPY 400,000,000 (USD 3,600,000) to foreign officials of the Bangkok Metropolitan Administration in return for favors to secure a USD 77,500,000 drainage tunnel construction project in Thailand.  The TDPPO is continuously investigating this Nishimatsu case.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">JPY 400,000,000<br />(USD 3,600,000)</p>
+</td>
+<td>
+<p style="text-align: center;">Drainage tunnel construction project valued at USD 77,500,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=213">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>The Japan Times: "Tokyo contractor allegedly bribed Thai officials" (7 July 2008)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19205435v2p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920542js60" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NISHIMATSU CONSTRUCTION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(44)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192054h88zp" width="415" height="61" /></div>
+    
+        <h1>NISHIMATSU CONSTRUCTION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nishimatsu Construction Co., Ltd. ("Nishimatsu")<br />Italian-Thai Development Public Co. ("ITDP")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Infrastructure and construction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in 2003 Nishimatsu and ITDP, Nishimatsu's local partner in Thailand, gave bribes of more than JPY 400,000,000 (USD 3,600,000) to foreign officials of the Bangkok Metropolitan Administration in return for favors to secure a USD 77,500,000 drainage tunnel construction project in Thailand.  The TDPPO is continuously investigating this Nishimatsu case.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">JPY 400,000,000<br />(USD 3,600,000)</p>
+</td>
+<td>
+<p style="text-align: center;">Drainage tunnel construction project valued at USD 77,500,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=213">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>The Japan Times: "Tokyo contractor allegedly bribed Thai officials" (7 July 2008)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

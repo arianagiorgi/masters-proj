@@ -1,0 +1,163 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192151p7r3o">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921517fq27" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SYNCOR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(106)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192151b3t9e" width="415" height="61" /></div>
+    
+        <h1>SYNCOR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Syncor International Corporation ("Syncor")<br />Syncor Taiwan, Inc. (Syncors wholly-owned Taiwanese subsidiary) ("Syncor Taiwan")<br />Syncor de Mexico (Syncors wholly-owned Mexican subsidiary) ("Syncor Mexico")<br />The Medcon Group (Syncors four European subsidiaries) ("Medcon")<br />Monty Fu (Syncors founder and former CEO and Chairman)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Radiopharmaceutical products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Woodland Hills, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Luxembourg<br />Belgium<br />France<br />Mexico<br />Taiwan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Syncor was a publicly-traded company, founded in 1974 by Monty Fu.  Its wholly-owned subsidiary, Syncor Taiwan, sold radiopharmaceutical products to public and private hospitals and owned and operated medical imaging centers in Taiwan.  From the time it was founded in 1985 until 2002, Syncor Taiwan made over $500,000 in payments to Taiwanese doctors who worked for state-owned hospitals.  These payments were made in the form of commissions to doctors responsible for procurement in order to induce them to buy Syncor Taiwans radiopharmaceutical products.  Syncor Taiwan also made referral payments to doctors who referred clients to medical imaging centers operated by Sycnor Taiwan.  These commissions and referral payments were described as advertising and promotional expenses on the company's books and records.  Monty Fu, Syncor's founder and former CEO and Chairman, knew about and approved these payments. <br /><br />In addition to payments to Taiwanese doctors, Syncor Mexico allegedly paid approximately $23,000 to doctors in state-owned hospitals in Mexico between 2001 and 2002 in order to obtain business.  Most of the payments were made in cash and hand-delivered; however, Syncor Mexico also used other techniques, including giving one doctor a personal loan, reimbursing personal expenses and over-invoicing the hospitals.  <br /><br />Syncor Mexico allegedly made a practice of providing support to doctors, including doctors at state-owned hospitals.  This support was between 1.5% and 3% of sales and generally came in the form of sponsoring attendance at seminars and providing gifts such as computer equipment, software, office supplies and medical supplies.  Syncor Mexico allegedly made at least $200,000 in support payments from 2000 until 2002.  <br /><br />From 2001 until 2002, Medcon allegedly made improper payments to doctors in state-owned hospitals in Belgium, France and Luxembourg, totaling approximately $45,000, in order to obtain business.  These included cash payments to the doctors bank accounts and gifts, such as computers, digital cameras, expensive wines and travel.  Medcon improperly recorded these payments in its books and records. <br /><br />In addition to payments to doctors, Medcon allegedly made and improperly recorded a number of payments to private customers, including a laptop to an employee at a supplier to induce the supplier to over-bid on a contract in Belgium and a $33,000 payment to a distributor in Greece to induce him not to compete with Medcon in Belgium and Luxembourg.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Taiwanese Doctors</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$513,000</p>
+</td>
+<td>
+<p>Sales of radiopharmaceutical products;<br />Patient referrals to medical imaging centers</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Mexican Doctors</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$223,000</p>
+</td>
+<td>
+<p>Sales of health care products</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Value of Gifts and Hospitality Provided to Doctors in Belgium, Luxembourg and France</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$45,000</p>
+</td>
+<td>
+<p>Sales of health care products</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2002, Cardinal Health entered into a merger agreement with Syncor.  During the pre-merger due diligence, Cardinal Health discovered payments to doctors at state-owned hospitals in Taiwan that violated the FCPA and realized that it could be held liable for Syncors past acts.  In an effort to reduce any potential successor liability, Cardinal Health required Syncor to voluntarily disclose the FCPA violations to the U.S. government and settle any charges before closing the deal.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 10, 2002, Syncor Taiwan pleaded guilty to violating the FCPA and agreed to pay a $2 million criminal fine. <br /><br />On the same day, without admitting or denying the SEC's allegations, Syncor consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  Syncor also consented to the entry of a cease-and-desist order.  The SEC also imposed a $500,000 civil penalty.  <br /><br />In a related action, without admitting or denying the SEC's allegations, Monty Fu consented to the entry of a final judgment permanently enjoining him from violating the FCPA's books and records and internal controls provisions.  He also agreed to pay a $75,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies that prepare their financial statements on a consolidated basis are liable for the inaccurate books and records of their subsidiaries.</li><li>In order to avoid criminal penalties, U.S. companies that are subject to the FCPA can cause their foreign subsidiaries to plead guilty to criminal violations of the FCPA even when the U.S. enforcement authorities would not otherwise have jurisdiction over the foreign subsidiary.</li><li>Improper payments to private sector customers can form the basis for FCPA books and records violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=312">SEC Litigation Release: September 28, 2007 (SEC Settled Books and Records and Internal Accounting Controls Charges Against Former Chairman of Syncor International Corporation)</a></p><p><a href="file.asp?id=313">SEC Litigation Release: December 10, 2002 (SEC Obtains $500,000 Penalty Against Syncor International Corporation for Violating the Anti-Bribery Provisions of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=315">Complaint: SEC v. Monty Fu (September 27, 2007)</a></p><p><a href="file.asp?id=316">Complaint: SEC v. Syncor International Corporation (December 10, 2002)</a></p><p><a href="file.asp?id=317">Cease-and-Desist Order: In the Matter of Syncor International Corporation (December 10, 2002)</a></p><p><a href="file.asp?id=318">DOJ Press Release: December 10, 2002 (Syncor Taiwan Inc. Pleads Guilty to Violating the Foreign Corrupt Practices Act)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

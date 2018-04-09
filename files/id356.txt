@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192531199s2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925318718v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LIONOV</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(356)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925314w14g" width="415" height="61" /></div>
+    
+        <h1>LIONOV</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Bulgaria: Sofia City Prosecution Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lionov (Bulgarian driver of truck registered as "Mont Trans Ltd.")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Truck driver
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bulgaria
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Slovenia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The case is described as follows in the OECD's Phase 3 Report on Bulgaria's application of the OECD Anti-Bribery Convention:<br /><br />"In Bulgaria's only foreign bribery conviction, the briber Lionov drove a truck registered in the name of 'Mont Trans Ltd.' and was stopped by Slovenian border guards because the truck was in poor condition. Lionov offered a bribe of EUR 20 to a Slovenian official, who reported him to the law enforcement authorities. The court convicted Lionov of foreign bribery and fined him BGN 200 (approximately EUR 102). The court decision entered into force in July 2004."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Offer to Slovenian Official</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Sought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">EUR 20</td>
+<td style="text-align: center;">Border crossing with truck in poor condition</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As stated above, Lionov was convicted in July 2004 and fined approximately EUR 102.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>According to the OECD, foreign bribery is not considered an area of high risk for Bulgarian businesses by Bulgarian public officials, the private sector or civil society.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>OECD Phase 3 Report on Bulgaria (18 March 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

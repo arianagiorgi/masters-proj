@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192511t55z4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925113u3o9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KONINKLIJKE PHILIPS ELECTRONICS N.V. </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(332)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925118l1t3" width="415" height="61" /></div>
+    
+        <h1>KONINKLIJKE PHILIPS ELECTRONICS N.V. </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Poland: National Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Koninklijke Philips Electronics N.V. ("Philips," parent company of The Philips Group)<br />Philips Polska sp. z.o.o. ("Philips Polska," wholly owned subsidiary of Philips in Poland)<br />Krzysztof B. (former employee of Philips Polska)<br />Marian R. (former employee of Philips Polska)<br />Marian Kulig (owner of a company that sold equipment to Philips Polska)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global diversified healthcare, lighting and consumer lifestyle company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Poland<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 17 May 2011, the Associated Press reported that the former head of the medical section and the former regional director at Philips Polska allegedly paid bribes to Polish hospital directors in order to win medical equipment contracts with hospitals.  Marian Kulig, the owner of a company that sold equipment to Philips, said that in exchange for cash, "the hospitals set technical requirements for equipment they wanted to buy on such levels that only those made by Philips could meet them." According to Kulig, he made a payment of PLN 90,000 (EUR 23,000) to a hospital director to help win a contract. The Wall Street Journal reported on 18 July 2011 that the total amount of the bribes was approximately PLN 3 million (USD 1.04 million).<br /><br />Philips has repeatedly denied that it had any involvement in the allegations involving Philips Polska, which is a wholly owned subsidiary of Philips.<br /><br />On 22 February 2012, Reuters reported that Philips' Hamburg offices had been raided by the German police. The Company denied that the investigation was connected with the Polish bribery case and said that an individual was suspected of corruption.<br /><br />The U.S. Securities & Exchange Commission's ("SEC") cease-and-desist order of 5 April 2013 provided additional details on the allegations. The SEC alleged that Philips Polska paid bribes in at least 30 transactions and that the amount of each improper payment was usually between 3 percent and 8 percent of the contract value. The SEC said that these payments violated the FCPA because they were mischaracterized in Philips Polska's books and records and represented a failure to maintain a system of adequate internal accounting controls. <br /><br />Philips described the ongoing investigation in an SEC Form 6-K filed on 18 February 2011:<br /><br />"In connection with an indictment issued by authorities in Poland in December 2009 against numerous individuals, including three former employees of Philips Polska sp. z.o.o., involved in the sale of medical equipment to hospitals in Poland, Philips has been conducting a review of certain activities related to sales of medical equipment for potential violations of the U.S. Foreign Corrupt Practices Act (FCPA). Philips has reported the review to the U.S. Department of Justice and the U.S. Securities and Exchange Commission and is cooperating with these authorities in connection with the review."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Polish Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="50%">PLN 3 million (USD 1.04 million)<br /></td>
+<td style="text-align: center;">Contracts to provide medical equipment to public hospitals<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to the Associated Press report of 17 May 2011, one of the individuals involved in the bribery and fraud schemes, Marian Kulig, allegedly informed authorities in Poland of the corrupt payments. According to the SEC, Philips learned of the allegations "in August 2007, when Polish officials conducted searches of three of Philips' offices in Poland and arrested two Philips Poland employees." As a result of the arrests and searches, Philips initiated an internal investigation. In 2009, Polish authorities issued indictments for 23 individuals (which included Philips Polska employees and public hospital directors), which prompted another internal investigation by Philips. In 2010, Philips reported its findings to the SEC and U.S. Department of Justice ("DOJ").
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 5 April 2013, the SEC announced that it reached a settlement with Philips regarding the FCPA allegations against Philips Polska. Philips agreed to pay USD 4,515,178 (disgorgement of USD 3,120,597 and prejudgment interest of USD 1,394,581) as part of the settlement. The SEC's cease-and-desist order says that Philips violated the books and records and internal accounting controls provisions of the FCPA. <br /><br />The DOJ's investigation appears to be ongoing.<br /><br />Poland<br /><br />On 17 May 2011, the Associated Press reported that 23 Polish citizens, including two former employees of Philips Polska, had been indicted on corruption charges. The two Philips Polska employees were apparently the former head of the medical section and the former regional director.  Their names were given as "Krzysztof B." and "Marian R." These former employees could face up to 12 years in prison. Sixteen public hospital directors were alleged to be involved, and they could face 10 years in prison for accepting the bribes. <br /><br />On 16 November 2011, the Wall Street Journal reported that the trial for these 23 individuals began that day in Poland. Also, the article stated that three former Philips Polska employees were among the 23 individuals indicted.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies can be liable for the FCPA violations of their subsidiaries. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1349">Philips: SEC Form 6-K (18 February 2011)</a></p><p>Associated Press: "Dutch Philips cited in bribes scandal in Poland" (17 May 2011)</p><p>Wall Street Journal: "Philips CEO: Dutch HQ Had No Involvement In Alleged Bribes" (18 July 2011)</p><p>Wall Street Journal: "Philips Is 'Injured Party' In Bribery Case" (16 November 2011)</p><p><a href="file.asp?id=1721">Philips: Full Annual Report 2011</a></p><p>Reuters: "German authorities probe Philips' Hamburg office" (22 February 2012)</p><p><a href="file.asp?id=2216">SEC: Cease-and-Desist Order (5 April 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

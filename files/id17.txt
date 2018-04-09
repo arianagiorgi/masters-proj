@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170704j54s9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707042s32w" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HIOKI</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(17)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170704f3hmv" width="415" height="61" /></div>
+    
+        <h1>HIOKI</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Misao Hioki 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial rubber products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Brazil<br />Ecuador<br />Mexico<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Hioki with conspiracy to violate the Sherman Act and conspiracy to violate the FCPA, in connection with his role in bid rigging and the bribery of foreign government officials, respectively, while serving as General Manager of the International Engineering Products Division ("IEP") of a Tokyo-based manufacturer of marine hoses and related products (identified in the press as the Bridgestone Corporation).  Marine hose is a flexible rubber hose used to transfer oil between tankers and storage facilities.  <br /><br />Between January 2007 and May 2004, Hioki allegedly conspired to rig bids, fix prices and allocate market shares of marine hose in the U.S. and elsewhere and conspired to make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  Hioki and his co-conspirators allegedly approved the making of payments to the government officials through local sales agents.  The payments were concealed within the commissions paid to the agents.  The improper payments were made to secure business for the company and its U.S. subsidiary and were coordinated through the subsidiarys office in Houston, Texas. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Over USD 1 million</p>
+</td>
+<td>
+<p>Business and contracts for the purchase of IEP products, including marine hose, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Hioki was one of eight foreign executive arrested on 2 May 2007 in Houston and San Francisco and charged for their roles in the marine hose cartel, after participating in a cartel meeting in Houston.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 December 2008, Hioki pleaded guilty to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. <br /><br />Hioki was the ninth individual to plead guilty in the marine house bid-rigging investigation and the first individual to plead guilty in the FCPA conspiracy.  He agreed to cooperate in the DOJ's ongoing antitrust and FCPA investigations. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Other DOJ investigations, such as antitrust or domestic bribery cases, can lead to the discovery of conduct violating the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1123">DOJ Press Release: MAY 2, 2007 (Eight Executives Arrested on Charges of Conspiring to Rig Bids, Fix Prices, and Allocate Markets for Sales of Marine Hose)</a></p><p><a href="file.asp?id=1122">DOJ Press Release: December 12, 2007 (Three United Kingdom Nationals Plead Guilty to Participating in Bid-Rigging Conspiracy in the Marine Hose Industry)</a></p><p><a href="file.asp?id=118">Criminal Information: U.S. v. Misao Hioki (December 8, 2008)</a></p><p><a href="file.asp?id=1125">Government's Response to Defendant's Sentencing Memorandum: U.S. v. Misao Hioki (December 9, 2008)</a></p><p><a href="file.asp?id=117">Plea Agreement: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=1126">Judgment: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=116">DOJ Press Release: December 10, 2008 (Japanese Executive Pleads Guilty, Sentenced to Two Years in Jail for Participating in Conspiracies to Rig Bids and Bribe Foreign Officials to Purchase Marine Hose and Related Products)</a></p><p><a href="file.asp?id=1127">Transcript of Sentencing Hearing: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1124">Government's Motion for a Third Point of Acceptance of Responsibility and Downward Departure for Substantial Assistance: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1121">Amended Judgment: U.S. v. Misao Hioki (January 26, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842143q340">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842147i6ix" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HIOKI</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(17)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842141093t" width="415" height="61" /></div>
+    
+        <h1>HIOKI</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Misao Hioki 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial rubber products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Brazil<br />Ecuador<br />Mexico<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Hioki with conspiracy to violate the Sherman Act and conspiracy to violate the FCPA, in connection with his role in bid rigging and the bribery of foreign government officials, respectively, while serving as General Manager of the International Engineering Products Division ("IEP") of a Tokyo-based manufacturer of marine hoses and related products (identified in the press as the Bridgestone Corporation).  Marine hose is a flexible rubber hose used to transfer oil between tankers and storage facilities.  <br /><br />Between January 2007 and May 2004, Hioki allegedly conspired to rig bids, fix prices and allocate market shares of marine hose in the U.S. and elsewhere and conspired to make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  Hioki and his co-conspirators allegedly approved the making of payments to the government officials through local sales agents.  The payments were concealed within the commissions paid to the agents.  The improper payments were made to secure business for the company and its U.S. subsidiary and were coordinated through the subsidiarys office in Houston, Texas. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Over USD 1 million</p>
+</td>
+<td>
+<p>Business and contracts for the purchase of IEP products, including marine hose, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Hioki was one of eight foreign executive arrested on 2 May 2007 in Houston and San Francisco and charged for their roles in the marine hose cartel, after participating in a cartel meeting in Houston.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 December 2008, Hioki pleaded guilty to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. <br /><br />Hioki was the ninth individual to plead guilty in the marine house bid-rigging investigation and the first individual to plead guilty in the FCPA conspiracy.  He agreed to cooperate in the DOJ's ongoing antitrust and FCPA investigations. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Other DOJ investigations, such as antitrust or domestic bribery cases, can lead to the discovery of conduct violating the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1123">DOJ Press Release: MAY 2, 2007 (Eight Executives Arrested on Charges of Conspiring to Rig Bids, Fix Prices, and Allocate Markets for Sales of Marine Hose)</a></p><p><a href="file.asp?id=1122">DOJ Press Release: December 12, 2007 (Three United Kingdom Nationals Plead Guilty to Participating in Bid-Rigging Conspiracy in the Marine Hose Industry)</a></p><p><a href="file.asp?id=118">Criminal Information: U.S. v. Misao Hioki (December 8, 2008)</a></p><p><a href="file.asp?id=1125">Government's Response to Defendant's Sentencing Memorandum: U.S. v. Misao Hioki (December 9, 2008)</a></p><p><a href="file.asp?id=117">Plea Agreement: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=1126">Judgment: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=116">DOJ Press Release: December 10, 2008 (Japanese Executive Pleads Guilty, Sentenced to Two Years in Jail for Participating in Conspiracies to Rig Bids and Bribe Foreign Officials to Purchase Marine Hose and Related Products)</a></p><p><a href="file.asp?id=1127">Transcript of Sentencing Hearing: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1124">Government's Motion for a Third Point of Acceptance of Responsibility and Downward Departure for Substantial Assistance: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1121">Amended Judgment: U.S. v. Misao Hioki (January 26, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192029r2th9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192029r3p28" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HIOKI</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(17)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192029533g6" width="415" height="61" /></div>
+    
+        <h1>HIOKI</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Misao Hioki 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial rubber products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Brazil<br />Ecuador<br />Mexico<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Hioki with conspiracy to violate the Sherman Act and conspiracy to violate the FCPA, in connection with his role in bid rigging and the bribery of foreign government officials, respectively, while serving as General Manager of the International Engineering Products Division ("IEP") of a Tokyo-based manufacturer of marine hoses and related products (identified in the press as the Bridgestone Corporation).  Marine hose is a flexible rubber hose used to transfer oil between tankers and storage facilities.  <br /><br />Between January 2007 and May 2004, Hioki allegedly conspired to rig bids, fix prices and allocate market shares of marine hose in the U.S. and elsewhere and conspired to make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  Hioki and his co-conspirators allegedly approved the making of payments to the government officials through local sales agents.  The payments were concealed within the commissions paid to the agents.  The improper payments were made to secure business for the company and its U.S. subsidiary and were coordinated through the subsidiarys office in Houston, Texas. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Over USD 1 million</p>
+</td>
+<td>
+<p>Business and contracts for the purchase of IEP products, including marine hose, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Hioki was one of eight foreign executive arrested on 2 May 2007 in Houston and San Francisco and charged for their roles in the marine hose cartel, after participating in a cartel meeting in Houston.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 10 December 2008, Hioki pleaded guilty to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. <br /><br />Hioki was the ninth individual to plead guilty in the marine house bid-rigging investigation and the first individual to plead guilty in the FCPA conspiracy.  He agreed to cooperate in the DOJ's ongoing antitrust and FCPA investigations. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Other DOJ investigations, such as antitrust or domestic bribery cases, can lead to the discovery of conduct violating the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1123">DOJ Press Release: MAY 2, 2007 (Eight Executives Arrested on Charges of Conspiring to Rig Bids, Fix Prices, and Allocate Markets for Sales of Marine Hose)</a></p><p><a href="file.asp?id=1122">DOJ Press Release: December 12, 2007 (Three United Kingdom Nationals Plead Guilty to Participating in Bid-Rigging Conspiracy in the Marine Hose Industry)</a></p><p><a href="file.asp?id=118">Criminal Information: U.S. v. Misao Hioki (December 8, 2008)</a></p><p><a href="file.asp?id=1125">Government's Response to Defendant's Sentencing Memorandum: U.S. v. Misao Hioki (December 9, 2008)</a></p><p><a href="file.asp?id=117">Plea Agreement: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=1126">Judgment: U.S. v. Misao Hioki (December 12, 2008)</a></p><p><a href="file.asp?id=116">DOJ Press Release: December 10, 2008 (Japanese Executive Pleads Guilty, Sentenced to Two Years in Jail for Participating in Conspiracies to Rig Bids and Bribe Foreign Officials to Purchase Marine Hose and Related Products)</a></p><p><a href="file.asp?id=1127">Transcript of Sentencing Hearing: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1124">Government's Motion for a Third Point of Acceptance of Responsibility and Downward Departure for Substantial Assistance: U.S. v. Misao Hioki (December 16, 2008)</a></p><p><a href="file.asp?id=1121">Amended Judgment: U.S. v. Misao Hioki (January 26, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922201ge6h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192220b1imf" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - UNITED INDUSTRIAL CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(138)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922200tr23" width="415" height="61" /></div>
+    
+        <h1>UNITED INDUSTRIAL CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        United Industrial Corporation (“UIC”) <br />ACL Technologies, Inc. (UIC’s second-tier, wholly-owned subsidiary) (“ACL”)<br />Thomas Wurzel (former president of ACL) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Test equipment in support of hydraulics, pneumatics, electrical, mechanical and fuel requirements of commercial and military aircraft
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hunt Valley, Maryland, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+         From 2001 until 2002, ACL allegedly made multiple payments to Egyptian officials through its Egyptian agent in order to obtain a contract for services and assistance to the Egyptian Air Force.  <br /><br />In October 1999, ACL received a sole source contract under the U.S. Foreign Military Sales ("FMS") Program to build a depot for F-16 combat aircraft for the Egyptian Air Force, and to provide, operate and train Egyptian labor to use the testing equipment installed in the depot. In the following years, ACL received a number of add-on contracts and contract modifications, including the Contract Engineering Technical Services (“CETS”) contract.  These contracts generated approximately $64 million in revenue and $8.6 million in profit from 1999 until 2004, or one-third of ACL’s gross revenue for that period. <br /><br />According to the SEC complaint, in 1996, Thomas Wurzel, ACL’s president, hired a retired Egyptian Air Force general to act as an agent to help move the F-16 depot project forward. The consultant began receiving a monthly fee of $4,000. The company allegedly did not conduct any due diligence on the consultant until March 1998, when his consulting fee was increased to $20,000 per month. The consultant’s company allegedly continued to receive payment from ACL even after the contract was awarded in 1999, in order to help the company obtain additional business related to the F-16 depot.  <br /><br />In addition to assisting ACL win new business, the Egyptian agent began acting as a labor contractor in 2000 to coordinate the labor needed for the project.  He was reimbursed for these services after submitting monthly invoices, which ranged from $4,300 to $11,000 per month. This contract was separate from the consulting contract. <br /><br />By mid-2001, the agent’s contract had expired and was not renewed because ACL had satisfied its obligations; however, the agent continued to receive a number of payments from ACL because Wurzel had allegedly agreed to continue paying the consulting fee.  During early 2001, ACL began working toward winning the CETS contract, which involved providing personnel to provide technical assistance at the Air Force base where the depot was being constructed. The Egyptian agent assisted ACL with winning this contract. <br /><br />Months before the CETS contract was awarded, the agent allegedly sent emails to Wurzel stating that it was important “to start giving motivation” and requesting funds in order to “secure team loyalty.”  According to the SEC complaint, the agent requested money that was separate from the funds he received under the labor support contract in January 2002 and April 2002. ACL paid the agent, but deducted these payments from his labor support contract.  ACL was awarded the CETS contract on April 30, 2002. <br /><br />ACL allegedly continued making payments to the agent after it received the CETS contract in order to win additional follow-up contracts.  According to SEC documents, the agent specifically requested that these funds not be deducted from his labor support contract. One such payment was made by using an invoice for an advance payment of rental equipment.  ACL was awarded five additional CETS contracts between 2002 and 2004. <br /><br />In January 2004, Wurzel traveled to Egypt and met with the agent during the trip.  While he was there, Wurzel allegedly agreed that ACL would forgive $100,000 of debt the agent owed to ACL as a result of an advance payment the agent received. Under Wurzel’s plan, the agent would submit fake invoices to make it appear that the consultant had repaid the money. <br /><br />On December 18, 2007, Textron Inc. acquired UIC. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">Approximate Payments to Egyptian Officials</p></td><td width="50%"><p align="center">Resulting Revenue/Profit</p></td></tr><tr><td><p align="center">Unspecified</p></td><td><p align="center"><span style="font-size: 11pt">$5.3 million (revenue)</span> </p><p align="center"><span style="font-size: 11pt; line-height: 115%; font-family: Calibri">$267,571 (profit) </span></p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On May 29, 2009, without admitting or denying the SEC's allegations, UIC consented to the entry of a cease-and-desist order enjoining it from future violations of the books and records and internal controls provisions of the FCPA. In addition, UIC was required to pay a total of $337,679.42 in penalties, including $267,571 in disgorgement and $70,108.42 in pre-judgment interest.  <br /><br />In its complaint, the SEC noted that Wurzel and ACL did not submit the necessary due diligence forms prior to engaging the agent even though UIC had instituted policies in 1999 requiring that any employee who wanted to use a foreign agent needed to submit such forms to corporate counsel. Instead, ACL did not conduct due diligence on the Egyptian agent until 2002, after he had allegedly been working on behalf of ACL for over seven years. In addition, the agent’s agreement allegedly did not have the required FCPA clauses until 2003, even though UIC required these provisions to be included in all agreements with foreign agents as early as 1997.  <br /><br />On the same day, Wurzel, without admitting or denying the charges, consented to the entry of a final judgment enjoining him from committing and from aiding and abetting violations anti-bribery provisions and the books and records provisions of the FCPA. He was also required to pay a $35,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies that prepare their financial statements on a consolidated basis are responsible for the inaccurate books and records of their subsidiaries.</li><li>Payments made through foreign agents or other third parties can form the basis for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=501">Cease-and-Desist Order: In the Matter of United Industrial Corporation (May 29, 2009)</a></p><p><a href="file.asp?id=502">Complaint: SEC v. Thomas Wurzel (May 29, 2009) </a></p><p><a href="file.asp?id=503">SEC Litigation Release: May 29, 2009 (SEC Sues Former President of United Industrial Corporation Subsidiary for Authorizing the Payment of Foreign Bribes)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

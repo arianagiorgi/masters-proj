@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19260206z0k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192602q35t4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TSKJ</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(391)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192602e31dl" width="415" height="61" /></div>
+    
+        <h1>TSKJ</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kellogg Brown & Root Inc. (KBR)<br />ENI<br />Halliburton<br />Technip S.A.<br />JGC Corporation of Japan<br />Snamprogetti Netherlands BV ("Snamprogetti")<br />Marubeni Corporation<br />Saipem<br />TSKJ (joint venture composed of Technip, Snamprogetti, KBR and JGC)<br />Wojciech J. Chodan<br />Jeffrey Tesler
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering procurement, oil and gas installations, infrastructure and construction projects, oilfield services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Nigeria
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In order to obtain contracts to build liquefied natural gas facilities on Bonny Island, Nigeria, beginning in 1995, the TSKJ joint venture composed of Technip S.A., Snamprogetti Netherlands B.V., Kellogg Brown & Root Inc. (KBR), and JGC Corporation hired an individual named Jeffrey Tesler, and the Marubeni Corporation, to pay bribes to Nigerian government officials. Over a period of nine years, TSKJ paid approximately $132 million to a corporation controlled by Tesler, and $51 million to Marubeni Corporation, with the understanding the part of these sums would be used to pay Nigerian officials for facilitating and awarding four construction contracts, worth over $6 billion.<br /><br />For a detailed account of the role played by each of the joint venture partners in the bribery scheme, see the individual Compendium entries for those entities. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <p>See individual entries.</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        See individual entries.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        See individual entries.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #0066ff;">Joint Venture</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

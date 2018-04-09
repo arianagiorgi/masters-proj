@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192339421eh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192339qer31" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SUN MICROSYSTEMS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(225)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923391xn52" width="415" height="61" /></div>
+    
+        <h1>SUN MICROSYSTEMS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Sun Microsystems, Inc. ("Sun")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Computer hardware, software and IT services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Santa Clara, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Sun described the ongoing investigation as follows in its SEC Form 10-K filed on August 28, 2009:<br /><br />"During fiscal year 2009, we identified activities that may have violated the Foreign Corrupt Practices Act (FCPA) or relevant foreign statutes. We initiated independent investigations with the assistance of outside counsel and are continuing to investigate where necessary and to take remedial action. We made voluntary disclosures with respect to these matters to the Department of Justice, Securities and Exchange Commission and certain foreign government agencies. We are cooperating with these governmental entities and the outcome of these, or any future matters, cannot be predicted. We monitor our international operations, and we may identify activities in the future that may violate the FCPA or relevant foreign statutes. The FCPA and the relevant foreign statutes and regulations provide for potential monetary penalties, criminal sanctions and in some cases debarment from doing government business, any of which could have a material effect on our business."<br /><br />Sun was acquired by Oracle Corporation in January 2010.  Recent Oracle filings have not discussed the FCPA investigation into Sun.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=839">Sun Microsystems - SEC Form 10-K (Aug. 28, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

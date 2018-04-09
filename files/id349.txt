@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192526p3lmm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192526xc54n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RIO ZAZA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(349)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925267v361" width="415" height="61" /></div>
+    
+        <h1>RIO ZAZA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Cuba: People's Supreme Court<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rio Zaza Food Company (Cuban juice company run by Chilean-controlled holding company)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Packaged fruit juice and milk products 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Chile
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Cuba<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports on June 9, 2011, a Cuban court has convicted two Chilean businessmen for bribery of Cuban government officials.  Multiple Cuban officials - including the former Food Minister and Food Vice Minister - were convicted of receiving bribes.   The businessmen allegedly gave cash bribes and gifts to the officials in order to secure permission to divert products and raw materials, along with other unspecified fraudulent activities.  <br /><br />The case reportedly involved the activities of Rio Zaza, a juice company run by a holding company controlled by the Chilean businessman, Max Marambio.  Marambio was convicted in absentia in May and sentenced to 20 years and 15 years in prison, respectively.  His brother, Marcel Marambia, was convicted in absentia in June and sentenced for 15 years imprisonment in connection with the activities of his travel company, Sol y Son.   <br /><br />Details of the cases were not announced by the Cuban government.  Fifteen Cuban nationals were previously convicted in the case and given sentences between three and 10 years.<br /><br />The Chilean general manager of Rio Zaza was reportedly found dead in his apartment on April 13, 2010, in Havana.  Rio Zaza has had a virtual monopoly on selling packaged fruit juices within Cuba for nearly two decades.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Cuban Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As stated above, two Chilean businessmen managing Cuban companies were convicted and sentenced in absentia.  Various Cuban officials were charged and convicted as well.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Cuban President Raul Castro initiated an anti-corruption drive since assuming power in 2008, which has resulted in the removal of multiple senior Cuban officials. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Washington Post: "Cuban court convicts 11 more in Rio Zaza corruption probe involving longtime Castro friend" (9 June 2011)</p><p>HavanaTimes.org: "Cuba Court Sentences Ex-minister & Chilean Crony" (6 May 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192500r9vyi">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192500v4gb9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CAMERON INTERNATIONAL CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(319)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192500bltz6" width="415" height="61" /></div>
+    
+        <h1>CAMERON INTERNATIONAL CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Cameron International Corporation ("Cameron")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer, provider, and servicer of oil and gas industry equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Cameron described the ongoing investigation as follows in its SEC Form 10-K filed on 28 February 2011:<br /><br />"In July 2007, the Company was one of a number of companies to receive a letter from the Criminal Division of the U.S. Department of Justice (DOJ) requesting information on activities undertaken on their behalf by a customs clearance broker. The DOJ is inquiring into whether certain of the services provided to the Company by the customs clearance broker may have involved violations of the U.S. Foreign Corrupt Practices Act (FCPA). In response, the Company engaged special counsel reporting to the Audit Committee of the Board of Directors to conduct an investigation into its dealings with the customs clearance broker in Nigeria to determine if any payment made by the customs clearance broker in connection with the importation of Company property constituted a violation of the FCPA. Special counsel also reviewed the extent, if any, of the Company’s knowledge and involvement in the performance of these services and activities and whether the Company fulfilled its obligations under the FCPA. The U.S. Securities and Exchange Commission (SEC) is also conducting an informal inquiry into the same matters. The investigation by special counsel has been completed and the Company is waiting for the agencies to commence discussions regarding the ultimate disposition of this matter. At this stage, the Company cannot predict what the disposition of this matter will entail."<br /><br />In the Company's SEC Form 10-Q Quarterly Report filed on 2 November 2011, the Company reported, "The Company has recently concluded an investigation into possible FCPA violations in connection with importation of equipment and supplies into Nigeria in response to inquiries by the Department of Justice and the Securities and Exchange Commission."<br /><br />Later, in the Company's SEC Form 10-K, Annual Report for 2011, filed on 28 February 2012, no mention is made of the investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The DOJ and SEC closed their investigations without taking any enforcement action.  Cameron explained as follows in its SEC Form 10-Q filed on 1 August 2011:<br /><br />"In July 2007, the Company was one of a number of companies to receive a letter from the Criminal Division of the U.S. Department of Justice (DOJ) requesting information on activities undertaken on their behalf by a customs clearance broker. The DOJ inquired into whether certain of the services provided to the Company by the customs clearance broker may have involved violations of the U.S. Foreign Corrupt Practices Act (FCPA). The U.S. Securities and Exchange Commission (SEC) also conducted an informal inquiry into the same matter.<br /><br />"Following a review of the investigation conducted by the Company’s special counsel and a number of follow-up meetings, both the DOJ and SEC have notified the Company they do not intend to pursue enforcement action against the Company with regard to this matter and their respective files have been closed."<br /><br />Likewise, in the Company's SEC Form 10-Q Quarterly Report filed on 2 November 2011, the Company reported, "The Company has recently concluded an investigation into possible FCPA violations in connection with importation of equipment and supplies into Nigeria in response to inquiries by the Department of Justice and the Securities and Exchange Commission."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ and SEC investigations do not always result in a formal enforcement action.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1285">Cameron - SEC Form 10-Q (Nov. 3, 2010)</a></p><p><a href="file.asp?id=1394">Cameron - SEC Form 10-K (Feb. 28, 2011)</a></p><p><a href="file.asp?id=1559">Cameron - SEC Form 10-Q (Aug. 1, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192202jx6q2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192202kf2y5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KENNY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(118)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922029omn3" width="415" height="61" /></div>
+    
+        <h1>KENNY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Kenny International Corp. (“Kenny International”)<br />Finbar B. Kenny (Chairman, President and majority shareholder of Kenny International)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Promotion, distribution and sale of Cook Islands postage stamps outside of the Cook Islands
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Cook Islands<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 1965, Kenny entered into an agreement with the Government of the Cook Islands (an independent nation freely associated with New Zealand for purposes of external affairs and defense) whereby Kenny obtained the exclusive rights to the promotion, distribution and sale of Cook Islands postage stamps outside of the Cook Islands.  This agreement was renewed in 1972 for a ten-year period.  The Government of the Cook Islands received 50% of the proceeds of all stamps sold.<br /><br />In January 1978, Sir Albert Henry, the Leader of the Cook Islands Party, scheduled a general election for March 1978.  The Cook Islands Party needed to win the majority of seats in the Legislative Assembly if Sir Albert Henry were to remain Premier for the next four-year term.  The stamp distribution agreement between Kenny and the Government of the Cook Islands was subject to renewal during the next Premier's term.  Sir Albert Henry and the party officials determined that to win the election it would be necessary to transport by air from New Zealand Cook Island Party supporters to vote for the Party candidates. <br /><br />A representative of Sir Albert Henry and the Cook Islands Party requested that Kenny and Kenny International subsidize the air transportation costs of the Cook Islands Party supporters.  Kenny, in order to secure the renewal of the stamp distribution agreement, agreed to provide the financial assistance.  The payment was deducted from the Government's share of the proceeds from postage stamp sales.  Shell corporations were created specifically for the purpose of transferring the funds to the Cook Islands Party.<br /><br />In March 1978, the Cook Islands Party won the general election as a direct result of the votes cast by its supporters whose travel was paid for by Kenny International.  Sir Albert Henry remained in office as Premier.<br /><br />In July 1978, the election was contested and the Court disallowed the votes of the Cook Islands Party supporters whose travel had been subsidized as "unlawful votes tainted by bribery."  As a result, the Cook Islands Party lost its control of the Legislative Assembly and Sir Albert Henry was removed from office.  Kenny and Kenny International refused to pay the Government of the Cook Islands NZD 337,000, which was part of the Government's share of the proceeds of postage stamp sales. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Promised to the Cook Islands Party</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">NZD 337,000</p>
+</td>
+<td>
+<p style="text-align: center;">Renewal of contract for the promotion, distribution and sale of Cook Islands postage stamps</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 1979, Kenny International pleaded guilty to one count of bribery of a foreign official in violation of the FCPA.  The company consented to the entry of a final judgment of permanent injunction against future FCPA violations and was fined USD 50,000. <br /><br />Also in 1979, Kenny, without admitting or denying the DOJ's allegations, consented the entry of a final judgment of permanent injunction against future FCPA violations.  Kenny also pleaded guilty to a criminal charge in the High Court of Cook Islands and agreed to cooperate with the Government of the Cook Islands whenever requested.  He agreed to pay restitution in the amount of NZD 337,000 to the government of the Cook Islands. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will investigate and prosecute both corporate entities and individual owners and employees involved in conduct violating the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=387">Judgment, Offer of Proof, Resolutions, Plea Agreement, Information: U.S. v. Kenny International Corp.</a></p><p><a href="file.asp?id=388">Judgment, Injunction, Consent and Complaint Documents: U.S. v. Finbar B. Kenny and Kenny International Corp.</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

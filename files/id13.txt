@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707004sw1m">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170700y2184" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(13)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170700444kn" width="415" height="61" /></div>
+    
+        <h1>DOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Dow Chemical Company ("Dow")<br />DE-Nocil Crop Protection Ltd. (fifth-tier Indian subsidiary of Dow; now known as Dow Agro Sciences India Private Ltd.) ("DE-Nocil")<br />Agro Pack Pvt. Ltd. (product formulator for DE-Nocil in India) ("Agro Pack")<br />Crop Health Products Ltd. (product formulator for DE-Nocil in India) ("Crop Health")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agro-chemical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Midland, Michigan, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Dow with violations of the books and records and internal controls provisions of the FCPA in connection with approximately USD 200,000 in improper payments made to Indian federal and state government officials by DE-Nocil, a fifth-tier foreign subsidiary of Dow, between 1996 and 2001.  DE-Nocil became a wholly-owned subsidiary of Dow in January 2005.  DE-Nocil changed its name to Dow AgroSciences India Pvt. Ltd. in March 2005.<br /><br />According to the SEC's complaint, DE-Nocil, headquartered in Mumbai, manufactured and marketed pesticides and other products primarily for use in the Indian agriculture industry.  Beginning in 1996, DE-Nocil allegedly made approximately USD 39,700 in improper payments to an official in India's Central Insecticides Board ("CIB") in order to expedite the registration of three DE-Nocil products.  Most of these payments were made through agreements with contractors which issues false invoices or included fictitious charges on invoices submitted to DE-Nocil.   At DE-Nocil's direction, the contractors distributed the extra funds to the CIB official.  <br /><br />According to the complaint, between 1996 and 2001, DE-Nocil also made approximately USD 87,400 in improper payments to state inspectors and other state officials in order to distribute and sell its products; USD 37,600 for gifts, travel, entertainment, and other items; USD 19,000 to government business officials; USD 11,800 to sales tax officials; USD 3,700 to excise tax officials; and USD 1,500 to customs officials.  Over the six-year period, an estimated USD 200,000 in improper payments were made by DE-Nocil through federal and state channels.  The SEC charged that none of these payments were accurately reflected in Dow's books and records and that Dow's system of internal accounting controls failed to prevent the payments.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Expediting various government registrations and other regulatory requirements, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The payments were made without the authorization or knowledge of any Dow employee.  Once Dow discovered the matter, it conducted an internal investigation and voluntarily disclosed its findings to the SEC.  Dow also took a number of remedial actions, including employee terminations and disciplinary actions.<br />   <br />The company retained an independent auditor to conduct a forensic audit of the books and records and internal controls at DE-Nocil and reported its internal investigation to the Audit Committee of the Board of Directors.  Dow provided FCPA compliance training to DE-Nocil employees, as well as to employees of its Dow AgroSciences business unit more broadly.  Dow also restructured its global compliance program, including (i) improving and expanding FCPA compliance training for employees of Dow and its subsidiaries worldwide; (ii) training its internal auditors to recognize FCPA issues; and (iii) joining a non-profit association specializing in anti-bribery due diligence that, among other things, screens potential partners and other third parties that work with multinational corporations and provides FCPA training to them.  In addition, the company hired an independent consultant to review and assess its FCPA compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 13 February 2007, without admitting or denying the allegations in the SEC's complaint, Dow consented to pay a USD 325,000 civil penalty.  In a related proceeding on the same day, without admitting or denying the SEC's findings, Dow consented to the entry of a cease-and-desist order related to the same conduct.  The SEC recognized Dow's remedial efforts and cooperation with the Commission staff.  <br /><br />India's Central Bureau of Investigation ("CBI") is currently investigating DE-Nocil, as well as the company's product formulators in India, Agro Pack and Crop Health.  <br /><br />On 20 September 2010, India's Ministry of Agriculture blacklisted Dow AgroSciences (DE-Nocil's successor) for five years.  A special court of India's Central Bureau of Investigation ("CBI") had earlier that year found Dow AgroSciences guilty bribing a senior central government employee and his aides.  CBI recommended that the firm be blacklisted.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to influence an official decision (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.</li><li>Prompt remedial efforts and cooperation with U.S. regulators may result in a company receiving a lesser financial penalty and avoiding a DOJ criminal action altogether.</li><li>Increasingly, domestic bribery actions are being instituted following the publication of U.S. foreign bribery (FCPA) settlement documents.  Here, the Indian investigation of Dow's subsidiary was prompted by the parent company's FCPA settlement.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=78">SEC Litigation Release: February 13, 2007 (SEC Files Settled Enforcement Action Against The Dow Chemical Company for Foreign Corrupt Practices Act Violations)</a></p><p><a href="file.asp?id=79">Cease-and-Desist Order:  In the Matter of The Dow Chemical Company</a></p><p><a href="file.asp?id=80">Dow AgroSciences Press Release: February 13, 2007 (Dow Chemical Settles with Securities and Exchange Commission over Indian Joint Venture)</a></p><p>TheEconomicTimes: "Dow Agro faces ban on bribery charge" (10 Sept. 2010)</p><p>AgroNews: "Dow AgroSciences blacklisted for bribing" (20 Sept. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184211rm4d9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842110sgc0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(13)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842118kptp" width="415" height="61" /></div>
+    
+        <h1>DOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Dow Chemical Company ("Dow")<br />DE-Nocil Crop Protection Ltd. (fifth-tier Indian subsidiary of Dow; now known as Dow Agro Sciences India Private Ltd.) ("DE-Nocil")<br />Agro Pack Pvt. Ltd. (product formulator for DE-Nocil in India) ("Agro Pack")<br />Crop Health Products Ltd. (product formulator for DE-Nocil in India) ("Crop Health")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agro-chemical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Midland, Michigan, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Dow with violations of the books and records and internal controls provisions of the FCPA in connection with approximately USD 200,000 in improper payments made to Indian federal and state government officials by DE-Nocil, a fifth-tier foreign subsidiary of Dow, between 1996 and 2001.  DE-Nocil became a wholly-owned subsidiary of Dow in January 2005.  DE-Nocil changed its name to Dow AgroSciences India Pvt. Ltd. in March 2005.<br /><br />According to the SEC's complaint, DE-Nocil, headquartered in Mumbai, manufactured and marketed pesticides and other products primarily for use in the Indian agriculture industry.  Beginning in 1996, DE-Nocil allegedly made approximately USD 39,700 in improper payments to an official in India's Central Insecticides Board ("CIB") in order to expedite the registration of three DE-Nocil products.  Most of these payments were made through agreements with contractors which issues false invoices or included fictitious charges on invoices submitted to DE-Nocil.   At DE-Nocil's direction, the contractors distributed the extra funds to the CIB official.  <br /><br />According to the complaint, between 1996 and 2001, DE-Nocil also made approximately USD 87,400 in improper payments to state inspectors and other state officials in order to distribute and sell its products; USD 37,600 for gifts, travel, entertainment, and other items; USD 19,000 to government business officials; USD 11,800 to sales tax officials; USD 3,700 to excise tax officials; and USD 1,500 to customs officials.  Over the six-year period, an estimated USD 200,000 in improper payments were made by DE-Nocil through federal and state channels.  The SEC charged that none of these payments were accurately reflected in Dow's books and records and that Dow's system of internal accounting controls failed to prevent the payments.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Expediting various government registrations and other regulatory requirements, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The payments were made without the authorization or knowledge of any Dow employee.  Once Dow discovered the matter, it conducted an internal investigation and voluntarily disclosed its findings to the SEC.  Dow also took a number of remedial actions, including employee terminations and disciplinary actions.<br />   <br />The company retained an independent auditor to conduct a forensic audit of the books and records and internal controls at DE-Nocil and reported its internal investigation to the Audit Committee of the Board of Directors.  Dow provided FCPA compliance training to DE-Nocil employees, as well as to employees of its Dow AgroSciences business unit more broadly.  Dow also restructured its global compliance program, including (i) improving and expanding FCPA compliance training for employees of Dow and its subsidiaries worldwide; (ii) training its internal auditors to recognize FCPA issues; and (iii) joining a non-profit association specializing in anti-bribery due diligence that, among other things, screens potential partners and other third parties that work with multinational corporations and provides FCPA training to them.  In addition, the company hired an independent consultant to review and assess its FCPA compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 13 February 2007, without admitting or denying the allegations in the SEC's complaint, Dow consented to pay a USD 325,000 civil penalty.  In a related proceeding on the same day, without admitting or denying the SEC's findings, Dow consented to the entry of a cease-and-desist order related to the same conduct.  The SEC recognized Dow's remedial efforts and cooperation with the Commission staff.  <br /><br />India's Central Bureau of Investigation ("CBI") is currently investigating DE-Nocil, as well as the company's product formulators in India, Agro Pack and Crop Health.  <br /><br />On 20 September 2010, India's Ministry of Agriculture blacklisted Dow AgroSciences (DE-Nocil's successor) for five years.  A special court of India's Central Bureau of Investigation ("CBI") had earlier that year found Dow AgroSciences guilty bribing a senior central government employee and his aides.  CBI recommended that the firm be blacklisted.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to influence an official decision (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.</li><li>Prompt remedial efforts and cooperation with U.S. regulators may result in a company receiving a lesser financial penalty and avoiding a DOJ criminal action altogether.</li><li>Increasingly, domestic bribery actions are being instituted following the publication of U.S. foreign bribery (FCPA) settlement documents.  Here, the Indian investigation of Dow's subsidiary was prompted by the parent company's FCPA settlement.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=78">SEC Litigation Release: February 13, 2007 (SEC Files Settled Enforcement Action Against The Dow Chemical Company for Foreign Corrupt Practices Act Violations)</a></p><p><a href="file.asp?id=79">Cease-and-Desist Order:  In the Matter of The Dow Chemical Company</a></p><p><a href="file.asp?id=80">Dow AgroSciences Press Release: February 13, 2007 (Dow Chemical Settles with Securities and Exchange Commission over Indian Joint Venture)</a></p><p>TheEconomicTimes: "Dow Agro faces ban on bribery charge" (10 Sept. 2010)</p><p>AgroNews: "Dow AgroSciences blacklisted for bribing" (20 Sept. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920252943b">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920259rv6f" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(13)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192025og001" width="415" height="61" /></div>
+    
+        <h1>DOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Dow Chemical Company ("Dow")<br />DE-Nocil Crop Protection Ltd. (fifth-tier Indian subsidiary of Dow; now known as Dow Agro Sciences India Private Ltd.) ("DE-Nocil")<br />Agro Pack Pvt. Ltd. (product formulator for DE-Nocil in India) ("Agro Pack")<br />Crop Health Products Ltd. (product formulator for DE-Nocil in India) ("Crop Health")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agro-chemical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Midland, Michigan, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Dow with violations of the books and records and internal controls provisions of the FCPA in connection with approximately USD 200,000 in improper payments made to Indian federal and state government officials by DE-Nocil, a fifth-tier foreign subsidiary of Dow, between 1996 and 2001.  DE-Nocil became a wholly-owned subsidiary of Dow in January 2005.  DE-Nocil changed its name to Dow AgroSciences India Pvt. Ltd. in March 2005.<br /><br />According to the SEC's complaint, DE-Nocil, headquartered in Mumbai, manufactured and marketed pesticides and other products primarily for use in the Indian agriculture industry.  Beginning in 1996, DE-Nocil allegedly made approximately USD 39,700 in improper payments to an official in India's Central Insecticides Board ("CIB") in order to expedite the registration of three DE-Nocil products.  Most of these payments were made through agreements with contractors which issues false invoices or included fictitious charges on invoices submitted to DE-Nocil.   At DE-Nocil's direction, the contractors distributed the extra funds to the CIB official.  <br /><br />According to the complaint, between 1996 and 2001, DE-Nocil also made approximately USD 87,400 in improper payments to state inspectors and other state officials in order to distribute and sell its products; USD 37,600 for gifts, travel, entertainment, and other items; USD 19,000 to government business officials; USD 11,800 to sales tax officials; USD 3,700 to excise tax officials; and USD 1,500 to customs officials.  Over the six-year period, an estimated USD 200,000 in improper payments were made by DE-Nocil through federal and state channels.  The SEC charged that none of these payments were accurately reflected in Dow's books and records and that Dow's system of internal accounting controls failed to prevent the payments.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian <br />Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Expediting various government registrations and other regulatory requirements, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The payments were made without the authorization or knowledge of any Dow employee.  Once Dow discovered the matter, it conducted an internal investigation and voluntarily disclosed its findings to the SEC.  Dow also took a number of remedial actions, including employee terminations and disciplinary actions.<br />   <br />The company retained an independent auditor to conduct a forensic audit of the books and records and internal controls at DE-Nocil and reported its internal investigation to the Audit Committee of the Board of Directors.  Dow provided FCPA compliance training to DE-Nocil employees, as well as to employees of its Dow AgroSciences business unit more broadly.  Dow also restructured its global compliance program, including (i) improving and expanding FCPA compliance training for employees of Dow and its subsidiaries worldwide; (ii) training its internal auditors to recognize FCPA issues; and (iii) joining a non-profit association specializing in anti-bribery due diligence that, among other things, screens potential partners and other third parties that work with multinational corporations and provides FCPA training to them.  In addition, the company hired an independent consultant to review and assess its FCPA compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 13 February 2007, without admitting or denying the allegations in the SEC's complaint, Dow consented to pay a USD 325,000 civil penalty.  In a related proceeding on the same day, without admitting or denying the SEC's findings, Dow consented to the entry of a cease-and-desist order related to the same conduct.  The SEC recognized Dow's remedial efforts and cooperation with the Commission staff.  <br /><br />India's Central Bureau of Investigation ("CBI") is currently investigating DE-Nocil, as well as the company's product formulators in India, Agro Pack and Crop Health.  <br /><br />On 20 September 2010, India's Ministry of Agriculture blacklisted Dow AgroSciences (DE-Nocil's successor) for five years.  A special court of India's Central Bureau of Investigation ("CBI") had earlier that year found Dow AgroSciences guilty bribing a senior central government employee and his aides.  CBI recommended that the firm be blacklisted.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers payment to foreign officials to influence an official decision (e.g., to secure licenses, permits or certifications to engage in business in a foreign country), in addition to corrupt payments connected to the award of government business.</li><li>Prompt remedial efforts and cooperation with U.S. regulators may result in a company receiving a lesser financial penalty and avoiding a DOJ criminal action altogether.</li><li>Increasingly, domestic bribery actions are being instituted following the publication of U.S. foreign bribery (FCPA) settlement documents.  Here, the Indian investigation of Dow's subsidiary was prompted by the parent company's FCPA settlement.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=78">SEC Litigation Release: February 13, 2007 (SEC Files Settled Enforcement Action Against The Dow Chemical Company for Foreign Corrupt Practices Act Violations)</a></p><p><a href="file.asp?id=79">Cease-and-Desist Order:  In the Matter of The Dow Chemical Company</a></p><p><a href="file.asp?id=80">Dow AgroSciences Press Release: February 13, 2007 (Dow Chemical Settles with Securities and Exchange Commission over Indian Joint Venture)</a></p><p>TheEconomicTimes: "Dow Agro faces ban on bribery charge" (10 Sept. 2010)</p><p>AgroNews: "Dow AgroSciences blacklisted for bribing" (20 Sept. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

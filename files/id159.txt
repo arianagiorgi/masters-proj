@@ -1,0 +1,144 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192238821ee">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922381lggl" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMERICAN RICE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(159)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192238l1hz6" width="415" height="61" /></div>
+    
+        <h1>AMERICAN RICE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        American Rice, Inc. ("American Rice")<br />Rice Corporation of Haiti, S.A. (Haitian company that was treated as a wholly-owned subsidiary of American Rice) ("RCH")<br />Douglas A. Murphy (President of American Rice)<br />David G. Kay (Vice President of Caribbean Operations for American Rice)<br />Lawrence H. Theriot (consultant used by American Rice in Caribbean operations)<br />Joseph A. Schwartz (American Rice's controller in Haiti)<br />Joel R. Malebranche (American Rice employee in Haiti)<br />Allen W. Sturdivant (employee in American Rice's shipping department in Houston)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Export of rice
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Haiti<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        During 1998 and 1999, Douglas Murphy and David Kay authorized approximately USD 500,000 in bribes to be paid to Haitian customs officials in order to reduce import taxes on rice.  <br /><br />In the mid-1990s American Rice held a large share of the Haitian rice market. Although they had competitors, American Rice was able to undercut the competition by importing rice in bulk and finishing and bagging the rice in Haiti. Because it imported rice in bulk rather than bagged rice, it was able to reduce its customs duties and sell at lower prices than its competitors. According to the company, competition from rice smugglers and corruption among customs officials eroded American Rice's competitive advantage. <br /><br />In order to regain its competitive advantage, American Rice's officers and employees entered into agreements with Haitian customs officials that would allow American Rice to understate the full tonnage of rice in its shipments, which would reduce the company's taxes on the rice. In January 1998, Kay authorized the first payment to Haitian officials.  He instructed the manager of the company's shipping office in Houston to prepare fake shipping records, declaring less rice than was actually in the shipment. The shipping manager then sent both the accurate shipping records and the fake shipping records to an American Rice employee in Haiti who gave the fake shipping records to the Haitian customs officials, and negotiated the amount of the bribe. The customs officials in turn calculated the import taxes on the amount of rice declared in the fake shipping records. In order to make the payment to the officials, Kay directed the company's controller in Haiti to write a check, which the employee then cashed and turned over to intermediaries to give to the Haitian customs officials. <br /><br />Kay authorized at least 12 such payments between February 1998 and September 1999.  They were concealed in the company's books and records as "cost of sales." Murphy was aware of the arrangement and did nothing to report or stop the payments.  Indeed, through Theriot, Murphy was considering alternative arrangements with Haitian customs officials. <br /><br />In addition to payments to customs officials, RCH, a company treated as a wholly-owned subsidiary of American Rice, made approximately USD 2,500 in payments to Haitian tax authorities in order to understate sales figures, avoid an audit of those figures, and to forgive back taxes.  Theriot assisted RCH in negotiating this arrangement.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Haitian Customs Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 500,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1.5 million in reduction of import taxes</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Haitian Tax Authorities</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 2,500</p>
+</td>
+<td>
+<p style="text-align: center;">Forgiveness of back taxes</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        American Rice filed for bankruptcy on 11 August 1998. On 1 October 1999, the company cancelled its existing classes of stock and issued new common stock to its creditors. In 1999, the company's new Board of Directors learned of the bribery scheme and voluntarily disclosed the conduct to the U.S. Securities and Exchange Commission (“SEC”) and the U.S. Department of Justice (“DOJ”). Both Murphy and Theriot were fired in late 1999. The company took disciplinary action against Kay, Schwartz and Sturdivant. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 July 2005, both Kay and Murphy were sentenced to prison for violating the FCPA. Kay was sentenced to 3 years and 1 month in prison and was ordered to pay USD 1,300 in criminal penalties. Murphy was sentenced to 5 years and 3 months in prison and was ordered to pay USD 1,400 in criminal penalties. <br /><br />In 2004, the U.S. Court of Appeals for the Fifth Circuit reversed a 2002 lower court ruling that had dismissed the charges against the defendants. The lower court had ruled that the FCPA did not prohibit bribes to foreign officials that were intended to reduce customs duties. The decision turned on language in the FCPA that prohibits bribes that are made for the purpose of "obtaining or retaining business for or with, or directing business to, any person." Based on this language, the lower court determined that the FCPA was only intended to prohibit bribes made to obtain specific foreign government contracts. The Fifth Circuit disagreed with the lower court's holding that as a matter of law, bribes to reduce foreign tax and customs obligations were not prohibited by the FCPA and concluded that such bribes could in certain circumstances violate the act. <br /><br />On 6 October 2004, a jury found defendant Murphy guilty of 12 counts of violating the FCPA, one count of a conspiracy to violate the FCPA and one count of obstruction of justice. Defendant Kay was found guilty of 12 counts of violating the FCPA and one count of a conspiracy to violate the FCPA. <br /><br />Kay and Murphy appealed their convictions based on arguments that the court retroactively enlarged the scope of the statute so that the defendants were not given fair notice that the conduct in which they engaged could be prosecuted under the FCPA. Part of their argument was that the statute was unconstitutionally vague as to the definition of "obtain or retain business." On 24 October 2007, the Fifth Circuit rejected the defendants' arguments, stating that while the term "obtain or retain business" was ambiguous it did not rise to the level of being unconstitutionally vague.  <br /><br />The Fifth Circuit denied Kay and Murphy's petition for a rehearing en banc on 10 January 2008, and the Supreme Court denied their petition for cert on 6 October 2008. Murphy is currently serving out his sentence at the Federal Correctional Institution in El Reno, Texas. Kay is serving his sentence at Texarkana.   <br /><br />On 1 August 2002, the SEC filed a civil action, requesting that the court permanently enjoin Kay, Murphy and Theriot from committing future violations of the anti-bribery, books and records and internal control provisions of the FCPA.  In addition, the SEC requested that Kay and Murphy each pay USD 187,000 civil penalty.  On 7 January 2005, Theriot consented to the entry of a final judgment without admitting or denying the allegations. The SEC's civil actions against Kay and Murphy are still pending. <br /><br />On 30 January 2003, American Rice, Joseph Schwartz, and Joel Malebranche Allen Sturdivant consented to the entry of a cease-and-desist order permanently enjoining them from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments made to foreign officials to receive an improper business advantage, such as reducing import taxes on goods, violate the FCPA. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=529">United States v. Kay et al, No. 05-20604 (5th Cir. Oct. 24, 2007)</a></p><p><a href="file.asp?id=530">United States v. Kay et al, No. 02-20588 (5th Cir. Feb. 4, 2004)</a></p><p><a href="file.asp?id=531">Cease-and-Desist Order: In the Matter of American Rice Inc., January 30, 2003</a></p><p><a href="file.asp?id=532">SEC Litigation Release: August 1, 2002 (SEC Sues Former Officers of American Rice Inc. for Authorizing Foreign Bribes)</a></p><p><a href="file.asp?id=533">Complaint: SEC v. Douglas A. Murphy, David G. Kay, and Lawrence H. Theriot</a></p><p><a href="file.asp?id=534">SEC Litigation Release: October 7, 2004 (Douglas Murphy and David Kay Found Guilty of Violating Foreign Corrupt Practices Act in Criminal Action Brought by Department of Justice) </a></p><p><a href="file.asp?id=535">SEC Litigation Release: January 7, 2005 (Lawrence H. Theriot Consents to Permanent Injunction and Payment of Civil Penalty for Aiding and Abetting Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=536">SEC Litigation Release: July 6, 2005 (Douglas Murphy and David Kay Receive Prison Sentences for Violating Foreign Corrupt Practices Act)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

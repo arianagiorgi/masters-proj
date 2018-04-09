@@ -1,0 +1,142 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192421yvh66">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19242189r3a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AREVA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(273)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192421659u2" width="415" height="61" /></div>
+    
+        <h1>AREVA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Mexico: Ministry of Public Administration<br />China: People's Procuratorate<br />Germany: Nuremberg-Fuerth Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Areva SA (majority state-owned French nuclear energy company) ("Areva")<br />Areva NP, German subsidiary of Areva, headquartered in Erlangen (it is also a subsidiary of the German company, Siemens)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Nuclear power production
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />China<br />Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Mexico<br /><br />According to a 2007 OECD report, in 2001 Mexican authorities brought civil charges against Areva for bribing two high-ranking Mexican officials in 1999 in order to win a tender.<br /><br />China<br /><br />Separately, in 2009 Chinese authorities began investigating whether China's top nuclear power official, Kang Rixin, the head of China National Nuclear Corp., accepted illegal payments of CYN 1.8 billion (USD 260 million) from Areva for the 2007 award of a nuclear power project contract in southern China's Guangdong Province. Weeks after the announcement that Areva had won the contract, Areva's then-marketing director Paul Felten had been detained and held by Chinese officials for nearly two months for questioning in connection with the corruption case linked to the Guangdong Nuclear Power Corp.  <br /><br />Germany<br /><br />On 6 April 2011, it was reported that the German offices of Areva SA were raided by Nuremberg prosecutors in connection with an investigation into five former and current Areva NP employees for possible overseas bribe payments -- estimated at millions of euros between 2002 and 2005.  Thirty-one homes and offices in Germany and the Czech Republic were raided in total, prosecutors said.  Three of the suspects are consultants who may have assisted Areva with alleged foreign bribery payments.  It is not clear in what countries the alleged payments were made. <br /><br />South Africa<br /><br />Media reports allege that Areva paid an inflated price for UraMin in order to favor persons connected with former South African president Thabo Mbeki and thereafter obtain the lucrative Nuclear 1 contract with South Africa.  In 2008 the tender was cancelled, and Mbeki left office.  Areva ended up losing a large sum on the purchase of UraMin. The French parliament investigated the deal in 2012, and found malfunctioning and poor governance but not fraud or outright corruption.  One report produced by a  private intelligence firm Alp Services, alleged that Hage Geingob, who was Namibia's first prime minister, "received $300000 for facilitating the sale of UraMin to Areva".
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Mexican Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified tender award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNY 1.8 billion</p>
+</td>
+<td>
+<p>Nuclear power plant contract</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+         In 2004, Mexico's Ministry of Public Administration fined Areva MXN 341,100 and barred the company from participating in public tender procedures for two years.(Alstom, another French company, was similarly charged and penalized in connection with the matter.) <br /><br />There is no further information regarding the possible investigation of Areva or Areva executives by the Chinese authorities following the reported detention of the company's marketing director, Paul Felten, in 2009.  It appears that the government focused on enforcement of the Chinese officials at issue.  On 19 November 2010, Kang Rixin was convicted on corruption charges in Beijing's First Intermediary Court and sentenced to life in prison.<br /><br />The German investigation is ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A possible sanction resulting from domestic bribery enforcement is disqualification from public tender in the host country.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=923">OECD Phase 2 Report - Mexico - 2007</a></p><p>Transparency International - 2008 Progress Report Questionnaire - Mexico</p><p>Taipei Times: "China's nuclear chief in US$260m bribery probe (8 Aug. 2009)</p><p>Xinhuanet: "	 Former head of China's nuclear giant sentenced to life in prison for corruption" (19 Nov. 2010)</p><p>Bloomberg: "Areva's German Offices Raided by Prosecutors in Bribery Probe" (6 April 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

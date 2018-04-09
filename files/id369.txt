@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925425hf0z">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192542oq1e8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TRI-STAR CARIBBEAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(369)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192542jh9w5" width="415" height="61" /></div>
+    
+        <h1>TRI-STAR CARIBBEAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Cuba: National Revolutionary Police Force<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tri-Star Caribbean Inc. ("Tri-Star Caribbean")<br />Sarkis Yacoubian (CEO of Tri-Star Caribbean)<br />Krikor Bayassalian (associate of Sarkis Yacoubian)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Canadian trading firm
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Ontario, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Cuba<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to a Reuters article from 16 September 2011, the Cuban police shut down Tri-Star Caribbean's offices in Havana in July 2011 and arrested CEO Sarkis Yacoubian amid allegations of corrupt import-export practices. A Miami Herald story from 23 May 2013 reported that Yacoubian's trial had begun and that he was indicted in April 2013 "on charges of bribery, tax evasion and 'activities damaging to the economy.'" According to the story in the Miami Herald, Yacoubian said during a phone interview that "he had no choice but to pay island officials to secure business contracts, and claimed to have blown the whistle on corruption involving Tri-Star and other companies." The story described other allegations by the prosecution: "Yacoubian or his employees bribed at least a dozen state officials with everything from nice dinners and prepaid phone cards to cash — $300 for a tip on a deal, $50,000 for a 2008 contract on earth movers."<br /><br />Reuters reported on 23 May 2013 that Yacoubian had confessed in a 2012 video to "passing packets of money to Cuban officials visiting Canada when he worked for the Tokmakjian Group, then continuing the same practice after he founded Tri-Star Caribbean." According to Reuters, Yacoubian's associate Krikor Bayassalian is a co-defendant in the proceedings.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Cuban Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The case appears to be part of a broad anti-corruption campaign by Cuban president Raul Castro. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Star reported on 13 June 2013 that Sarkis Yacoubian has been sentenced to nine years of prison. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Reuters: "Cuba shuts down second Canadian trading company" (16 September 2011)</p><p>Miami Herald: "Canada businessman's corruption trial on in Cuba" (23 May 2013)</p><p>Reuters: "Canadian businessman goes on trial in Cuban corruption crackdown" (23 May 2013)</p><p>Reuters: "Corruption trial of Canadian trader ends in Cuba, with verdict soon" (25 May 2013)</p><p>The Star: "Toronto man sentenced to 9 years in Cuba on corruption charges" (19 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921563m69c">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192156sg4t8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SAAB-BAE GRIPEN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(111)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192156ufyy2" width="415" height="61" /></div>
+    
+        <h1>SAAB-BAE GRIPEN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Sweden: Prosecution Authority, Anti-Corruption Unit<br />Czech Republic: Anti-Corruption Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Saab AB ("Saab")<br />BAE Systems ("BAE")<br />Saab-BAE Gripen AB (joint venture company established in 1995 by Saab and BAE to adapt, manufacture and market the Gripen internationally)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of JAS Gripen jetfighters to the Czech Republic, Hungary and South Africa
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stockholm, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Hungary<br />Czech Republic<br />South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2001 the Czech government signed a deal to buy 24 JAS Gripen jetfighters from the Swedish arms manufacturer Saab AB for approximately USD 3 billion.  A Swedish Television documentary in February 2007 alleged that the Czech deal was tained by bribery, secret contracts and more than USD 150 million in "commissions" to various agents.  A few months thereafter, another Swedish Television documentary revealed two other JAS Gripen business deals, in Hungary and South Africa, where there also was probable cause to believe that very large bribes had been paid to close the deals. <br /><br />The Swedish Prosecution Authority initiated an investigation to examine if the deals had contained bribes or if there were any other signs of corruption.  To ease the investigation, the inquiry was restricted to the middle of 1990s and the time thereafter.  Actions constituting bribery that took place prior  to July 1, 2004 were considered non-punishable.<br /><br />The (former) Swedish Chief Prosecutor commented on the inquiry, stating that the preliminary investigation had shown that BAE, using sophisticated payment arrangements, had hidden large payments that could be linked to the JAS Gripen campaign in the Czech Republic, Hungary and South Africa, and had made arrangements to make improper payments to the decision makers in these countries.  In an interview, the (former) Swedish Chief Prosecutor also stated that the actions should be perceived as very serious, both with regard to the systematic approach as well as to the amounts paid. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The conduct appears to have come to light through two Swedish Television documentaries. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Sweden<br /><br />The (former) Swedish Chief Prosecutor had to withdraw one of the preliminary investigations since it could not be established that any company representative had acted premeditatedly in connection with the alleged bribe payments.  The (former) Swedish Chief Prosecutor stated, when commenting on the decision, that Swedish law does not effectively cover these types of arrangements between intermediaries and consultants.  <br /><br />The Swedish investigation was criticized for having had very limited resources.  It was formally closed in June 2009 but, in May 2011, it was reported that a new investigation had been opened into an aspect of the deal with the South African government.  Swedish news channel TV4 reported that Sanip, a Saab subsidiary, entered into a consulting contract in 2003 with an adviser to the South African Minister of Defense at the time.  Sanip allegedly paid  50 million Swedish kronor (USD 7.9 million) in 19 installments between 2003 and 2005, through the adviser, to Ministry of Defense officials in order to prevent the termination of the Gripen deal entered into in 1999.  <br /><br />On May 20, 2011, Saab issued a press release stating that it was conducting an internal investigation into the matter but that so far there was no indication that Saab had any knowledge or involvement in any wrongdoing.  Saab stated: "At the time, Sanip was a wholly-owned subsidiary of Saab in South Africa whose operations were being run by BAE Systems plc. In 2004, the operations were formally transferred from Sanip to BAE and the company has been dormant since then."<br /><br />Czech Republic<br /><br />The Czech government opened an investigation into the Gripen fighter deal in 2002. The investigation was closed after the police determined that while the deal was most likely tainted with corruption, it could not find any evidence related to the individuals involved. The investigation was re-opened in 2007, but closed again in 2009 for the same reason. In March 2010, the Supreme State Attorney pushed for the police to re-open the investigation for a third time.  It is unclear for a time whether the investigation remained open. <br /><br />According to press reports on August 30, 2011, the Czech investigation remains open and recently received assistance from the SFO in the UK.  The SFO reportedly sent documents on August 8th related to the Czech attempt to buy the 24 JAS Gripen jet fighter planes.  The assistance was reportedly moved forward following Czech Prime Minister Petr Necas's decision to raise the issue with his British counterpart, David Cameron, when the latter visited Prague at the end of June.<br /><br />The Czech government has received information from the Polish and Austrian authorities but still awaits replies to its assistance requests to the US and Switzerland.<br /><br />Hungary<br /><br />In June 2007 the Hungarian government set up an investigative committee to look into the Gripen affair. The report was completed in November 2007 and was not made fully public. The committee did not investigate the questions of corruption or political responsibility, and said that these will be the task of a parliamentary committee to be formed later. This parliamentary committee, however, was never established.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Foreign and domestic bribery investigations alike may at times be subject to political pressures and/or may face procedural roadblocks.</li><li>Disclosures stemming from media reports and investigative journalism can be a source of government bribery investigations and prosecutions.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Local: "Prosecutor shuts down Gripen bribes probe" (16 June 2009)</p><p>Trade Signal Online: "Saab Looking At New Allegation Of Bribery In Fighter-Jet Deal" (18 May 2011)</p><p>The Local: "Saab to examine new JAS Gripen bribe report" (18 May 2011)</p><p>Saab Press Release: "Result of Saab's ongoing internal investigation regarding South African consultant contract" (20 May 2011)</p><p>CzechPosition.com: "Czechs hope for Gripen graft breakthrough from SFO" (30 Aug. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

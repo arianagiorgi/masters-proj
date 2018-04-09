@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192624592r1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192624con4d" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HUAWEI TECHNOLOGIES CO., LTD.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(417)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926246r8x1" width="415" height="61" /></div>
+    
+        <h1>HUAWEI TECHNOLOGIES CO., LTD.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Algeria:  Ministry of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Huawei Technologies Co., Ltd., a private company wholly owned by its employees<br />Huawei Enterprises<br />Huawei Algérie<br />Algérie Télécom, the state-owned telecommunications company<br />Mohamed Boukhari, former CEO of Algérie Télécom<br />El Hachemi Belhamdi, CEO of Algérie Télécom from August 2011 to March 2012<br />Mejdoub Chani, also Chami Majdjoub, an Algerian-Luxembourg businessman<br />ZTE, a Chinese telecommunications company<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications equipment and services, including Mobile and fixed broadband networks, consultancy and managed services, multimedia technology, smartphones, tablet computers
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Shenzhen, Guangdong, China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Algeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Algeria<br /><br />Huawei began operating in Algeria in 1999.  ZTE Algeria established its own office there in 2002.  As a result of an investigation in Luxembourg into corruption in connection with the construction of a highway in Algeria, it was discovered that Mejdoub Chani, an Algerian businessman, had opened offshore bank accounts which were used by Huawei and ZTE, another Chinese telecommunications company, to make corrupt payments to an advisor of the CEO of Algérie Télécom, Mohamed Boukhari, in compensation for services rendered.   The two Chinese companies are alleged to have paid over US 10 million into offshore accounts in Luxembourg and the British Virgin Islands in order to obtain the telecommunications contracts. <br /><br />On 6 June 2012,  employees of both Huawei and ZTE were convicted of bribery related to telephone company contracts in Algeria between 2003 and 2006.  The men, Xiao Chunfa of Huawei and Chen Zhibao and Dong Tao of ZTE, were sentenced in absentia to ten years in prison, and fined USD 65,000.  The companies were also fined, and barred from entering into partnerships with state-owned companies in Algeria for a period of two years.  <br /><br />Mohamed Boukhari, a former senior official with Algérie Télécom, and Chami Madjdoub, a businessman who also holds Luxembourg citizenship, were found guilty of money-laundering and mismanagement and received sentences of 18 years, along with a fine of USD 111,660, plus confiscation of any goods or wealth acquired during the period in question.<br /><br />Uganda<br /><br />In 2011, Huawei participated in a tender to lay fiber-optic cable in Uganda. The USD 106 million project was supposed to be funded by a loan from the EXIM Bank of China, but the project was frozen pending the investigation of allegations of inflated costs and the use of substandard equipment.   In April 2012, President Yoweri Museveni ordered an investigation into various aspects of the optic fiber cable deal with Huawei.  in a letter to Prime Minister Amama Mbabazi, Museveni claimed that inferior cable was used, Uganda's capacity requirements were not heeded, and Huawei charged exorbitant and unreasonable prices.  It was suspected that there were plans to steal some of the contract money by inflating the costs.<br /><br />Zambia<br /><br />A contract was entered into between the government of Zambia, Huawei, and ZTE, another Chinese telecommunications company, to migrate Zambian networks from analogue to digital broadcasting.  In May 2012, the Zambian Minister of Information and Broadcasting, Fackson Shamenda, led a delegation of government officials to visit Huawei and ZTE  in China, which was paid for twice over, by both the Zambian government and the two Chinese companies. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A corruption investigation in Luxembourg related to the construction of a highway connecting the eastern and western portions of Algeria revealed that Majdoub Chani, a local business involved in the highway construction scandal, had opened offshore bank accounts into which the Chinese businesses deposited their commissions. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Conviction in absentia of three Chinese telecommunications employees; conviction and sentencing to 18 years in prison, plus fine and restitution, of Mohamed Boukhari, a former senior official with Algérie Télécom, and Chami Madjdoub, a businessman who also holds Luxembourg citizenship.  Both companies, Huawei and ZTE, have been debarred from bidding on public contracts in Algeria for two years.<br /><br />International warrants were issued for the arrest of the three Chinese employees.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

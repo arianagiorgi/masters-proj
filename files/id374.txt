@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19254721ta0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192547ol1v5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HALLIBURTON (ANGOLA, IRAQ)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(374)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192547itc8o" width="415" height="61" /></div>
+    
+        <h1>HALLIBURTON (ANGOLA, IRAQ)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Halliburton Company ("Halliburton")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oilfield services and products for upstream oil and gas customers worldwide
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning with SEC filings of October 2011, Halliburton described internal investigations and enforcement agency investigations into its activities in Angola, and, by June 2012, Iraq. The Company's SEC Form 10-Q filed on 21 October 2011 says:<br /><br />"Angola Investigations:  We are conducting an internal investigation of certain areas of our operations in Angola, focusing on compliance with certain company policies, including our Code of Business Conduct (COBC), and the FCPA and other applicable laws. In December 2010, we received an anonymous email alleging that certain current and former personnel violated our COBC and the FCPA, principally through the use of an Angolan vendor. The email also alleges conflicts of interest, self-dealing and the failure to act on alleged violations of our COBC and the FCPA. We contacted the DOJ to advise them that we were initiating an internal investigation with the assistance of outside counsel and independent forensic accountants. During the third quarter of 2011, we met with the DOJ and the SEC to brief them on the status of our investigation and provided them documents. We expect to continue to have discussions with the DOJ and the SEC, and we intend to continue to cooperate with their inquiries and requests as they investigate this matter. Because these investigations are at an early stage, we cannot predict their outcome or the consequences thereof."<br /><br />In the Company's 10-K filed with the SEC on 16 February 2012 covering the year ending on 31 December 2011, a similar statement was made, with the addition that "During the third quarter of 2011, we met with the DOJ and the SEC to brief them on the status of our investigation and provided them documents. We are currently responding to a subpoena from the SEC regarding this matter and are producing all relevant documents. We understand that one of our employees has also received a subpoena from the SEC regarding this matter."<br /><br />In the Company's form 10-Q filed on 30 June 2012, the Company noted that its activities in Iraq were also under investigation, and also informed investors that an internal investigation employing outside counsel was underway:  <br /><br />"During the second quarter of 2012, in connection with a meeting with the DOJ and the SEC regarding the above investigation, we advised the DOJ and the SEC that we were initiating unrelated, internal investigations into payments made to a third-party agent relating to certain customs matters in Angola and to third-party agents relating to certain customs and visa matters in Iraq. <br /><br />"We expect to continue to have discussions with the DOJ and the SEC regarding the Angola and Iraq matters described above and have indicated that we would further update them as our investigations progress. We have engaged outside counsel and independent forensic accountants to assist us with the investigations. We intend to continue to cooperate with the DOJ's and the SEC's inquiries and requests in these investigations. Because these investigations are ongoing, we cannot predict their outcome or the consequences thereof."<br /><br />This statement is repeated in the Company's SEC Form 10-Q filed on 23 October 2012.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: right;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Angolan Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1621">Halliburton - SEC Form 10-Q (21 Oct. 2011)</a></p><p><a href="file.asp?id=1736">Halliburton (Angola) - SEC Form 10-K (31 December 2011)</a></p><p><a href="file.asp?id=1899">Halliburton (Angola) - SEC Form 10-Q (30 June 2012)</a></p><p><a href="file.asp?id=2018">Halliburton - SEC Form 10-Q (23 October 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

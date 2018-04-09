@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192458o8426">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192458ttg2l" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BJ SERVICES (ASIA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(317)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192458c3eej" width="415" height="61" /></div>
+    
+        <h1>BJ SERVICES (ASIA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BJ Services Company ("BJ Services")<br />Baker Hughes Inc. (acquired BJ Services in April 2010)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of fracturing services and technologies to oil and gas operators
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        BJ Services described the ongoing investigation as follows in its SEC Form 10-Q filed on 9 February 2010:<br /><br />"Investigations Regarding Misappropriation and Possible Illegal Payments <br /><br />"In October 2004, we received a report from a whistleblower alleging that our Asia Pacific Region Controller had misappropriated Company funds and that illegal payments had been made to government officials in that region. Management and the Audit Committee of the Board of Directors conducted investigations of these allegations, as well as questions that later arose whether illegal payments had been made elsewhere. As a result of the theft investigation, the Region Controller admitted to multiple misappropriations and returned certain amounts to the Company. His employment was terminated in 2004. <br /><br />"In addition, the Audit Committee's investigation found information indicating a significant likelihood that payments, made by us to an entity in the Asia Pacific Region with which we have a contractual relationship, were then used to make payments to government officials in the region. The information also indicated that certain of our employees in the region believed that the payments by us would be used in that way. The payments, which may have been illegal, aggregated approximately $2.9 million and were made over a period of several years. The investigation also identified certain other payments as to which the legitimacy of the transactions reflected in the underlying documents could not be established or as to which questions about the adequacy of the underlying documents could not be resolved. We have voluntarily disclosed information found in the investigations to the U.S. Department of Justice ('DOJ') and the SEC and have engaged in discussions with these authorities in connection with their review of the matter. We cannot predict whether further investigative efforts may be required or initiated by the authorities. <br /><br />"In May 2007, the former Region Controller pled guilty to one count of theft in Singapore. In June 2007, we filed a civil lawsuit against him seeking to recover any additional misappropriated funds and seeking an accounting of disbursements that could not be explained following the investigation. In July 2008, we reached a settlement of this litigation with the Region Controller and he made a payment to us. <br /><br />"The DOJ, the SEC and other authorities have a broad range of civil and criminal sanctions under the U.S. Foreign Corrupt Practices Act ('FCPA') and other laws, which they may seek to impose in appropriate circumstances. Recent civil and criminal settlements with a number of public corporations and individuals have included multi-million dollar fines, disgorgement, injunctive relief, guilty pleas, deferred prosecution agreements and other sanctions, including requirements that corporations retain a monitor to oversee compliance with the FCPA. We cannot predict what, if any, actions may be taken by the DOJ, the SEC or other authorities or the effect the foregoing may have on our consolidated financial statements."<br /><br />Baker Hughes provided the following in its SEC Form 10-K-A filed on 4 March 2011:<br /><br />"Prior to the merger, BJ Services voluntarily disclosed information found in its internal investigations to the Department of Justice ('DOJ') and SEC and engaged in discussions with these authorities in connection with their review of possible illegal payments. The Company cannot currently predict the outcome of these investigations, when any of these matters will be resolved, or what, if any, actions may be taken by the DOJ, the SEC or other authorities or the effect the actions may have on the business or consolidated financial statements of the Company. If the DOJ or SEC were to take action for failure to comply with the FCPA, it could significantly affect our results of operations."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 2.9 million</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation appears to be ongoing.  BJ Services was acquired by Baker Hughes Inc. in March 2010.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1283">BJ Services - SEC Form 10-Q (Feb. 9, 2010)</a></p><p><a href="file.asp?id=1392">Baker Hughes - SEC Form 10-K-A (4 Mar. 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192352o829p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923521y4uv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SMITH & NEPHEW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(239)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192352c0b7n" width="415" height="61" /></div>
+    
+        <h1>SMITH & NEPHEW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Smith & Nephew plc ("Smith & Nephew" or S&N plc)<br />Smith & Nephew, Inc. (S&N Inc), a subsidiary of S&N plc incorporated in Delaware, headquartered in Memphis, Tennessee<br />Smith & Nephew GmbH (S&N GmbH), a subsidiary of S&N plc headquartered in Tuttlingen, Germany
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical device company focusing on orthopedics, wound care and endoscopy
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Greece<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The investigation was first made public by Smith & Nephew, when the company described the ongoing investigation in general terms in its SEC Form 20-F filed on 3 March 2011.  <br /><br />Then, in a civil complaint filed on 6 February 2012 in the U.S. District Court for the District of Columbia (U.S. Securities and Exchange Commission v. Smith & Nephew plc), the following allegations are made:<br /><br />In 1997 and 1998, S&N Inc. and S&N GmbH entered into agreements with a Greek distributor.  The Greek distributor would purchase S&N orthopedic products at the full, rather than the discounted, price.   S&N Inc. and S&N GmbH would then use a portion of the sales price to pay two shell companies set up in the UK by the Greek distributor.  These payments were listed in the companies' records as marketing expenses, but in fact were used by the Greek distributor to pay bribes to doctors in Greece as incentives to purchase the S&N products, with the knowledge of executives at S&N Inc. and S&N GmbH.  The complaint also states that doctors in Greece are foreign officials within the meaning of the FCPA, as they are public employees within Greece's national healthcare system.    <br /><br />The complaint requests a permanent injunction to restrain S&N plc from violating the law, and disgorgement of the benefits gained by illegally inducing doctors to purchase S&N products.<br /><br />A criminal information filed on 6 February 2012 in connection with the deferred prosecution agreement described below makes the same factual allegations.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Greek Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">A significant portion of the USD 9.4 million total that was paid to the shell companies</td>
+<td style="text-align: center;">Sales of medical products in Greece<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 February 2012, a settlement was reached with the SEC whereby S&N agreed to pay USD 5.4 million as disgorgement of profits.<br /><br />S&N Inc. entered into a deferred prosecution agreement with the DOJ on 6 February 2012, requiring the payment of a USD 16.8 million penalty, and implementation of rigorous internal controls, continued cooperation with the DOJ, and the retention of a compliance monitor for a period of 18 months.<br /><br />The DOJ noted its satisfaction with the company's cooperation in the investigation, and it expressed its acknowledgment for the assistance of the 8th Ordinary Interrogation Department of the Athens Court of First Instance and the Athens Economic Crime Squad in Greece.
+		<h2>COMPLIANCE MONITOR</h2>
+        Eighteen months
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Cooperation, remediation and voluntary disclosure resulted in a 20% reduction of the fine.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=856">Smith & Nephew - 2009 Annual Report (18 March 2010)</a></p><p><a href="file.asp?id=1411">Smith & Nephew - SEC Form 20-F (3 March 2011)</a></p><p><a href="file.asp?id=1686">Smith & Nephew - SEC Complaint (6 February 2012)</a></p><p><a href="file.asp?id=1687">Smith & Nephew - DOJ Press Release (6 February 2012)</a></p><p><a href="file.asp?id=1688">Smith & Nephew - SEC Press Release 2012-25 (6 February 2012)</a></p><p><a href="file.asp?id=1689">Smith & Nephew - Criminal Information (6 February 2012)</a></p><p><a href="file.asp?id=1756">Smith & Nephew - Deferred Prosecution Agreement (15 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

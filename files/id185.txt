@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19230213vpe">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192302tmv06" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BEARINGPOINT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(185)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192302cxqz8" width="415" height="61" /></div>
+    
+        <h1>BEARINGPOINT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BearingPoint, Inc. ("BearingPoint")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Management consulting and systems integration firm
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Dallas, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        BearingPoint described the ongoing investigation as follows in a 2008 SEC Form 10-K:<br /><br />"On April 13, 2005, pursuant to the same matter number as its inquiry concerning our restatement of certain financial statements issued in 2003, the staff of the SEC's Division of Enforcement requested information and documents relating to our March 18, 2005 Form 8-K. On September 7, 2005, we announced that the staff had issued a formal order of investigation in this matter. We subsequently have received subpoenas from the staff seeking production of documents and information, including certain information and documents related to an investigation conducted by our Audit Committee. We continue to provide information and documents to the SEC as requested. The investigation is ongoing and the SEC is in the process of taking the testimony of a number of our current and former employees, as well as one of our former directors.<br /><br />"In connection with the investigation by our Audit Committee, we became aware of incidents of possible non-compliance with the Foreign Corrupt Practices Act and our internal controls in connection with certain of our operations in China and voluntarily reported these matters to the SEC and U.S. Department of Justice in November 2005. Both the SEC and the Department of Justice are investigating these matters in connection with the formal investigation described above. On March 27, 2006, we received a subpoena from the SEC regarding information related to these matters and has responded to their requests through the summer of 2006. We have not received any further requests since that time."<br /><br />BearingPoint described their bankruptcy proceedings as follows in a 2008 SEC Form 10-K:<br /><br />"On February 18, 2009, the Debtors filed voluntary petitions for relief under Chapter 11 of the Bankruptcy Code in the United States Bankruptcy Court for the Southern District of New York, as discussed in Item 1—'Business'. Under the Bankruptcy Code, the filing of a petition automatically stays most actions against the Company, including most actions to collect pre-petition indebtedness or to exercise control over the property of our bankruptcy estates. Absent further order of the Bankruptcy Court, no party, subject to certain exceptions, may take any action, also subject to certain exceptions, to recover on pre-petition claims against the Debtors. We expect substantially all of our pre-petition liabilities will be resolved under our plan of reorganization if not otherwise satisfied pursuant to orders of the Bankruptcy Court.<br /><br />"At this time, it is not possible to predict the outcome of the Chapter 11 Cases or their effect on our business or certain claims and investigations being conducted by agencies or officers of the U.S. Federal government and arising in connection with our provision of services under contracts with agencies of the U.S. Federal government. Prior to the closing of the Deloitte Transaction, a significant portion of our business related to providing services under contracts with the U.S. Federal government or state and local governments, inclusive of government sponsored enterprises. These contracts are subject to extensive legal and regulatory requirements and, from time to time, agencies of the U.S. Federal government or state and local governments investigate whether our operations have been or are being conducted in accordance with these requirements and the terms of the relevant contracts. In the ordinary course of business, various government investigations are ongoing."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The company declared bankruptcy, and reorganized in December 2009.  In May 2009, the company's Japanese unit had been sold to PricewaterhouseCoopers, one or two business units in North America had been acquired by Deloitte.  The Brazil unit was absorbed into CSC, and the China unit went to Perot Systems.  The name BearingPoint survives in the Australian entity. <br /><br />It is not known whether the FCPA investigation has survived the existence of the company. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=795">BearingPoint - SEC Form 10-K (2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

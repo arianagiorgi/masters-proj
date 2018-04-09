@@ -1,0 +1,167 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922485914y">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19224866c7i" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - UTSTARCOM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(170)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922483n7ij" width="415" height="61" /></div>
+    
+        <h1>UTSTARCOM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        UTStarcom, Inc. ("UTSI")<br />UTStarcom China Co. Ltd. ("UTS-China," UTSI's wholly-owned Chinese subsidiary)  
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design, manufacture and sale of telecommunications network equipment and handsets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Alameda, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Thailand<br />Mongolia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC charged UTStarcom, Inc. ("UTSI") with violating the FCPA in connection with approximately 225 overseas trips provided to employees of Chinese government-controlled telecommunications companies that were customers of UTSI.  The trips, which took place between 2002 and 2007 and cost nearly USD 7 million, were arranged and paid for by employees and travel agents of UTSI's wholly-owned subsidiary in China ("UTS-China") and included popular tourist destinations in the United States, such as Hawaii, Las Vegas and New York City.  The trips were purportedly for the purpose of providing customer training but, in fact, were primarily or entirely for sightseeing purposes.  UTSI had no facilities in the locations at issue and conducted no training.  UTS-China falsely recorded the trips as "training" expenses under its various network systems contracts, while the true purpose behind the trips was to secure and retain telecommunications contracts from the various municipal and provincial telecommunications customers.  China was UTSI's largest sales market for much of the past decade and a half.<br /><br />The SEC also alleged that, during the same period, UTSI provided additional improper gifts and benefits to other foreign government customers.  On at least seven occasions between 2002 and 2004, USTI allegedly covered the cost for Chinese officials to attend executive training programs at U.S. universities.  UTSI paid for all expenses associated with the programs, which covered general management topics and were not specifically related to UTSI's business or products.  Such expenses, which totaled more than USD 4 million from 2002 to 2004, included travel, tuition, room and board, field trips to nearby tourist attractions and a cash allowance of between USD 800 and USD 3,000 per person.  UTSI recorded the expenses as marketing expenses.<br /><br />The SEC also alleged that, on at least ten occasions between 2001 and 2005, UTSI offered or provided full-time employment with the company in the United States. to employees of government customers or their family members in China and Thailand, in order to obtain or retain business from the customers.  USTI paid salaries and benefits to at least three of these individuals for a two-year period, creating fictitious personnel records to document their purported employment and sponsoring the individuals for permanent U.S. residency.<br /><br />According to the SEC's complaint, UTSI also paid USD 23,000 in gifts and entertainment expenses for a government customer in Thailand in 2004, made USD 1.5 million in questionable payments to a consultant in Mongolia in 2005 and made USD 200,000 in questionable payments to a consultant in China in 2007.   
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate&nbsp;Value of Improper Travel Provided&nbsp;to Chinese Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Nearly USD 7 million</td>
+<td style="text-align: center;">
+<p>Telecommunications contracts of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate&nbsp;Value of Other Improper&nbsp;Benefits Provided&nbsp;to Chinese Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 4 million in executive training program expenses</td>
+<td style="text-align: center;">Telecommunications contracts of unspecified value</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate&nbsp;Value of&nbsp;Fictitious Employment-Related Benefits&nbsp;to Chinese and Thai Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Two years worth of salaries, benefits and permanent U.S. residency sponsorships for at least three individuals</td>
+<td style="text-align: center;">Telecommunications contracts of unspecified value</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate&nbsp;Value of&nbsp;Gifts and Entertainment Provided to&nbsp;a Thai Official</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 23,000</td>
+<td style="text-align: center;">Telecommunications contracts of unspecified value</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate&nbsp;Questionable Payments to a Consultant in Mongolia</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 1.5 million</td>
+<td style="text-align: center;">Telecommunications contracts of unspecified value</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        UTSI's audit committee learned about possible improper payments in Mongolia in 2006, after which it conducted a worldwide internal investigation and UTSI self-disclosed the potential violations to the DOJ and SEC.  As a result of its internal investigation, UTSI undertook a variety of measures to strengthen and improve its anti-bribery compliance program and internal controls.  The company also ended its relationship with UTSI's former Executive Vice President and CEO of UTS-China, who resides in China, in 2007.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 December 2009, UTSI entered into a non-prosecution agreement with the DOJ under which the company acknowledged responsibility for the conduct of UTS-China's employees and agents and agreed to pay a USD 1.5 million penalty, implement rigorous internal controls and cooperate fully with the DOJ.<br /><br />Also on 31 December 2009, without admitting or denying the SEC's allegations, UTSI consented to the entry of a permanent injunction against future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  UTSI also agreed to pay a USD 1.5 million civil penalty and to provide the SEC with annual FCPA compliance reports and certifications for four years.<br /><br />Previously, on 1 May 2008, in a prior action involving multiple accounting irregularities unrelated to the FCPA, the SEC issued an order finding that UTSI and certain UTSI executives violated the corporate reporting, books and records and internal controls provisions of the federal securities laws between 2000 and 2005. Without admitting or denying the findings, UTSI agreed to cease and desist from committing such violations.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In addition to injunctions, civil penalties and other enforcement dispositions, the SEC may also require a company to provide annual FCPA compliance reports and certifications for a period of time.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=654">DOJ Press Release: "UTStarcom Inc. Agrees to Pay $1.5 Million Penalty for Acts of Foreign Bribery in China" (31 December 2009)</a></p><p><a href="file.asp?id=655">SEC Litigation Release: "SEC Charges California Telecom Company With Bribery and Other FCPA Violations" (31 December 2009)</a></p><p><a href="file.asp?id=656">Compliant: SEC v. UTStarcom, Inc. (31 December 2009)</a></p><p><a href="file.asp?id=661">UTStarcom Non-Prosecution Agreement (31 December 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843131559o">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184313m4jvd" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CRAWFORD ENTERPRISES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(82)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184313398o3" width="415" height="61" /></div>
+    
+        <h1>CRAWFORD ENTERPRISES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Crawford Enterprises, Inc. ("CEI")<br />Donald G. Crawford (Chairman of the Board, sole shareholder and President of CEI)<br />William E. Hall (President of CEI)<br /><br />Grupo Industrial Delta, S.A. (Grupo Delta)<br />Ricardo Garcia Beltran (President and majority shareholder of Grupo Delta)<br />Mario S. Gonzalez (assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials)<br />Andres I. Garcia (assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials)<br /><br />International Harvester Company (International Harvester)<br />Solar Turbines International (a division of International Harvester) (Solar)<br />George S. McLean (Vice President of Solar)<br />Luis A. Uriarte (Latin American Regional Manager of Solar)<br /><br />Ruston Gas Turbines, Inc. ("Ruston")<br />Al Lee Eyster (President of Ruston)<br />James R. Smith (Vice President of Ruston)<br /><br />C.E. Miller Corporation ("Cemco")<br />Charles E. Miller (President, majority shareholder and Chairman of the Board of Cemco)<br />Marquis D. King (Executive Vice President and member of Board of Directors of Cemco)<br /><br />Applied Process Products Overseas, Inc. ("Applied")<br />Crawford International, Inc. ("CII")<br />Gary D. Bateman (Chairman, President and sole shareholder of Applied; International Sales Manager of CEI; Vice President of Marketing of CII)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of gas compression equipment systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately December 1977 until May 1980, CEI and its subcontractors Solar, Ruston and Cemco paid two Petroleos Mexicanos ("Pemex") officials bribes equaling approximately 4.5% of each Pemex purchase order for compression equipment systems.  The purpose of the bribes was to obtain purchase orders from Pemex, the state-owned oil company of Mexico, for turbine compression systems and related equipment and to obtain the money from Pemex to fund the bribe payments.  <br /><br />The term "folks" was used as a code word for the Pemex officials in order to conceal their true identities.  Jesus Chavarria was the Pemex official responsible for the exploration and production of Mexican oil and natural gas; the other Pemex official, Ignacio DeLeon Martinez, was responsible for the purchase of goods and equipment. <br /><br />In order to create a pool of money with which to pay the bribes, CEI, Solar, Ruston and Cemco submitted to Pemex bids which were inflated to include a 4.5% markup for the folks.  In order to create a faade of competitiveness, CEI, Solar, Ruston and Cemco permitted Crawford and Hall to calculate all final bid prices and submitted only these prearranged bids to Pemex.<br /><br />Grupo Delta held itself out as the Mexican agent of CEI while, in fact, the entity primarily acted as the conduit for the bribe payments.  Grupo Delta disguised the payments as commissions by providing fictitious invoices to CEI for each payment.   It also provided Gonzalez and Garcia with a base of operations from which they operated as middlemen.<br /><br />CEI, Solar, Ruston and Cemco received purchase orders from Pemex for compression equipment systems in the total amount of USD 225,429,592.80.  They transmitted approximately USD 9,960,432.40 in bribe money to Grupo Delta and Beltran for payment to Pemex officials.<br /><br />Separately in March 1979, Bateman, now representing Applied, had a meeting with Guillermo Cervera, administrative secretary to the Chief of Purchasing for Pemex.  Bateman offered to pay 30% of Applied's gross profit from Pemex contracts to Cervera in exchange for assistance in obtaining contracts for compression-related equipment and spare parts.  Cervera agreed and indicated that the money would be split with other Pemex officials from the departments that approved the purchase orders issued to Applied.  Between October 1979 and March 1981, Applied obtained approximately USD 5 million in purchase orders from Pemex as a result of this agreement with Cervera.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Pemex by CEI, Solar, Ruston and Cemco</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 9,960,432.40</p>
+</td>
+<td>
+<p style="text-align: center;">USD 225,429,592.80 in purchase orders secured</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Pemex by Bateman/Applied</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 342,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 5,000,000 in purchase orders secured</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, CEI's involvement was discovered in court papers filed in a civil case by Grupo Delta.  The suit charged that Crawford did not pay Grupo Delta the 7% agreed broker's fee on all Mexican sales. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        CEI, Crawford, Hall, Garcia, Eyster, Smith, Beltran, Gonzalez, McLean, and Uriarte were charged with conspiracy and multiple counts of the anti-bribery provisions of the FCPA.  CEI pleaded no contest, was found guilty and was ordered to pay a fine in the amount of USD 3,460,000.<br /><br />Crawford, the President and owner of CEI, pleaded no contest, was found guilty and was fined USD 309,999.  Hall, the Executive Vice President of CEI, pleaded no contest, was found guilty and was ordered to pay a fine in the amount of USD 150,000.  Garcia, who assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials, pleaded no contest, was found guilty and was fined USD 75,000.  Eyster and Smith, the president and vice president of Ruston respectively, pleaded no contest, were found guilty and were each ordered to pay a fine in the amount of USD 5,000.  Beltran, the President and majority shareholder of Grupo Delta, and Gonzalez, who assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials, appear to be fugitives.  <br /><br />The substantive charges against McLean, Vice President of Solar, and Uriarte, Regional Manager of Solar, were dismissed.  The court stated that under the FCPA an employee may not be convicted of a criminal offense for acts committed for the benefit of the employer unless the employer is also convicted.  [This provision, known as the Eckhardt Amendment, was removed by the 1988 Trade Act.]   McLean's and Uriarte's employer, International Harvester, pleaded guilty to conspiracy violation of the FCPA, but not to a substantive violation of the FCPA.  The company paid a USD 10,000 fine and USD 40,000 of prosecution costs.  McLean was acquitted of conspiracy.  Uriarte pleaded guilty and was sentenced to one year, suspended and placed on unsupervised probation. <br /><br />McLean filed suit to have his name expunged from the court records.  The court refused this request.  He later filed suit against International Harvester claiming that his civil rights had been violated and that the company had made him a scapegoat.  All charges were dismissed.  The appeals court ordered International Harvester to pay McLean's legal expenses. <br /><br />In 1982 Solar entered into a plea agreement, agreed to pay civil reimbursements of USD 40,000 and was fined USD 10,000.<br /><br />Ruston pleaded guilty to one count of a FCPA bribery violation and was fined USD 750,000.  <br /><br />Cemco pleaded guilty to one count of a FCPA bribery violation and was fined in the amount of USD 20,000.  Miller pleaded guilty to one bribery count and was placed on probation for three years and ordered to perform 500 hours of community service.<br /><br />King, the Executive Vice President and member of the Board of Directors of Cemco, entered into a cooperation agreement and was charged with violations of the Currency and Foreign Transactions Reporting Act.  He was placed on probation for 14 months and paid a civil reimbursement for prosecution costs in the amount of USD 5,000.<br /><br />In 1981, the DOJ entered into a cooperation agreement with Applied. Under the agreement, Applied pleaded guilty to bribing a foreign official, a felony violation of the FCPA.  The company consented to a permanent injunction prohibiting future violations and was ordered to pay a fine in the amount of USD 5,000.  <br /><br />In 1983, the DOJ entered into a cooperation agreement with Bateman, who pleaded guilty to misdemeanor violations of the Currency and Foreign Transactions Reporting Act and consented to a permanent injunction prohibiting future violations.  He was sentenced to probation for three years.  He received a civil penalty in the amount of USD 229,512.  Bateman was ordered to pay a civil tax payment to the Internal Revenue Service in the amount of USD 300,000.  He also paid USD 5,000 for costs related to his prosecution.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will investigate and prosecute both corporate entities and individual owners and employees involved in conduct violating the FCPA; however, prior to 1988, employees could not be found liable for violations of the anti-bribery provisions unless the employer itself had been found liable.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=109">Indictment: United States v. Crawford Enterprises, Inc., Donald G. Crawford, William E. Hall, Mario S. Gonzalez, Ricardo G. Beltran, Andres I. Garcia, George S. McLean, Luis A. Uriarte, Al L. Eyster and James R. Smith</a></p><p><a href="file.asp?id=110">Memorandum and Order: U.S. v. Crawford Enterprises, et al.</a></p><p><a href="file.asp?id=111">Criminal Information: United States v. International Harvester Co.</a></p><p><a href="file.asp?id=112">Appellate Opinion: United States v. International Harvester Co. v. George S. McLean</a></p><p><a href="file.asp?id=391">Judgments and Orders: U.S. v. Crawford Enterprises, et al.</a></p><p><a href="file.asp?id=392">Judgment and Order: United States v. International Harvester Co.</a></p><p><a href="file.asp?id=393">Appellate Opinion:  George S. McLean v. International Harvester</a></p><p><a href="file.asp?id=394">Criminal Information: United States v. Ruston Gas Turbines, Inc.</a></p><p><a href="file.asp?id=395">Judgment and Order: United States v. Ruston Gas Turbines, Inc.</a></p><p><a href="file.asp?id=396">Criminal Information, Offer of Proof, Cooperation Agreement, Judgment and Order: United States v. Marquis D. King</a></p><p><a href="file.asp?id=397">Memorandum in Aid of Sentencing: United States v. Marquis D. King</a></p><p><a href="file.asp?id=398">Criminal Information: United States v. C.E. Miller Corporation and Charles E. Miller</a></p><p><a href="file.asp?id=399">Judgment and Order: United States v. C.E. Miller Corporation and Charles E. Miller</a></p><p><a href="file.asp?id=400">Criminal Information: United States v. Gary D. Bateman</a></p><p><a href="file.asp?id=401">Cooperation Agreement: United States v. Gary D. Bateman</a></p><p><a href="file.asp?id=402">Criminal Information: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=403">Offer of Proof: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=404">Cooperation Agreement: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=405">Judgment and Order: United States v. Applied Process Products Overseas, Inc.</a></p><p>New York Times: May 5, 1982 (U.S. Jury Investigating Payments to Mexicans)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19213037at9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921301z6fm" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CRAWFORD ENTERPRISES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(82)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192130l2yy5" width="415" height="61" /></div>
+    
+        <h1>CRAWFORD ENTERPRISES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Crawford Enterprises, Inc. ("CEI")<br />Donald G. Crawford (Chairman of the Board, sole shareholder and President of CEI)<br />William E. Hall (President of CEI)<br /><br />Grupo Industrial Delta, S.A. (Grupo Delta)<br />Ricardo Garcia Beltran (President and majority shareholder of Grupo Delta)<br />Mario S. Gonzalez (assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials)<br />Andres I. Garcia (assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials)<br /><br />International Harvester Company (International Harvester)<br />Solar Turbines International (a division of International Harvester) (Solar)<br />George S. McLean (Vice President of Solar)<br />Luis A. Uriarte (Latin American Regional Manager of Solar)<br /><br />Ruston Gas Turbines, Inc. ("Ruston")<br />Al Lee Eyster (President of Ruston)<br />James R. Smith (Vice President of Ruston)<br /><br />C.E. Miller Corporation ("Cemco")<br />Charles E. Miller (President, majority shareholder and Chairman of the Board of Cemco)<br />Marquis D. King (Executive Vice President and member of Board of Directors of Cemco)<br /><br />Applied Process Products Overseas, Inc. ("Applied")<br />Crawford International, Inc. ("CII")<br />Gary D. Bateman (Chairman, President and sole shareholder of Applied; International Sales Manager of CEI; Vice President of Marketing of CII)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of gas compression equipment systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately December 1977 until May 1980, CEI and its subcontractors Solar, Ruston and Cemco paid two Petroleos Mexicanos ("Pemex") officials bribes equaling approximately 4.5% of each Pemex purchase order for compression equipment systems.  The purpose of the bribes was to obtain purchase orders from Pemex, the state-owned oil company of Mexico, for turbine compression systems and related equipment and to obtain the money from Pemex to fund the bribe payments.  <br /><br />The term "folks" was used as a code word for the Pemex officials in order to conceal their true identities.  Jesus Chavarria was the Pemex official responsible for the exploration and production of Mexican oil and natural gas; the other Pemex official, Ignacio DeLeon Martinez, was responsible for the purchase of goods and equipment. <br /><br />In order to create a pool of money with which to pay the bribes, CEI, Solar, Ruston and Cemco submitted to Pemex bids which were inflated to include a 4.5% markup for the folks.  In order to create a faade of competitiveness, CEI, Solar, Ruston and Cemco permitted Crawford and Hall to calculate all final bid prices and submitted only these prearranged bids to Pemex.<br /><br />Grupo Delta held itself out as the Mexican agent of CEI while, in fact, the entity primarily acted as the conduit for the bribe payments.  Grupo Delta disguised the payments as commissions by providing fictitious invoices to CEI for each payment.   It also provided Gonzalez and Garcia with a base of operations from which they operated as middlemen.<br /><br />CEI, Solar, Ruston and Cemco received purchase orders from Pemex for compression equipment systems in the total amount of USD 225,429,592.80.  They transmitted approximately USD 9,960,432.40 in bribe money to Grupo Delta and Beltran for payment to Pemex officials.<br /><br />Separately in March 1979, Bateman, now representing Applied, had a meeting with Guillermo Cervera, administrative secretary to the Chief of Purchasing for Pemex.  Bateman offered to pay 30% of Applied's gross profit from Pemex contracts to Cervera in exchange for assistance in obtaining contracts for compression-related equipment and spare parts.  Cervera agreed and indicated that the money would be split with other Pemex officials from the departments that approved the purchase orders issued to Applied.  Between October 1979 and March 1981, Applied obtained approximately USD 5 million in purchase orders from Pemex as a result of this agreement with Cervera.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Pemex by CEI, Solar, Ruston and Cemco</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 9,960,432.40</p>
+</td>
+<td>
+<p style="text-align: center;">USD 225,429,592.80 in purchase orders secured</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at Pemex by Bateman/Applied</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 342,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 5,000,000 in purchase orders secured</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, CEI's involvement was discovered in court papers filed in a civil case by Grupo Delta.  The suit charged that Crawford did not pay Grupo Delta the 7% agreed broker's fee on all Mexican sales. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        CEI, Crawford, Hall, Garcia, Eyster, Smith, Beltran, Gonzalez, McLean, and Uriarte were charged with conspiracy and multiple counts of the anti-bribery provisions of the FCPA.  CEI pleaded no contest, was found guilty and was ordered to pay a fine in the amount of USD 3,460,000.<br /><br />Crawford, the President and owner of CEI, pleaded no contest, was found guilty and was fined USD 309,999.  Hall, the Executive Vice President of CEI, pleaded no contest, was found guilty and was ordered to pay a fine in the amount of USD 150,000.  Garcia, who assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials, pleaded no contest, was found guilty and was fined USD 75,000.  Eyster and Smith, the president and vice president of Ruston respectively, pleaded no contest, were found guilty and were each ordered to pay a fine in the amount of USD 5,000.  Beltran, the President and majority shareholder of Grupo Delta, and Gonzalez, who assisted Grupo Delta, CEI and Crawford in communicating with Pemex officials, appear to be fugitives.  <br /><br />The substantive charges against McLean, Vice President of Solar, and Uriarte, Regional Manager of Solar, were dismissed.  The court stated that under the FCPA an employee may not be convicted of a criminal offense for acts committed for the benefit of the employer unless the employer is also convicted.  [This provision, known as the Eckhardt Amendment, was removed by the 1988 Trade Act.]   McLean's and Uriarte's employer, International Harvester, pleaded guilty to conspiracy violation of the FCPA, but not to a substantive violation of the FCPA.  The company paid a USD 10,000 fine and USD 40,000 of prosecution costs.  McLean was acquitted of conspiracy.  Uriarte pleaded guilty and was sentenced to one year, suspended and placed on unsupervised probation. <br /><br />McLean filed suit to have his name expunged from the court records.  The court refused this request.  He later filed suit against International Harvester claiming that his civil rights had been violated and that the company had made him a scapegoat.  All charges were dismissed.  The appeals court ordered International Harvester to pay McLean's legal expenses. <br /><br />In 1982 Solar entered into a plea agreement, agreed to pay civil reimbursements of USD 40,000 and was fined USD 10,000.<br /><br />Ruston pleaded guilty to one count of a FCPA bribery violation and was fined USD 750,000.  <br /><br />Cemco pleaded guilty to one count of a FCPA bribery violation and was fined in the amount of USD 20,000.  Miller pleaded guilty to one bribery count and was placed on probation for three years and ordered to perform 500 hours of community service.<br /><br />King, the Executive Vice President and member of the Board of Directors of Cemco, entered into a cooperation agreement and was charged with violations of the Currency and Foreign Transactions Reporting Act.  He was placed on probation for 14 months and paid a civil reimbursement for prosecution costs in the amount of USD 5,000.<br /><br />In 1981, the DOJ entered into a cooperation agreement with Applied. Under the agreement, Applied pleaded guilty to bribing a foreign official, a felony violation of the FCPA.  The company consented to a permanent injunction prohibiting future violations and was ordered to pay a fine in the amount of USD 5,000.  <br /><br />In 1983, the DOJ entered into a cooperation agreement with Bateman, who pleaded guilty to misdemeanor violations of the Currency and Foreign Transactions Reporting Act and consented to a permanent injunction prohibiting future violations.  He was sentenced to probation for three years.  He received a civil penalty in the amount of USD 229,512.  Bateman was ordered to pay a civil tax payment to the Internal Revenue Service in the amount of USD 300,000.  He also paid USD 5,000 for costs related to his prosecution.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will investigate and prosecute both corporate entities and individual owners and employees involved in conduct violating the FCPA; however, prior to 1988, employees could not be found liable for violations of the anti-bribery provisions unless the employer itself had been found liable.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=109">Indictment: United States v. Crawford Enterprises, Inc., Donald G. Crawford, William E. Hall, Mario S. Gonzalez, Ricardo G. Beltran, Andres I. Garcia, George S. McLean, Luis A. Uriarte, Al L. Eyster and James R. Smith</a></p><p><a href="file.asp?id=110">Memorandum and Order: U.S. v. Crawford Enterprises, et al.</a></p><p><a href="file.asp?id=111">Criminal Information: United States v. International Harvester Co.</a></p><p><a href="file.asp?id=112">Appellate Opinion: United States v. International Harvester Co. v. George S. McLean</a></p><p><a href="file.asp?id=391">Judgments and Orders: U.S. v. Crawford Enterprises, et al.</a></p><p><a href="file.asp?id=392">Judgment and Order: United States v. International Harvester Co.</a></p><p><a href="file.asp?id=393">Appellate Opinion:  George S. McLean v. International Harvester</a></p><p><a href="file.asp?id=394">Criminal Information: United States v. Ruston Gas Turbines, Inc.</a></p><p><a href="file.asp?id=395">Judgment and Order: United States v. Ruston Gas Turbines, Inc.</a></p><p><a href="file.asp?id=396">Criminal Information, Offer of Proof, Cooperation Agreement, Judgment and Order: United States v. Marquis D. King</a></p><p><a href="file.asp?id=397">Memorandum in Aid of Sentencing: United States v. Marquis D. King</a></p><p><a href="file.asp?id=398">Criminal Information: United States v. C.E. Miller Corporation and Charles E. Miller</a></p><p><a href="file.asp?id=399">Judgment and Order: United States v. C.E. Miller Corporation and Charles E. Miller</a></p><p><a href="file.asp?id=400">Criminal Information: United States v. Gary D. Bateman</a></p><p><a href="file.asp?id=401">Cooperation Agreement: United States v. Gary D. Bateman</a></p><p><a href="file.asp?id=402">Criminal Information: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=403">Offer of Proof: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=404">Cooperation Agreement: United States v. Applied Process Products Overseas, Inc.</a></p><p><a href="file.asp?id=405">Judgment and Order: United States v. Applied Process Products Overseas, Inc.</a></p><p>New York Times: May 5, 1982 (U.S. Jury Investigating Payments to Mexicans)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

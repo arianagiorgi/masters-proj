@@ -1,0 +1,226 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184326vh704">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184326839hc" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ORR/BAKKER/SCHEFFER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(97)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843261s51c" width="415" height="61" /></div>
+    
+        <h1>ORR/BAKKER/SCHEFFER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Patrick Orr<br />Guido Bakker<br />Arthur Scheffer<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supply of pharmaceutical products to relief agencies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Democratic Republic of the Congo<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Patrick Orr, a solicitor, Guido Bakker and Arthur Scheffer (two Dutch consultants) were charged in June 2009 with conspiracy to corrupt, conspiring to money launder and fraudulent trading in relation to alleged contract manipulation concerning a UN project to supply HIV and malaria drugs in the Democratic Republic of Congo.  The City of London Police have stated that the value of the contract was USD 34 million. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Not known, but could be as a result of reporting requirements contained within the UK's anti-money laundering laws.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        At the time of writing (November 2009) the individuals involved had been charged but the trial has not yet taken place.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192143sa081">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921438l07k" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ORR/BAKKER/SCHEFFER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(97)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192143e5d47" width="415" height="61" /></div>
+    
+        <h1>ORR/BAKKER/SCHEFFER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Patrick Orr<br />Guido Bakker<br />Arthur Scheffer<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supply of pharmaceutical products to relief agencies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Democratic Republic of the Congo<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Patrick Orr, a solicitor, Guido Bakker and Arthur Scheffer (two Dutch consultants) were charged in June 2009 with conspiracy to corrupt, conspiring to money launder and fraudulent trading in relation to alleged contract manipulation concerning a UN project to supply HIV and malaria drugs in the Democratic Republic of Congo.  The City of London Police have stated that the value of the contract was USD 34 million. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Not known, but could be as a result of reporting requirements contained within the UK's anti-money laundering laws.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        At the time of writing (November 2009) the individuals involved had been charged but the trial has not yet taken place.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1927043b0qo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192704wiltx" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHESTNUT CONSULTING</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(462)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1927041963b" width="415" height="61" /></div>
+    
+        <h1>CHESTNUT CONSULTING</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chestnut Consulting, Inc. ("Chestnut Consulting")<br />European Bank for Reconstruction and Development ("EBRD")<br />Dmitrij Harder, former owner and CEO of Chestnut Consulting
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Arranges financing for the oil and gas, mining, and energy industries.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Southampton, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        EBRD<br /><br />According to Bloomberg News, on 13 April 2012, two individuals were charged with corruption and money laundering in London.  Andrey Ryjenko, a former employee of the European Bank for Reconstruction and Development ("EBRD") and Tatjana Sanderson, a former employee of Standard Bank Plc, were charged with accepting bribes and laundering USD $3 million in exchange for favorable loan treatment  of Chestnut Consulting Inc., a Pennsylvania company, between September 2007 and March 2010.  <br /><br />According to a criminal indictment filed in a Philadelphia court, Dmitrij Harder, the former owner and CEO of Chestnut Consulting, bribed a senior official at the London-based European Bank for Reconstruction and Development ("EBRD").  The indictment charged Mr. Harder with paying more than USD $3.5 million to the EBRD official.  The payments allegedly went via the official's sister under a phony contract she had with Chestnut Consulting.  According to the criminal indictment, in exchange for the bribes, the EBRD official influenced the approval of financing for two of Chestnut Consulting's corporate clients. One project involved an investment by the EBRD of USD $85 million and a €90 million ($107 million) loan.  The second project resulted in a USD $40 million investment and a USD $60 million convertible loan, the DOJ said. <br /><br />Chestnut Consulting allegedly earned about USD $8 million in “success fees” as a result of the EBRD’s approval of the two applications, the DOJ said.<br /><br />The case was scheduled for criminal trial in November 2012 in London, but the results were not published.  The company appears to be under investigation by U.S. authorities.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;Amount of Alleged Bribe</td>
+<td width="50%">Benefit Conferred&nbsp;</td>
+</tr>
+<tr>
+<td>USD $3.5 million&nbsp;</td>
+<td>Approval of financing for two of Chestnut Consulting's corporate clients, resulting in USD $8 million in success fees</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        An internal investigation at the EBRD uncovered the suspicious transactions.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />The case was scheduled for trial in November 2012 in London, but the results were not published.<br /><br />United States<br /><br />On 6 January 2015, a federal grand jury in Philadelphia indicted the former owner and president of Chestnut Consulting for bribing an official of the EBRD.  Dmitrij Harder was charged with one count of conspiracy to violate the FCPA and Travel Act, five counts of violating the FCPA, five counts of violating the Travel Act, one count of conspiracy to commit international money laundering, and two counts of money laundering.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2441">Chestnut Consulting Charged with Taking Bribes</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

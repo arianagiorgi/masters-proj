@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170734zru5u">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170734z7o7h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMPSA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(50)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707340437v" width="415" height="61" /></div>
+    
+        <h1>IMPSA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Industrias Metalurgicas Pescarmona SA ("IMPSA")<br />Board members and staff of IMPSA<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Hydroelectric power plants  
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Buenos Aires, Argentina
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Board members of IMPSA are under criminal investigation for allegedly bribing several Philippine public officials, including Former Secretary of Justice Arnoldo Perez, to obtain a contract to repair the Caliraya-Botocan-Kalayaan ("CBK") Power Complex in Laguna at a cost of USD 470 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 14 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 470 million contract, including sovereign guarantees for international loans</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The bribe was reported by former Philippine President Estrada from jail, a couple of weeks after President Arroyo took office in 2001.  He was jailed for corruption from was reported by the Philippine press as early as November 2002, when the Swiss authorities request cooperation from the Philippines to identify the origin of funds reported as suspicious by a financial institution. <br /><br />In 2003, the Argentine press reported the case but the investigation was initiated only in 2006 after the OECD Group on Bribery requested the Argentine delegation to take action. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.  The Investigating Magistrate (Judge d'Instruction), Judge Sergio Torres, has requested assistance from Switzerland and the Philippines.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>La Nacion: "Involucran a Impsa en un caso de corrupcion" (15 Jan. 2003)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18424326aua">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842430184o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMPSA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(50)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842433a1w5" width="415" height="61" /></div>
+    
+        <h1>IMPSA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Industrias Metalurgicas Pescarmona SA ("IMPSA")<br />Board members and staff of IMPSA<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Hydroelectric power plants  
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Buenos Aires, Argentina
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Board members of IMPSA are under criminal investigation for allegedly bribing several Philippine public officials, including Former Secretary of Justice Arnoldo Perez, to obtain a contract to repair the Caliraya-Botocan-Kalayaan ("CBK") Power Complex in Laguna at a cost of USD 470 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 14 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 470 million contract, including sovereign guarantees for international loans</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The bribe was reported by former Philippine President Estrada from jail, a couple of weeks after President Arroyo took office in 2001.  He was jailed for corruption from was reported by the Philippine press as early as November 2002, when the Swiss authorities request cooperation from the Philippines to identify the origin of funds reported as suspicious by a financial institution. <br /><br />In 2003, the Argentine press reported the case but the investigation was initiated only in 2006 after the OECD Group on Bribery requested the Argentine delegation to take action. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.  The Investigating Magistrate (Judge d'Instruction), Judge Sergio Torres, has requested assistance from Switzerland and the Philippines.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>La Nacion: "Involucran a Impsa en un caso de corrupcion" (15 Jan. 2003)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192100hp917">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192100g2kxh" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMPSA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(50)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19210035c5z" width="415" height="61" /></div>
+    
+        <h1>IMPSA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Industrias Metalurgicas Pescarmona SA ("IMPSA")<br />Board members and staff of IMPSA<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Hydroelectric power plants  
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Buenos Aires, Argentina
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Philippines<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Board members of IMPSA are under criminal investigation for allegedly bribing several Philippine public officials, including Former Secretary of Justice Arnoldo Perez, to obtain a contract to repair the Caliraya-Botocan-Kalayaan ("CBK") Power Complex in Laguna at a cost of USD 470 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 14 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 470 million contract, including sovereign guarantees for international loans</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The bribe was reported by former Philippine President Estrada from jail, a couple of weeks after President Arroyo took office in 2001.  He was jailed for corruption from was reported by the Philippine press as early as November 2002, when the Swiss authorities request cooperation from the Philippines to identify the origin of funds reported as suspicious by a financial institution. <br /><br />In 2003, the Argentine press reported the case but the investigation was initiated only in 2006 after the OECD Group on Bribery requested the Argentine delegation to take action. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.  The Investigating Magistrate (Judge d'Instruction), Judge Sergio Torres, has requested assistance from Switzerland and the Philippines.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>La Nacion: "Involucran a Impsa en un caso de corrupcion" (15 Jan. 2003)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

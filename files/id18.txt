@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707055871q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170705y9722" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IBM (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(18)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170705v1h6i" width="415" height="61" /></div>
+    
+        <h1>IBM (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Business Machines Corporation ("IBM")<br />IBM-Argentina, S.A. ("IBM-Argentina")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of computer products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Armonk, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that IBM-Argentina, a wholly-owned subsidiary of IBM, violated the books and records provisions of the FCPA in connection with improper payments made to win a USD 250 million contract to modernize and integrate the computer systems of Banco de la Naci&oacute;n Argentina ("BNA"), a commercial bank owned by the Argentine government.  <br /><br />IBM-Argentina subcontracted with an Argentine corporation, Capacitaci&oacute;n y Computaci&oacute;n Rural, S.A. ("CCR"), and funds paid pursuant to the subcontract were apparently then transferred to certain bank officials.  The SEC found that, during 1994 and 1995, IBM-Argentina paid CCR approximately USD 22 million under the subcontract, of which at least USD 4.5 million were transferred by CCR to several BNA directors.  IBM-Argentina was awarded the contract in February 1994, one of the company's largest contracts at the time. <br /><br />According to the SEC, IBM-Argentina's former senior management overrode IBM's contracting and procurement procedures, hiding the details of the subcontract from technical and financial review personnel at the company.  The former senior management provided IBM-Argentina's procurement department with fabricated documentation, including a backdated authorization letter and incomplete and inaccurate descriptions of CCR's services.  IBM-Argentina recorded the payments as third-party subcontractor expenses and the information was incorporated into IBM's 1994 Form 10-K.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentine <br />Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 250 million contract obtained</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Argentine authorities began investigating the BNA transaction after a routine tax audit uncovered evidence that some of the money IBM-Argentina paid to CCR had been passed on to phantom companies.  Fifteen BNA directors and IBM-Argentina executives were indicted for bribery in Argentina and the Argentine judge overseeing the investigation issued an international arrest warrant, through Interpol, for four U.S. IBM executives (the warrants were later withdrawn).  Bribery investigations were also opened into five additional IBM-Argentina public contracts, along with an investigation into possible tax evasion (through the claiming of the alleged bribes as deductible expenses).  After learning of the investigations launched in Argentina, IBM launched an internal investigation.  <br /><br />According to the SEC, after IBM learned that its policies and procedures had been circumvented by IBM-Argentina's former senior management, the company took immediate corrective action.  Among other things, IBM-Argentina's Vice President of Operations was terminated, and the General Manager and Vice President of Finance were both asked to resign from their positions, which they did.  In addition, all future payments to CCR under the subcontract were stopped and IBM enhanced its internal controls with respect to FCPA compliance.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2000, without admitting or denying the SEC's allegations, IBM consented to the entry of a cease-and-desist order and a final judgment permanently enjoining the company from future violations of the FCPA's books and records provisions.  IBM was ordered to pay a USD 300,000 civil penalty.<br /><br />In July 1997, an Argentine appeals court overturned the bribery charges against BNA and IBM-Argentina employees, leaving only a lesser fraud charge in place.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Parent companies may be held responsible for a wholly-owned subsidiary's false books and records, even if the parent has no knowledge of their falsity or the underlying misconduct and even if the government does not find that the parent lacked sufficient internal controls.</li><li>Parent companies may be held liable for improper payments made by a subsidiary's foreign subcontractor, as with other third party intermediaries.</li><li>In addition to the legal consequences of violating the FCPA, subsequent public relations and business consequences to a company can be significant (IBM reportedly lost USD 500 million in Argentina business following the scandal).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=119">SEC Litigation Release: December 21, 2000 (SEC Settles Foreign Corrupt Practices Act Against IBM) </a></p><p><a href="file.asp?id=120">Cease-and-Desist Order: In the Matter of International Business Machines Corporation</a></p><p>Emerging Market Strategies: "The IBM Argentina Case - Comments on the Foreign Corrupt Practices Act" (22 Sept. 1997)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842155se9n">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18421545i7o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IBM (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(18)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184215rot9w" width="415" height="61" /></div>
+    
+        <h1>IBM (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Business Machines Corporation ("IBM")<br />IBM-Argentina, S.A. ("IBM-Argentina")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of computer products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Armonk, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that IBM-Argentina, a wholly-owned subsidiary of IBM, violated the books and records provisions of the FCPA in connection with improper payments made to win a USD 250 million contract to modernize and integrate the computer systems of Banco de la Naci&oacute;n Argentina ("BNA"), a commercial bank owned by the Argentine government.  <br /><br />IBM-Argentina subcontracted with an Argentine corporation, Capacitaci&oacute;n y Computaci&oacute;n Rural, S.A. ("CCR"), and funds paid pursuant to the subcontract were apparently then transferred to certain bank officials.  The SEC found that, during 1994 and 1995, IBM-Argentina paid CCR approximately USD 22 million under the subcontract, of which at least USD 4.5 million were transferred by CCR to several BNA directors.  IBM-Argentina was awarded the contract in February 1994, one of the company's largest contracts at the time. <br /><br />According to the SEC, IBM-Argentina's former senior management overrode IBM's contracting and procurement procedures, hiding the details of the subcontract from technical and financial review personnel at the company.  The former senior management provided IBM-Argentina's procurement department with fabricated documentation, including a backdated authorization letter and incomplete and inaccurate descriptions of CCR's services.  IBM-Argentina recorded the payments as third-party subcontractor expenses and the information was incorporated into IBM's 1994 Form 10-K.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentine <br />Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 250 million contract obtained</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Argentine authorities began investigating the BNA transaction after a routine tax audit uncovered evidence that some of the money IBM-Argentina paid to CCR had been passed on to phantom companies.  Fifteen BNA directors and IBM-Argentina executives were indicted for bribery in Argentina and the Argentine judge overseeing the investigation issued an international arrest warrant, through Interpol, for four U.S. IBM executives (the warrants were later withdrawn).  Bribery investigations were also opened into five additional IBM-Argentina public contracts, along with an investigation into possible tax evasion (through the claiming of the alleged bribes as deductible expenses).  After learning of the investigations launched in Argentina, IBM launched an internal investigation.  <br /><br />According to the SEC, after IBM learned that its policies and procedures had been circumvented by IBM-Argentina's former senior management, the company took immediate corrective action.  Among other things, IBM-Argentina's Vice President of Operations was terminated, and the General Manager and Vice President of Finance were both asked to resign from their positions, which they did.  In addition, all future payments to CCR under the subcontract were stopped and IBM enhanced its internal controls with respect to FCPA compliance.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2000, without admitting or denying the SEC's allegations, IBM consented to the entry of a cease-and-desist order and a final judgment permanently enjoining the company from future violations of the FCPA's books and records provisions.  IBM was ordered to pay a USD 300,000 civil penalty.<br /><br />In July 1997, an Argentine appeals court overturned the bribery charges against BNA and IBM-Argentina employees, leaving only a lesser fraud charge in place.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Parent companies may be held responsible for a wholly-owned subsidiary's false books and records, even if the parent has no knowledge of their falsity or the underlying misconduct and even if the government does not find that the parent lacked sufficient internal controls.</li><li>Parent companies may be held liable for improper payments made by a subsidiary's foreign subcontractor, as with other third party intermediaries.</li><li>In addition to the legal consequences of violating the FCPA, subsequent public relations and business consequences to a company can be significant (IBM reportedly lost USD 500 million in Argentina business following the scandal).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=119">SEC Litigation Release: December 21, 2000 (SEC Settles Foreign Corrupt Practices Act Against IBM) </a></p><p><a href="file.asp?id=120">Cease-and-Desist Order: In the Matter of International Business Machines Corporation</a></p><p>Emerging Market Strategies: "The IBM Argentina Case - Comments on the Foreign Corrupt Practices Act" (22 Sept. 1997)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19203022y10">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192030ro9fg" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IBM (ARGENTINA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(18)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192030q3ka9" width="415" height="61" /></div>
+    
+        <h1>IBM (ARGENTINA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Business Machines Corporation ("IBM")<br />IBM-Argentina, S.A. ("IBM-Argentina")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of computer products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Armonk, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that IBM-Argentina, a wholly-owned subsidiary of IBM, violated the books and records provisions of the FCPA in connection with improper payments made to win a USD 250 million contract to modernize and integrate the computer systems of Banco de la Naci&oacute;n Argentina ("BNA"), a commercial bank owned by the Argentine government.  <br /><br />IBM-Argentina subcontracted with an Argentine corporation, Capacitaci&oacute;n y Computaci&oacute;n Rural, S.A. ("CCR"), and funds paid pursuant to the subcontract were apparently then transferred to certain bank officials.  The SEC found that, during 1994 and 1995, IBM-Argentina paid CCR approximately USD 22 million under the subcontract, of which at least USD 4.5 million were transferred by CCR to several BNA directors.  IBM-Argentina was awarded the contract in February 1994, one of the company's largest contracts at the time. <br /><br />According to the SEC, IBM-Argentina's former senior management overrode IBM's contracting and procurement procedures, hiding the details of the subcontract from technical and financial review personnel at the company.  The former senior management provided IBM-Argentina's procurement department with fabricated documentation, including a backdated authorization letter and incomplete and inaccurate descriptions of CCR's services.  IBM-Argentina recorded the payments as third-party subcontractor expenses and the information was incorporated into IBM's 1994 Form 10-K.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Argentine <br />Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 250 million contract obtained</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Argentine authorities began investigating the BNA transaction after a routine tax audit uncovered evidence that some of the money IBM-Argentina paid to CCR had been passed on to phantom companies.  Fifteen BNA directors and IBM-Argentina executives were indicted for bribery in Argentina and the Argentine judge overseeing the investigation issued an international arrest warrant, through Interpol, for four U.S. IBM executives (the warrants were later withdrawn).  Bribery investigations were also opened into five additional IBM-Argentina public contracts, along with an investigation into possible tax evasion (through the claiming of the alleged bribes as deductible expenses).  After learning of the investigations launched in Argentina, IBM launched an internal investigation.  <br /><br />According to the SEC, after IBM learned that its policies and procedures had been circumvented by IBM-Argentina's former senior management, the company took immediate corrective action.  Among other things, IBM-Argentina's Vice President of Operations was terminated, and the General Manager and Vice President of Finance were both asked to resign from their positions, which they did.  In addition, all future payments to CCR under the subcontract were stopped and IBM enhanced its internal controls with respect to FCPA compliance.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 December 2000, without admitting or denying the SEC's allegations, IBM consented to the entry of a cease-and-desist order and a final judgment permanently enjoining the company from future violations of the FCPA's books and records provisions.  IBM was ordered to pay a USD 300,000 civil penalty.<br /><br />In July 1997, an Argentine appeals court overturned the bribery charges against BNA and IBM-Argentina employees, leaving only a lesser fraud charge in place.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Parent companies may be held responsible for a wholly-owned subsidiary's false books and records, even if the parent has no knowledge of their falsity or the underlying misconduct and even if the government does not find that the parent lacked sufficient internal controls.</li><li>Parent companies may be held liable for improper payments made by a subsidiary's foreign subcontractor, as with other third party intermediaries.</li><li>In addition to the legal consequences of violating the FCPA, subsequent public relations and business consequences to a company can be significant (IBM reportedly lost USD 500 million in Argentina business following the scandal).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=119">SEC Litigation Release: December 21, 2000 (SEC Settles Foreign Corrupt Practices Act Against IBM) </a></p><p><a href="file.asp?id=120">Cease-and-Desist Order: In the Matter of International Business Machines Corporation</a></p><p>Emerging Market Strategies: "The IBM Argentina Case - Comments on the Foreign Corrupt Practices Act" (22 Sept. 1997)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192454hw04f">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19245428og1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LAYNE CHRISTENSEN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(312)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192454i31w2" width="415" height="61" /></div>
+    
+        <h1>LAYNE CHRISTENSEN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Layne Christensen Company ("Layne Christensen")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Drilling and construction services related to water, wastewater treatment and mineral exploration
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Mission Woods, Kansas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Burkina Faso<br />Mali<br />Guinea<br />Democratic Republic of the Congo<br />Tanzania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Layne Christensen was updating its Foreign Corrupt Practices Act ("FCPA") policy, when questions were raised internally in late September 2010 about the legality of certain payments to customs clearing agents in connection with importing equipment into the Democratic Republic of Congo and other countries in Africa. The Audit Committee of the Board of Directors engaged outside counsel to conduct an internal investigation to review these and other payments with assistance from an outside accounting firm.<br /><br />Layne Christensen voluntarily informed the U.S. Securities and Exchange Commission ("SEC") and the U.S. Department of Justice ("DOJ"). <br /><br />In subsequent SEC filings, the Company reiterated this statement, adding in its SEC Form 10-Q dated 10 September 2012 that "the internal investigation has found documents and information suggesting that improper payments, which may violate the FCPA and other local laws, were made over a considerable period of time, by or on behalf of, certain foreign subsidiaries of the Company to third parties interacting with government officials in Africa relating to the payment of taxes, the importing of equipment and the employment of expatriates."<br /><br />Layne Christensen also noted that it had commenced negotiations with the DOJ and SEC in February 2012 regarding a potential resolution, and provided the agencies with additional information regarding the benefits that the Company may have received, or intended to receive, and interest from the payments in question.<br /><br />Layne Christensen Company said on 16 December 2013 that it increased its reserve for a potential FCPA settlement from USD $4.8 million to USD $10.4 million. That amount, the company said, represented the low end of the range for a possible settlement, which could also reach USD $16 million or more. <br /><br />On 15 August 2014, the company announced that the DOJ declined to prosecute the company for FCPA violations and considered the matter closed.  The company previously accrued a reserve of USD $10.4 million for settlement of the DOJ and SEC investigations but will now reduce the reserve to USD $5.3 million following the declination.  <br /><br />On 27 October 2014, the SEC charged Layne Christensen and imposed penalties of USD $5.1 million.  According to the SEC Order, the company allegedly received USD $3.9 million in unlawful benefits during a five-year period.<br /><br />Among the findings in the SEC’s order:<br /><br />- Layne Christensen allegedly paid nearly USD $800,000 to foreign officials in Mali, Guinea, and the Democratic Republic of the Congo to reduce its tax liability and avoid associated penalties for delinquent payment.  Layne Christensen allegedly realized more than USD $3.2 million in improper tax savings. <br /><br />- Layne Christensen allegedly made improper payments to customs officials in Burkina Faso and the Democratic Republic of Congo to avoid paying customs duties and obtain clearance to import and export its equipment.  The alleged bribes were falsely recorded as legal fees and commissions in the company’s books and records.<br /><br />- Layne Christensen allegedly paid more than USD $23,000 in cash to police, border patrol, immigration officials, and labor inspectors in Burkina Faso, Guinea, Tanzania, and the Democratic Republic of Congo to obtain border entry for its equipment and employees.  The alleged bribes also allegedly helped secure work permits for its expatriate employees and avoid penalties for non-compliance with local immigration and labor regulations.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $823,000</td>
+<td style="text-align: center;">USD $3.9 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Layne Christensen said it was updating its FCPA policy in 2010 when it discovered payments to agents and other third parties "interacting with government officials in certain countries in Africa."<br /><br />An internal investigation then found documents and other evidence of "improper payments" that may violate the FCPA and other local laws, the company said.<br /><br />Layne Christensen made a voluntary disclosure to the DOJ and SEC and has talked to both about a settlement. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S. <br /><br />On 15 August 2014, the company announced that the DOJ declined to prosecute the company for FCPA violations.  The company previously accrued a reserve of USD $10.4 million for settlement of the DOJ and SEC investigations but reduced the reserve to USD $5.3 million following the declination.  <br /><br />On 27 October 2014, Layne Christensen agreed to pay USD $5.1 million to the SEC to resolve allegations that the company made improper payments to foreign officials in several African countries in order to obtain beneficial treatment and reduce its tax liability.  The SEC’s order found that Layne Christensen violated the anti-bribery, books and records, and internal controls provisions of the FCPA.  The company agreed to pay USD $3,893,472.42 in disgorgement plus USD $858,720 in prejudgment interest as well as a USD $375,000 penalty that credited Layne Christensen’s self-reporting, remediation, and significant cooperation with the SEC’s investigation.  <br /><br />For a period of two years, the settlement requires the company to report to the SEC on the status of its remediation and implementation of measures to comply with the FCPA.  Layne Christensen consented to the order without admitting or denying the SEC’s findings. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC and DOJ credit companies for self-reporting, cooperation with the investigation, and thorough reforms to compliance programs.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1240">Layne Christensen Co. - SEC Form 10-Q (8 Dec. 2010)</a></p><p><a href="file.asp?id=1959">Layne Christensen - SEC Form 10-Q (10 September 2012)</a></p><p><a href="file.asp?id=2446">SEC Form 10-Q (10 December 2013)</a></p><p><a href="file.asp?id=2592">SEC Order Re Layne Christensen (10 27 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

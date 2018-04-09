@@ -1,0 +1,426 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-17070337643">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707032avjt" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HELMERICH & PAYNE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(16)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170703f8001" width="415" height="61" /></div>
+    
+        <h1>HELMERICH & PAYNE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Helmerich & Payne Inc. ("H&P")<br />Helmerich & Payne (Argentina) Drilling Company (wholly-owned second-tier subsidiary of H&P) ("H&P Argentina")<br />Helmerich & Payne de Venezuela, C.A. (wholly-owned second-tier subsidiary of H&P) ("H&P Venezuela")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas drilling
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tulsa, Oklahoma, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that, between 2003 and 2008 H&P Argentina and H&P Venezuela employees and agents made improper payments to numerous officials and representatives of the Argentine and Venezuelan customs services in connection with the importation and exportation of goods and equipment related to H&P's business operations in those two countries.  H&P Argentina and H&P Venezuela employees also falsely recorded the improper payments, as well as other payments, in their company's respective books and records.  This ultimately caused false entries in H&P's books and records during consolidation.  <br /><br />H&P Argentina was alleged to have paid approximately USD 166,000 to customs officials in Argentina from 2004 until 2008. The payments were made in order to avoid various requirements for clearing equipment and materials through customs, including importing and exporting equipment without the necessary certifications and reducing import duties on the goods.  The payments were infrequent and made either by company employees or through a customs broker.  The majority of the payments were less than USD 5,000 each.  The payments were disguised in invoices by using vague-sounding line items such as additional assessments, extra costs, and extraordinary expenses, without any additional documentation to support the descriptions.  Through H&P Argentina, H&P avoided more than an estimated USD 186,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials. <br /><br />In addition, H&P Venezuela paid approximately USD 19,673 to Venezuelan customs officials from 2003 until 2008, in order to import equipment and materials that were not in compliance with Venezuelan customs regulations and to secure partial inspections rather than full inspections of the goods.  The Venezuelan payments were made through customs brokers who invoiced H&P Venezuela for the cost of the payments.  These payments were also infrequent and each payment was less than USD 2,000. The payments were disguised in invoices by using descriptions such as urgent processing, urgent dispatch, or customs processing.  H&P, through H&P Venezuela, avoided more than an estimated USD 134,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials.<br /><br />The payments described above were not made to win or retain a specific contract; rather, they were made to reduce expenses associated with storage of goods and local purchase requirements as well as to reduce customs duties.  The improper payments to officials in both countries totaled approximately USD 185,673, resulting in a total of approximately USD 320,000 in avoided expenses. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 166,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 186,000 in customs, storage and local purchase expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span><span> </span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 19,673</p>
+</td>
+<td>
+<p style="text-align: center;">USD 134,000 in storage and rig downtime expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In early 2008, H&P designed and implemented a stand-alone set of FCPA policies and procedures as part of an effort to improve the company's compliance with the FCPA.  In connection with this effort, the company also designed and conducted worldwide FCPA training for its key employees.  During a training session in May 2008, an employee disclosed that potentially improper payments had been made by H&P Argentina to Argentina customs officials through a customs broker.  The information was transmitted to the H&P's corporate headquarters and came to the attention of the general counsel in July 2008.  In response, H&P retained outside FCPA counsel and independent forensic accountants to conduct an internal investigation into the customs payment practices of H&P's subsidiaries in various Latin American countries.  <br />	<br />H&P's internal investigation identified fifty improper payments made to government customs officials in Argentina and Venezuela from 2003 through 2008, totaling approximately USD 185,673.  In October 2008, H&P voluntarily disclosed its initial findings to the DOJ and SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 July 2009 H&P settled with the DOJ, entering into a two-year non-prosecution agreement and agreeing to pay a USD 1 million penalty.  On the same day, H&P also agreed to the entry of a SEC cease-and-desist order, agreeing to pay USD 375,000 in disgorgement of profits, including pre-judgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While certain payments may qualify for the facilitation payments exception under the FCPA, a company can be charged with books and records violations in connection with those payments if they are not properly recorded in the companys book and records.</li><li>Factors that may lead the DOJ to agree to a non-prosecution agreement include: (i) whether the company discovered the misconduct through its own internal controls processes; (ii) whether the company made a timely, voluntary, and complete disclosure to the DOJ and SEC; (iii) whether the company provided thorough and real-time cooperation with the DOJ and SEC; and (iv) whether the company undertook (or had agreed to undertake) extensive remedial measures.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=113">DOJ Press Release: July 30, 2009 (Helmerich & Payne Agrees to Pay $1 Million Penalty to Resolve Allegations of Foreign Bribery in South America) </a></p><p><a href="file.asp?id=114">Non-Prosecution Agreement (July 29, 2009) </a></p><p><a href="file.asp?id=115">SEC Cease-and-Desist Order (July 30, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184213c1am4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842135mv17" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HELMERICH & PAYNE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(16)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18421396nwa" width="415" height="61" /></div>
+    
+        <h1>HELMERICH & PAYNE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Helmerich & Payne Inc. ("H&P")<br />Helmerich & Payne (Argentina) Drilling Company (wholly-owned second-tier subsidiary of H&P) ("H&P Argentina")<br />Helmerich & Payne de Venezuela, C.A. (wholly-owned second-tier subsidiary of H&P) ("H&P Venezuela")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas drilling
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tulsa, Oklahoma, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that, between 2003 and 2008 H&P Argentina and H&P Venezuela employees and agents made improper payments to numerous officials and representatives of the Argentine and Venezuelan customs services in connection with the importation and exportation of goods and equipment related to H&P's business operations in those two countries.  H&P Argentina and H&P Venezuela employees also falsely recorded the improper payments, as well as other payments, in their company's respective books and records.  This ultimately caused false entries in H&P's books and records during consolidation.  <br /><br />H&P Argentina was alleged to have paid approximately USD 166,000 to customs officials in Argentina from 2004 until 2008. The payments were made in order to avoid various requirements for clearing equipment and materials through customs, including importing and exporting equipment without the necessary certifications and reducing import duties on the goods.  The payments were infrequent and made either by company employees or through a customs broker.  The majority of the payments were less than USD 5,000 each.  The payments were disguised in invoices by using vague-sounding line items such as additional assessments, extra costs, and extraordinary expenses, without any additional documentation to support the descriptions.  Through H&P Argentina, H&P avoided more than an estimated USD 186,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials. <br /><br />In addition, H&P Venezuela paid approximately USD 19,673 to Venezuelan customs officials from 2003 until 2008, in order to import equipment and materials that were not in compliance with Venezuelan customs regulations and to secure partial inspections rather than full inspections of the goods.  The Venezuelan payments were made through customs brokers who invoiced H&P Venezuela for the cost of the payments.  These payments were also infrequent and each payment was less than USD 2,000. The payments were disguised in invoices by using descriptions such as urgent processing, urgent dispatch, or customs processing.  H&P, through H&P Venezuela, avoided more than an estimated USD 134,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials.<br /><br />The payments described above were not made to win or retain a specific contract; rather, they were made to reduce expenses associated with storage of goods and local purchase requirements as well as to reduce customs duties.  The improper payments to officials in both countries totaled approximately USD 185,673, resulting in a total of approximately USD 320,000 in avoided expenses. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 166,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 186,000 in customs, storage and local purchase expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span><span> </span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 19,673</p>
+</td>
+<td>
+<p style="text-align: center;">USD 134,000 in storage and rig downtime expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In early 2008, H&P designed and implemented a stand-alone set of FCPA policies and procedures as part of an effort to improve the company's compliance with the FCPA.  In connection with this effort, the company also designed and conducted worldwide FCPA training for its key employees.  During a training session in May 2008, an employee disclosed that potentially improper payments had been made by H&P Argentina to Argentina customs officials through a customs broker.  The information was transmitted to the H&P's corporate headquarters and came to the attention of the general counsel in July 2008.  In response, H&P retained outside FCPA counsel and independent forensic accountants to conduct an internal investigation into the customs payment practices of H&P's subsidiaries in various Latin American countries.  <br />	<br />H&P's internal investigation identified fifty improper payments made to government customs officials in Argentina and Venezuela from 2003 through 2008, totaling approximately USD 185,673.  In October 2008, H&P voluntarily disclosed its initial findings to the DOJ and SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 July 2009 H&P settled with the DOJ, entering into a two-year non-prosecution agreement and agreeing to pay a USD 1 million penalty.  On the same day, H&P also agreed to the entry of a SEC cease-and-desist order, agreeing to pay USD 375,000 in disgorgement of profits, including pre-judgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While certain payments may qualify for the facilitation payments exception under the FCPA, a company can be charged with books and records violations in connection with those payments if they are not properly recorded in the companys book and records.</li><li>Factors that may lead the DOJ to agree to a non-prosecution agreement include: (i) whether the company discovered the misconduct through its own internal controls processes; (ii) whether the company made a timely, voluntary, and complete disclosure to the DOJ and SEC; (iii) whether the company provided thorough and real-time cooperation with the DOJ and SEC; and (iv) whether the company undertook (or had agreed to undertake) extensive remedial measures.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=113">DOJ Press Release: July 30, 2009 (Helmerich & Payne Agrees to Pay $1 Million Penalty to Resolve Allegations of Foreign Bribery in South America) </a></p><p><a href="file.asp?id=114">Non-Prosecution Agreement (July 29, 2009) </a></p><p><a href="file.asp?id=115">SEC Cease-and-Desist Order (July 30, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192028y9a9u">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192028c5emc" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HELMERICH & PAYNE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(16)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192028qlrp7" width="415" height="61" /></div>
+    
+        <h1>HELMERICH & PAYNE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Helmerich & Payne Inc. ("H&P")<br />Helmerich & Payne (Argentina) Drilling Company (wholly-owned second-tier subsidiary of H&P) ("H&P Argentina")<br />Helmerich & Payne de Venezuela, C.A. (wholly-owned second-tier subsidiary of H&P) ("H&P Venezuela")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas drilling
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tulsa, Oklahoma, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that, between 2003 and 2008 H&P Argentina and H&P Venezuela employees and agents made improper payments to numerous officials and representatives of the Argentine and Venezuelan customs services in connection with the importation and exportation of goods and equipment related to H&P's business operations in those two countries.  H&P Argentina and H&P Venezuela employees also falsely recorded the improper payments, as well as other payments, in their company's respective books and records.  This ultimately caused false entries in H&P's books and records during consolidation.  <br /><br />H&P Argentina was alleged to have paid approximately USD 166,000 to customs officials in Argentina from 2004 until 2008. The payments were made in order to avoid various requirements for clearing equipment and materials through customs, including importing and exporting equipment without the necessary certifications and reducing import duties on the goods.  The payments were infrequent and made either by company employees or through a customs broker.  The majority of the payments were less than USD 5,000 each.  The payments were disguised in invoices by using vague-sounding line items such as additional assessments, extra costs, and extraordinary expenses, without any additional documentation to support the descriptions.  Through H&P Argentina, H&P avoided more than an estimated USD 186,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials. <br /><br />In addition, H&P Venezuela paid approximately USD 19,673 to Venezuelan customs officials from 2003 until 2008, in order to import equipment and materials that were not in compliance with Venezuelan customs regulations and to secure partial inspections rather than full inspections of the goods.  The Venezuelan payments were made through customs brokers who invoiced H&P Venezuela for the cost of the payments.  These payments were also infrequent and each payment was less than USD 2,000. The payments were disguised in invoices by using descriptions such as urgent processing, urgent dispatch, or customs processing.  H&P, through H&P Venezuela, avoided more than an estimated USD 134,000 in expenses it would have otherwise incurred if it had properly imported and exported the equipment and materials.<br /><br />The payments described above were not made to win or retain a specific contract; rather, they were made to reduce expenses associated with storage of goods and local purchase requirements as well as to reduce customs duties.  The improper payments to officials in both countries totaled approximately USD 185,673, resulting in a total of approximately USD 320,000 in avoided expenses. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span>&nbsp;</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 166,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 186,000 in customs, storage and local purchase expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong><span><span> </span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 19,673</p>
+</td>
+<td>
+<p style="text-align: center;">USD 134,000 in storage and rig downtime expenses avoided</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In early 2008, H&P designed and implemented a stand-alone set of FCPA policies and procedures as part of an effort to improve the company's compliance with the FCPA.  In connection with this effort, the company also designed and conducted worldwide FCPA training for its key employees.  During a training session in May 2008, an employee disclosed that potentially improper payments had been made by H&P Argentina to Argentina customs officials through a customs broker.  The information was transmitted to the H&P's corporate headquarters and came to the attention of the general counsel in July 2008.  In response, H&P retained outside FCPA counsel and independent forensic accountants to conduct an internal investigation into the customs payment practices of H&P's subsidiaries in various Latin American countries.  <br />	<br />H&P's internal investigation identified fifty improper payments made to government customs officials in Argentina and Venezuela from 2003 through 2008, totaling approximately USD 185,673.  In October 2008, H&P voluntarily disclosed its initial findings to the DOJ and SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 July 2009 H&P settled with the DOJ, entering into a two-year non-prosecution agreement and agreeing to pay a USD 1 million penalty.  On the same day, H&P also agreed to the entry of a SEC cease-and-desist order, agreeing to pay USD 375,000 in disgorgement of profits, including pre-judgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While certain payments may qualify for the facilitation payments exception under the FCPA, a company can be charged with books and records violations in connection with those payments if they are not properly recorded in the companys book and records.</li><li>Factors that may lead the DOJ to agree to a non-prosecution agreement include: (i) whether the company discovered the misconduct through its own internal controls processes; (ii) whether the company made a timely, voluntary, and complete disclosure to the DOJ and SEC; (iii) whether the company provided thorough and real-time cooperation with the DOJ and SEC; and (iv) whether the company undertook (or had agreed to undertake) extensive remedial measures.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=113">DOJ Press Release: July 30, 2009 (Helmerich & Payne Agrees to Pay $1 Million Penalty to Resolve Allegations of Foreign Bribery in South America) </a></p><p><a href="file.asp?id=114">Non-Prosecution Agreement (July 29, 2009) </a></p><p><a href="file.asp?id=115">SEC Cease-and-Desist Order (July 30, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

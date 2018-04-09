@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192502j05rn">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192502862qz" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GSI GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(322)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192502h792i" width="415" height="61" /></div>
+    
+        <h1>GSI GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        GSI Group Inc. ("GSI")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Precision motion products, lasers, and laser systems, and are used to boost efficiency and productivity in the global medical, semiconductor, electronics, and industrial markets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bedford, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        GSI described its internal investigation as follows in its SEC Form 10-K filed on 30 March 2011:<br /><br />"We conducted an internal review of potential issues related to the Foreign Corrupt Practices Act and voluntarily shared information relating to that review with the SEC in the third quarter of 2009. These matters could have a material adverse effect on us. Further, our reputation and our ability to do business may be impaired by improper conduct by any of our employees, agents or business partners.<br /><br />"On or about November 25, 2008, we initiated an independent review of sales transactions in our Semiconductor Systems segment and certain other sales transactions for fiscal years 2006, 2007 and 2008 and in May 2009, we announced that we were expanding the review to include 2004 and 2005. During the course of performing the review, our Audit Committee and its advisors identified certain potential issues related to the Foreign Corrupt Practices Act ('FCPA'), in particular in China, and referred those issues to our management for review. With the assistance of outside legal counsel, we conducted and completed an internal review of those potential issues and voluntarily shared information relating to the internal review with the SEC in the third quarter of 2009. While we have not received any further requests from the SEC relating to the matters raised as a result of this internal FCPA review, we cannot predict whether the SEC will request any further information from us or take any other action.<br /><br />"Following the aforementioned internal review, we updated our FCPA compliance policies and enhanced our FCPA training program. However, we cannot provide assurance that our internal controls will protect us from reckless or criminal acts committed by our employees, agents or business partners that would violate U.S. and/or non-U.S. laws, including the laws governing payments to government officials, competition, money laundering and data privacy. Any such improper actions could subject us to civil or criminal investigations in the U.S. and in other jurisdictions, and could lead to substantial civil or criminal, monetary and non monetary penalties against us or our subsidiaries."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SEC investigation appears to still be open. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1501">GSI Group: SEC Form 10-K (30 March 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

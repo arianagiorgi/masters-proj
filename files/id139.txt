@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192221pzd25">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922217kxq9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - YOUNG & RUBICAM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(139)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19222148g3x" width="415" height="61" /></div>
+    
+        <h1>YOUNG & RUBICAM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Young & Rubicam, Inc. ("Young & Rubicam")<br />Arthur R. Klein<br />Thomas Spangenberg<br />Arnold Foote, Jr. <br />Eric Anthony Abrahams<br />Steven McKenna<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Advertising and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Jamaica<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Young & Rubicam and its employees conspired to bribe Eric Abrahams, Jamaica's Minister of Tourism and Information, in order to obtain an advertising contract with the Jamaica Tourist Board.  In the early 1980s, Arnold Foote, a Jamaican national, and Robert Lowell, a U.S. citizen with connections in Jamaica, allegedly approached Young & Rubicam indicating that they were consultants to the Jamaican government and claiming to be able to help the company win contracts with the government, if they bribed Eric Abrahams.  The bribe was to be funneled through a company called Ad Ventures that the consultants established in the Cayman Islands. The consultants apparently never bribed Abrahams, but instead kept the payment.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Jamaican Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Advertising and marketing contract</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 1990, Young & Rubicam pleaded guilty to one count of conspiracy to violate the FCPA, but conceded that there was no evidence that Abrahams ever received any payments.  After this admission, the government dropped the FCPA and Racketeering and Corrupt Organizations Act ("RICO") charges against Klein, Spangenberg, Foote, Abrahams and McKenna. Young & Rubicam paid a USD 500,000 criminal fine. <br /><br />In 1992, Abrahams filed suit against Young & Rubicam for RICO violations, violations of the Connecticut Unfair Trade Practices Act, intentional infliction of emotional distress, negligence and defamation. He claimed that the widespread dissemination of his role in the bribery scheme injured his reputation and his emotional, financial, political and social status. He also sought damages for the loss of his consulting bridges as a result of the charges. The case was dismissed by the court. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The payment does not actually need to be paid to the government official in order to violate the FCPA. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

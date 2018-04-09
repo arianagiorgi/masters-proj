@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192203639q8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192203qbc1q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MONTEDISON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(119)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192203g9900" width="415" height="61" /></div>
+    
+        <h1>MONTEDISON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Montedison S.p.a ("Montedison")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agro-chemical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Milan, Lombardy, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Italy<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Through early 1993, Montedison, an Italian company with American Depository Receipts ("ADRs") traded on the New York Stock Exchange, fraudulently overstated its income by approximately USD 398 million.  According to the SEC complaint, these transactions involved, in part, fraudulent accounting to conceal bribes paid to politicians in Italy, which resulted in inaccurate books and records.  <br /><br />Montedison delisted its ADRs from the New York Stock Exchange in late 2000 when it was acquired by Compart, S.p.a.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Montedison voluntarily disclosed the conduct after new management was appointed. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 November 1996, without admitting or denying the SEC's allegations, Montedison consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's books and records provisions and other federal securities laws.  The company was also ordered to pay a USD 300,000 civil penalty. <br /><br />According to the SEC's Litigation Release, most of the senior management involved in the conduct were convicted under Italian criminal law and sued by Montedison. <br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Foreign companies with certain types of ADRs traded on a U.S. Stock Exchange are subject to the books and records provisions of the FCPA. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=334">SEC Litigation Release: March 30, 2001 (Securities and Exchange Commission v. Montedison S.p.a., Civil Action No. 1:96CV02631 (RWR) (D. D.C.). </a></p><p><a href="file.asp?id=335">SEC Litigation Release: November 21, 1996 (Securities and Exchange Commission v. Montedison S.p.a., Civil Action No. 1:96CV02631 (HHG) (D. D.C.). </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843215hl8z">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184321t49uz" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMEC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(91)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184321p20o6" width="415" height="61" /></div>
+    
+        <h1>AMEC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AMEC plc ("AMEC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International engineering and project management company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Little is known of the violations. The U.K. Serious Fraud Investigation Office ("SFO") explained in a Press Release dated 26 October 2009 that it was providing very limited information regarding this matter as there is an ongoing criminal investigation into related issues. <br /><br />Irregular payments were made between November 2005 and March 2007 in connection with a Public Private Partnership project in which AMEC was a shareholder.  The SFO determined that unlawful conduct occurred in connection with the description entered into AMEC's books and records of certain payments which amounted to a failure to comply with the requirements of Section 221 of the Companies Act 1985.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Amount of Irregular Receipts</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD $9 million</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In late 2007, AMEC identified certain irregular receipts received between November 2005 and early 2007, amounting to some USD $9 million. <br /><br />AMEC promptly appointed external advisors to carry out an investigation and self-reported the findings to the appropriate authorities, which included the SFO, in March 2008. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SFO investigation, which commenced on the receipt of a report from AMEC, determined that no criminal proceedings should be commenced against AMEC or any of its associated companies.  The SFO concluded that AMEC had failed to keep accurate records as required by law and this was a matter that could be dealt with by way of civil restitution as opposed to the use of criminal law.<br /><br />In October 2009, in a Consent Order agreed before the High Court of Justice of England and Wales, AMEC agreed to a settlement payment of GBP 4,943,648 plus costs incurred as a result of the Civil Recovery Proceedings.<br /><br />Following detection of the irregularities, AMEC has worked to improve its ethics, compliance and accounting standards.  As part of the settlement, AMEC agreed to appoint an independent consultant to review these improvements and to report the findings to the SFO.<br /><br />The SFO acknowledged that, upon completion of the internal investigation, AMEC acted promptly and responsibly in referring the case, and cooperated with the SFO's investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In appropriate cases, the SFO will deal with issues relating to a business by way of civil settlement, as opposed to using criminal law, provided the matter is reported promptly and the business cooperates with the SFO.  Details as to the cases the SFO will determine are appropriate to be dealt with by way of civil settlement are contained in the SFO publication "Approach of the Serious Fraud Office for Dealing with Overseas Corruption."</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=189">SFO Press Release: 26 October 2009 (SFO obtains Civil Recovery Order against AMEC plc)</a></p><p><a href="file.asp?id=190">AMEC Press Release: 26 October 2009 (AMEC plc – statement on civil recovery order)</a></p><p><a href="file.asp?id=587">SFO Guidance: 21 July 2009 (Approach of the Serious Fraud Office for Dealing with Overseas Corruption)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921385gzyo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19213815709" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMEC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(91)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192138jbeo0" width="415" height="61" /></div>
+    
+        <h1>AMEC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AMEC plc ("AMEC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International engineering and project management company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Little is known of the violations. The U.K. Serious Fraud Investigation Office ("SFO") explained in a Press Release dated 26 October 2009 that it was providing very limited information regarding this matter as there is an ongoing criminal investigation into related issues. <br /><br />Irregular payments were made between November 2005 and March 2007 in connection with a Public Private Partnership project in which AMEC was a shareholder.  The SFO determined that unlawful conduct occurred in connection with the description entered into AMEC's books and records of certain payments which amounted to a failure to comply with the requirements of Section 221 of the Companies Act 1985.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Amount of Irregular Receipts</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD $9 million</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In late 2007, AMEC identified certain irregular receipts received between November 2005 and early 2007, amounting to some USD $9 million. <br /><br />AMEC promptly appointed external advisors to carry out an investigation and self-reported the findings to the appropriate authorities, which included the SFO, in March 2008. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SFO investigation, which commenced on the receipt of a report from AMEC, determined that no criminal proceedings should be commenced against AMEC or any of its associated companies.  The SFO concluded that AMEC had failed to keep accurate records as required by law and this was a matter that could be dealt with by way of civil restitution as opposed to the use of criminal law.<br /><br />In October 2009, in a Consent Order agreed before the High Court of Justice of England and Wales, AMEC agreed to a settlement payment of GBP 4,943,648 plus costs incurred as a result of the Civil Recovery Proceedings.<br /><br />Following detection of the irregularities, AMEC has worked to improve its ethics, compliance and accounting standards.  As part of the settlement, AMEC agreed to appoint an independent consultant to review these improvements and to report the findings to the SFO.<br /><br />The SFO acknowledged that, upon completion of the internal investigation, AMEC acted promptly and responsibly in referring the case, and cooperated with the SFO's investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In appropriate cases, the SFO will deal with issues relating to a business by way of civil settlement, as opposed to using criminal law, provided the matter is reported promptly and the business cooperates with the SFO.  Details as to the cases the SFO will determine are appropriate to be dealt with by way of civil settlement are contained in the SFO publication "Approach of the Serious Fraud Office for Dealing with Overseas Corruption."</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=189">SFO Press Release: 26 October 2009 (SFO obtains Civil Recovery Order against AMEC plc)</a></p><p><a href="file.asp?id=190">AMEC Press Release: 26 October 2009 (AMEC plc – statement on civil recovery order)</a></p><p><a href="file.asp?id=587">SFO Guidance: 21 July 2009 (Approach of the Serious Fraud Office for Dealing with Overseas Corruption)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

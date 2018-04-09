@@ -1,0 +1,204 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842518t5gp">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842519uofw" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NOVO NORDISK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(59)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184251jdaum" width="415" height="61" /></div>
+    
+        <h1>NOVO NORDISK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Novo Nordisk A/S ("Novo Nordisk")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of insulin and other pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bagsvaerd, Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Novo Nordisk with one count of conspiracy to commit wire fraud and to violate the books and records provisions of the FCPA, in connection with improper payments made by its agents to the former Iraqi government under the United Nations ("U.N.") Oil for Food Program in order to obtain contracts to provide insulin and other medicines to the Iraqi government.  The SEC charged the company with violating the FCPA's books and records and internal controls provisions.  <br /><br />From 2000 to 2003, Novo Nordisk paid $1,437,946 in kickbacks on eleven contracts through a Jordan-based agent.  The company agreed to pay an additional $1,315,454 in kickbacks on two additional contracts.  The payments were made by inflating the price of contracts by 10% before submitting them to the U.N. for approval, concealing the kickbacks from the U.N.  The kickbacks were characterized as after-sales service fees ("ASSFs") and paid to bank accounts in Jordan and elsewhere that were controlled by the Iraqi government.  Novo Nordisk recorded the kickbacks as commissions in its books and records.  <br /><br />Pursuant to the U.N. Oil for Food Program, Novo Nordisk was able to secure EUR 22 million worth of contracts to supply insulin and other medicines to the State Company for Drugs and Medical Appliances ("Kimadia"), a state-owned company which was part of the Ministry of Health of the government of Iraq.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">&nbsp;Approximate Payments Made or Promised to the Iraqi Government</p></td><td width="50%"><p align="center">&nbsp;Business Advantage Obtained</p></td></tr><tr><td><p align="center">&nbsp;$2,753,400</p></td><td><p align="center">&nbsp;Contracts worth EUR 22 million</p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Novo Nordisk.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On May 11, 2009, without admitting or denying the SEC's allegations, Novo Nordisk consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Novo Nordisk was ordered to disgorge $4,321,523 in profits plus $1,683,556 in pre-judgment interest, and to pay a civil penalty of $3,025,066.<br /><br />Novo Nordisk also entered into a three-year deferred prosecution agreement with the DOJ, agreeing to pay a $9 million criminal fine.  <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPAs anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=223">Criminal Information: U.S. v. Novo Nordisk A/S (May 11, 2009)</a></p><p><a href="file.asp?id=1135">Plea Agreement: U.S. v. Novo Nordisk AS (May 11, 2009)</a></p><p><a href="file.asp?id=221">DOJ Press Release: May 11, 2009 (Novo Nordisk Agrees to Pay $9 Million Fine in Connection With Payment of $1.4 Million in Kickbacks Through the United Nations Oil-for-Food Program)</a></p><p><a href="file.asp?id=224">SEC Complaint: SEC v. Novo Nordisk A/S (May 11, 2009)</a></p><p><a href="file.asp?id=222">SEC Litigation Release: May 11, 2009 (SEC Files Settled Books and Records and Internal Controls Charges</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192108u549a">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192108x79k0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NOVO NORDISK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(59)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192108vfjlv" width="415" height="61" /></div>
+    
+        <h1>NOVO NORDISK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Novo Nordisk A/S ("Novo Nordisk")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of insulin and other pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bagsvaerd, Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Novo Nordisk with one count of conspiracy to commit wire fraud and to violate the books and records provisions of the FCPA, in connection with improper payments made by its agents to the former Iraqi government under the United Nations ("U.N.") Oil for Food Program in order to obtain contracts to provide insulin and other medicines to the Iraqi government.  The SEC charged the company with violating the FCPA's books and records and internal controls provisions.  <br /><br />From 2000 to 2003, Novo Nordisk paid $1,437,946 in kickbacks on eleven contracts through a Jordan-based agent.  The company agreed to pay an additional $1,315,454 in kickbacks on two additional contracts.  The payments were made by inflating the price of contracts by 10% before submitting them to the U.N. for approval, concealing the kickbacks from the U.N.  The kickbacks were characterized as after-sales service fees ("ASSFs") and paid to bank accounts in Jordan and elsewhere that were controlled by the Iraqi government.  Novo Nordisk recorded the kickbacks as commissions in its books and records.  <br /><br />Pursuant to the U.N. Oil for Food Program, Novo Nordisk was able to secure EUR 22 million worth of contracts to supply insulin and other medicines to the State Company for Drugs and Medical Appliances ("Kimadia"), a state-owned company which was part of the Ministry of Health of the government of Iraq.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">&nbsp;Approximate Payments Made or Promised to the Iraqi Government</p></td><td width="50%"><p align="center">&nbsp;Business Advantage Obtained</p></td></tr><tr><td><p align="center">&nbsp;$2,753,400</p></td><td><p align="center">&nbsp;Contracts worth EUR 22 million</p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Novo Nordisk.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On May 11, 2009, without admitting or denying the SEC's allegations, Novo Nordisk consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Novo Nordisk was ordered to disgorge $4,321,523 in profits plus $1,683,556 in pre-judgment interest, and to pay a civil penalty of $3,025,066.<br /><br />Novo Nordisk also entered into a three-year deferred prosecution agreement with the DOJ, agreeing to pay a $9 million criminal fine.  <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPAs anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=223">Criminal Information: U.S. v. Novo Nordisk A/S (May 11, 2009)</a></p><p><a href="file.asp?id=1135">Plea Agreement: U.S. v. Novo Nordisk AS (May 11, 2009)</a></p><p><a href="file.asp?id=221">DOJ Press Release: May 11, 2009 (Novo Nordisk Agrees to Pay $9 Million Fine in Connection With Payment of $1.4 Million in Kickbacks Through the United Nations Oil-for-Food Program)</a></p><p><a href="file.asp?id=224">SEC Complaint: SEC v. Novo Nordisk A/S (May 11, 2009)</a></p><p><a href="file.asp?id=222">SEC Litigation Release: May 11, 2009 (SEC Files Settled Books and Records and Internal Controls Charges</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

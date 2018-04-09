@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184303824h6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18430359q1y" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DUTCH OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(72)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184303owc44" width="415" height="61" /></div>
+    
+        <h1>DUTCH OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Netherlands: National Public Prosecutor's Office for Financial, Economic and Environmental Offences<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Flowserve BV<br />Solvochem Holland BV <br />OPW Fluid Transfer Group Europe BV<br />Prodetra BV<br />NV Organon <br />Alfasan International BV <br />Stet Holland BV <br />Trafigura beheer BV <br />Saybolt International Group BV
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Dutch Ministry of Justices National Public Prosecutor's Office for Financial, Economic and Environmental Offences lead an investigation  executed by the Dutch anti-fraud agency, the Fiscal Information and Investigation Service/Economic Investigation Service ("FIOD-ECD")  into the companies listed above in connection with their activities in Iraq under the United Nations ("U.N.") Oil-for-Food Program.  All of the companies allegedly paid 10% kickbacks to the former Iraqi regime during the second half of 2000.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract price</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts under the U.N. Oil-for-Food Program, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following serious allegations towards the U.N. administration, among others, the Independent Inquiry Committee ("IIC") was established in 2004 in order to carry out an in-depth inquiry. <br /><br />IIC published eight reports that included information that foreign companies, including Dutch companies, had bypassed U.N. sanctions by making illegal payments when entering into contracts with the Iraqi government.<br /><br />After receiving the information from the Independent Inquiry Committee, the Dutch Ministry of Justice began its national investigations.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Flowserve BV, Solvochem Holland BV, OPW Fluid Transfer Group Europe BV, Prodetra BV, NV Organon, Alfasan International BV and Stet Holland BV all reached out-of-court settlements with the Dutch Ministry of Justice, according to a Ministry press release on 15 July 2008.  Without admitting guilt, the companies were ordered to pay the following transaction-fees: <br /><br />Flowserve BV: EUR 256,534<br /><br />Solvochem Holland BV: EUR 280,592<br /><br />OPW Fluid Transfer Group Europe BV: EUR 81,804<br /><br />Prodetra BV: EUR 99,236.95<br /><br />NV Organon: EUR 381.602<br /><br />Alfasan International BV: EUR 41,983.55<br /><br />Stet Holland BV: EUR 174,170<br /><br />The Chief Executive Officer of Saybolt International Group BV received a four-month home detention sentence by a U.S. court and was ordered to pay a USD 20,000 penalty.  The Chairman of the Board was accused in U.S. court, but could be not extradited because of Dutch law.  He will likely not be prosecuted in the Netherlands.<br /><br />Trafigura beheer BV is currently under investigation in the United States and will likely not be prosecuted in the Netherlands.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=81">Ministry of Justice Press Release: July 15, 2008</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192120f85ru">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192120dn32y" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DUTCH OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(72)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192120n1p04" width="415" height="61" /></div>
+    
+        <h1>DUTCH OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Netherlands: National Public Prosecutor's Office for Financial, Economic and Environmental Offences<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Flowserve BV<br />Solvochem Holland BV <br />OPW Fluid Transfer Group Europe BV<br />Prodetra BV<br />NV Organon <br />Alfasan International BV <br />Stet Holland BV <br />Trafigura beheer BV <br />Saybolt International Group BV
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Dutch Ministry of Justices National Public Prosecutor's Office for Financial, Economic and Environmental Offences lead an investigation  executed by the Dutch anti-fraud agency, the Fiscal Information and Investigation Service/Economic Investigation Service ("FIOD-ECD")  into the companies listed above in connection with their activities in Iraq under the United Nations ("U.N.") Oil-for-Food Program.  All of the companies allegedly paid 10% kickbacks to the former Iraqi regime during the second half of 2000.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract price</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts under the U.N. Oil-for-Food Program, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following serious allegations towards the U.N. administration, among others, the Independent Inquiry Committee ("IIC") was established in 2004 in order to carry out an in-depth inquiry. <br /><br />IIC published eight reports that included information that foreign companies, including Dutch companies, had bypassed U.N. sanctions by making illegal payments when entering into contracts with the Iraqi government.<br /><br />After receiving the information from the Independent Inquiry Committee, the Dutch Ministry of Justice began its national investigations.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Flowserve BV, Solvochem Holland BV, OPW Fluid Transfer Group Europe BV, Prodetra BV, NV Organon, Alfasan International BV and Stet Holland BV all reached out-of-court settlements with the Dutch Ministry of Justice, according to a Ministry press release on 15 July 2008.  Without admitting guilt, the companies were ordered to pay the following transaction-fees: <br /><br />Flowserve BV: EUR 256,534<br /><br />Solvochem Holland BV: EUR 280,592<br /><br />OPW Fluid Transfer Group Europe BV: EUR 81,804<br /><br />Prodetra BV: EUR 99,236.95<br /><br />NV Organon: EUR 381.602<br /><br />Alfasan International BV: EUR 41,983.55<br /><br />Stet Holland BV: EUR 174,170<br /><br />The Chief Executive Officer of Saybolt International Group BV received a four-month home detention sentence by a U.S. court and was ordered to pay a USD 20,000 penalty.  The Chairman of the Board was accused in U.S. court, but could be not extradited because of Dutch law.  He will likely not be prosecuted in the Netherlands.<br /><br />Trafigura beheer BV is currently under investigation in the United States and will likely not be prosecuted in the Netherlands.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=81">Ministry of Justice Press Release: July 15, 2008</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

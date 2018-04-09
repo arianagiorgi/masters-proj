@@ -1,0 +1,369 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170712308qo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707125f0iy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MICRUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(26)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-17071213xgv" width="415" height="61" /></div>
+    
+        <h1>MICRUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Micrus Corporation ("Micrus")<br />Micrus S.A. (Micrus's Swiss subsidiary)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        California, Sunnyvale , United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        France<br />Germany<br />Spain<br />Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Micrus, a privately-held company, admitted to paying approximately USD 105,000 in stock options, honorariums, and commissions to doctors at state-owned hospitals in France, Turkey, Spain and Germany between January 2002 and August 2004.  These payments were not accurately recorded in the company's books and records.  In addition, during the same period, Micrus paid USD 250,000 to doctors without obtaining necessary legal and regulatory approvals required by local law.  Micrus made these payments through officers, employees, agents and salespeople in order to influence doctors to purchase embolic coils, which are used to treat neurovascular diseases.  Micrus did not have an FCPA compliance program in place when the violations occurred. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 355,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The conduct was discovered prior to the company's initial public offering. Micrus voluntarily disclosed the conduct to the DOJ. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 February 2005, Micrus and its Swiss subsidiary, Micrus S.A., entered into a two-year deferred prosecution agreement with DOJ under which it agreed to pay USD 450,000 in penalties. In addition, Micrus agreed to the following: (i) to continue its cooperation with the DOJ's investigation; (ii) to affirmatively disclose to the DOJ any activities that it believes may violate the FCPA; (iii) not to contradict the statement of facts included in the agreement; (iv) to adopt an FCPA compliance program and internal controls in order to prevent future violations; and (v) to retain an independent compliance monitor for a three-year period.  <br /><br />The DOJ noted that a deferred prosecution agreement was appropriate in this case because Micrus voluntarily disclosed the conduct, took prompt disciplinary action against the officers and employees involved in the conduct, cooperated with the DOJ's investigation, and had no prior criminal history. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Jan Handzlik
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Doctors at state-owned hospitals are considered foreign officials under the FCPA.</li><li>Prompt voluntary disclosure to, and cooperation with, the enforcement authorities may result in a deferred prosecution agreement rather than a criminal prosecution.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=159">DOJ Press Release: March 2, 2005 (Micrus Corporation Enters into Agreement to Resolve Potential Foreign Corrupt Practices Act Liability)</a></p><p><a href="file.asp?id=160">Deferred Prosecution Agreement (February 28, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #336699;">IPO</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184222gi675">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18422246f62" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MICRUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(26)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842227988y" width="415" height="61" /></div>
+    
+        <h1>MICRUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Micrus Corporation ("Micrus")<br />Micrus S.A. (Micrus's Swiss subsidiary)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        California, Sunnyvale , United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        France<br />Germany<br />Spain<br />Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Micrus, a privately-held company, admitted to paying approximately USD 105,000 in stock options, honorariums, and commissions to doctors at state-owned hospitals in France, Turkey, Spain and Germany between January 2002 and August 2004.  These payments were not accurately recorded in the company's books and records.  In addition, during the same period, Micrus paid USD 250,000 to doctors without obtaining necessary legal and regulatory approvals required by local law.  Micrus made these payments through officers, employees, agents and salespeople in order to influence doctors to purchase embolic coils, which are used to treat neurovascular diseases.  Micrus did not have an FCPA compliance program in place when the violations occurred. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 355,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The conduct was discovered prior to the company's initial public offering. Micrus voluntarily disclosed the conduct to the DOJ. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 February 2005, Micrus and its Swiss subsidiary, Micrus S.A., entered into a two-year deferred prosecution agreement with DOJ under which it agreed to pay USD 450,000 in penalties. In addition, Micrus agreed to the following: (i) to continue its cooperation with the DOJ's investigation; (ii) to affirmatively disclose to the DOJ any activities that it believes may violate the FCPA; (iii) not to contradict the statement of facts included in the agreement; (iv) to adopt an FCPA compliance program and internal controls in order to prevent future violations; and (v) to retain an independent compliance monitor for a three-year period.  <br /><br />The DOJ noted that a deferred prosecution agreement was appropriate in this case because Micrus voluntarily disclosed the conduct, took prompt disciplinary action against the officers and employees involved in the conduct, cooperated with the DOJ's investigation, and had no prior criminal history. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Jan Handzlik
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Doctors at state-owned hospitals are considered foreign officials under the FCPA.</li><li>Prompt voluntary disclosure to, and cooperation with, the enforcement authorities may result in a deferred prosecution agreement rather than a criminal prosecution.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=159">DOJ Press Release: March 2, 2005 (Micrus Corporation Enters into Agreement to Resolve Potential Foreign Corrupt Practices Act Liability)</a></p><p><a href="file.asp?id=160">Deferred Prosecution Agreement (February 28, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #336699;">IPO</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19203786s1s">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192037tad4q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MICRUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(26)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192037s9645" width="415" height="61" /></div>
+    
+        <h1>MICRUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Micrus Corporation ("Micrus")<br />Micrus S.A. (Micrus's Swiss subsidiary)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical devices 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        California, Sunnyvale , United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        France<br />Germany<br />Spain<br />Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Micrus, a privately-held company, admitted to paying approximately USD 105,000 in stock options, honorariums, and commissions to doctors at state-owned hospitals in France, Turkey, Spain and Germany between January 2002 and August 2004.  These payments were not accurately recorded in the company's books and records.  In addition, during the same period, Micrus paid USD 250,000 to doctors without obtaining necessary legal and regulatory approvals required by local law.  Micrus made these payments through officers, employees, agents and salespeople in order to influence doctors to purchase embolic coils, which are used to treat neurovascular diseases.  Micrus did not have an FCPA compliance program in place when the violations occurred. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 355,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The conduct was discovered prior to the company's initial public offering. Micrus voluntarily disclosed the conduct to the DOJ. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 February 2005, Micrus and its Swiss subsidiary, Micrus S.A., entered into a two-year deferred prosecution agreement with DOJ under which it agreed to pay USD 450,000 in penalties. In addition, Micrus agreed to the following: (i) to continue its cooperation with the DOJ's investigation; (ii) to affirmatively disclose to the DOJ any activities that it believes may violate the FCPA; (iii) not to contradict the statement of facts included in the agreement; (iv) to adopt an FCPA compliance program and internal controls in order to prevent future violations; and (v) to retain an independent compliance monitor for a three-year period.  <br /><br />The DOJ noted that a deferred prosecution agreement was appropriate in this case because Micrus voluntarily disclosed the conduct, took prompt disciplinary action against the officers and employees involved in the conduct, cooperated with the DOJ's investigation, and had no prior criminal history. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Jan Handzlik
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Doctors at state-owned hospitals are considered foreign officials under the FCPA.</li><li>Prompt voluntary disclosure to, and cooperation with, the enforcement authorities may result in a deferred prosecution agreement rather than a criminal prosecution.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=159">DOJ Press Release: March 2, 2005 (Micrus Corporation Enters into Agreement to Resolve Potential Foreign Corrupt Practices Act Liability)</a></p><p><a href="file.asp?id=160">Deferred Prosecution Agreement (February 28, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #336699;">IPO</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925210b6g8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19252166d51" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ACTAVIS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(344)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192521pbxxr" width="415" height="61" /></div>
+    
+        <h1>ACTAVIS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Czech Republic: State Institute for Drug Control<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Actavis Group hf. ("Actavis")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Generic pharmaceuticals
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hafnarfjordur, Iceland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Czech Republic<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, Actavis, an Icelandic generic pharmaceutical company, was fined CZK 750,000 (EUR 30,000) in August 2009 by the Czech State Institute for Drug Control (SUKL) for having covered the costs of a holiday on the Egyptian coast for a group of Czech doctors in exchange for the prescription of its medicines.  <br /><br />It appears that technically Actavis was penalized for violating the law on advertising, rather than for bribery. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Czech Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Leisure trip to Egyptian coast</td>
+<td style="text-align: center;">Prescription of company drugs, of unspecified value</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As stated above, in August 2009 the SUKL fined Actavis CZK 750,000 (EUR 30,000) for the conduct.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Countries will relatively new anti-bribery laws may initially begin prosecuting bribery-related conduct under separate legislation or enforcement mechanisms.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>PMR: "Tighter corruption sanctions to be implemented" (7 September 2009)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924172y446">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192417a03u1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IKEA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(268)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924172062z" width="415" height="61" /></div>
+    
+        <h1>IKEA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Sweden: Prosecution Authority, Anti-Corruption Unit<br />France: Public Prosecution Service<br />Russia: Prosecutor General's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Inter IKEA Systems B.V. ("IKEA")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global furniture retailer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Delft, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        France<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Russia<br /><br />According to press reports, in December 2011 the Russian Interior Ministry charged a former senior IKEA executive in absentia of attempting to extort a bribe from a local businessman who had sought to rent space in one of IKEA's MEGA shopping centers in Moscow.  The 35-year-old Swedish IKEA manager, along with two other alleged accomplices, sought to extort a cash payment of RUB 6.5 million (USD 203,000) in February according to Russian officials. <br /><br />Press reports state that the businessman informed the Moscow police, who arrested a 43-year-old Turkish citizen involved in the attempted extortion. There is another Turkish citizen thought to be involved. The Swedish man wanted in the case is believed to be abroad, Russian authorities said.<br /><br />According to press reports, in February 2010 IKEA terminated two executives from its Russian operations in connection with alleged bribes paid through a contractor to Russian officials.  The payments were allegedly made in order to secure electricity supplies at two IKEA-owned MEGA shopping centres in St. Petersburg.  <br /><br />Russian and Swedish authorities are reportedly investigating the matter and IKEA is conducting its own internal investigation.  <br /><br />France<br /><br />In March 2012, French police launched a preliminary inquiry into complaints filed by a regional union against IKEA in Seine-Saint-Denis, France.  The investigation officially became a criminal investigation in April; IKEA began its own internal investigation into the allegations at around the same time.  IKEA is accused of engaging in unethical practices in order to obtain information about employees. Sources claim that for two decades, the company had been in the practice of showering the local police with gift cards and other items of value in exchange for information about employees.  Referring to the small amounts given with frequency and great regularity to grease the palms of the local police, a former manager wondered, "Otherwise, how would you expect the police to be here when we need them, or for them to give us the criminal history of a union activist?"  The judicial inquiry is focused on IKEA's alleged violation of electronic data protection and professional privacy.  IKEA management is suspected of having engaged agents to pay the police for information in France's Système de traitement des infractions constatées ("STIC") files, a database of previous infractions that is not accessible to the public. The company is also accused of hiring another third party to place two fake employees as spies in order to obtain information about union activity.  <br /><br />On 18 May 2012, the company announced the dismissal of four executives:  the head of the risk management division, a former country manager, former human resources manager, and a former CFO.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Russian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Local: "Ikea founder 'cried like a baby' over Russian bribery scandal" (19 Feb. 2010)</p><p>NY Times: "Ikea Fires 2 Officials in Russia Bribe Case" (15 Feb. 2010)</p><p>The Russian Monitor: "IKEA Scandal - Furniture Giant's Corruption Troubles Far from Over [Updated]" (4 April 2010)</p><p>WSJ: "Russia Accuses IKEA Manager Of Extorting Bribe" (19 Dec 2011)</p><p>Moscow Times: "IKEA Mired in Bribery Scandal" (20 Dec 2011)  </p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #000000;">Charities</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #666633;">Retail</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

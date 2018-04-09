@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707181glhg">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17071816ngl" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AKZO NOBEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(32)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170718p114e" width="415" height="61" /></div>
+    
+        <h1>AKZO NOBEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Netherlands: National Public Prosecutor's Office for Financial, Economic and Environmental Offences<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Akzo Nobel, N.V. ("Akzo Nobel")<br />N.V. Organon (wholly-owned subsidiary of Akzo Nobel)<br />Intervet International B.V. (wholly-owned subsidiary of Akzo Nobel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical sales
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately 2000 through 2003, two subsidiaries of Akzo Nobel made approximately USD 279,491 in kickback payments to the Iraqi government in connection with the sale of humanitarian goods under the United Nations ("UN") Oil for Food Program.  N.V. Organon and Intervet International B.V.  two Akzo Nobel subsidiaries at the time  inflated the price of contracts with Iraqi ministries, usually by adding 10% before submitting the contracts to the UN for approval, and concealed from the UN the fact that the prices contained a kickback to the Iraqi government.  N.V. Organon manufactured and sold prescription pharmaceutical products, including hormone and anesthesia products; Intervet International B.V. manufactured veterinary vaccines and animal pharmaceuticals.<br /><br />The kickbacks were characterized as after sales service fees ("ASSFs"), but no services were actually performed.  The kickbacks were authorized by the subsidiaries and then, bypassing the UN escrow account, were paid by third parties to Iraqi bank accounts in Lebanon and Jordan. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Iraqi Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 279,491</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1,647,363 in profits<br />(based on SEC disgorgement figure)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Akzo Nobel self-disclosed the violations to the U.S. Department of Justice (“DOJ”) and U.S. Securities and Exchange Commission (“SEC”) following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil for Food Program, which listed Akzo Nobel.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 December 2007, Akzo Nobel entered into a non-prosecution agreement with the DOJ. Under the agreement, N.V. Organon was expected, within 180 days, to reach a resolution with the Dutch National Public Prosecutors Office for Financial, Economic and Environmental Offences regarding the conduct, wherein it would pay a criminal fine of approximately EUR 381,000 in the Netherlands.  Should N.V. Organon have failed to reach a timely resolution with the Dutch Public Prosecutor, the agreement required Akzo Nobel to pay a fine of USD 800,000 to the U.S. Treasury.  In fact, N.V. Organon reached a settlement with the Dutch Public Prosecutor in July 2008, under which the company was ordered to pay a EUR 381,602 "transaction fee."<br /><br />Under the non-prosecution agreement, Akzo Nobel also agreed to cooperate with the DOJ's ongoing Oil for Food investigations.   <br /><br />The DOJ agreed not to file criminal charges against Akzo Nobel or its subsidiaries in recognition of N.V. Organon's anticipated resolution with the Dutch Public Prosecutor and Akzo Nobel's disclosure of the improper payments to the DOJ following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil-for-Food Program.<br />	<br />Also on 20 December 2007, Akzo Nobel settled books and records and internal controls charges with the SEC.  Under the agreement, Akzo Nobel agreed to pay USD 750,000 in civil penalties, USD 1,647,363 in disgorgement of profits and USD 584,150 in pre-judgment interest.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt remedial actions and self-disclosure to the DOJ and SEC, as well as cooperation with the agencies' investigations, can result in reduced penalties.</li><li>A concurrent investigation by a foreign prosecutorial agency, and the associated penalties, may preclude criminal charges and penalties in the United States.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=15">DOJ Press Release: December 20, 2007 (Akzo Nobel Acknowledges Improper Payments Made by its Subsidiaries to Iraqi Government Under the U.N. Oil for Food Program, Enters Agreement with Department of Justice)</a></p><p><a href="file.asp?id=16">SEC Litigation Release: December 20, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Akzo Nobel N.V. For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $2.9 Million)</a></p><p><a href="file.asp?id=17">Complaint: SEC v. Akzo Nobel, N.V. (December 20, 2007)</a></p><p><a href="file.asp?id=1086">Non-Prosecution Agreement: DOJ v. Akzo Noble, N.V. (December 20, 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18422713mbo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18422715vhx" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AKZO NOBEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(32)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184227wk8l0" width="415" height="61" /></div>
+    
+        <h1>AKZO NOBEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Netherlands: National Public Prosecutor's Office for Financial, Economic and Environmental Offences<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Akzo Nobel, N.V. ("Akzo Nobel")<br />N.V. Organon (wholly-owned subsidiary of Akzo Nobel)<br />Intervet International B.V. (wholly-owned subsidiary of Akzo Nobel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical sales
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately 2000 through 2003, two subsidiaries of Akzo Nobel made approximately USD 279,491 in kickback payments to the Iraqi government in connection with the sale of humanitarian goods under the United Nations ("UN") Oil for Food Program.  N.V. Organon and Intervet International B.V.  two Akzo Nobel subsidiaries at the time  inflated the price of contracts with Iraqi ministries, usually by adding 10% before submitting the contracts to the UN for approval, and concealed from the UN the fact that the prices contained a kickback to the Iraqi government.  N.V. Organon manufactured and sold prescription pharmaceutical products, including hormone and anesthesia products; Intervet International B.V. manufactured veterinary vaccines and animal pharmaceuticals.<br /><br />The kickbacks were characterized as after sales service fees ("ASSFs"), but no services were actually performed.  The kickbacks were authorized by the subsidiaries and then, bypassing the UN escrow account, were paid by third parties to Iraqi bank accounts in Lebanon and Jordan. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Iraqi Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 279,491</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1,647,363 in profits<br />(based on SEC disgorgement figure)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Akzo Nobel self-disclosed the violations to the U.S. Department of Justice (“DOJ”) and U.S. Securities and Exchange Commission (“SEC”) following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil for Food Program, which listed Akzo Nobel.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 December 2007, Akzo Nobel entered into a non-prosecution agreement with the DOJ. Under the agreement, N.V. Organon was expected, within 180 days, to reach a resolution with the Dutch National Public Prosecutors Office for Financial, Economic and Environmental Offences regarding the conduct, wherein it would pay a criminal fine of approximately EUR 381,000 in the Netherlands.  Should N.V. Organon have failed to reach a timely resolution with the Dutch Public Prosecutor, the agreement required Akzo Nobel to pay a fine of USD 800,000 to the U.S. Treasury.  In fact, N.V. Organon reached a settlement with the Dutch Public Prosecutor in July 2008, under which the company was ordered to pay a EUR 381,602 "transaction fee."<br /><br />Under the non-prosecution agreement, Akzo Nobel also agreed to cooperate with the DOJ's ongoing Oil for Food investigations.   <br /><br />The DOJ agreed not to file criminal charges against Akzo Nobel or its subsidiaries in recognition of N.V. Organon's anticipated resolution with the Dutch Public Prosecutor and Akzo Nobel's disclosure of the improper payments to the DOJ following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil-for-Food Program.<br />	<br />Also on 20 December 2007, Akzo Nobel settled books and records and internal controls charges with the SEC.  Under the agreement, Akzo Nobel agreed to pay USD 750,000 in civil penalties, USD 1,647,363 in disgorgement of profits and USD 584,150 in pre-judgment interest.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt remedial actions and self-disclosure to the DOJ and SEC, as well as cooperation with the agencies' investigations, can result in reduced penalties.</li><li>A concurrent investigation by a foreign prosecutorial agency, and the associated penalties, may preclude criminal charges and penalties in the United States.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=15">DOJ Press Release: December 20, 2007 (Akzo Nobel Acknowledges Improper Payments Made by its Subsidiaries to Iraqi Government Under the U.N. Oil for Food Program, Enters Agreement with Department of Justice)</a></p><p><a href="file.asp?id=16">SEC Litigation Release: December 20, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Akzo Nobel N.V. For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $2.9 Million)</a></p><p><a href="file.asp?id=17">Complaint: SEC v. Akzo Nobel, N.V. (December 20, 2007)</a></p><p><a href="file.asp?id=1086">Non-Prosecution Agreement: DOJ v. Akzo Noble, N.V. (December 20, 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192043u84n0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192043d0277" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AKZO NOBEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(32)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192043dk630" width="415" height="61" /></div>
+    
+        <h1>AKZO NOBEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Netherlands: National Public Prosecutor's Office for Financial, Economic and Environmental Offences<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Akzo Nobel, N.V. ("Akzo Nobel")<br />N.V. Organon (wholly-owned subsidiary of Akzo Nobel)<br />Intervet International B.V. (wholly-owned subsidiary of Akzo Nobel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical sales
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately 2000 through 2003, two subsidiaries of Akzo Nobel made approximately USD 279,491 in kickback payments to the Iraqi government in connection with the sale of humanitarian goods under the United Nations ("UN") Oil for Food Program.  N.V. Organon and Intervet International B.V.  two Akzo Nobel subsidiaries at the time  inflated the price of contracts with Iraqi ministries, usually by adding 10% before submitting the contracts to the UN for approval, and concealed from the UN the fact that the prices contained a kickback to the Iraqi government.  N.V. Organon manufactured and sold prescription pharmaceutical products, including hormone and anesthesia products; Intervet International B.V. manufactured veterinary vaccines and animal pharmaceuticals.<br /><br />The kickbacks were characterized as after sales service fees ("ASSFs"), but no services were actually performed.  The kickbacks were authorized by the subsidiaries and then, bypassing the UN escrow account, were paid by third parties to Iraqi bank accounts in Lebanon and Jordan. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Iraqi Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 279,491</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1,647,363 in profits<br />(based on SEC disgorgement figure)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Akzo Nobel self-disclosed the violations to the U.S. Department of Justice (“DOJ”) and U.S. Securities and Exchange Commission (“SEC”) following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil for Food Program, which listed Akzo Nobel.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 December 2007, Akzo Nobel entered into a non-prosecution agreement with the DOJ. Under the agreement, N.V. Organon was expected, within 180 days, to reach a resolution with the Dutch National Public Prosecutors Office for Financial, Economic and Environmental Offences regarding the conduct, wherein it would pay a criminal fine of approximately EUR 381,000 in the Netherlands.  Should N.V. Organon have failed to reach a timely resolution with the Dutch Public Prosecutor, the agreement required Akzo Nobel to pay a fine of USD 800,000 to the U.S. Treasury.  In fact, N.V. Organon reached a settlement with the Dutch Public Prosecutor in July 2008, under which the company was ordered to pay a EUR 381,602 "transaction fee."<br /><br />Under the non-prosecution agreement, Akzo Nobel also agreed to cooperate with the DOJ's ongoing Oil for Food investigations.   <br /><br />The DOJ agreed not to file criminal charges against Akzo Nobel or its subsidiaries in recognition of N.V. Organon's anticipated resolution with the Dutch Public Prosecutor and Akzo Nobel's disclosure of the improper payments to the DOJ following the publication of the final report of the Independent Inquiry Committee into the U.N. Oil-for-Food Program.<br />	<br />Also on 20 December 2007, Akzo Nobel settled books and records and internal controls charges with the SEC.  Under the agreement, Akzo Nobel agreed to pay USD 750,000 in civil penalties, USD 1,647,363 in disgorgement of profits and USD 584,150 in pre-judgment interest.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt remedial actions and self-disclosure to the DOJ and SEC, as well as cooperation with the agencies' investigations, can result in reduced penalties.</li><li>A concurrent investigation by a foreign prosecutorial agency, and the associated penalties, may preclude criminal charges and penalties in the United States.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=15">DOJ Press Release: December 20, 2007 (Akzo Nobel Acknowledges Improper Payments Made by its Subsidiaries to Iraqi Government Under the U.N. Oil for Food Program, Enters Agreement with Department of Justice)</a></p><p><a href="file.asp?id=16">SEC Litigation Release: December 20, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against Akzo Nobel N.V. For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $2.9 Million)</a></p><p><a href="file.asp?id=17">Complaint: SEC v. Akzo Nobel, N.V. (December 20, 2007)</a></p><p><a href="file.asp?id=1086">Non-Prosecution Agreement: DOJ v. Akzo Noble, N.V. (December 20, 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

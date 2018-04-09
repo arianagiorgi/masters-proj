@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192341l984h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192341gk920" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TEAM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(227)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19234102x6s" width="415" height="61" /></div>
+    
+        <h1>TEAM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Team, Inc. ("Team")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Specialized maintenance services for piping systems and related mechanical services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Alvin, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Trinidad and Tobago<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Team described the (at the time) ongoing investigation as follows in its SEC Form 10-Q filed on January 7, 2011:<br /><br />"During an internal management review of our TMS branch operations in Trinidad in the Spring of 2009, employees informed us of allegations of improper payments made by local employees of our wholly-owned Trinidad subsidiary to employees of certain customers, including foreign government owned enterprises. These improper payments may constitute violations of the U.S. Foreign Corrupt Practices Act (“FCPA”) or other applicable laws. Consequently, the Audit Committee of our Board of Directors (the “Audit Committee”) conducted an investigation of those allegations with the assistance of independent outside counsel. We voluntarily disclosed information relating to the initial allegations, the investigation and the findings to the U.S. Department of Justice (“DOJ”) and to the SEC.<br /><br />The report of the independent investigator was delivered to the Audit Committee of our BOD in March 2010 and to the DOJ and SEC in May 2010. We have not been contacted by the SEC or DOJ since the May 2010 report of the independent investigator. The investigation concluded that improper payments of limited size were made to employees of foreign government owned enterprises in Trinidad, but determined that the improper payments were not made, or authorized by, employees outside the one TMS Trinidad branch. The investigation of our other foreign operations did not result in any findings of significance and management has remediated all matters identified in the investigation. Based upon the results of the investigation, we believe that the total of the improper payments to government owned enterprises over the past five years did not exceed $50,000. The total annual revenues from the impacted TMS Trinidad branch represent less than one percent of our annual consolidated revenues for all years presented. While the DOJ and SEC have not concluded their review, our management continues to believe that any possible violations of the FCPA are limited in size and scope.<br /><br />Since the commencement of the investigation in 2009, we have expended an aggregate of approximately $3.2 million on legal and other professional services related to this investigation. The FCPA and related statutes and regulations provide for potential monetary penalties, disgorgement and interest, as well as criminal and civil sanctions in connection with violations of the FCPA and other applicable laws. It is possible that monetary penalties could be assessed against us or that we enter into a settlement with the U.S. government and other foreign governmental agencies in connection with this matter resulting in monetary payments. The nature, timing and amount of any monetary penalties depend on a number of factors which cannot reasonably be estimated at this time. As a result, we have not recorded any provision for monetary penalties or other costs related to potential criminal and civil sanctions."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to Foreign Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SEC and DOJ closed their investigations without taking any enforcement action against Team.  Team explained as follows in its SEC Form 10-K filed on August 2, 2011:<br /><br />"During an internal management review of our TMS branch operations in Trinidad in the spring of 2009, employees informed us of allegations of improper payments made by local employees of our wholly-owned Trinidad subsidiary to employees of certain customers, including foreign government owned enterprises. In June 2009, the Audit Committee of our Board of Directors (the “Board”) commenced an internal investigation of our Trinidad operations, focusing on the legality, under the U.S. Foreign Corrupt Practices Act (“FCPA”) and other laws. In May 2010, we voluntarily disclosed information relating to the initial allegations and the findings of the independent investigation to the U.S. Department of Justice (“DOJ”) and to the Securities and Exchange Commission (the “SEC”).<br /><br />In May 2010, we met with representatives of the SEC and the DOJ. In a letter to us dated July 12, 2011, the staff of the SEC informed us that it had completed its investigation and did not intend to recommend any enforcement action by the Commission or impose any fines or penalties against the Company. We have not received formal notification from the DOJ, however in July 2011, the staff of the DOJ informed us that it was likely that the staff would not recommend taking any further action or imposing any fines or penalties against the Company.<br /><br />Since the commencement of the investigation in 2009, we have expended an aggregate of approximately $3.2 million on legal and other professional services related to this investigation. While our and the government’s investigations have concluded, we continue to remain committed to and focused on conducting our operations in compliance with the FCPA."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC may decide not to take any enforcement action against a company if the company uncovered the potential wrongdoing itself, voluntary reported to the government, conducted a thorough investigation and took other appropriate remedial measures. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=841">Team - SEC Form 10-Q (Feb. 2010)</a></p><p><a href="file.asp?id=1083">Team - SEC Form 10-Q (Aug. 2010)</a></p><p><a href="file.asp?id=1415">Team - SEC Form 10-Q (7 Jan. 2011)</a></p><p><a href="file.asp?id=1558">Team - SEC 10-K (Aug. 2, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

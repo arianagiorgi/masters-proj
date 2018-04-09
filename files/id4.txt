@@ -1,0 +1,552 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170652nx1g4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17065270p4c" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AVERY DENNISON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(4)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1706527ov24" width="415" height="61" /></div>
+    
+        <h1>AVERY DENNISON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Avery Dennison Corporation ("Avery")<br />Avery (China) Co. Ltd. ("Avery China")<br />Paxar Corporation ("Paxar")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Self-adhesive technology and applications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Pasadena, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Pakistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Securities and Exchange Commission (“SEC”) charged Avery with violating the FCPA's books and records and internal controls provisions in connection with improper payments and promises of improper payments made to foreign officials by Avery China and several entities acquired by Avery.  According to the SEC, from 2002 to 2005, Avery China's Reflectives Division paid or authorized the payment of approximately USD 30,000 in kickbacks, sightseeing trips and gifts to Chinese government officials.  <br /><br />In one transaction, Avery secured a USD 273,213 sale to a Chinese state-owned end-user by paying a kickback of approximately USD 24,752 to a Chinese official through a distributor.  The transaction was inaccurately booked as a sale to the distributor rather than to the end user.  <br /><br />Separately, Avery promised a variety of kickbacks to other Chinese officials, as a result of which the company secured several sales contracts.  Such promises of kickbacks included arrangements made with officials of the Traffic Management Research Institute under the Ministry of Public Security located in Wuxi, Jiangsu Province ("Wuxi Institute"), through which Avery secured contracts to install new graphics on approximately 15,400 Chinese police cars.  The sales contracts were worth USD 677,494 and Avery realized profits of approximately USD 363,953.  Avery's Asia Pacific Group discovered the kickback scheme before any improper payment was made.  The kickback would have amounted to approximately USD 41,138, or 6% of the total sales.<br /><br />In addition, after Avery acquired an Indonesian contractor in 2005, employees of the contractor continued in their established practice of using petty cash to make improper payments of approximately USD 100 to each of three customs officials who regularly visited its warehouse to inspect goods.  <br /><br />After Avery acquired Paxar Corporation in 2007, Paxar employees in Indonesia used petty cash to make approximately USD 5,000 in improper payments to customs and tax officials to obtain bonded zone licenses and to overlook bonded zone regulatory violations.  The former general manager of Paxar Indonesia instructed employees to fabricate fake invoices to conceal payments. In addition, Paxar employees in Pakistan made approximately USD 30,000 in improper payments to customs officials in Pakistan through a customs broker and approximately USD 16,000 in problematic payments were made by Paxar employees in China.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Value of Kickbacks, Sightseeing Trips and Gifts Provided to Chinese Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Value of Sale to State-Owned End-User Obtained through a Single USD 24,752 Kickback</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 273,213</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickback Promised to Chinese Officials at the Wuxi Institute</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits from Police Car Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 41,138</p>
+</td>
+<td>
+<p style="text-align: center;">USD 677,494 (revenue)<br />USD 363,953 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickbacks Promised to a Chinese Official at Henan Luqiao, a state-owned enterprise</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits</strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p>USD 2,415</p>
+</td>
+<td>
+<p>USD 106,562 (revenue)<br />USD 61,381 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Petty Cash Payments to Customs and Other Officials<span>&nbsp; in Indonesia, Pakistan and China by Paxar Employees</span></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 51,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Avery's Asia Pacific Group discovered the kickback arrangement with the Wuxi Institute in September 2004, after which Avery conducted an internal review of the Reflectives Division and another division of Avery China.  Avery self-disclosed the possible improper payments to the SEC in 2005.  After making its voluntary disclosure, Avery discovered the additional instances of improper payments made by the acquired companies in Indonesia, Pakistan and China.  The improper payments made by Paxar Indonesia were uncovered through a whistleblower; Paxar Pakistans payments were uncovered during an internal audit review; and the payments made by Paxar China were uncovered during the course of a global trade compliance review that included in-depth FCPA reviews in ten high risk countries.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 July 2009, without admitting or denying the SEC's allegations, Avery consented to the entry of a final judgment requiring the company to pay a civil penalty of USD 200,000.  Avery also agreed to the entry of a cease-and-desist order and to disgorgement of USD 273,213, together with USD 45,257 in prejudgment interest.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A company's self-discovery of misconduct and its subsequent investigation, remediation and voluntary disclosure to the U.S. government will likely result in a mitigation of penalties.</li><li>In the acquisition context, it is important to quickly integrate the newly acquired company into the parent company's compliance program, in order to halt any possible improper conduct as quickly as possible.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=23">SEC Press Release: July 28, 2009 (SEC Files Settled Charges Against Avery Dennison Corporation for Violating the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act) </a></p><p><a href="file.asp?id=24">Complaint: SEC v. Avery Dennison Corporation (July 28, 2009)</a></p><p><a href="file.asp?id=25">Ceast-and-Desist Order: In the Matter of Avery Dennison Corporation (July 28, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184203t1t05">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184203ckob6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AVERY DENNISON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(4)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184203y1xs1" width="415" height="61" /></div>
+    
+        <h1>AVERY DENNISON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Avery Dennison Corporation ("Avery")<br />Avery (China) Co. Ltd. ("Avery China")<br />Paxar Corporation ("Paxar")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Self-adhesive technology and applications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Pasadena, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Pakistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Securities and Exchange Commission (“SEC”) charged Avery with violating the FCPA's books and records and internal controls provisions in connection with improper payments and promises of improper payments made to foreign officials by Avery China and several entities acquired by Avery.  According to the SEC, from 2002 to 2005, Avery China's Reflectives Division paid or authorized the payment of approximately USD 30,000 in kickbacks, sightseeing trips and gifts to Chinese government officials.  <br /><br />In one transaction, Avery secured a USD 273,213 sale to a Chinese state-owned end-user by paying a kickback of approximately USD 24,752 to a Chinese official through a distributor.  The transaction was inaccurately booked as a sale to the distributor rather than to the end user.  <br /><br />Separately, Avery promised a variety of kickbacks to other Chinese officials, as a result of which the company secured several sales contracts.  Such promises of kickbacks included arrangements made with officials of the Traffic Management Research Institute under the Ministry of Public Security located in Wuxi, Jiangsu Province ("Wuxi Institute"), through which Avery secured contracts to install new graphics on approximately 15,400 Chinese police cars.  The sales contracts were worth USD 677,494 and Avery realized profits of approximately USD 363,953.  Avery's Asia Pacific Group discovered the kickback scheme before any improper payment was made.  The kickback would have amounted to approximately USD 41,138, or 6% of the total sales.<br /><br />In addition, after Avery acquired an Indonesian contractor in 2005, employees of the contractor continued in their established practice of using petty cash to make improper payments of approximately USD 100 to each of three customs officials who regularly visited its warehouse to inspect goods.  <br /><br />After Avery acquired Paxar Corporation in 2007, Paxar employees in Indonesia used petty cash to make approximately USD 5,000 in improper payments to customs and tax officials to obtain bonded zone licenses and to overlook bonded zone regulatory violations.  The former general manager of Paxar Indonesia instructed employees to fabricate fake invoices to conceal payments. In addition, Paxar employees in Pakistan made approximately USD 30,000 in improper payments to customs officials in Pakistan through a customs broker and approximately USD 16,000 in problematic payments were made by Paxar employees in China.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Value of Kickbacks, Sightseeing Trips and Gifts Provided to Chinese Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Value of Sale to State-Owned End-User Obtained through a Single USD 24,752 Kickback</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 273,213</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickback Promised to Chinese Officials at the Wuxi Institute</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits from Police Car Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 41,138</p>
+</td>
+<td>
+<p style="text-align: center;">USD 677,494 (revenue)<br />USD 363,953 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickbacks Promised to a Chinese Official at Henan Luqiao, a state-owned enterprise</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits</strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p>USD 2,415</p>
+</td>
+<td>
+<p>USD 106,562 (revenue)<br />USD 61,381 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Petty Cash Payments to Customs and Other Officials<span>&nbsp; in Indonesia, Pakistan and China by Paxar Employees</span></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 51,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Avery's Asia Pacific Group discovered the kickback arrangement with the Wuxi Institute in September 2004, after which Avery conducted an internal review of the Reflectives Division and another division of Avery China.  Avery self-disclosed the possible improper payments to the SEC in 2005.  After making its voluntary disclosure, Avery discovered the additional instances of improper payments made by the acquired companies in Indonesia, Pakistan and China.  The improper payments made by Paxar Indonesia were uncovered through a whistleblower; Paxar Pakistans payments were uncovered during an internal audit review; and the payments made by Paxar China were uncovered during the course of a global trade compliance review that included in-depth FCPA reviews in ten high risk countries.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 July 2009, without admitting or denying the SEC's allegations, Avery consented to the entry of a final judgment requiring the company to pay a civil penalty of USD 200,000.  Avery also agreed to the entry of a cease-and-desist order and to disgorgement of USD 273,213, together with USD 45,257 in prejudgment interest.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A company's self-discovery of misconduct and its subsequent investigation, remediation and voluntary disclosure to the U.S. government will likely result in a mitigation of penalties.</li><li>In the acquisition context, it is important to quickly integrate the newly acquired company into the parent company's compliance program, in order to halt any possible improper conduct as quickly as possible.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=23">SEC Press Release: July 28, 2009 (SEC Files Settled Charges Against Avery Dennison Corporation for Violating the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act) </a></p><p><a href="file.asp?id=24">Complaint: SEC v. Avery Dennison Corporation (July 28, 2009)</a></p><p><a href="file.asp?id=25">Ceast-and-Desist Order: In the Matter of Avery Dennison Corporation (July 28, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920139yi3u">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192013jsfwx" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AVERY DENNISON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(4)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920132z6b5" width="415" height="61" /></div>
+    
+        <h1>AVERY DENNISON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Avery Dennison Corporation ("Avery")<br />Avery (China) Co. Ltd. ("Avery China")<br />Paxar Corporation ("Paxar")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Self-adhesive technology and applications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Pasadena, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Pakistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Securities and Exchange Commission (“SEC”) charged Avery with violating the FCPA's books and records and internal controls provisions in connection with improper payments and promises of improper payments made to foreign officials by Avery China and several entities acquired by Avery.  According to the SEC, from 2002 to 2005, Avery China's Reflectives Division paid or authorized the payment of approximately USD 30,000 in kickbacks, sightseeing trips and gifts to Chinese government officials.  <br /><br />In one transaction, Avery secured a USD 273,213 sale to a Chinese state-owned end-user by paying a kickback of approximately USD 24,752 to a Chinese official through a distributor.  The transaction was inaccurately booked as a sale to the distributor rather than to the end user.  <br /><br />Separately, Avery promised a variety of kickbacks to other Chinese officials, as a result of which the company secured several sales contracts.  Such promises of kickbacks included arrangements made with officials of the Traffic Management Research Institute under the Ministry of Public Security located in Wuxi, Jiangsu Province ("Wuxi Institute"), through which Avery secured contracts to install new graphics on approximately 15,400 Chinese police cars.  The sales contracts were worth USD 677,494 and Avery realized profits of approximately USD 363,953.  Avery's Asia Pacific Group discovered the kickback scheme before any improper payment was made.  The kickback would have amounted to approximately USD 41,138, or 6% of the total sales.<br /><br />In addition, after Avery acquired an Indonesian contractor in 2005, employees of the contractor continued in their established practice of using petty cash to make improper payments of approximately USD 100 to each of three customs officials who regularly visited its warehouse to inspect goods.  <br /><br />After Avery acquired Paxar Corporation in 2007, Paxar employees in Indonesia used petty cash to make approximately USD 5,000 in improper payments to customs and tax officials to obtain bonded zone licenses and to overlook bonded zone regulatory violations.  The former general manager of Paxar Indonesia instructed employees to fabricate fake invoices to conceal payments. In addition, Paxar employees in Pakistan made approximately USD 30,000 in improper payments to customs officials in Pakistan through a customs broker and approximately USD 16,000 in problematic payments were made by Paxar employees in China.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Value of Kickbacks, Sightseeing Trips and Gifts Provided to Chinese Government Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Value of Sale to State-Owned End-User Obtained through a Single USD 24,752 Kickback</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 273,213</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickback Promised to Chinese Officials at the Wuxi Institute</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits from Police Car Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 41,138</p>
+</td>
+<td>
+<p style="text-align: center;">USD 677,494 (revenue)<br />USD 363,953 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Value of Kickbacks Promised to a Chinese Official at Henan Luqiao, a state-owned enterprise</strong></p>
+</td>
+<td width="50%">
+<p><strong>Resulting Revenue/Profits</strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p>USD 2,415</p>
+</td>
+<td>
+<p>USD 106,562 (revenue)<br />USD 61,381 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Petty Cash Payments to Customs and Other Officials<span>&nbsp; in Indonesia, Pakistan and China by Paxar Employees</span></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 51,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Avery's Asia Pacific Group discovered the kickback arrangement with the Wuxi Institute in September 2004, after which Avery conducted an internal review of the Reflectives Division and another division of Avery China.  Avery self-disclosed the possible improper payments to the SEC in 2005.  After making its voluntary disclosure, Avery discovered the additional instances of improper payments made by the acquired companies in Indonesia, Pakistan and China.  The improper payments made by Paxar Indonesia were uncovered through a whistleblower; Paxar Pakistans payments were uncovered during an internal audit review; and the payments made by Paxar China were uncovered during the course of a global trade compliance review that included in-depth FCPA reviews in ten high risk countries.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 July 2009, without admitting or denying the SEC's allegations, Avery consented to the entry of a final judgment requiring the company to pay a civil penalty of USD 200,000.  Avery also agreed to the entry of a cease-and-desist order and to disgorgement of USD 273,213, together with USD 45,257 in prejudgment interest.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A company's self-discovery of misconduct and its subsequent investigation, remediation and voluntary disclosure to the U.S. government will likely result in a mitigation of penalties.</li><li>In the acquisition context, it is important to quickly integrate the newly acquired company into the parent company's compliance program, in order to halt any possible improper conduct as quickly as possible.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=23">SEC Press Release: July 28, 2009 (SEC Files Settled Charges Against Avery Dennison Corporation for Violating the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act) </a></p><p><a href="file.asp?id=24">Complaint: SEC v. Avery Dennison Corporation (July 28, 2009)</a></p><p><a href="file.asp?id=25">Ceast-and-Desist Order: In the Matter of Avery Dennison Corporation (July 28, 2009) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

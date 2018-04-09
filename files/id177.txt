@@ -1,0 +1,126 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192255sh99p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192255lff09" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALLIANCE ONE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(177)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19225538704" width="415" height="61" /></div>
+    
+        <h1>ALLIANCE ONE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Alliance One International, Inc. (previously Dimon Inc. prior to merger with Standard Commercial Corporation)<br />Alliance One International AG (Alliance One International, Inc.'s wholly-owned subsidiary in Switzerland) ("Alliance One AG")<br />Alliance One Tobacco Osh LLC (Alliance One International, Inc.'s wholly-owned subsidiary in Kyrgyzstan) ("Alliance One Osh")<br />Dimon International Kyrgyzstan (Dimon's wholly-owned subsidiary in Kyrgyzstan)("DIK")<br />Bobby J. Elkin, Jr. (Dimon's former Country Manager for Kyrgyzstan)<br />Baxter J. Myers (a former Regional Financial Director at Dimon)<br />Thomas G. Reynolds (a former Corporate Controller at Dimon)<br />Tommy L. Williams (a former Senior Vice President of Sales at Dimon)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global leaf-tobacco merchant
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Morrisville, NC, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kyrgyzstan<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the U.S. Securities and Exchange Commission's (“SEC”) complaint, from 1996 through 2004, Dimon's wholly-owned subsidiary in Kyrgyzstan, DIK, made over USD 3 million in bribe payments to Kyrgyz government officials in order to obtain Kyrgyz tobacco for resale to large customers of Dimon.  The payments were made to made to various government officials, including officials of the JSC GAK Kyrgyztamekisi ("Tamekisi"), local public officials ("Akims") and Kyrgyz tax officials.<br /><br />Dimon's former Country Manager for Kyrgyzstan, Bobby J. Elkin, Jr., allegedly authorized, directed and made these payments through a DIK bank account, called the "Special Account," held in his name.  Baxter J. Myers, a former Regional Finance Director at Dimon, allegedly authorized the transfer of funds from a Dimon subsidiary's bank account to the Special Account.  A former Corporate Controller at Dimon, Thomas G. Reynolds, was allegedly responsible for formalizing the accounting methodology used to record the payments made from the Special Account in Dimon's internal reporting.  <br /><br />The SEC also alleged that, from 2000 to 2003, Dimon made approximately USD 542,590 in improper payments to officials at the Thailand Tobacco Monopoly ("TTM") in order to secure approximately USD 9.4 million in sales contracts.  A former Senior Vice President of Sales at Dimon, Tommy L. Williams, allegedly directed the sale of tobacco from Brazil and Malawi to the TTM through Dimon's agent in Thailand and authorized improper payments to Thai officials to secure the sales.  The improper payments were characterized as commissions paid to the Thai agent.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Kyrgyz Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Over USD 3 million<br /></td>
+<td style="text-align: center;">Purchases of Kyrgyz tobacco for resale<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Thai Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Over USD 1.2 million</td>
+<td style="text-align: center;">Sales contracts worth USD 18.3 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        AllianceOne described the investigation as follows in its December 2009 SEC Form 10-Q:<br /><br />"In March 2004, the Company discovered potential irregularities with respect to certain bank accounts in southern Europe and central Asia.  The Audit Committee of the Company's Board of Directors engaged an outside law firm to conduct an investigation of activity relating to these accounts.  That investigation revealed that, although the amounts involved were not material and had no material impact on the Company's historical financial statements, there were payments from these accounts that may have violated the U.S. Foreign Corrupt Practices Act.  In May 2004, the Company voluntarily reported the matter to the U.S. Department of Justice (“Justice”).  Soon thereafter, the Company closed the accounts in question, implemented personnel changes and other measures designed to prevent similar situations in the future, including the addition of new finance and internal audit staff and enhancement of existing training programs, and disclosed these circumstances in its filings with the SEC.  In August 2006, the Company learned that the SEC had issued a formal order of investigation of the Company and others to determine if these or other actions, including those in other countries in which the Company does business, may have violated certain provisions of the Securities Exchange Act of 1934 and rules thereunder.  In May 2008, the Company learned that Justice is conducting an investigation into possible violations of federal laws stemming from the same actions being investigated by the SEC.<br /><br />"The Company has been advised by Justice and the SEC that such agencies believe that violations of applicable federal laws have occurred.  The Company is engaging in discussions with Justice and the SEC to effect a resolution which may involve, among other things, injunctive relief, disgorgement, fines, penalties and modifications to business practices and the appointment of a monitor. Because of existing uncertainty with respect to the scope of any possible violations and with respect to the methodology for determining the amount of potential fines, penalties or disgorgement related to any such violations, an estimate of the amount of loss, or a reliable range of estimated loss, cannot be made.  Accordingly, the Company has not accrued any loss, though it believes that a loss is probable.  The resolution could materially adversely affect the Company's results of operations. The Company intends to continue to cooperate with the authorities as resolution discussions proceed."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 April 2010, the SEC filed a civil injunctive action against the four defendants.  Without admitting or denying the SEC's allegations, each defendant consented to the entry of a final judgment permanently enjoining them from violations of the FCPA's anti-bribery provisions and aiding and abetting violations of the FCPA's books and records and internal controls provisions.  Myers and Reynolds also agreed to pay civil monetary penalties of USD 40,000 each.<br /><br />On 3 August 2010, Elkin pleaded guilty to conspiracy to violate the FCPA.  While the charge carries a prison sentence of up to five years and a fine of up to USD 250,000, on 21 October 2010, Elkin was sentenced to just three years of probation and a USD 5,000 fine. <br /><br />On 6 August 2010, Alliance One International, Inc. entered into a non-prosecution agreement with the DOJ under which it agreed to cooperate with the government's ongoing investigation and appoint a compliance monitor for a three-year period.  The company's Swiss and Kyrgyz subsidiaries each pleaded guilty to one count of conspiracy to violate the FCPA and two counts of violating the statute's books and records provisions. Alliance One AG agreed to pay a USD 5,250,000 fine and Alliance One Osh agreed to pay a USD 4,200,000 fine. The subsidiaries are scheduled for sentencing on 21 October 2010. <br /><br />On the same day, Alliance One International, Inc. consented to the entry of a final judgment by the SEC enjoining it from future violations of the anti-bribery and books and records provisions of the FCPA. Alliance One International, Inc. also agreed to disgorge USD 10,000,000 in profits.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Surviving or newly-formed entities following an acquisition or merger inherit the FCPA liabilities of its predecessor organizations.</li><li>Payments to government officials to reduce tax penalties levied against a company constitute improper payments to secure a business advantage under the FCPA, even if the tax penalties are of questionable legitimacy.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=787">AllianceOne - SEC Form 10-Q (Dec. 2009)</a></p><p><a href="file.asp?id=805">SEC Litigation Release: April 29, 2010 (SEC Files Anti-Bribery Charges Against Former Finance Executives and Senior Employees Of Global Tobacco Company)</a></p><p><a href="file.asp?id=806">Complaint: SEC v. Bobby J. Elkin, Jr., et al (April 28, 2010)</a></p><p><a href="file.asp?id=1063">Plea Agreement: US v. Bobby J. Elkin, Jr. (August 3, 2010)</a></p><p><a href="file.asp?id=1065">Press Release: Elkin Plea Agreement (August 4, 2010)</a></p><p><a href="file.asp?id=1070">Complaint: SEC v. Alliance One International, Inc.</a></p><p><a href="file.asp?id=1072">Litigation Release No. 21618 and Accounting and Auditing Enforcement Release No. 3170 (August 6, 2010) SEC v. Universal Corporation, Inc. and SEC v. Alliance One International, Inc.</a></p><p><a href="file.asp?id=1076">Press Release: Alliance One Settlement (August 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

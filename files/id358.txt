@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19253365b2v">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192533w0ahl" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WILLIS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(358)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925339tuvw" width="415" height="61" /></div>
+    
+        <h1>WILLIS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Financial Services Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Willis Limited (UK insurance broker; subsidiary of Dublin-based Willis Group Holdings Plc) ("Willis")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Insurance and reinsurance broker
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London , United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The UK Financial Services Authority (FSA) described the wrongdoing as follows in its press release issued on 21 July 2011: <br /><br />"Between January 2005 and December 2009, Willis Limited made payments to overseas third parties who assisted it in winning and retaining business from overseas clients, particularly in high risk jurisdictions. These payments totalled &pound;27 million. The FSA investigation found that, up until August 2008, Willis Limited failed to:<br /><br />-  ensure that it established and recorded an adequate commercial rationale to support its payments to overseas third parties;<br /><br />-  ensure that adequate due diligence was carried out on overseas third parties to evaluate the risk involved in doing business with them; and<br /><br />-  adequately review its relationships on a regular basis to confirm whether it was still necessary and appropriate for Willis Limited to continue with the relationship.<br /><br />"These failures contributed to a weak control environment surrounding payments to overseas third parties and gave rise to an unacceptable risk that these payments could be used for corrupt purposes, including paying bribes.<br /><br />"In addition, between January 2005 and May 2009, Willis Limited failed to adequately monitor its staff to ensure that each time it engaged an overseas third party, an adequate commercial rationale had been recorded and that sufficient due diligence had been carried out. Although Willis Limited improved its policies in August 2008, it failed to ensure that its staff were adequately implementing them.<br /><br />"Lastly, throughout the period, Willis Limited's senior management did not receive sufficient information about the performance of Willis Limited's relevant policies to allow them to assess whether bribery and corruption risks were being mitigated effectively.<br /><br />"During the FSA investigation, Willis Limited identified as suspicious a number of payments totalling USD 227,000 which it made to two overseas third parties in respect of business carried out in Egypt and Russia. These were subsequently reported to the Serious Organised Crime Agency."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Suspicious Payments to Overseas Third Parties</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">GBP 140,622 [approximately USD 227,000]<br /></td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Willis identified various suspicious payments and subsequently reported them to the Serious Organised Crime Agency.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 July 2011, the FSA imposed a GBP 6.895 million (approximately USD 11.25 million) fine for failings in its anti-bribery and corruption systems and controls, in breach of the FSA Handbook. <br /><br />The FSA addressed Willis' remedial measures and cooperation as follows:<br /><br />"Willis Limited has taken significant steps to address the failings identified by the FSA and has committed to carrying out a review of past payments made to overseas third parties to identify any inappropriate payments.<br /><br />"Willis Limited cooperated with the FSA and agreed to settle at an early stage of the FSA's investigation.  The firm qualified for a 30% discount under the FSA's settlement discount scheme. Without the discount the fine would have been £9.85 million." 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This case represents the largest fine imposed by the FSA to date in connection with financial crime systems and controls.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1548">FSA Press Release: 21 July 2011 (FSA fines Willis Limited Ã‚Â£6.895 million for anti-bribery and corruption systems and controls failings)</a></p><p><a href="file.asp?id=1549">FSA Final Notice (21 July 2011)</a></p><p><a href="file.asp?id=1550">Willis Limited Press Release (21 July 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

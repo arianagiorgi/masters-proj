@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192349v6lco">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19234973701" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WRIGHT MEDICAL GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(236)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192349a8iy0" width="415" height="61" /></div>
+    
+        <h1>WRIGHT MEDICAL GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wright Medical Group, Inc. ("Wright Medical Group")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of reconstructive implants for knees, hips, and other joints
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Arlington, Tennessee, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Wright Medical Group described the ongoing investigation as follows in its SEC Form 10-K filed on 22 February 2010:<br /><br />"We are involved in government investigations, the results of which may adversely impact our business and results of operations, and lead to other government investigations or actions by other third parties. <br /><br />"In December 2007, we received a subpoena from the U.S. Attorney's Office for the District of New Jersey requesting documents for the period January 1998 through the present related to any consulting and professional service agreements with orthopaedic surgeons in connection with U.S. hip or knee joint replacement procedures or products. We have cooperated and intend to continue to fully cooperate with the U.S. Department of Justice (DOJ) in this investigation. In June 2008, our principal operating subsidiary, Wright Medical Technology, Inc., received letters from the SEC and the DOJ informing us that they are conducting an informal investigation regarding potential violations of the Foreign Corrupt Practices Act (FCPA) in the sale of medical devices in a number of foreign countries by companies in the medical device industry. We understand that several other medical device companies received similar letters. We have cooperated and intend to continue to fully cooperate with this informal investigation. <br /><br />"The results of these inquiries may not be known for some time. If we are found to have violated one or more applicable laws as a result of these investigations or we otherwise must resolve the matters, our business, financial condition and results of operations could be materially adversely affected and we may be required to significantly change some of our existing business practices. These pending investigations could lead to investigations by state authorities or other government agencies. Other companies facing similar investigations have been subject to shareholder derivative actions. In addition, these types of inquiries could increase our exposure to lawsuits by potential whistle blowers under the federal false claims acts. We intend to review and take appropriate actions with respect to any such investigations or proceedings; however, we cannot assure that the costs of investigating, defending, or resolving those investigations or proceedings would not have a material adverse effect on our results of operations, financial condition and cash flow. <br /><br />"Cooperating with these inquiries requires considerable time and significant expense. During 2009 and 2008, we incurred $7.8 million and $7.6 million of expenses, respectively, associated with these U.S. government inquiries, primarily related to legal fees. We anticipate that future expenses related to these inquires may continue to be significant. In addition, upon the conclusion of these inquiries, we may incur significant expenses associated with compliance and monitoring. <br /><br />"In 2007, as a result of a two-year government investigation regarding potential financial inducements paid to orthopaedic surgeons, five of our competitors entered into deferred prosecution or non-prosecution agreements with the DOJ, and four of those companies entered into settlement agreements with the U.S. Department of Health and Human Services, Office of the Inspector General. If we were to incur fines or enter into financial settlements, it is possible that they could have a material adverse effect to our results of operations, financial condition and cash flow."<br /><br />Wright Medical Group disclosed as follows in a SEC Form 8-K released on 9 March 2010:<br /><br />"As previously disclosed, in June 2008 we received a letter from the Securities and Exchange Commission informing us that it was conducting an informal investigation regarding potential violations of the Foreign Corrupt Practices Act in the sale of medical devices in a number of foreign countries by companies in the medical device industry.  We have been advised by the Commission's Division of Enforcement, that this investigation has been completed as to us and that the Division of Enforcement does not intend to recommend any enforcement action by the Commission against us."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SEC has closed its investigation without taking action.  It appears that the DOJ may have closed its investigation as well.  Wright Medical Group does not mention any further FCPA investigation in its SEC Form 10-K filed on 11 February 2011.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Depending on the circumstances, the DOJ and SEC will close an FCPA investigation without taking any enforcement action against the company at issue.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=852">Wright Medical Group - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=853">Wright Medical Group - SEC Form 8-K (9 March 2010)</a></p><p><a href="file.asp?id=1420">Wright Medical Group - SEC Form 10-K (11 Feb. 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

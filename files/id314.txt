@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19245687u44">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924567n16k" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WEIR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(314)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192456way8r" width="415" height="61" /></div>
+    
+        <h1>WEIR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Office and Procurator Fiscal Service (Scotland)<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Weir Group plc ("Weir")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Scottish engineering company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Glasgow, Scotland, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Scotland's Crown Office and Procurator Fiscal Service ("Crown Office") investigated Weir for breaching United Nations' sanctions in connection with contracts awarded to the company between 2000 and 2002 in Iraq under the U.N. Oil-for-Food program.  Weir, which provides engineering solutions, including pumps for the oil and gas sector and slurry handling equipment for the mining industry, paid GBP 3 million in kickbacks to the regime of former Iraqi leader Saddam Hussein in order to secure 15 contracts for water treatment equipment.  Weir admitted to facilitating the payment of the kickbacks by paying a fee of more than GBP 1.4 million to their agent, an Iraqi national, to a Swiss bank account.  The agent made the payments to the Iraqi government on Weir's behalf.<br /><br />Weir earned over GBP 13.9 million in profits as a result of the contracts. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Iraqi Government</strong><br /></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;GBP 3 million<br /></td>
+<td style="text-align: center;">&nbsp;15 contracts for water treatment equipment, valued at over GBP 13.9 million in profits<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Weir disclosed in 2004 that it had commenced an internal investigation into the matter.  The investigation was likely prompted by the report issued by the U.N. Independent Inquiry Committee.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 15, 2010, Weir pleaded guilty in the High Court in Edinburgh to two charges of breaching U.N. sanctions.  The company was ordered to pay a GBP 3 million fine and to repay the GBP 13,945,962 in benefits derived from contracts obtained through the kickback arrangement.  The repayment amount was secured under the Proceeds of Crime Act 2002 (POCA).
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This was the first sanctions case brought in Scotland following the establishment of a dedicated sanctions team at the Crown Office and Procurator Fiscal’s National Casework Division.</li><li>This case represents the largest confiscation order to date in the United Kingdom and the first use in Scotland of confiscation powers under the Proceeds of Crime Act 2002 against a large corporate for conduct overseas.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1249">Crown Office - News Release (15 Dec. 2010)</a></p><p><a href="file.asp?id=1250">The Weir Group plc - News Release (15 Dec. 2010)</a></p><p>DowJones Newswire: "Weir Group Pleads Guilty To Two UN Iraq Oil For Food Charges" (15 Dec. 2010)</p><p>McGrigors LLP E-Bulletin: "Weir Group Plc fined GBP 3m and ordered to re-pay GBP 13.9m in Scotland's first UN sanctions case" (15 Dec. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

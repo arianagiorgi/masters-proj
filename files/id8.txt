@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1706569o990">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170656ocs50" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRISTOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(8)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170656y9isv" width="415" height="61" /></div>
+    
+        <h1>BRISTOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bristow Group Inc. ("Bristow")<br />AirLog (wholly-owned subsidiary of Bristow based in Louisiana)<br />Pan African Airlines Nigeria Ltd. (Bristow affiliate operating in Nigeria; 40% owned by ALN Inc., a Delaware corporation which is a wholly-owned subsidiary of Bristow) ("PAAN")<br />Bristow Aviation (Redhill, England-based affiliate of Bristow; Bristow owned 49% of Bristow Aviations common stock and 100% of Bristow Aviations subordinated debt)<br />Bristow Helicopters (Redhill, England-based Bristow affiliate; ultimately owned by Bristow Aviation)<br />Bristow Nigeria (Bristow affiliate operating in Nigeria; 40% owned by Bristow Aviation)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Helicopter services to the offshore oil and gas industry
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Bristow with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of one of its affiliates in Nigeria.  From at least 2003 through 2004, Bristow's wholly-owned U.S. subsidiary, AirLog International, Ltd., through its Nigerian affiliate, Pan African Airlines Nigeria Ltd. (PAAN), made improper payments to government officials in two Nigerian states in order to reduce the amount of expatriate employment taxes payable by PAAN to the respective Nigerian state governments.  The payments totaled approximately USD 423,000.  The payments saved the company USD 873,940 in taxes. <br /><br />Bristow underreported PAAN and another Bristow Group Nigerian affiliate's payroll expenses to certain Nigerian state governments and, as a result, Bristow's periodic reports filed with the SEC did not accurately reflect certain of the company's payroll-related expenses.  Bristow also mischaracterized the payments as legitimate payroll expenses in its books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 423,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 873,940 in tax savings</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Bristow's internal investigation started following an October 2004 company management meeting at which its newly-appointed CEO heard a comment suggesting that payments may had been made to government officials in Nigeria.  The CEO reported it immediately to the audit committee and contacted outside counsel.  The audit committee hired independent counsel, which conducted the internal investigation.  Bristow Group then self-disclosed the violations to the SEC and instituted measures to improve its compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 September 2007, without admitting or denying the findings, Bristow consented to the entry of an administrative cease-and-desist order from the SEC.  No financial penalties were imposed.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Bribes to reduce taxes can form the basis of FCPA charges.</li><li>A pro-active internal investigation and voluntary disclosure to the U.S. government can result in the significant mitigation of penalties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=43">SEC Press Release: September 26, 2007 (SEC Institutes Settled Enforcement Action Against Bristow Group for Improper Payments to Nigerian Government Officials and Other Violations) </a></p><p><a href="file.asp?id=44">Cease and Desist Order: In the Matter of Bristow Group Inc. </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184206mirlp">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184206wa9h4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRISTOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(8)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842062s23i" width="415" height="61" /></div>
+    
+        <h1>BRISTOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bristow Group Inc. ("Bristow")<br />AirLog (wholly-owned subsidiary of Bristow based in Louisiana)<br />Pan African Airlines Nigeria Ltd. (Bristow affiliate operating in Nigeria; 40% owned by ALN Inc., a Delaware corporation which is a wholly-owned subsidiary of Bristow) ("PAAN")<br />Bristow Aviation (Redhill, England-based affiliate of Bristow; Bristow owned 49% of Bristow Aviations common stock and 100% of Bristow Aviations subordinated debt)<br />Bristow Helicopters (Redhill, England-based Bristow affiliate; ultimately owned by Bristow Aviation)<br />Bristow Nigeria (Bristow affiliate operating in Nigeria; 40% owned by Bristow Aviation)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Helicopter services to the offshore oil and gas industry
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Bristow with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of one of its affiliates in Nigeria.  From at least 2003 through 2004, Bristow's wholly-owned U.S. subsidiary, AirLog International, Ltd., through its Nigerian affiliate, Pan African Airlines Nigeria Ltd. (PAAN), made improper payments to government officials in two Nigerian states in order to reduce the amount of expatriate employment taxes payable by PAAN to the respective Nigerian state governments.  The payments totaled approximately USD 423,000.  The payments saved the company USD 873,940 in taxes. <br /><br />Bristow underreported PAAN and another Bristow Group Nigerian affiliate's payroll expenses to certain Nigerian state governments and, as a result, Bristow's periodic reports filed with the SEC did not accurately reflect certain of the company's payroll-related expenses.  Bristow also mischaracterized the payments as legitimate payroll expenses in its books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 423,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 873,940 in tax savings</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Bristow's internal investigation started following an October 2004 company management meeting at which its newly-appointed CEO heard a comment suggesting that payments may had been made to government officials in Nigeria.  The CEO reported it immediately to the audit committee and contacted outside counsel.  The audit committee hired independent counsel, which conducted the internal investigation.  Bristow Group then self-disclosed the violations to the SEC and instituted measures to improve its compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 September 2007, without admitting or denying the findings, Bristow consented to the entry of an administrative cease-and-desist order from the SEC.  No financial penalties were imposed.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Bribes to reduce taxes can form the basis of FCPA charges.</li><li>A pro-active internal investigation and voluntary disclosure to the U.S. government can result in the significant mitigation of penalties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=43">SEC Press Release: September 26, 2007 (SEC Institutes Settled Enforcement Action Against Bristow Group for Improper Payments to Nigerian Government Officials and Other Violations) </a></p><p><a href="file.asp?id=44">Cease and Desist Order: In the Matter of Bristow Group Inc. </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192020n1wk5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920200d2xk" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRISTOW</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(8)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192020iu330" width="415" height="61" /></div>
+    
+        <h1>BRISTOW</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bristow Group Inc. ("Bristow")<br />AirLog (wholly-owned subsidiary of Bristow based in Louisiana)<br />Pan African Airlines Nigeria Ltd. (Bristow affiliate operating in Nigeria; 40% owned by ALN Inc., a Delaware corporation which is a wholly-owned subsidiary of Bristow) ("PAAN")<br />Bristow Aviation (Redhill, England-based affiliate of Bristow; Bristow owned 49% of Bristow Aviations common stock and 100% of Bristow Aviations subordinated debt)<br />Bristow Helicopters (Redhill, England-based Bristow affiliate; ultimately owned by Bristow Aviation)<br />Bristow Nigeria (Bristow affiliate operating in Nigeria; 40% owned by Bristow Aviation)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Helicopter services to the offshore oil and gas industry
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged Bristow with violations of the FCPA's anti-bribery, books and records and internal controls provisions in connection with the activities of one of its affiliates in Nigeria.  From at least 2003 through 2004, Bristow's wholly-owned U.S. subsidiary, AirLog International, Ltd., through its Nigerian affiliate, Pan African Airlines Nigeria Ltd. (PAAN), made improper payments to government officials in two Nigerian states in order to reduce the amount of expatriate employment taxes payable by PAAN to the respective Nigerian state governments.  The payments totaled approximately USD 423,000.  The payments saved the company USD 873,940 in taxes. <br /><br />Bristow underreported PAAN and another Bristow Group Nigerian affiliate's payroll expenses to certain Nigerian state governments and, as a result, Bristow's periodic reports filed with the SEC did not accurately reflect certain of the company's payroll-related expenses.  Bristow also mischaracterized the payments as legitimate payroll expenses in its books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 423,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 873,940 in tax savings</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Bristow's internal investigation started following an October 2004 company management meeting at which its newly-appointed CEO heard a comment suggesting that payments may had been made to government officials in Nigeria.  The CEO reported it immediately to the audit committee and contacted outside counsel.  The audit committee hired independent counsel, which conducted the internal investigation.  Bristow Group then self-disclosed the violations to the SEC and instituted measures to improve its compliance program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 26 September 2007, without admitting or denying the findings, Bristow consented to the entry of an administrative cease-and-desist order from the SEC.  No financial penalties were imposed.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Bribes to reduce taxes can form the basis of FCPA charges.</li><li>A pro-active internal investigation and voluntary disclosure to the U.S. government can result in the significant mitigation of penalties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=43">SEC Press Release: September 26, 2007 (SEC Institutes Settled Enforcement Action Against Bristow Group for Improper Payments to Nigerian Government Officials and Other Violations) </a></p><p><a href="file.asp?id=44">Cease and Desist Order: In the Matter of Bristow Group Inc. </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

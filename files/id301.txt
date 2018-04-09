@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192445x6u33">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192445g1x92" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LINDSEY MANUFACTURING</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(301)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924456edje" width="415" height="61" /></div>
+    
+        <h1>LINDSEY MANUFACTURING</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lindsey Manufacturing Company ("Lindsey Manufacturing")<br />Dr. Keith E. Lindsey (Chief Executive Officer at Lindsey Manufacturing)<br />Steve K. Lee (Chief Financial Officer at Lindsey Manufacturing)<br />Grupo Internacional de Asesores S.A. ("Grupo")<br />Enrique Faustino Aguilar Noriega (director of Grupo)<br />Angela Maria Gomez Aguilar (director of Grupo; wife of Enrique Aguilar)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Emergency restoration systems and other equipment used by electrical utility companies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Azusa, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Lindsey Manufacturing allegedly hired Grupo to serve as its sales representative in Mexico in order to obtain contracts from the Mexican state-owned utility company, the Comisión Federal de Electricidad ("CFE").  CFE became one of Lindsey Manufacturing's most significant customers, and Grupo received a percentage of the revenue Lindsey Manufacturing realized from its CFE contracts.  According to the DOJ, Lindsey Manufacturing obtained the contracts by making improper payments to CFE officials, channeling the payments through Grupo.<br /><br />The DOJ press release on 21 October 2010 describes the alleged misconduct as follows:<br /><br />"From approximately February 2002 until March 2009, Lindsey Manufacturing, Lindsey, Lee and Enrique Aguilar allegedly orchestrated a scheme in which Enrique Aguilar was paid a 30 percent commission on all the goods and services Lindsey Manufacturing sold to CFE, even though this was a significantly higher commission than previous sales representatives for the company had received.   The superseding indictment alleges that Lindsey and Lee understood that all or part of the 30 percent commission would be used to pay bribes to Mexican officials in exchange for CFE awarding contracts to Lindsey Manufacturing Company.   The costs of goods and services sold to CFE allegedly were increased by 30 percent to ensure that the added cost of paying Enrique Aguilar was absorbed by CFE and not Lindsey Manufacturing.<br /><br />"Enrique Aguilar allegedly caused fraudulent invoices to be submitted from Grupo to Lindsey Manufacturing for 30 percent of the contract price.   According to the superseding indictment, Lindsey and Lee then caused the money requested in the fraudulent invoices to be wired into Grupo's brokerage account, allegedly knowing that the invoices were fraudulent and the funds were being used as bribes.<br /><br />"Enrique and Angela Aguilar allegedly then laundered the money in the Grupo brokerage account to make concealed payments for the benefit of CFE officials.   According to the indictment, Enrique and Angela Aguilar purchased a yacht for approximately $1.8 million named the Dream Seeker and a Ferrari for $297,500 for a CFE official.   According to the indictment, Enrique and Angela Aguilar also paid more than $170,000 worth of American Express bills for a CFE official and sent approximately $600,000 to relatives of a CFE official."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Mexican Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Various gifts, cash and other benefits<br /></td>
+<td style="text-align: center;">&nbsp;Contracts from Comisi&oacute;n Federal de Electricidad</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 September 2010, the DOJ indicted the two intermediaries, Enrique Faustino Aguilar Noriega and Angela Maria Gomez Aguilar, both of Cuernavaca, Mexico, for the alleged illegal payments to the CFE officials.  Enrique Aguilar was charged with conspiracy to violate the FCPA, substantive FCPA violations, conspiracy to commit money laundering and money laundering.  He remains a fugitive.  Angela Aguilar was charged with conspiracy to commit money laundering and money laundering.  She was arrested on 10 August 2010 on a criminal complaint when she traveled to Houston from Mexico, and then was ordered detained and removed to the Central District of California where she remains in custody. <br /><br />On 21 October 2010, Keith Lindsey, Steve Lee and Lindsey Manufacturing were charged in an eight-count superseding indictment with conspiracy to violate the FCPA and substantive FCPA violations.  The superseding indictment also charged the Aguilars, replacing the charges initially laid on 15 September 2010.  Enrique Aguilar was charged with the conspiracy to violate the FCPA and substantive FCPA violations, while Enrique and Angela Aguilar each were charged with conspiracy to commit money laundering and money laundering.  The judge dropped the substantive money laundering charge against Angela Aguilar on 9 May 2011.<br /><br />The FCPA conspiracy charge carried a maximum penalty of five years in prison and a fine of the greater of USD 250,000 or twice the value gained or lost, while each of the four FCPA counts carried a maximum penalty of five years in prison and a fine of the greater of USD 100,000 or twice the value gained or lost.  The conspiracy and substantive money laundering counts each carried a maximum penalty of 20 years in prison and a fine of the greater of USD 500,000 or twice the value of the property involved in the transaction.  The indictment also provided notice of criminal forfeiture.<br /><br />On 10 May 2011, after just a day of deliberations, the jury in the U.S. District Court, Central District of California handed down guilty verdicts on all counts against all of the defendants on trial in this case.  Angela Aguilar was convicted of one count of conspiracy to commit money laundering.  Lindsey Manufacturing, Keith Lindsey, and Steve Lee were each convicted of one count of conspiracy to violate the FCPA and five substantive FCPA violations.<br /><br />Following the verdict, the attorney for Lindsey Manufacturing and Keith Lindsay stated that they would continue to pursue their motion to dismiss the indictment on grounds of prosecutorial misconduct.<br /><br />In December 2011, U.S. District Judge Howard Matz issued an order vacating the convictions and dismissing with prejudice the case against Lindsey Manufacturing, Keith Lindsey and Steve Lee.  The decision was based on a finding of prosecutorial misconduct, described as follows:<br /><br />"the Government team allowed a key FBI agent to testify untruthfully before the grand jury, inserted material falsehoods into affidavits submitted to magistrate judges in support of applications for search warrants and seizure warrants, improperly reviewed e-mail communications between one Defendant and her lawyer, recklessly failed to comply with its discovery obligations, posed questions to certain witnesses in violation of the Court's rulings, engaged in questionable behavior during closing argument and even made misrepresentations to the Court."  <br /><br />The dismissal of the indictment with prejudice means that the defendants cannot be tried again for the same offenses. Prosecutors appealed the dismissal to the U.S. Court of Appeals for the Ninth Circuit.  But on 25 May 2012, the DOJ filed a motion for voluntary dismissal of the appeal, ending the case as regards Lindsey Manufacturing, Keith Lindsay, and Steve Lee.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Before the trial started, the defendants in the Lindsey case challenged the DOJ's  view of who constitutes a "foreign official" under the FCPA.  Judge Matz in the U.S. District Court, Central District of California, however, upheld the DOJ's definition.  The judge found that Mexico's CFE is an "instrumentality" of the Mexican government and therefore the CFE officer who allegedly took bribes was a "foreign official" for purposes of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1149">DOJ Press Release: September 15, 2010 (Two Intermediaries Indicted for Their Alleged Participation in Scheme)</a></p><p><a href="file.asp?id=1166">Aguilar Case Summary (Sept. 15, 2010)</a></p><p><a href="file.asp?id=1174">DOJ Press Release: October 21, 2010 (California Company and Two Executives Indicted for Their Alleged Participation in Scheme to Bribe Officials at State-owned Electrical Utility in Mexico)</a></p><p><a href="file.asp?id=1295">Aguilar - Govt's Proposed Order Denying Bail (5 Jan. 2011)</a></p><p><a href="file.asp?id=1373">DOJ's memorandum in opposition to the defendants' motion to dismiss (10 March 2011)</a></p><p><a href="file.asp?id=1443">Judge's ruling on foreign official issue (20 April 2011)</a></p><p><a href="file.asp?id=1474">DOJ Press Release: 10 May 2011 (California Company, Its Two Executives and Intermediary Convicted by Federal Jury in Los Angeles on All Counts for Their Involvement in Scheme to Bribe Officials at State-Owned Electrical Utility in Mexico)</a></p><p>Bloomberg Businessweek: "Lindsey Manufacturing Bribery Case Tentatively Dismissed" (29 Nov. 2011)</p><p>Bloomberg Businessweek: "Lindsey Manufacturing Wins Dismissal of Foreign Bribery Case" (1 Dec. 2011)</p><p><a href="file.asp?id=1659">Judge's order granting motion to dismiss (1 Dec. 2011)</a></p><p><a href="file.asp?id=1851">Lindsey - Voluntary Motion for Dismissal of Appeal (25 May 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

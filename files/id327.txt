@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192507t0z94">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192507qffi9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AGEF</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(327)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925078etru" width="415" height="61" /></div>
+    
+        <h1>AGEF</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Germany: Berlin Public Prosecutor's Office<br />Afghanistan: Anti-Corruption Tribunal<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AGEF GmbH (Berlin-based "Association of Experts in the Fields of Migration and Development Cooperation") ("AGEF")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International development cooperation, migration and sustainable development services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Berlin, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Afghanistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        German development agency AGEF is reportedly under investigation by the Berlin Public Prosecutor's Office, as well as Afghan authorities, for possible bribery in connection with the agency's repatriation project for Afghan refugees.  AGEF received about USD 8.8 million from ministries of the German government in 2010.  In November of that year, when media reports in Germany claimed that the agency had embezzled repatriation subsidies in Afghanistan, the Minister of Development sent inspectors to audit the agency's documents.  But many documents were missing, the audit was slow, and the government was criticized for poor oversight.  Earlier, in 2009, the Swedish and Danish development ministries had ceased working with AGEF, after finding unacceptable bookkeeping methods by AGEF in Iraq in late 2008.  The investigations began on 20 October 2011 and appears to be ongoing.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The investigation in Germany was initiated following media reports uncovering irregular accounting methods and suspected activities in the Afghan branch of AGEF.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>UPI: "German NGO denies corruption allegations" (20 Jan. 2011)</p><p>Deutsche Welle: "German development NGO suspected of embezzlement in Afghanistan" (21 Jan. 2011)</p><p>TerraDaily: "German NGO denies corruption allegations" (20 Jan. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Non-Profit</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

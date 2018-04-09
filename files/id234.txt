@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192347o3nx2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923471iy29" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WATTS WATER TECHNOLOGIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(234)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192347azpn8" width="415" height="61" /></div>
+    
+        <h1>WATTS WATER TECHNOLOGIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Watts Water Technologies, Inc. ("Watts")<br />Watts (Shanghai) Management Co., Ltd. (Shanghai-headquartered indirect wholly-owned subsidiary of Watts that manages its Chinese subsidiaries) (“Watts China”)<br />Watts Valve (Changsha) Co., Ltd. (wholly foreign owned enterprise limited liability company established by Watts in China for the purpose of purchasing Changsha Valve.; sold in January 2010) ("CWV")<br />Leesen Chang (Vice President of Sales at Watts China between November 2008 and June 2009)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of valves for water quality, conservation, and control settings
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        North Andover, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Watts violated the FCPA's books and records and internal control provisions between April 2006 and July 2009 in connection with its CWV subsidiary's sale of large valve products for infrastructure projects in China, which were constructed and owned by Chinese state-owned entities ("SOEs").<br /><br />CWV sales personnel made improper payments to employees of Chinese state-owned design institutes so that the institutes would recommend CWV valve products to infrastructure SOEs and draft specifications that favored CWV products.  The improper payments were encouraged by CWV's sales incentive program that required personnel to pay their sales expenses out of their own commissions and permitted payments to design institutes of up to 3% of the total contract value.<br /><br />The SEC alleged that Leesen Chang, as Vice President of Sales at Watts China and interim General Manager, approved the CWV commission payments and incentive scheme with the knowledge that improper payments were being made to design institutes.  Chang allegedly resisted efforts to have the CWV sales policy translated into English and submitted to Watts' management in the US.<br /><br />Watts allegedly violated the FCPA's books and records provisions because the payments to design institutes were disguised as sales commissions in CWV’s books and records, thereby causing inaccuracies in Watts’ books and records.  Watts allegedly violated the internal controls provisions by failing to devise and maintain a system of internal accounting controls sufficient to prevent and detect the payments.  Chang allegedly violated the same provisions by approving many of the payments to the design institutes, which he knew or should have known were improperly recorded as commissions in Watt's records, and by obstructing senior management's knowledge of the payments.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to&nbsp;Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Up to 3% of contract value</p>
+</td>
+<td>
+<p>Favorable treatment by design institutes, resulting in profits of USD 2.7 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        As stated in the SEC cease-and-desist order, Watts learned of the improper payments after launching an anti-corruption training program in the Spring of 2009 in response to a recent SEC enforcement action against another company for improper payments to design institute employees in China.  Watts retained outside counsel and initiated an internal investigation in July 2009.  The company self-reported in August 2009.<br /><br />Watts Water Technologies described the (then) ongoing investigation as follows in its SEC Form 10-K filed on March 1, 2011:<br /><br />"In 2009, the Company conducted an investigation into payments made by employees of CWV, at that time an indirect wholly-owned subsidiary of the Company in China, to individuals associated with state-owned agencies that may violate the United States Foreign Corrupt Practices Act (FCPA). The Company voluntarily disclosed this matter to the Securities and Exchange Commission (SEC) and the Department of Justice (DOJ). The Company had engaged in negotiations with the staff of the SEC and DOJ to resolve potential violations of the FCPA relating to these payments. Those negotiations reached a stage at which the Company was able to estimate a probable pre-tax charge in connection with these matters of approximately $5.3 million, which amount includes estimated disgorgement of profits and interest. This has been reflected in its results for the year ended December 31, 2010. The Company had recorded this charge, net of tax, in discontinued operations as these potential violations pertained to CWV, which had been classified as discontinued operations in 2009. The Company sold CWV in January 2010. There is currently no definitive agreement with the SEC staff or DOJ for the resolution of this matter, including with respect to any disgorgement of profits, fines, penalties or interest payment, and any agreement will be subject to the approval by the Commissioners of the SEC and senior DOJ personnel. Therefore, there can be no assurance that the Company's negotiations with the SEC staff and DOJ will result in a definitive agreement, and the amount of the loss upon final disposition of these matters may exceed the Company's current estimate . . . <br /><br />"As previously disclosed, we have received information that employees of a former subsidiary of the Company in China made payments to employees of state-owned agencies. Such payments may violate the Foreign Corrupt Practices Act, or FCPA. We are conducting an investigation utilizing outside counsel and voluntarily disclosed this matter to the United States Department of Justice and the Securities and Exchange Commission. If violations are found, we may be subject to criminal and/or civil sanctions, including substantial fines. Negotiated dispositions of these types of violations also often result in an acknowledgement of wrongdoing by the entity and the appointment of a monitor on terms agreed upon with the Department of Justice and the Securities and Exchange Commission to review and monitor current and future business practices with the goal of assuring future FCPA compliance. The amount of any fines or monetary penalties which could be assessed would depend on, among other factors, findings regarding the amount, timing, nature and scope of any improper payments, whether any such payments were authorized by or made with knowledge of Watts or its affiliates, the amount of gross pecuniary gain or loss involved, and the level of cooperation provided to the government authorities during the investigation. Any determination that we have violated the FCPA could result in sanctions that could have a material adverse effect on our business prospects, operations, financial condition and cash flow."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On October 13, 2011, without admitting or denying the SEC's allegations, Watts and Chang consented to the entry of a cease-and-desist order prohibiting them from violating the FCPA's books and records and internal controls provisions.  Watts agreed to pay USD 2,755,815 in disgorgement, USD 820,791 in prejudgment interest and a USD 200,000 civil penalty.  Chang agreed to pay a civil money penalty of USD 25,000.  <br /><br />The SEC recognized Watt's cooperation and remedial measures, which included ending commission-based compensation at CWV, implementing enhanced anti-corruption policies and procedures, and conducting a worldwide anti-corruption audit. <br /><br />In a later development, on 6 June 2012,Watts filed a suit against the law firm that had been responsible for vetting Watts Valve (Changsha) Co., Ltd.prior to its acquisition by Watts.  In the suit, Watts Water Technologies, Inc. v. Sidley Austin LLP, Superior Court for the District of Columbia, the company claims that it paid Sidley to perform due diligence in anticipation of the acquisition.  The law firm is alleged to have discovered a document describing the policy of paying kickbacks to Chinese officials, and to have failed to indicate the FCPA issues potentially raised by the payments.  Watts went ahead with the acquisition, but now claims that it would not have proceeded, had it been aware of the incentive program.  A second law firm hired by Watts in 2009 to investigate allegations of corruption received the damaging document from Sidley.  In the lawsuit, Watts is asking for at least USD 100,000 in damages plus legal fees. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>As explained in the SEC's discussion of Watts' remedial measures, the Commission expects a company to enact anti-corruption measures commensurate with the extent of its international operations and the level to which it or its subsidiaries interact with government agencies or state-owned entities.</li><li>A parent company be held liable for the books and records violations of a subsidiary that is a wholly foreign owned enterprise limited liability company (WFOE) if the WFOE's books and records are consolidated into the parent's financial statements.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=850">Watts Water Technologies - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1418">Watts Water Technologies - SEC Form 10-K (1 March 2011)</a></p><p><a href="file.asp?id=1604">SEC Cease-and-Desist Order (October 13, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

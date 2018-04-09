@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192322r88uc">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192322t594h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MEDTRONIC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(207)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923221bk07" width="415" height="61" /></div>
+    
+        <h1>MEDTRONIC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Medtronic, Inc. ("Medtronic")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Maker of implantable biomedical devices, defibrillators and pacemakers 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Minneapolis, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Germany<br />Greece<br />Italy<br />Malaysia<br />Poland<br />Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Medtronic described the investigation as follows in its SEC Form 10-K filed on 24 June 2008:<br /><br />"On September 25, 2007, the Company received a letter from the SEC requesting information relating to any potential violations of the U.S. Foreign Corrupt Practices Act in connection with the sale of medical devices in an unspecified number of foreign countries, including Greece, Poland and Germany. The letter notes that the Company is a significant participant in the medical device industry, and seeks any information concerning certain types of payments made directly or indirectly to government-employed doctors. A number of competitors have publicly disclosed receiving similar letters. On November 16, 2007, the Company received a letter from the Department of Justice requesting any information provided to the SEC. The Company is cooperating with both requests."<br /><br />In a subsequent SEC Form 10-K filing on 23 June 2009, Medtronic disclosed that U.S. authorities also asked for information about the Company's transactions in Italy, Malaysia and Turkey. <br /><br />The New York Times reported on 13 August 2010 that the investigation of Medtronic was part of a broad FCPA investigation of the health care industry that included "at least a dozen major drug and device makers."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its SEC Form 10-K submitted on 24 June 2013, Medtronic announced that both the SEC and DOJ have decided to terminate their investigation "without pursuing any enforcement action or charges against the Company." The authorities notified Medtronic of this decision earlier in June 2013. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An "industry sweep" by the DOJ or SEC does not necessarily result in fines or penalties for all investigated companies.</li><li>Inquiries by the DOJ and SEC do not always result in formal enforcement actions.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2349">Medtronic: SEC Form 10-K (24 June 2008)</a></p><p><a href="file.asp?id=2350">Medtronic: SEC Form 10-K (23 June 2009)</a></p><p>New York Times: "U.S. Inquiry of Drug Makers Is Widened" (13 August 2010)</p><p><a href="file.asp?id=2351">Medtronic: SEC Form 10-K (24 June 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

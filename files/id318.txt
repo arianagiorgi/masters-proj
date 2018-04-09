@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924592f25w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192459hq6a2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BIO-RAD </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(318)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19245901vwg" width="415" height="61" /></div>
+    
+        <h1>BIO-RAD </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bio-Rad Laboratories, Inc. ("Bio-Rad")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of research laboratory and medical testing equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hercules, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />Singapore<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Bio-Rad described in its SEC Form 10-K filed on 28 February 2011 that it had discovered potential violations of the U.S. Foreign Corrupt Practices Act ("FCPA") during an internal review of operations.  The Company voluntarily disclosed the potential violations to the U.S. Securities and Exchange Commission ("SEC") and the U.S. Department of Justice ("DOJ").  Bio-Rad's Audit Committee of the Board of Directors assumed responsibility for launching an internal investigation and hiring outside counsel. <br /><br />The Company further disclosed in the SEC Form 10-K that the it identified three significant deficiencies in its internal control over financial reporting that constituted a material weakness.  The three significant deficiencies that were identified were the result of: "(i) a number of entity-level control deficiencies, including our lack of a comprehensive FCPA policy and training program; our lack of a formal, effective disclosure committee to facilitate our compliance with Section 302 of the Sarbanes-Oxley Act of 2002; inadequate policies regarding enterprise-wide risk assessment and management related to doing business in high-risk, emerging markets; our failure to perform background checks on certain parties prior to entering into material contracts with such parties; our lack of compliance with our existing Code of Business Ethics and Conduct in certain countries; and ineffective disclosure of significant exceptions to compliance with company policies through our quarterly management sub-certification process; (ii) a number of control deficiencies related to our expenditure processes at certain of our international subsidiaries and (iii) a number of control deficiencies related to our revenue and accounts receivable process at certain of our international subsidiaries.  For more information about these three significant deficiencies and the resulting material weakness in our internal control over financial reporting and the remediation efforts that we have initiated and intend to initiate to attempt to remediate these three significant deficiencies and the resulting material weakness, please see Item 9A ('Controls and Procedures') in this report."<br /><br />Bio-Rad said in its annual report on 17 March 2014 that it added USD $15 million to its reserve for a potential FCPA settlement, bringing the total to USD $35 million.<br /><br />On 3 November 2014, the company was charged with violating the anti-bribery and the books and records provisions of the FCPA.  According to the SEC Order, Bio-Rad’s subsidiaries in Russia allegedly made excessive payments disguised as commissions to foreign agents who were retained to influence Russia’s Ministry of Health and help the company win bids for government contracts.  Bio-Rad’s Singapore subsidiary allegedly sold products at a deep discount to Vietnamese distributors, who passed through a portion of the discount as bribes to government officials in Vietnam in exchange for business.  In Thailand, according to allegations, Bio-Rad acquired a company but failed to uncover a pre-existing bribery scheme in which Thai agents received inflated commissions that were partially used for improper payments.   <br /><br />On 6 November 2014, three days after the company's settlement with U.S. authorities, Vietnam's Ministry of Health ordered a review of purchases of medical equipment manufactured by Bio-Rad.  A spokesperson for the Ministry of Foreign Affairs, Pham Thu Hang, said that Vietnam health authorities had requested information from the United States developed during its investigation concerning any allegations against Vietnam officials. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: justify;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $7.5 million</td>
+<td style="text-align: center;">USD $35 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Bio-Rad discovered potential FCPA violations during an internal review of operations and voluntarily disclosed to the SEC and DOJ.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        US<br /><br />On 3 November 2014, Bio-Rad agreed to pay USD $55.1 million to the SEC and DOJ to resolve allegations that the company’s subsidiaries in Russia, Vietnam, and Thailand violated the anti-bribery and books and records provisions of the FCPA by allegedly making improper payments totaling USD $7.5 million.  The U.S. authorities estimate that the illicit payments enabled Bio-Rad to receive USD $35 million in unlawful profits.  The company agreed to pay USD $40.7 million in disgorgement and prejudgment interest to the SEC, and a USD $14.35 million criminal fine to the DOJ. The company must report its FCPA compliance efforts to the DOJ for a period of two years.<br /><br />Vietnam<br /><br />On 6 November 2014, Vietnam announced that it was launching an investigation into improper payments made by Bio-Rad.  <br /><br />Internal<br /><br />The company said it completed an internal investigation on 17 March 2014 and found "likely" violations of the FCPA's books and records and internal controls provisions and its own internal policies.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Robust due diligence should be conducted to detect inconsistencies in operations that may reveal red flags; for example, unreasonable volume discounts, agents without capacity to perform the purported services for the company, and pre-existing arrangements of an acquired company.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1284">Bio-Rad - SEC Form 10-Q (Nov. 9, 2010)</a></p><p><a href="file.asp?id=1391">Bio-Rad - SEC Form 10-K (28 Feb. 2011)</a></p><p><a href="file.asp?id=2029">Bio-Rad - SEC Form 10-Q (9 August 2012)</a></p><p><a href="file.asp?id=2520">Bio Rad Form 10-K (Mar. 17 2014)</a></p><p><a href="file.asp?id=2593">SEC Order Bio-Rad (11 3 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

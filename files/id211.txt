@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19232601dr5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19232630j1e" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NORSK HYDRO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(211)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923263d29l" width="415" height="61" /></div>
+    
+        <h1>NORSK HYDRO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Norway: National Authority for Investigation and Prosecution of Economic and Environmental Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Norsk Hydro ASA (company's oil and gas division merged with Statoil in 2007, with Hydro remaining as an aluminum supplier) ("Norsk Hydro")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas; aluminum
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Oslo, Norway
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Libya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Norsk Hydro describes the ongoing investigation as follows in a recent Annual Report:<br /><br />"Hydro and Statoil have, in close cooperation with Norwegian and US authorities, concluded their parallel investigations in order to clarify the facts surrounding payments in connection with Hydro's (now Statoil's) operations in Libya and consultancy agreements relating to Hydro's previous international oil and gas operations in relation to applicable anticorruption regulations. The fact findings of the investigations were submitted and presented to the Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crime (Økokrim) on October 7, 2008, and to the US authorities in November 2008. Neither of these authorities have found reason to open investigations of the matter."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        It appears that both the Norwegian and U.S. authorities have closed their investigations into this matter with no action.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=824">Norsk Hydro - Annual Report (2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

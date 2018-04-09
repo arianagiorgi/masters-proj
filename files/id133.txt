@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192216g8nst">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922164wnd0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ITXC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(133)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192216857m4" width="415" height="61" /></div>
+    
+        <h1>ITXC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ITXC Corporation ("ITXC")<br />Steven J. Ott (Executive Vice-President of Global Sales for ITXC)<br />Roger Michael Young (Managing Director for Africa and the Middle East for ITXC)<br />Yaw Osei Amoako (Regional Director for Africa for ITXC)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global telecommunications services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Princeton, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Senegal<br />Mali<br />Rwanda<br />Ghana<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that, between September 1999 and October 2004, ITXC employees - Amoako, Ott and Young - conspired to make improper payments to Sonatel (a telecommunications company partially-owned by the Senegalese and French governments), Rwandatel (a telecommunications company wholly-owned by the Rwandan government) and Nitel (a telecommunications company wholly-owned by the Nigerian government) for the purposes of obtaining contracts to enable the placement of calls between ITXC's carriers and the aforementioned companies throughout their respective regions.<br /><br />It was also alleged that, in two other instances, ITXC offered to retain the services of officials from Ghana Telecom (a telecommunications company partially-owned by the Ghana government) and Sotelma (a telecommunications company wholly owned by the Mali government), although ultimately no agreements were entered into and no payments were made.<br /><br />Beginning in 2001, Amoako, Ott and Young, along with approximately three other unnamed co-conspirators, made "commission payments" to a Sonatel official for the purposes of obtaining Sonatel's business.  As a result, ITXC obtained the contract on 14 February 2001 and, on 15 March 2001, the Sonatel official was hired by ITXC as a sales representative under a Non-Exclusive Regional Agency Agreement.  Between March 2001 and October 2003, this official was paid USD 74,772.06 via wire-transfers from New Jersey.  In addition, Amoako embezzled USD 100,411 between 2001 and 2004 in connection with this contract.<br /><br />Similarly, in 2002, improper "commission payments" were made to a Rwandatel official for the purposes of obtaining Rwandatel's business.  As a result, ITXC obtained a Rwandatel contract on 28 February 2002 and, on 2 July 2002, the official was hired by ITXC as a sales representative.  In September 2002, the official was allegedly paid USD 26,155.11 via wire-transfers from New Jersey.  <br /><br />Finally, in 2002, improper payments (in the form of a "retainer" and as a percentage of profits from the contract) were made to a Nitel official for the purposes of obtaining Nitel's business.  As a result, ITXC obtained the contract on 25 October 2002 and, in mid-November 2002, the official was hired by ITXC as a sales representative under the guise of being the CEO of a fictitious company called Standard Digital International Ltd. ("Standard Digital").   Between 2002 and 2004, the Nitel official was paid USD 166,541.31 (in three separate payments) via wire-transfers from a New Jersey PNC Bank to Standard Digital's account at the Intercontinental Bank PLC in Nigeria.  As a result of this contract, ITXC earned profits totaling USD 1,136,618.  For his part, Amoako received a USD 50,000 kickback.<br /><br />In the ITXC's books and records, the payments were described as "agent's fees," "settlement payments," "commission payments" and "retainer fees" on connection with fictitious sales representative agreements.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD 267,468.95</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;USD 11,509,733 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The improper payments were uncovered during pre-acquisition due diligence by Teleglobe International Holdings Ltd. ("Teleglobe"), which acquired ITXC in early 2004.  <br /><br />Teleglobe was later acquired by Videsh Sanchar Nigam Ltd. ("VSNL") in 2006.<br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 September 2006, Amoako pleaded guilty to one count of conspiracy to violate the FCPA.  On 26 July 2007, he was sentenced to 18 months in prison, including 6 months in a halfway house, and 2 years of probation.  Amoako agreed to a criminal fine of USD 7,500.  <br /><br />On 25 July 2007, Ott pleaded guilty to one count of conspiracy to violate the FCPA and the Travel Act.  On 21 July 2008, he was sentenced to 5 years of probation (including 6 months in a community corrections center and 6 months in home confinement) and agreed to a criminal fine of USD 10,000 plus interest.  <br /><br />On 25 July 2007, Young pleaded guilty to one count of conspiracy to violate the FCPA and the Travel Act.  On 2 September 2008, he was sentenced to 5 years of probation (including 3 months in community confinement and 3 months in home confinement) and agreed to a criminal fine of USD 7,000 plus interest.  <br /><br />On 18 April 2008, without admitting or denying the SEC's allegations, Amoako, Ott and Young each consented to the entry of a final judgment permanently enjoining them from future violations of the FCPA.  Amoako was also ordered to pay USD 188,435 in disgorgement and prejudgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Frequently, employee misconduct involving bribe payments to foreign officials will also involve the employee engaging in embezzlement, arranging for kickbacks or pursuing other means of self-enrichment.</li><li>Employees of partially state-owned entities, such as the main telecommunications company in certain countries, will likely constitute "foreign officials" under the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Criminal Complaint: U.S. v. Amoako (June 28, 2005)</p><p>Criminal Information: U.S. v. Amoako (September 6, 2006)</p><p>Plea Agreement: U.S. v. Amoako (September 6, 2006)</p><p>Sentencing Motion: U.S. v. Amoako (January 29, 2007)</p><p>Sentencing: U.S. v. Amoako (July 26, 2007)</p><p>Judgment: U.S. v. Amoako (August 1, 2007)</p><p>SEC Complaint: SEC v. Amoako (April 8, 2008)</p><p>Criminal Information: U.S. v. Ott (July 25, 2007)</p><p>Plea Agreement: U.S. v. Ott (July 25, 2007)</p><p>Sentencing: U.S. v. Ott (July 21, 2008)</p><p>Judgment: U.S. v. Ott (July 22, 2008)</p><p>Order Denying Motion: U.S. v. Ott (January 8, 2009)</p><p>Criminal Information: U.S. v. Young (July 25, 2007)</p><p>Plea Agreement: U.S. v. Young (July 25, 2007)</p><p>Sentencing: U.S. v. Young (September 2, 2008)</p><p>Judgment: U.S. v. Young (September 4, 2008)</p><p>SEC Complaint: SEC v. Ott & Young (September 6, 2006)</p><p>DOJ Press Release: September 6, 2006 (Former Regional Director of ITXC Corp Pleads Guilty in Foreign Bribery Scheme)</p><p>DOJ Press Release: July 27, 2007 (Two Former Executives of ITXC Corp Plead Guilty And Former Regional Director Sentenced In Foreign Bribery Scheme)</p><p>DOJ Press Release: September 2, 2008 (Former ITXC Corporation Executives Sentenced for Roles in Foreign Bribery Scheme)</p><p>SEC Litigation Release: May 6, 2008 (Former Executives of ITXC Corp. Settle Foreign Bribery Charges)</p><p>SEC Litigation Release: September 1, 2005 (SEC Sues Former Regional Director of ITXC Corp. for Violations of the Anti-Bribery Provisions of the Foreign Corrupt Practices Act)</p><p>SEC Litigation Release: September 6, 2006 (SEC Sues Two Executives of ITXC Corp. for Violations of the Anti-Bribery Provisions of the Foreign Corrupt Practices Act)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

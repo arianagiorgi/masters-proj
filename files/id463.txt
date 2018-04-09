@@ -1,0 +1,122 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192705y024q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192705w57s2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SANDALS RESORTS INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(463)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192705fz70i" width="415" height="61" /></div>
+    
+        <h1>SANDALS RESORTS INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Turks and Caicos Islands: Special Investigation Prosecution Team<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Sandals Resorts International ("Sandals")<br />The Progressive National Party (Turks and Caicos Islands)<br />Michael Misick (former premier of the Turks and Caicos Islands)<br />Dr. Jeffrey Pyne (former Director and Treasurer of Sandals)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        A chain of all-inclusive resorts
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Montego Bay, Jamaica
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Turks & Caicos<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In November 2011, media outlets reported that U.S. government officials were conducting an investigation into improper wire transfers between Sandals and various third parties located in the Turks and Caicos Islands.  One article has named the U.S. authority involved in the investigation as the Department of Homeland Security.<br /><br />News reports indicate that the wire transfers allegedly occurred between March 2005 and October 2006 from accounts belonging to Sandals Resorts International and intended to benefit the Progressive National Party ("PNP"), a political organization in the Turks and Caicos Islands, as well as the former premier of the Turks and Caicos Islands, Michael Misick.  It is alleged that Dr. Jeffrey Pyne, an executive at Sandals, facilitated the wire transfers.  According to one article, the funds were divided between the law firms of Misick and Stanbrook, (headed by Ariel Misick), Chalmers and Company, (headed by Chalmers "Chal" Misick), and Prestigious Properties (headed by Washington Misick).  One million dollars went to Michael Misick himself and USD 500,000 were intended to go to the PNP.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials in the Turks &amp; Caicos Islands<br /></strong></p>
+</td>
+<td width="319">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">USD 1.65 million</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is unclear how the activity was discovered by authorities.  News reports have said, however, that Sandals voluntarily offered its cooperation with international authorities carrying out the investigations.  <br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Turks and Caicos Islands Enforcement<br /><br />On 23 January 2013, media reports announced that Sandals had settled with the Turks and Caicos Islands Government for USD 12 million.  According to some reports, the Turks and Caicos' enforcement authority, the Special Investigation Prosecution Team (SIPT), took into consideration "the co-operation of the company with the United States authorities to a degree that has been acknowledged to be both extraordinary and unique and included the early and voluntary release of valuable evidence that has been shared with the SIPT.  That information has materially assisted SIPT's investigations."  The agreement between the company and the government of Turks and Caicos Islands was also reportedly "without any admission of liability by the company, its directors and/or officers. It does not however prevent the prosecution of any other persons in respect of any facts and matters."<br /><br />Related Private Action in the Bahamas<br /><br />According to news reports, on 30 June 2011, the company sued Dr. Jeffrey Pyne for his alleged role in making the unauthorized wire transfers on behalf of Sandals Resorts International.  Pyne contends that he cannot recall agreeing to serve as a director of Sandals Resorts International and that the action before the Bahamian Supreme Court was filed to avoid litigation in either the Turks and Caicos Islands or Jamaica.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This case illustrates how the Turks and Caicos Islands Government is in the midst of a major shake-down of corruption and fraud within its ranks, all stemming from a report by the Commission of Inquiry led by Sir Robin Auld in 2009.  That report found evidence of widespread corruption and incompetence in the government of the Turks and Caicos Islands and led to the United Kingdom imposing direct rule in 2009 (the Turks and Caicos Islands is a territory of Great Britain).</li><li>The agreement between the government of the Turks and Caicos Islands and Sandals Resorts International is the fourth such settlement SIPT has negotiated since beginning its investigations in 2009.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Caribbean News Now!: "US investigating diversion of funds to Turks and Caicos" (4 November 2011)</p><p>The Gleaner: "Stewart, Pyne Mum On Court Battle" (10 November 2011)</p><p>The TCI Grapevine: "US probes Sandals over US$1.6M allegedly paid to ex TCI Premier Missick" (6 May 2012)</p><p>Jamaica Observer: "Sandals pleased with outcome of TCI probe" (24 January 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

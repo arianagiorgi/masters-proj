@@ -1,0 +1,226 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184323m0ru8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18432392x2b" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WILLIAMSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(94)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843230zt4x" width="415" height="61" /></div>
+    
+        <h1>WILLIAMSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Royal Mint of the United Kingdom (the "Royal Mint")<br />Hector Williamson (Regional Sales Manager for the Royal Mint)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        No business was the subject of enforcement action. The Royal Mint produces coins.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        The Gambia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 1996, Mr. Bayo, then a Manager of the Central Bank of The Gambia, negotiated a contract with the Royal Mint for millions of Bututs (the currency of The Gambia) to be produced by the Royal Mint.  During the negotiation of the deal it is said that Mr. Bayo demanded a commission.  <br /><br />It was alleged in court that Mr. Williamson, a Regional Sales Manager with the Royal Mint, agreed that a commission payment of GBP 38,000 would be paid.  Mr. Williamson was charged with conspiring to defraud the Royal Mint.  It was said in court that Mr. Bayo had taken GBP 37,720 of the new Gambia money as it rolled off the production line.  Prosecuting counsel said that Mr. Williamson had benefited by receiving payments from Mr. Bayo totaling GBP 18,250.  Management at the Royal Mint were unaware of the payments that were said to have been made. <br /><br />Only Mr. Williamson faced trial at Southwark Crown Court in September 2005.  Mr. Williamson was acquitted. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong><br /></strong></td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Mr. Williamson was acquitted.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192141q9ppo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192141373l7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WILLIAMSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(94)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192141axzy8" width="415" height="61" /></div>
+    
+        <h1>WILLIAMSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Crown Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Royal Mint of the United Kingdom (the "Royal Mint")<br />Hector Williamson (Regional Sales Manager for the Royal Mint)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        No business was the subject of enforcement action. The Royal Mint produces coins.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        The Gambia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 1996, Mr. Bayo, then a Manager of the Central Bank of The Gambia, negotiated a contract with the Royal Mint for millions of Bututs (the currency of The Gambia) to be produced by the Royal Mint.  During the negotiation of the deal it is said that Mr. Bayo demanded a commission.  <br /><br />It was alleged in court that Mr. Williamson, a Regional Sales Manager with the Royal Mint, agreed that a commission payment of GBP 38,000 would be paid.  Mr. Williamson was charged with conspiring to defraud the Royal Mint.  It was said in court that Mr. Bayo had taken GBP 37,720 of the new Gambia money as it rolled off the production line.  Prosecuting counsel said that Mr. Williamson had benefited by receiving payments from Mr. Bayo totaling GBP 18,250.  Management at the Royal Mint were unaware of the payments that were said to have been made. <br /><br />Only Mr. Williamson faced trial at Southwark Crown Court in September 2005.  Mr. Williamson was acquitted. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong><br /></strong></td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Mr. Williamson was acquitted.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

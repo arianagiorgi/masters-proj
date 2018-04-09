@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922190e317">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192219k96c5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AEA AIRCRAFT RECOVERY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(137)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922196fw61" width="415" height="61" /></div>
+    
+        <h1>AEA AIRCRAFT RECOVERY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AEA Aircraft Recovery ("AEA")<br />Robert Gurin (President of AEA)<br />Joaquin Pou (Dominican citizen and retired military officer; agent of AEA and Gurin)<br />Alfredo G. Duran (U.S. citizen and Miami-based lawyer; agent of AEA and Gurin)<br />Jose Guasch (U.S. citizen; agent of AEA and Gurin)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Recovery of seized aircraft
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Miami, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Dominican Republic<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        During 1989, Mr. Gurin, president of AEA Aircraft Recovery, allegedly made improper payments to Dominican officials in connection with his attempt to recover a Piper Navajo aircraft seized by the government of the Dominican Republic.  Mr. Gurin employed several agents (namely Pou, Duran and Guasch) to make the payments  and secure the aircraft's release.  <br /><br />Throughout 1989, Mr. Gurin allegedly met several times with Mr. Pou to discuss arrangements to obtain the aircraft's release.  After conversations with other individuals involved in the scheme, Mr. Gurin allegedly approved a USD 5,000 check for distribution among Dominican military officials, which Mr. Pou personally delivered. <br /><br />After this initial payment, Mr. Duran allegedly consented to the establishment of an escrow account in his name to more easily facilitate the distribution of further payments.  In September 1989, Mr. Gurin allegedly gave Mr. Guasch USD 990 to bribe additional government officials.  Ultimately, Mr. Gurin, through the intermediaries listed above, allegedly paid approximately USD 20,000 in bribes to secure the release of the aircraft.<br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Dominican Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 20,000</p>
+</td>
+<td>
+<p style="text-align: center;">Release of seized aircraft, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 23 March 1990, Mr. Gurin pleaded guilty to one count of conspiracy to violate the FCPA.  On 23 May 1990, he was sentenced to five years of probation and 100 hours of community service.<br /><br />On 10 April 1990, Mr. Guasch pleaded guilty to one count of conspiracy to violate the FCPA.  On 11 June 1990, he was sentenced to four years probation, one month of house arrest and 75 hours of community service.   <br /><br />Duran pleaded not-guilty to a one count indictment charging him with conspiracy to violate the FCPA.  His defense was premised on the argument that Mr. Duran did not intend any improper payments under the FCPA but, rather, that he intended to make facilitating or expediting payments to secure the performance of a routine government action.  Following the court's exclusion of evidence related to Mr. Pou, who had fled the U.S., Mr. Duran was acquitted.  <br /><br />Mr. Pou became a fugitive.  On 6 November 1990, the court ordered the forfeiture of a USD 50,000 personal surety bond made by Mr. Pou and a USD 50,000 corporate surety bond made by the American Bankers Insurance Company of Florida.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In most FCPA cases, pleading guilty will be a safer bet for an individual defendant, as the odds in obtaining a better outcome by going to trial are slim.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=484">Criminal Complaint: U.S. v. Gurin et al (31 October 1989)</a></p><p><a href="file.asp?id=485">Criminal Information: U.S. v. Gurin </a></p><p><a href="file.asp?id=486">Plea Agreement: U.S. v. Gurin (23 March 1990)</a></p><p><a href="file.asp?id=488">Plea Agreement: U.S. v. Guasch (10 April 1990)</a></p><p><a href="file.asp?id=490">Motion for Acquittal: U.S. v. Duran (17 April 1990)</a></p><p><a href="file.asp?id=487">Judgment: U.S. v. Gurin (24 May 1990)</a></p><p><a href="file.asp?id=489">Judgment: U.S. v. Guasch (11 June 1990)</a></p><p><a href="file.asp?id=491">Judgment: U.S. v. Pou (6 November 1990)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

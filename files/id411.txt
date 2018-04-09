@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19261920j2j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192619h03ju" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ENI SpA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(411)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192619f4g11" width="415" height="61" /></div>
+    
+        <h1>ENI SpA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Italy: Milan Public Prosecutor's Office<br />Kazakhstan:  Public Prosecutor of Kazakhastan<br />Algeria: Special Court<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Eni SpA<br />Agip KCO<br />Eni Zubair SpA<br />Saipem SpA <br />Overseas International  Constructors  GmbH ("OIC")<br />Karachaganak Petroleum Operating B.V. ("KPO")  <br />DHL<br />Guido Michelotti (former manager of Eni's Kazakhstan program)<br />Paolo Scaroni (CEO of Eni SpA)<br />Pietro Franco Tali (former CEO and Deputy Chairman of Saipem)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas production and development 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rome, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Algeria<br />Iraq<br />Kazakhstan<br />Kuwait<br />Libya<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        KAZAKHSTAN<br /><br />According to Eni's 2010 annual report, the Public Prosecutor of Kazakhstan began an investigation in November 2007 regarding allegations of fraud in reference to a 2005 contract involving OIC. The investigation was terminated in 2011.<br /><br />According to Eni's 2010 annual report, the Public Prosecutor of Milan sent requests for audit reports and other documents to Eni on 1 October 2009 regarding allegations of "international corruption, embezzling pillage, and other crimes" relating to the Kashagan and Karachaganak fields. The Tributary Police of Milan also sent document requests on 29 November 2010 regarding Eni's contracts with OIC and Agip KCO.<br /><br />On 6 June 2012, the Wall Street Journal reported that a whistleblower email alleged that Eni had made improper payments to Kazakh customs officials. The email alleged that the members of the KPO consortium (Chevron, Eni, Lukoil, and BG Group) had been using DHL to make improper payments to Kazakh customs authorities since 2004. The purpose of the payments was to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.<br /><br /><br />ALGERIA<br /><br />According to Eni's 2010 annual report, the Public Prosecutor of Milan sent a document request to Eni on 4 February 2011 regarding allegations of "international corruption." The documents that the Public Prosecutor sought involved the contract between Saipem (Eni's oil service subsidiary) and Sonotrach (Algeria's state-owned energy enterprise) for the GK3 gas pipeline and the GALSI/Saipem/Technip gas pipeline contract. <br /><br />On 5 December 2012, Saipem announced the suspension of the Chief Operating Officer in its Construction and Engineering Department, Pietro Varone, and an unnamed company officer. In a press release, the Company explained that the suspensions result from the Public Prosecutor of Milan's investigation of allegations "up through 2009 in connection with certain contracts in Algeria."<br /><br />Also on 5 December 2012, the Board of Directors of Eni announced that Pietro Franco Tali had tendered his resignation from the positions of Chief Executive Officer and Deputy Chairman of Saipem. The statement also announced that Alessandro Bernini had resigned from his position as Chief Financial Officer of Eni. Mr. Bernini had previously been the Chief Financial Officer of Saipem until 2008. On 7 February 2013, the New York Times reported that Saipem had said that Mr. Tali was also being investigated.<br /><br />On 7 February 2013, Bloomberg News reported that the size of the alleged bribes relating to Saipem's contracts in Algeria amounted to EUR 197 million and that the contracts were worth a total of EUR 11 billion. Bloomberg News also reported that Public Prosecutor of Milan opened an investigation into Eni and its Chief Executive Officer Paolo Scaroni regarding the bribes allegedly paid in Algeria. The article also states that Mr. Scaroni's home and office were searched as part of the investigation. <br /><br />On 11 February 2013, Reuters reported that an Algerian "special court" initiated an investigation into allegations of corruption potentially involving Eni, Saipem, and Sonatrach. Reuters reported on 23 April 2013 that the Algerian investigation has expanded but Saipem does not know who it now includes. The Reuters article from 23 April 2013 also said that Saipem is concerned that, as a result of the investigation, it could lose up to EUR 500 million in payments it is owed by the Algerian government.<br /><br />On 21 January 2014, Eni said forensic audits carried out by its representatives revealed no evidence “of illegal or corrupt conducts at Eni nor the existence of intermediary contracts between Eni and the third parties under investigation."  Eni further stated that it will be sharing the audit results with the investigators.<br /><br /><br />LIBYA<br /><br />In its 2011 annual report, Eni reported that the U.S. Securities & Exchange Commission (SEC) initiated an investigation into allegations regarding "certain illicit payments to Libyan officials." The annual report stated that the SEC had sent Eni a subpoena on 10 June 2011 requesting documents and information regarding Eni's business activities in Libya during the period of 2008 to 2011. The company received another request from the SEC in December 2011. <br /><br /><br />IRAQ<br /><br />Eni's 2011 annual report states that on 21 June 2011, authorities in Fano, Italy notified Eni Zubair that they had obtained a search warrant to investigate allegations of corruption and conspiracy involving Eni Zubair's contracts in Iraq. The authorities searched the home and office of an Eni Zubair employee.<br /><br /><br />KUWAIT<br /><br />On 21 June 2011, and according to Eni's 2011 annual report, authorities in Fano, Italy notified Saipem that they had acquired a search warrant to investigate allegations of corruption and conspiracy relating to Saipem's Jurassic project in Kuwait. The authorities searched the home and office of a Saipem manager.<br /><br /><br />NIGERIA<br /><br />On 4 July 2014, Italian prosecutors opened a probe into alleged corruption relating to the 2011 acquisition of a big oil field in Nigeria by Italian oil group Eni and Shell.  The probe relates to the purchase of offshore oil block OPL 245 in Nigeria.  British police began investigating a money-laundering allegation in connection with the same field in 2013.<br /><br />The concession for OPL 245, which industry sources have said could contain up to 9.23 billion barrels of crude, was awarded to Eni and Shell by the Nigerian government in 2011 for USD $1.3 billion.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Algerian Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">EUR 197 million<br /></td>
+<td style="text-align: center;">EUR 11 billion in Saipem contracts<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        ITALY<br /><br />On 4 July 2014, Italian prosecutors opened a probe into alleged corruption relating to the 2011 acquisition of OPL 245 in Nigeria by Italian oil group Eni and Shell.<br /><br />On 11 September 2014, Milan prosecutors disclosed that the CEO of Eni, Claudio Descalzi, was under investigation for alleged corruption tied to the company's 2011 acquisition of a Nigerian deepwater offshore block for USD $1.09 billion. <br /><br />On 12 February 2015, Italian prosecutors sought to indict Eni, Saipem, and Paolo Scaroni, former chief executive of Eni, for allegedly paying bribes to Algerian officials to win contracts.<br /><br />Investigations are still ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1852">Eni: 2010 SEC Form 20-F (7 April 2011)</a></p><p><a href="file.asp?id=2127">Eni Press Release: "Eni announces results for the Fourth Quarter and the Full Year 2011" (15 February 2012)</a></p><p><a href="file.asp?id=2126">Eni: 2011 SEC Form 20-F (5 April 2012)</a></p><p><a href="file.asp?id=2088">Eni Press Release: Appointment of New CFO (5 December 2012)</a></p><p><a href="file.asp?id=2094">Saipem Press Release: "Saipem's Board of Directors" (5 December 2012)</a></p><p>Bloomberg News: "Eni Confirms CEO Scaroni Probed in Algeria Corruption Case" (7 February 2013)</p><p>New York Times: "Italian Oil Giant Caught Up in Corruption Investigation" (7 February 2013)</p><p>Reuters: "Algeria probes Eni, Sonatrach allegations" (11 February 2013)</p><p>Reuters: "Saipem 'could lose 500 mln euros' in Algerian probe" (23 April 2013)</p><p>Wall Street Journal: "Italian Prosecutors Seek Corruption Charges Against Former Eni CEO" (12 February 2015)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

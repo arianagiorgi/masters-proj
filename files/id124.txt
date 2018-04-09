@@ -1,0 +1,421 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922089f5xv">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922082c2c9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SIEMENS AG</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(124)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19220832v7z" width="415" height="61" /></div>
+    
+        <h1>SIEMENS AG</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Hungary: National Bureau of Investigation <br />Germany: Munich Public Prosecutor's Office<br />Switzerland: Federal Public Prosecutor's Office<br />Italy: Milan Public Prosecutor's Office<br />Austria: Vienna Prosecution Office<br />Brazil: Public Ministry<br />Mexico: Ministry of Public Administration<br />China: People's Procuratorate<br />Bangladesh: Anti Corruption Commission<br />Greece: Athens Public Prosecutor's Office<br />Argentina: Anti-Corruption Authority<br />Germany: Wuppertal Public Prosecutor's Office<br />South Africa: National Prosecuting Authority<br />Germany: Frankfurt Public Prosecutor's Office <br />Germany: Nuremberg-Fuerth Public Prosecutor's Office<br />Israel: National Police<br />Turkey: Prime Ministry Inspection Board <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Siemens Akteingesellschaft ("Siemens AG" or "Siemens")<br />Siemens, S.A. (wholly-owned Siemens subsidiary in Argentina) ("Siemens Argentina")<br />Siemens, S.A. (wholly-owned Siemens subsidiary in Venezuela) ("Siemens Venezuela")<br />Siemens S.A.S. (wholly-owned Siemens subsidiary in France) ("Siemens France")<br />Siemens Sanayi ve Ticaret A.S. (wholly-owned Siemens subsidiary in Turkey) ("Siemens Turkey")<br />Osram Middle East FZE ("Siemens Middle East")<br />Siemens Ltda. (Brazil)<br />Siemens A.E. Greece <br />Siemens Ltd. Nigeria (wholly-owned Siemens subsidiary in Nigeria) ("Siemens Nigeria")<br />Siemens AG Austria<br />Siemens VAI Metal Technologies GmbH & Co.<br />Siemens Bangladesh, Ltd. (wholly-owned Siemens subsidiary in Bangladesh) ("Siemens Bangladesh")<br />Siemens Southern Africa<br />Siemens Israel<br />Siemens Switzerland<br />Hellenic Telecommunications Organization S.A. ("OTE")<br />Gas Turbine Technologies S.p.A. ("GTT") <br />China Mobile Anhui Province<br />SK Engineering and Construction Co. (a South Korean company)<br />Israel Electric Corporation (“IEC”)<br /><br />Andreas Kley (former finance chief at Siemens' power-generation unit)<br />Horst Vigener (former consultant to Siemens' power-generation unit)<br />Michael Kutschenreuter (former financial head of Siemens' telecommunications unit)<br />Hans-Werner Hartmann (former head of accounting for Siemens' telecommunications unit)<br />Thomas Ganswindt (former Siemens AG management board member)<br />Uriel Sharef (former member of the central executive committee of Siemens AG)<br />Herbert Steffen (former chief executive officer of Siemens Argentina)<br />Andres Truppel (former chief financial officer of Siemens Argentina)<br />Ulrich Bock, Stephan Signer, and Eberhard Reichert (former senior executives of Siemens Business Services ("SBS"))<br />Carlos Sergi (served as intermediary and agent of Siemens in a bribe scheme) <br />Miguel Czysch (served as intermediary and agent of Siemens in a bribe scheme) <br />Adilson Primo (former senior Siemens representative in Brazil)<br />Shi Wanzhong (former chairman and general manager of China Mobile Anhui Province)<br />Tian Qu (sales agent employed by Siemens in Anhui Province)<br />Dan Cohen (former judge in Israel and former director of the state-owned Israel Electric Corporation (“IEC”))<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Transportation, telecommunications, medical devices, power plants, and oil refineries
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Munich, Bavaria, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Hungary<br />Serbia<br />Argentina<br />Austria<br />Bangladesh<br />Brazil<br />China<br />Germany<br />Greece<br />Iraq<br />Israel<br />Italy<br />Kuwait<br />Mexico<br />Nigeria<br />Norway<br />Russia<br />South Africa<br />Thailand<br />Turkey<br />Venezuela<br />Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        BACKGROUND<br /><br />Between 21 March 2001 and 30 December 2007, Siemens used a variety of methods to allegedly make approximately 4,283 illegal payments to government officials, totaling approximately USD $1.4 billion. These payments caused the Company to realize an alleged USD $1.1 billion in profits during the relevant time period.  <br /><br />Siemens allegedly made improper payments when competing for business outside of Germany.  These types of payments were not illegal under German law at the time and indeed were tax deductible as legitimate business expenses.  In 1999, Germany ratified the Organisation of Economic Cooperation and Development ("OECD") Convention prohibiting transnational bribery.  In 2001, Siemens listed its stock on the New York Stock Exchange thereby subjecting itself to the FCPA. <br /><br />Despite the change in the law, Siemens did not implement the necessary internal controls to ensure that improper payments were no longer made and allegedly encouraged and rewarded such payments.  <br /><br />The payments allegedly made in various divisions of the Company between 2001 and 2007 included: (i) cash payments to Nigerian officials in connection with four telecommunications projects; (ii) payments to Enel, a partially state-owned company in Italy, in connection with two power plant projects; (iii) "bonus payments" made to Greek officials by Siemens' Communications Group; (iv) payments to officials in Venezuela in connection with metro projects in Valencia and Maracaibo; (v) payments to government customers in China in connection with seven metro construction projects; (vi) payments to a former director of the Israel Electric Company for four contracts to build and service power plants; (vii) payments to government customers in China for the installation of high voltage transmission lines; (viii) payments to officials in Bangladesh for a contract to install mobile telephone services; (ix) payments to senior officials in Argentina in order to win a contract to produce national identity cards; (x) payments in Vietnam in connection with the sale of medical devices; (xi) cash payments and vacation travel for doctors in China related to the sale of medical equipment; (xii) payments to government officials in Russia related to a World Bank-funded project for the design and installation of traffic equipment; (xiii) payments to senior officials at PEMEX, the Mexican state-owned oil company, to settle cost overruns in connection with three refinery modernization projects; (xiv) payments to government customers in Russia for the sale of medical equipment; and (xv) payments to officials in Vietnam related to a contract to supply equipment and services for a GSM network. <br /><br />In addition to the payments listed above, Siemens allegedly paid approximately USD $1.7 million in kickbacks under 42 contracts to the government of Iraq in connection with the United Nations Oil for Food Program.  These contracts resulted in over USD $124 million in revenue and approximately USD $38,226,537 in profits.  The payments were described as after-sales service fees, even though Siemens did not render any services under the contracts. <br /><br />Siemens allegedly used a variety of methods to conceal these payments and improperly recorded all 4,283 payments on its books and records.  Approximately USD $982.7 million in payments were funneled through third parties.  Siemens would allegedly enter into business consultant agreements under which the consultants would not perform any services other than funneling bribes.  Siemens routed more than USD $211 million in bribes through slush funds that were often maintained by former Siemens executives, third parties, or affiliated companies.  Siemens also used cash to pay approximately USD $160.4 million in bribes.  <br /><br />Employees with the Communications Group would obtain cash from "cash desks" maintained by the Siemens Real Estate Group.  Employees would allegedly pick up hundreds of thousands of dollars in cash and would then transport it, sometimes in suitcases, across borders to pay bribes.  In addition to the other methods, Siemens used a number of internal accounts to make more than USD $16.2 million in payments.  These accounts were intended to make payments on transactions between two Siemens entities; however, Siemens often used these accounts to make payments to third parties. <br /><br /><br />ARGENTINA<br /><br />The Argentinean Anti-Corruption Authority began an investigation into alleged corruption in connection with a contract Siemens was awarded in 1998 for the development and operation of a system for the production of identity cards, border control, data collection, and registers of voters.<br /><br />Siemens AG filed a request for arbitration against the Republic of Argentina (Argentina) with the International Center for Settlement of Investment Disputes (ICSID) of the World Bank. Siemens AG claimed that Argentina had unlawfully terminated its contract with Siemens for the development and operation of a system for the production of identity cards, border control, collection of data and voters' registers (DNI project) and thereby violated the Bilateral Investment Protection Treaty between Argentina and Germany (BIT). Siemens AG sought damages for expropriation and violation of the BIT of approximately USD $500 million.<br /><br />On 13 December 2011, the U.S. Department of Justice ("DOJ") charged eight former executives and agents of Siemens AG and its subsidiaries for allegedly engaging in a decade-long scheme to bribe senior government officials in Argentina to secure, implement and enforce a USD $1 billion contract with the government of Argentina to produce national identity cards. The indictment charges the defendants and their co-conspirators with conspiracy to violate the FCPA and the wire fraud statute, money laundering conspiracy, and wire fraud.<br /><br />Also on 13 December 2011, The U.S. Securities and Exchange Commission ("SEC") filed a civil action on related charges alleging that over USD $100 million in bribes were paid in connection with Siemens' efforts to secure the contract and obtain the profits from that contract. The indictments come three years after Siemens AG, as a company, resolved FCPA-related charges with the DOJ and SEC.  The SEC alleged that in furtherance of the scheme, the defendants falsified documents, including invoices and sham consulting contracts, participated in meetings in the United States to negotiate the terms of bribe payments, and made use of U.S. bank accounts to pay bribes. According to the SEC's complaint, the bribery scheme lasted for more than a decade, from approximately 1996 until early 2007.<br /><br /><br />AUSTRIA<br /><br />The Vienna public prosecutor, Austria, is conducting an investigation into payments between 1999 and 2006 relating to Siemens AG Austria and its subsidiary Siemens VAI Metal Technologies GmbH & Co. for which valid consideration could not be identified. In September 2011, the Vienna public prosecutor extended the investigations to include a potential corporate liability of Siemens AG Austria for tax evasion. <br /><br /><br />BANGLADESH<br /><br />In 2009, the Anti-Corruption Commission of Bangladesh (ACC) filed criminal charges against two current and one former employee of Siemens Bangladesh’s Healthcare business. It is alleged that the employees colluded with employees of a public hospital to overcharge for the delivery of medical equipment in the period before 2007. <br /><br /><br />BRAZIL<br /><br />In 2011, the Brasilia public prosecutor opened proceedings to assess allegations against Siemens in connection with a 2007 metro project.  In May 2013, Siemens self-reported its involvement in a price-fixing cartel to Brazilian law enforcement authority, and admitted to paying bribes in order to win contracts to build the Sao Paolo Metro.<br /><br />Siemens' former senior representative in Brazil, Adilson Primo, allegedly paid approximately USD $8.1 million in bribes. Brazilian daily newspaper O Estado de Sao Paulo reported on 1 December 2013 that a Sao Paulo court ordered Mr. Primo to disclose financial transactions on a business account he owns.  Both the ruling leftist labor party, PT, and the country's largest opposition force, the Social Democratic PSDB, accused each other of having received kickbacks from Siemens in connection with the Sao Paulo metro tender. Police in Sao Paolo reportedly obtained two documents incriminating senior PSDB leaders.  The documents allegedly implicate payments to PSDB leaders in Sao Paulo from a railway cartel involving Siemens, French conglomerate Alstom, and Spain's CAF group, as well as Mitsui of Japan and Bombardier from Canada.<br /><br /><br />CARIBBEAN<br /><br />In July 2011, the Nuremberg-Fuerth public prosecutor notified Siemens AG of an investigation of allegations that several employees made improper payments related to the health care business in the Caribbean.<br /><br /><br />CENTRAL ASIA<br /><br />In July 2011, the Munich public prosecutor notified Siemens AG of an investigation into payments to a supplier related to the oil and gas business in Central Asia between 2000 and 2009.<br /><br /><br />CHINA<br /><br />After the Siemens case was prosecuted in the United States, information was provided to Chinese authorities, apparently through diplomatic channels, regarding the involvement of Chinese officials in the Siemens bribery.<br /><br />A number of companies are reported to have been involved in Siemens bribery in China, including Siemens Medical Solutions Group, Siemens PTD and Siemens Transportation System.  Media sources allege that these three companies offered USD 61.4 million in bribes to Chinese officials for projects totaling CYN 2.1 billion.<br /><br />The owner of a private company, Tian Qu, allegedly served as middleman or sales agent for Siemens to broker equipment sales between Siemens and China Mobile.  Through Tian, Siemens allegedly secured lucrative sales contracts with China Mobile Anhui Province, and paid USD $5.1 million to Tian's bank account, to be transferred to Shi. The transactions allegedly took place between 2002 and 2009.<br /><br /><br />GREECE<br /><br />In February 2010, a Greek Parliamentary Investigation Committee (GPIC) was established to investigate whether any politicians or other state officials in Greece were involved in Siemens’ alleged wrong-doing in Greece. GPIC’s investigation focused on possible criminal liability of politicians and other state officials. Greek public prosecutors separately investigated certain fraud and bribery allegations involving – among others – former board members and former executives of Siemens Greece and Siemens AG. In January 2011, the GPIC alleged that the damage suffered by the Greek state amounted to at least €2 billion. <br /><br /><br />HUNGARY<br /><br />Siemens Zrt. Hungary and certain of its employees are alleged to have made suspicious payments in connection with consulting agreements with a variety of shell corporations in Hungary. Siemens Zrt. Hungary is alleged to have made improper payments to secure the awarding of a contract for the delivery of communication equipment to the Hungarian Armed Forces.<br /><br /><br />IRAQ<br /><br />In August 2007, the Nuremberg-Fuerth public prosecutor began investigating Siemens for possible violations of anti-corruption law in connection with the United Nations Oil-for-Food Programme.<br /><br />In June 2008, the Republic of Iraq filed an action requesting unspecified damages against 93 named defendants with the United States District Court for the Southern District of New York on the basis of findings made in the 'Report of the Independent Inquiry Committee into the United Nations Oil-for-Food Programme.' Siemens S.A.S. France, Siemens A. Ş. Turkey and OSRAM Middle East FZE, Dubai, are among the 93 named defendants.<br /><br /><br />ISRAEL<br /><br />On 17 March 2013, Reuters reported that Dan Cohen, a former judge in Israel and former director of the state-owned IEC, has been extradited to Israel from Peru in order to face bribery and other charges. The indictment of Cohen alleged that he accepted approximately USD $1.3 million in exchange for ensuring that Siemens Israel won a bid over General Electric for a lucrative gas turbines contract with IEC in 1999. An investigator at the Israel Securities Authority alleged that Cohen received bribes amounting to approximately USD $4 million from multiple companies, although details on these other companies and transactions were not disclosed. <br /><br /><br />ITALY<br /><br />The public prosecutor in Milan alleged that two individuals at Siemens S.p.A. made illegal payments to employees of the state-owned gas and power group, ENI, as part of a larger probe that implicated other companies operating in Italy. Andreas Kley, the former finance chief at Siemens' power-generation unit, and Horst Vigener, a former consultant to Siemens' power-generation unit, were alleged to have paid about USD $7.8 million in bribes from 1999 to 2002 to help Siemens win gas-turbine supply contracts with Enel, an Italian energy company. The contracts were valued at approximately USD $585 million.  <br /><br /><br />KUWAIT<br /><br />In May 2011, Siemens voluntarily reported a case of attempted public corruption in connection with a 2010 project in Kuwait to the DOJ, SEC and the Munich Public Prosecutor.<br /><br /><br />MEXICO<br /><br />Petróleos Mexicanos (“PEMEX”), a Mexican state-owned petroleum company, alleged that a consortium between Siemens AG and SK Engineering & Construction Co., which operated under the name Conproca, bribed officials to win a lucrative contract for the Cadereyta project in Northern Mexico in 1997. Later, when cost overruns would have had consequences pursuant to the project contract, the consortium paid additional bribes in order to avoid the cost overrun status.<br /><br />PEMEX brought a civil suit in a U.S. court alleging that Siemens and SK Engineering submitted a low bid in 1996 to win a public contract for modernizing a PEMEX refinery.  Siemens then allegedly bribed PEMEX officials to recover cost overruns.  PEMEX sought at least USD $500 million in damages from Siemens and SK Engineering. On 17 July 2014, the U.S. Court of Appeals for the Second Circuit dismissed the suit by PEMEX on the basis that PEMEX did not allege sufficient contacts or activities with the U.S. in order to bring the charges in U.S. courts.<br /><br /><br />NIGERIA<br /><br />The Nigerian Economic and Financial Crimes Commission (EFCC) conducted an investigation into alleged illegal payments by Siemens to Nigerian public officials between 2002 and 2005. In October 2010, the EFCC filed charges with the Federal High Court in Abuja and the High Court of the Federal Capital Territory against – among others – Siemens Ltd. Nigeria (Siemens Nigeria), Siemens AG and former board members of Siemens Nigeria. <br /><br /><br />NORWAY<br /><br />The Norwegian anti-corruption unit, Oekokrim, alleged that Siemens AS Norway and two of its former employees paid for golf trips in 2003 and 2004 that were attended by members of the Norwegian Department of Defense.<br /><br /><br />RUSSIA<br /><br />Authorities in Russia conducted an investigation into alleged misappropriation of public funds in connection with the award of contracts to Siemens for the delivery of medical equipment to public authorities in Yekaterinburg in the years 2003 to 2005.<br />In April 2009, Siemens AG received a notification of administrative proceedings from the World Bank in connection with allegations of sanctionable practices during the period 2004-2006 relating to a World Bank-financed project in Russia.  This appears to be ongoing.<br /><br /><br />SERBIA<br /><br />The public prosecutor in Wuppertal, Germany, conducted an investigation against Siemens employees regarding allegations that they participated in bribery related to the awarding of a European Union contract for the refurbishment of a Serbian power plant in 2002.<br /><br /><br />SOUTH AFRICA<br /><br />In November 2009 and in February 2010, a Siemens AG subsidiary voluntarily self-reported possible violations of South African anti-corruption regulations in the period before 2007.<br /><br /><br />SWITZERLAND<br /><br />The Swiss investigation by the Public Prosecutor's Office focused on corrupt payments made to secure business for Siemens in the Greek telecommunications market. Swiss investigators cooperated with their counterparts in Germany, the United States and Liechtenstein during the course of the probe.  In November 2013, the Swiss authorities issued fines and seized CHF 60 million (approximately USD $65 million) relating to the Siemens “slush fund” scandal. <br /><br /><br />THAILAND<br /><br />On June 23, 2010, the Frankfurt public prosecutor searched the premises of Siemens in Germany in response to allegations of questionable payments relating to an Industry project in Thailand.<br /><br /><br />TURKEY<br /><br />In October 2011, the Turkish Prime Ministry Inspection Board notified Siemens A.S. Turkey of an investigation in connection with alleged bribery in Turkey and Iraq from 1999 to 2007. <br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Foreign Officials from 2001 to 2006</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $1.4 billion</p>
+</td>
+<td width="312" valign="top">
+<p>USD $1.1 billion (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $16.7million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $642 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>Over USD $100 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $1 billion (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Bangladeshi Officials</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $5.3 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $40.9 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Kickbacks to Iraqi Government</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $1.7 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $124 million (revenue)</p>
+<p>USD $38,226,537 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Chinese Officials for Metro Trains and Signaling Devices</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $22 million to business consultants;</p>
+<p>Unspecified amount to government officials</p>
+</td>
+<td width="312" valign="top">
+<p>Over USD $1 billion (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Israeli Officials</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $20 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $786 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Chinese Officials for High Voltage Transmission Lines</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $25 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $838 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Nigerian Officials</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $4.5 million</p>
+</td>
+<td width="312" valign="top">
+<p>USD $130 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Vietnamese Officials for Medical Device Sales</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $183,000</p>
+</td>
+<td width="312" valign="top">
+<p>USD $6 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Chinese Officials for Medical Device Sales</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $14.4 million;</p>
+<p>Trips to Las Vegas and other holiday   destinations</p>
+</td>
+<td width="312" valign="top">
+<p>USD $295 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Russian Officials for a traffic control system</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $741,419</p>
+</td>
+<td width="312" valign="top">
+<p>USD $27 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Mexican Officials in Connection with Settlement of Cost   Overrun Claim</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $2.6 million; unspecified amount to   Mexican officials</p>
+</td>
+<td width="312" valign="top">
+<p>Settlement of cost overrun claims in   connection with oil refinery project</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Russian Officials for Medical Equipment Sales</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>Over USD $55 million to consultant;   unspecified amount to Russian officials</p>
+</td>
+<td width="312" valign="top">
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="312" valign="top">
+<p><strong>Approximate   Alleged Payments to Vietnamese Officials for GSM Network Contract</strong></p>
+</td>
+<td width="312" valign="top">
+<p><strong>Business   Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="312" valign="top">
+<p>USD $140,000</p>
+</td>
+<td width="312" valign="top">
+<p>USD $35 million (contracts)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In November 2006, German law enforcement executed a series of dawn raids on Siemens offices and the homes of senior executives.  Siemens then voluntarily disclosed the conduct to the DOJ and SEC. <br /><br />Please see above with regard to the investigations currently ongoing. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNITED STATES<br /><br />On 15 December 2008, Siemens settled charges with the DOJ and the SEC for a record-breaking USD $800 million in fines and penalties.<br /><br />Under its plea agreement with the DOJ, Siemens pleaded guilty to two counts of violating the books and records and internal controls provisions of the FCPA.  Siemens Argentina pleaded guilty to one count of conspiracy to violate the FCPA and Siemens Venezuela and Siemens Bangladesh each pleaded guilty to one count of conspiracy to violate the anti-bribery and books and records provisions of the FCPA.  Siemens was required to pay a USD 448.5 million criminal fine and Siemens Argentina, Bangladesh, and Venezuela were each required to pay a USD 500,000 criminal fine, bringing the total amount in criminal fines in the United States to USD 450 million. <br /><br />Siemens, without admitting or denying the SEC's allegations, consented to the entry of a final judgment permanently enjoining the Company from future violations of the FCPA's anti-bribery, books and records, and internal controls provisions.  Siemens was also required to pay USD 350 million in disgorgement of profits. <br />Both the DOJ and SEC noted Siemens' extraordinary cooperation during the investigation and the extensive remedial measures undertaken by the Company, including the scope of its internal investigation after disclosing the conduct to the U.S. enforcement authorities, disciplinary actions against individuals involved, and the restructuring of the Company's compliance program.<br /><br />On 9 January 2009, the DOJ announced that it had filed a forfeiture action against Siemens' accounts in Singapore held by multiple account holders.  The funds in the accounts were allegedly related to bribes paid by Siemens and China Harbor Engineering to Arafat "Koko" Raman, the son of Bangladesh's former prime minister in connection with the award of a public works project in Bangladesh.  The funds allegedly were paid in U.S. dollars and flowed through banks in the United States before being deposited into accounts in Singapore.   <br />  <br />Individual Prosecutions<br /><br />On 13 December 2011, the DOJ charged eight former executives and agents of Siemens AG and its subsidiaries for allegedly engaging in a decade-long scheme to bribe senior government officials in Argentina to secure, implement, and enforce a USD 1 billion contract with the government of Argentina to produce national identity cards.  The defendants in the DOJ action, Uriel Sharef, Herbert Steffen, Andres Truppel, Ulrich Bock, Eberhard Reichert, Stephan Signer, Carlos Sergi, and Miguel Czysch, are not U.S. citizens and reside outside of the United States.  Unless the U.S. government obtains extradition of the men, they cannot be tried on the criminal charges.<br /><br />The SEC also filed a civil action on related charges against seven men, alleging that over USD $100 million in bribes were paid in connection with Siemens' efforts to secure the contract and obtain the profits from that contract. As for these charges, legal process requires that the defendants be served with the complaint in the lawsuit, but SEC lawyers were unable to serve the four German defendants (Sharef, Signer, Steffen, and Bock) via the Hague Convention, absent the cooperation of the German government, which responded to requests for assistance in service by stating:  <br /><br />"The German government has recently advised that an action by the SEC seeking civil penalties for violations of U.S. federal securities laws is not, under German law, a 'civil or commercial matter' within the meaning of the Hague Convention." <br /><br />Therefore, the SEC attorneys requested permission to serve the four men through newspaper notices and emails to their attorneys.  On 26 June 2012, the U.S. court agreed to this request. <br /><br />On 12 October 2012, Herbert Steffen filed a motion to dismiss for lack of jurisdiction and for failure to satisfy the statute of limitations. On 19 February 2013, Judge Shira A. Scheindlin of the U.S. District Court for the Southern District of New York granted Steffen's motion to dismiss for lack of personal jurisdiction, saying that Steffen did not have sufficient contacts with the United States to meet the requirements of personal jurisdiction and that exercising jurisdiction over him would be unreasonable due to his age and other factors. <br /><br />Regendantz settled the SEC charges in December 2011 without admitting or denying the allegations by consenting to the entry of a final judgment permanently enjoining him from committing future violations. He paid a EUR 30,000 (USD $ 40,000) administrative fine ordered by the Munich prosecutor.<br /><br />The Wall Street Journal reported on 15 April 2013 that Uriel Sharef agreed to pay USD $275,000 to settle the SEC's civil suit against him. Sharef did so without admitting or denying the SEC's allegations. <br /><br />On 4 February 2014, two former Siemens executives were ordered to pay a combined USD $1.46 million for their roles in a USD $1 billion Argentine government contract bribery scheme, the largest Foreign Corrupt Practices Act penalties ever levied against individuals.  U.S. District Judge Shira A. Scheindlin entered a default judgment against Mr. Signer and Mr. Bock and ordered each to to pay a USD $524,000 civil penalty and Mr. Block to pay an additional USD $413,957 for disgorgement. The two German nationals allegedly bribed Argentine government officials as part of a decade-long scheme to retain a USD $1 billion government contract to produce Argentine national identity cards.<br /><br />On 14 August 2014, the U.S. Court of Appeals for the Second Circuit affirmed the dismissal of a lawsuit filed by a former Siemens compliance officer in China who said the company retaliated against him after he internally reported alleged corrupt sales practices.  The court granted Siemens’s motion to dismiss with prejudice, holding that the anti-retaliation provision of the Dodd‐Frank Act (15 U.S.C. § 78u‐6(h)(1)) does not apply extraterritorially.<br /><br /><br />ARGENTINA<br /><br />On 14 December 2012, La Nueva reported that a federal judge in Argentina held a hearing regarding the possible extradition of former Siemens AG CFO Andres Truppel to the United States to face criminal charges. Main Justice reported on 18 March 2013 that Truppel is one of four defendants who also have failed to respond to the civil suit brought by the SEC, and that the SEC is seeking to have Truppel be considered in default of the civil charges. <br /><br />On 14 June 2011, it was reported that a Siemens management board member had been charged in connection with breach of trust in connection with bribes paid (through slush funds, phony companies and middlemen) in Argentina between 2003 and 2007. Argentinian authorities searched the offices of Siemens Argentina and Siemens IT Services S.A. in Buenos Aires in August 2008 and February 2009. The Argentinean investigative judge requested judicial assistance from the Munich public prosecutor and the federal court in New York.<br /><br />In a separate suit arising out of the earlier investigation, Carlos Moran, formerly a government investigator in Argentina, brought a claim in federal court in Miami against Siemens AG and Siemens' subsidiary in Argentina.  Moran claims that Siemens paid people to physically attack him after he blew the whistle on Siemens' bid for the national identity card project.<br /><br /><br />CHINA<br /><br />Shi Wanzhong, former chairman and general manager of China Mobile Anhui Province, was sentenced to death in May 2011 in the Intermediate Court of Hebei City, Henan Province, for receiving USD $5.1 million in bribes from Siemens.  Shi received a two-year reprieve (which usually means that the sentence will not be carried out).  The trial was closed to the public. <br /><br />Tian Qu, who served as sales agent for Siemens and was responsible for brokering the deals between Siemens and China Mobile Anhui and for transferring the kickbacks to Shi, was sentenced to 15 years in prison for facilitating Shi's corruption. <br />The Chinese investigation appears to have concluded in June 2011. <br /><br />On 15 January 2013, a former compliance officer for Siemens' Chinese subsidiary filed a lawsuit against Siemens in federal court in New York.  The former employee, a Taiwanese man named Meng-Lin Liu, claimed that in May 2011, one week after presenting evidence of Siemens' continued internal controls violations and the Company's  circumvention of its plea agreement with U.S. authorities, he was notified that his contract would not be renewed, and that he should not report to work. In the complaint, Liu alleges that the evidence he submitted to the SEC and Siemens' executives revealed the Company's practice of submitting inflated bids for the sale of medical imaging equipment in China, and then selling the equipment at lower prices to intermediaries, for resale to public hospitals.<br /><br /><br />GERMANY<br /><br />In its settlement with the Munich Prosecutor's Office, Siemens (apart from its telecommunications group) pleaded guilty to charges related to a corporate failure to supervise its officers and employees and paid a total of EUR 395 million (approximately USD 569 million), including a EUR 250,000 corporate fine and EUR 394.75 million in disgorgement of profits.  In a related action, Siemens' telecommunications operating group settled charges with the Munich Prosecutor's Office in October 2007, and paid EUR 201 million in fines and penalties (approximately USD 287 million), including a EUR 1 million fine and EUR 200 million in disgorgement of profits. <br /><br />In addition to monetary fines and penalties, the German public prosecutors required Siemens to retain an independent compliance monitor for a four-year period.  Siemens and the enforcement agencies agreed to the appointment of Dr. Theodor Waigel, the former German finance minister, as its independent monitor.  Joseph Warrin of Gibson, Dunn & Crutcher LLP was appointed to serve as counsel to the monitor with respect to the requirements of the FCPA. <br /><br />On 20 April 2010, Michael Kutschenreuter, the former financial head of Siemens' telecommunications unit, was found guilty of breach of trust and abetting bribery in a Munich court.  He was placed on probation for two years and fined EUR 160,000.  On the same day, Hans-Werner Hartmann, head of accounting for the telecommunications unit, was placed on probation for 18 months and fined EUR 40,000.<br /><br />On 19 May 2011, it was reported that Berlin prosecutors dropped its case against former Siemens board member, Thomas Ganswindt, who used to run the Company's telecommunications unit, in exchange for Ganswindt agreeing to make a payment of EUR 175,000 euros (USD 250,000) to five charities.  Siemens' former finance chief Heinz-Joachim Neubuerger is still fighting charges. <br /><br /><br />GREECE<br /><br />According to press reports on 25 November 2011, Greek finance and justice ministers sought an out-of-court settlement with Siemens in the range of EUR 200 million to EUR 250 million.  <br /><br />In February 2012, Siemens entered into an agreement with the Greek government, pledging to forgo EUR 80 million in outstanding Greek debt in exchange for no claims for reparations resulting from the bribery scandal, which purportedly cost Greek taxpayers EUR 2 billion in overpayment of Siemens contracts.  All told, Greece owes Siemens approximately EUR 150 million.  The arrangement requires Greece to invest EUR 90 million with Siemens in new projects. <br /><br />In a press release on 5 April 2012, Siemens confirmed the arrangement, announcing that the Greek Parliament had ratified the settlement agreement.  The settlement approves Siemens' forgiving of EUR 80 million owed to it by the Greek government, for supplies delivered to Greek medical facilities over a period of years.  Siemens has agreed to spend up to EUR 90 million on "transparency initiatives and anti-corruption programs," and on research.  Siemens also agreed to spend over EUR 100 million on its own commercial activities in Greece, thereby encouraging economic growth and increasing employment within Greece. <br /><br />According to media reports, on 9 March 2015 Greek authorities indicted 64 people to stand trial for bribery or money laundering. Former Siemens and OTE officials are included in those indicted. <br /><br /><br />HUNGARY<br /><br />Investigations are ongoing into Siemens Zrt. Hungary and certain of its employees in connection with consulting agreements with a variety of shell corporations and alleged bribery relating to the awarding of a contract for the delivery of communication equipment to the Hungarian Armed Forces.<br /><br /><br />ISRAEL<br /><br />On 17 March 2013, Reuters reported that Dan Cohen, former director of the state-owned Israel Electric Corporation (“IEC”), was extradited to Israel from Peru and arrested on bribery and other charges based on allegations that he accepted EUR 1 million in exchange for ensuring that Siemens won a lucrative contract with IEC in 1999. Cohen had left Israel in 2005, and Peru had previously denied requests for extradition. <br /><br />On 11 July 2013, The Times of Israel reported that Cohen has entered into a plea bargain with prosecutors, agreeing to spend five years and six months in prison and pay a fine of ILS 6 million (USD 1.65 million). The story also reported that prosecutors will also take ILS 4 million (USD 1.1 million) in assets from Cohen as part of the agreement.<br /><br />On 5 January 2015, six current and former executives from state-owned Israel Electric Corporation were detained in connection with allegedly accepting bribes paid by Siemens.  Investigators from the Israel Securities Authority arrested Yacov (Yasha) Hain, a senior vice president for engineering projects.  Mr. Hain said he was resigning from the Israel Electric Corporation for health reasons.  He is accused of taking hundreds of thousands of dollars in bribes.  According to local news media, there is court-ordered gag order on the release of details about Mr. Hain's case.<br /><br /><br />ITALY<br /><br />The public prosecutor in Milan filed charges against a current and a former employee of Siemens S.p.A., against the company itself, and against one of its subsidiaries. Siemens S.p.A. and its subsidiary entered into a 'patteggiamento' (plea bargaining agreement without the recognition of any guilt or responsibility) with the Milan public prosecutor which was confirmed by the Milan court on April 27, 2009. Under the terms of the patteggiamento, Siemens S.p.A. and the subsidiary were each fined €40,000 and ordered to disgorge profits in the amount of €315,562 and €502,370, respectively.<br /><br />On 14 May 2007, the two individuals, Andreas Kley, the former finance chief at Siemens' power-generation unit, and Horst Vigener, a former consultant to Siemens' power-generation unit, were convicted in a Darmstadt court for paying about EUR 6 million in bribes from 1999 to 2002.  Kley received a two-year suspended sentence and Vigener a nine-month suspended sentence.  According to press reports, both sentences were less than prosecutors had requested.<br /><br /><br />MEXICO<br /><br />Mexican officials are investigating whether officials in the state-owned PEMEX received bribes from the Conproca consortium, composed of Siemens AG and SK Engineering and Construction Co.<br /><br />The new foreign bribery investigations remain ongoing at this time. <br /><br /><br />NIGERIA<br /><br />On 22 November 2010, it was reported that Siemens agreed to pay NGN 7 billion (approximately USD 46.5 million) to the Nigerian government in exchange for the Economic and Financial Crimes Commission's withdrawal of criminal charges against Siemens, its Nigerian subsidiary, Siemens Ltd. Nigeria and four of its officials.  The payment was described variously as "restitution" and "disgorgement" in press reports.  <br /><br /><br />NORWAY<br /><br />On July 3, 2009, the trial court in Oslo, Norway, found the two former Siemens AS Norway employees not guilty on charges related to payments made for golf trips attended by officials from the Norwegian Department of Defense. Norway’s anti-corruption force, Oekokrim, stated on July 16, 2009, that the proceedings against Siemens AS Norway have also been discontinued.<br /><br /><br />RUSSIA<br /><br />On July 5, 2011, the Russian investigation was closed with respect to all material charges.<br /><br /><br />SWITZERLAND<br /><br />In November 2013, the Swiss authorities issued fines and seized CHF 60 million (approximately USD $65 million) relating to the Siemens “slush fund” scandal.  In doing so, the Federal Prosecutor's Office signaled the conclusion of an eight year investigation into executives and shell companies that used the Swiss financial system to channel massive bribes used to win lucrative contracts for the German industrial giant.  In addition to the CHF 60 million of bribe money seized by the Attorney General, a further sum of €630,000 (CHF 776,000) was paid to Transparency International Switzerland, the Geneva foundation La Maison de Tara and to the SOS Children’s Village in Munich. <br /><br /><br />UNITED NATIONS<br /><br />Siemens provided the following update regarding its United Nations debarment in its SEC Form 6-K filed on 10 November 2011:<br /><br />"As previously reported, on March 9, 2009, Siemens AG received a decision by the Vendor Review Committee of the United Nations Secretariat Procurement Division (UNPD) suspending Siemens AG from the UNPD vendor database for a minimum period of six months. The suspension applied to contracts with the UN Secretariat and stemmed from Siemens AG's guilty plea in December 2008 to violations of the U.S. Foreign Corrupt Practices Act. On December 22, 2009, Siemens AG filed a request to lift the existing suspension. Effective January 1, 2011, the UNPD lifted the suspension against Siemens AG."<br /><br />Related Civil Litigation<br /><br />Company suit against directors: <br /><br />Siemens AG asserted claims against former members of the Managing and Supervisory Board for breaches of organizational and supervisory duties in view of the accusations of illegal business practices that occurred in the course of international business transactions in the years 2003 to 2006 and the resulting financial burdens for the Company. On December 2, 2009 Siemens reached a settlement with nine out of eleven former members of the Managing and Supervisory Board. The Company reached a settlement agreement with its directors and officers (D&O) insurers regarding claims in connection with the D&O insurance of up to €100 million, of which €84 million resulted from the settlement agreement with the D&O insurers and €12 million resulted from settlement agreements with former board members. The former board members used claims they had against the Company to offset a portion of their obligations under the aforementioned settlement agreements. The remaining amount was or will be settled by the former board members in cash. On January 25, 2010, Siemens AG filed a lawsuit with the Munich District Court I against the two former board members who were not willing to settle, Thomas Ganswindt and Heinz-Joachim Neubürger. <br /><br />Derivative shareholder suit: An alleged holder of Siemens American Depositary Shares filed a derivative lawsuit in February 2007 with the Supreme Court of the State of New York against certain current and former members of Siemens' Managing and Supervisory Boards as well as against Siemens as a nominal defendant, seeking various forms of relief relating to the allegations of corruption and related violations at Siemens. The shareholder voluntarily withdrew the derivative action in September 2009.<br /><br />Class action suit: <br /><br />A securities class action was filed in December 2009 against Siemens AG with the United States District Court for the Eastern District of New York seeking damages for alleged violations of U.S. securities laws. In March 2011, the Court granted the Company's motion to dismiss the action. The plaintiffs' motion to reconsider was denied by the court. Plaintiffs did not appeal the court's decision. <br /><br />Iraq Oil-for-Food civil suit: In June 2008, the Republic of Iraq filed an action requesting unspecified damages against 93 named defendants with the United States District Court for the Southern District of New York on the basis of findings made in the 'Report of the Independent Inquiry Committee into the United Nations Oil-for-Food Programme.' Siemens S.A.S. France, Siemens A. Ş. Turkey and OSRAM Middle East FZE, Dubai, are among the 93 named defendants. <br /><br />Argentinian arbitration:<br /> <br />Siemens AG filed a request for arbitration against Argentina with the International Center for Settlement of Investment Disputes (ICSID) of the World Bank. Siemens AG claimed that Argentina had unlawfully terminated its contract with Siemens for the development and operation of a system for the production of identity cards, border control, collection of data and voters' registers (DNI project) and thereby violated the Bilateral Investment Protection Treaty between Argentina and Germany (BIT). Siemens AG sought damages for expropriation and violation of the BIT of approximately U.S. $500 million. A unanimous decision on the merits was rendered by the ICSID arbitration tribunal on February 6, 2007, awarding Siemens AG compensation in the amount of U.S. $217.8 million, plus compound interest thereon at a rate of 2.66% since May 18, 2001. The tribunal also ruled that Argentina is obligated to indemnify Siemens AG against any claims of subcontractors in relation to the project (amounting to approximately U.S. $44 million) and, furthermore, that Argentina would be obligated to pay Siemens AG the full amount of the contract performance bond (U.S. $20 million) in the event this bond was not returned. The time period set by the tribunal for returning the contract performance bond subsequently elapsed without delivery. As previously reported, Argentina subsequently filed applications with the ICSID aiming at the annulment and reversal of the decision and a stay of enforcement of the arbitral award. On August 12, 2009, Argentina and Siemens AG reached an agreement to mutually settle the case and discontinue any and all civil proceedings in connection with the case without acknowledging any legal obligations or claims. No payment was made by either party.<br /><br />Civil Suit by Hellenic Telecommunications Organization S.A.: <br /><br />In July 2008, the Hellenic Telecommunications Organization S.A. ("OTE") filed a lawsuit against Siemens AG in the District Court of Munich.  The lawsuit sought disclosure by Siemens AG of information pertaining to "allegations of undue influence and/or acts of bribery in connection with contracts concluded between Siemens AG and OTE from 1992 to 2006."  After being granted access to some of Siemens' files, OTE expanded its claim, requesting at least EUR 57.07 million in damages from Siemens for alleged bribes to its employees.  Siemens and OTE are currently negotiating a settlement.<br /><br />PEMEX civil suit: <br /><br />PEMEX filed a Racketeer Influenced and Corrupt Organizations Act (“RICO”) lawsuit against Siemens AG and SK Engineering & Construction Co., claiming USD $500 million in damages for bribery conducted by the two companies in 1997 and thereafter, in connection with the Cedereyta project.  U.S. District Judge Louis Stanton of Manhattan dismissed the lawsuit brought by PEMEX against Siemens.  The dismissal was upheld by the U.S. Court of Appeals for the Second Circuit on 17 July 2014.  
+		<h2>COMPLIANCE MONITOR</h2>
+        Theodor Waigel (German monitor); Joseph Warin (U.S. counsel to German monitor)
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies can face criminal charges for violations of the books and records and internal controls provisions of the FCPA.</li><li>U.S. enforcement authorities will coordinate with foreign enforcement authorities in order to investigate and resolve FCPA enforcement actions.</li><li>Company executives may face individual prosecutions long after corporate resolution of bribery matters.</li><li>Multiple private civil lawsuits may be spawned by corruption investigations by public enforcement bodies.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>New York Times: "2 Former Siemens Officials Convicted for Bribery" (15 May 2007)</p><p><a href="file.asp?id=359">Criminal Information: U.S. v. Siemens Aktiengesellschaft (12 December 2008)</a></p><p><a href="file.asp?id=358">Complaint: SEC v. Siemens Aktiengesellschaft (12 December 2008)</a></p><p><a href="file.asp?id=360">Criminal Information: U.S. v. Siemens S.A. (Argentina) (12 December 2008)</a></p><p><a href="file.asp?id=361">Criminal Information: U.S. v. Siemens Bangladesh Limited (12 December 2008)</a></p><p><a href="file.asp?id=362">Criminal Information: U.S. v. Siemens S.A. (Venezuela) (12 December 2008)</a></p><p><a href="file.asp?id=363">DOJ and Siemens: Joint Statement (12 December 2008)</a></p><p><a href="file.asp?id=354">DOJ Press Release: "Siemens AG and Three Subsidiaries Plead Guilty to Foreign Corrupt Practices Act Violations and Agree to Pay $450 Million in Combined Criminal Fines" (15 December 2008)</a></p><p><a href="file.asp?id=355">DOJ: Transcript of Press Conference Announcing Siemens AG and Three Subsidiaries Plead Guilty to Foreign Corrupt Practices Act Violations (15 December 2008)</a></p><p><a href="file.asp?id=356">DOJ: Plea Offer to Siemens (15 December 2008)</a></p><p><a href="file.asp?id=357">SEC Litigation Release: "SEC Files Settled Foreign Corrupt Practices Act Charges Against Siemens AG for Engaging in Worldwide Bribery with Total Disgorgement and Criminal Fines of Over $1.6 Billion" (15 December 2008)</a></p><p><a href="file.asp?id=1378">Statement of Offense: U.S. v. Siemens Aktiengesellschaft (15 December 2008)</a></p><p><a href="file.asp?id=353">DOJ Press Release: "Department of Justice Seeks to Recover Approximately $3 Million in Illegal Proceeds from Foreign Bribe Payments" (9 January 2009)</a></p><p><a href="file.asp?id=966">Siemens: SEC Form 20-F (4 December 2009)</a></p><p>Deutsche Welle: "Ex-Siemens executives found guilty in bribery case" (21 April 2010)</p><p><a href="file.asp?id=1223">Siemens: SEC Form 6-K (11 November 2010)</a></p><p><a href="file.asp?id=1365">Siemens: SEC Form 20-F (2 December 2010)</a></p><p>Bloomberg: "First Ex-Siemens Executive to Stand Trial in Munich in Corruption Scandal" (20 January 2011)</p><p><a href="file.asp?id=1366">Siemens: SEC Form 6-K (31 January 2011)</a></p><p>AFP: "Corruption case dropped against Siemens exec" (19 May 2011)</p><p>Bloomberg: "Ex-Siemens Board Member Charged Over Argentina Bribery Payments" (14 June 2011)</p><p>Munich Prosecutor's Office Press Release: "Pressemitteilung der Staatsanwaltschaft Munchen I vom 14.06.2011: Weitere Anklage im Komplex Siemens" (14 June 2011)</p><p><a href="file.asp?id=1645">Siemens: SEC Form 6-K (10 November 2011)</a></p><p><a href="file.asp?id=1665">DOJ Press Release: "Eight Former Senior Executives and Agents of Siemens Charged in Alleged $100 Million Foreign Bribe Scheme" (13 December 2011)</a></p><p><a href="file.asp?id=1666">SEC: Complaint against Siemens Executives, SDNY (13 December 2011)</a></p><p><a href="file.asp?id=1667">SEC Litigation Release: "SEC Charges Seven Former Siemens Executives with Bribing Leaders in Argentina" (13 December 2011)</a></p><p><a href="file.asp?id=1777">Siemens Press Release: "Legal proceedings" (24 January 2012)</a></p><p><a href="file.asp?id=1778">Siemens: "Interim Report, 1st Quarter 2012" (27 January 2012)</a></p><p><a href="file.asp?id=1776">Siemens Press Release: "Siemens and the Hellenic Republic reach a settlement agreement and mark a new beginning" (5 April 2012)</a></p><p><a href="file.asp?id=1810">Siemens Press Release: "Legal proceedings" (25 April 2012)</a></p><p><a href="file.asp?id=1811">Siemens: SEC Form 6-K (25 April 2012)</a></p><p>Siemens: Complaint, Moran v. Siemens (12 September 2012)</p><p>Herbert Steffen: Motion to Dismiss (12 October 2012)</p><p>Herbert Steffen: Memorandum in Support of Motion to Dismiss (12 October 2012)</p><p><a href="file.asp?id=2102">Siemens Press Release: "Legal proceedings" (8 November 2012)</a></p><p>La Nueva: "Exdirectivo de Siemens: Pedido de extradicion" (14 December 2012)</p><p><a href="file.asp?id=2144">SDNY: Opinion Granting Herbert Steffen's Motion to Dismiss (19 February 2013)</a></p><p>Main Justice: "SEC Asks to Record Default by Another Siemens Defendant" (18 March 2013)</p><p>Wall Street Journal: "Former Siemens Exec to Pay $275K Fine to Settle SEC Case" (15 April 2013)</p><p>Reuters: U.S. Court Ends PEMEX Bribery Case Against Siemens SK Engineering (31 July 2013)</p><p><a href="file.asp?id=2474">Law360 - Ex Executives of Siemens Fined 1.5 Million</a></p><p><a href="file.asp?id=2639">Wall Street Journal: Greek Court Indicts 64 in Siemens-OTE Bribery Case</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,132 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192439sd608">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924397o338" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GENERAL ELECTRIC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(295)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19243964c27" width="415" height="61" /></div>
+    
+        <h1>GENERAL ELECTRIC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        General Electric Company ("GE")<br />Ionics, Inc. (currently GE Ionics, Inc.) (Massachusetts-based wholly-owned GE subsidiary within the GE Energy Infrastructure segment) ("Ionics")<br />Amersham plc (currently GE Healthcare Ltd.) (UK-based wholly-owned GE subsidiary within the GE Technology Infrastructure segment) ("Amersham")<br />Marquette-Hellige (Germany-based wholly-owned, third-tier GE subsidiary within the GE Technology Infrastructure segment) ("Marquette")<br />OEC-Medical Systems (Europa) AG ("OEC-Medical") (Switzerland-based wholly-owned, second-tier GE subsidiary within the GE Technology Infrastructure business)<br />Nycomed Imaging A.S. (currently GE Healthcare AS) (Norway-based wholly-owned GE subsidiary within the GE Technology Infrastructure segment) ("Nycomed")<br />lonies Italba S.r.L. (Italy-based wholly-owned GE subsidiary within the GE Energy Infrastructure segment) ("Ionics ltalba")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical equipment, supplies and services; water treatment equipment for oil refineries
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Fairfield, Connecticut, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 27 July 2010, the SEC charged GE and two subsidiaries - formerly known as Ionics, Inc. and Amersham plc - with paying illegal kickbacks to Iraqi government ministries in connection with sales of humanitarian goods under the United Nations ("UN") Oil-for-Food Program.  The SEC charged the three entities with violating the FCPA's books and records and internal controls provisions in connection with kickback payments made to various Iraqi Ministries between 2000 and 2003 by GE subsidiaries Marquette-Hellige, OEC-Medical Systems (Europa) AG, Nycomed Imaging AS and Ionics Italba S.r.L.<br /><br />Marquette and OEC-Medical allegedly made approximately USD 2.04 million in kickback payments to the Iraq Ministry of Health in the form of computer equipment, medical supplies and services (after declining to make payments in cash).  Marquette obtained contracts for the supply of disposable electrodes, transducers, and fetal monitors to the Iraqi Ministry of Health, from which it earned a combined USD 8.8 million in gross profit, as a result of the in-kind payments.  OEC-Medical obtained an Oil-for-Food contract to provide C-Arms (C-shaped armatures used to support X ray equipment) to the Ministry of Health, from which it earned a gross profit of USD 2.1 million.  Marquette and OEC-Medical made their respective in-kind payments through the same third party agent.<br /><br />Nycomed and Ionics Italba allegedly made approximately USD 1.55 million in cash kickback payments (termed "after sales service fees" or "ASSF") under the Oil-for-Food program prior to GE's acquisition of their parent companies, Ionics and Amersham, respectively.  Nycomed obtained nine contracts to supply the Ministry of Health with Omnipaque (an injectible contrast agent used in conjunction with X-rays) and Omniscan (a contrast agent used in conjunction with magnetic resonance imaging (MRI)), from which the company earned a combined gross profit of approximately USD 5 million.  Nyrocmed negotiated its contracts through its Jordanian agent, disguising USD 75,000 in kickbacks payments in the agent's (inflated) commission.  Ionics Italba obtained five contracts to sell water treatment equipment to the Iraqi Ministry of Oil, earning USD 2.3 million in gross profit.  Ionic Italba's paid its USD 795,000 in kickbacks through its sales agents, whose invoices contained fictitious activities to justify the agent's inflated commission.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Ministry of Health</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>USD 2.04 million worth of computer equipment, medical supplies and services</p>
+<p>USD 750,000 (cash)</p>
+</td>
+<td style="text-align: center;">
+<p>&nbsp;Contracts yielding USD 10.9 million in gross profit</p>
+<p>Contracts yielding USD 5 million in gross profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Ministry of Oil</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 795,000 (cash)</td>
+<td style="text-align: center;">Contracts yielding USD 2.3 million in gross profit</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime.  It is likely that the release of the Independent Inquiry Committee's report prompted an investigation by the SEC and DOJ.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 July 2010, without admitting or denying the SEC's allegations, GE, Ionics and Amersham consented to the entry of a final judgment permanently enjoining the companies from future violations of the FCPA's books and records and internal controls provisions.  GE was ordered to disgorge USD 18,397,949 in wrongful profits, pay USD 4,080,665 in pre-judgment interest and pay a civil penalty of USD 1,000,000.<br /><br />According to GE, the DOJ notified the company that it had closed its investigation and would take no action relating to these matters.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPAs anti-bribery provisions; still, the FCPA books and records and internal controls provision apply.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1049">SEC Litigation Release: July 27, 2010 </a></p><p><a href="file.asp?id=1050">Complaint: SEC v. General Electric Company, Ionics, Inc. and Amersham plc (July 27, 2010)</a></p><p><a href="file.asp?id=1051">GE Press Release: July 27, 2010 (GE Announces Settlement of Oil-for-Food Matter)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

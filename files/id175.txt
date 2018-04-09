@@ -1,0 +1,144 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19225376d8c">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192253xf3bv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HEWLETT-PACKARD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(175)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192253g4tf7" width="415" height="61" /></div>
+    
+        <h1>HEWLETT-PACKARD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />Germany: Dresden Public Prosecutor's Office<br />Russia: Prosecutor General's Office<br />Poland: Central Anticorruption Bureau<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Hewlett-Packard Company ("HP")<br />ZAO Hewlett-Packard A.O. (HP's Russian subsidiary) ("HP Russia")<br />Hewlett-Packard GmbH (HP's German subsidiary) ("HP Germany")<br />HP Polska z.o.o. (HP's Polish subsidiary) ("HP Poland")<br />Hewlett-Packard México, S. de R.L. de C.V. (HP’s Mexican subsidiary) ("HP Mexico")<br />Petroleos Mexicanos ("Pemex")<br />Autonomy Plc ("Autonomy"), a U.K. based software company acquired by HP
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Comprehensive computer hardware, software, IT and business process products and services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Palo Alto, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Mexico<br />Poland<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Russia<br /><br />On 14 April 2010, Russian investigators raided HP Russia's offices in Moscow at the request of prosecutors from the German Public Prosecutor's Office.  German prosecutors were investigating HP for alleged bribery in connection with the sale of computer equipment to the Office of the Prosecutor General in Russia.  HP Germany allegedly paid EUR 8 million in bribes to Russian officials between 2001 and 2006 to secure a EUR 35 million contract to supply a state-of-the-art computer system designed to provide secure communications for prosecutors throughout Russia ("Russia GPO deal"). <br /><br />According to press reports, German prosecutors are investigating whether HP Germany executives funneled the alleged bribes to Russian officials through a network of shell companies and accounts in various locations, including Britain, Austria, Switzerland, the British Virgin Islands, Belize, New Zealand, Latvia, Lithuania and the U.S.  In addition to potential bribery charges, the investigation is also looking into possible breach of trust, tax evasion and money laundering violations.  <br /><br />In HP's SEC Form 10-K filed on 15 December 2010, the company announced that the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") were also investigating the Russia GPO deal.  The same filing disclosed ongoing stockholder derivative litigation and investigations into former members of the HP Board of Directors stemming from the Russia GPO deal.<br /><br />According to the SEC order of 9 April 2014 charging HP with violations of the FCPA, the company’s subsidiary in Russia paid more than USD $2 million through agents and various shell companies to a Russian government official to retain a multi-million dollar contract with the federal prosecutor’s office.  HP Russia allegedly paid bribes through agents and consultants, from approximately 2000 to 2007, in order to win a government contract for computer hardware and software.  According to the SEC order, employees within the subsidiary and elsewhere raised questions about the significant markup being paid to the agent and the subcontractors on the deal.  Despite the red flags, the deal went forward without any meaningful due diligence on the agent or the subcontractors.<br /><br />Poland<br /><br />On 10 September 2013, HP announced that Poland's Central Anticorruption Bureau ("CAB") began a probe into potential violations of anti-bribery laws by HP Poland.  According to allegations by CAB, HP Poland gave over USD $600,000 in cash and gifts in exchange for government contracts with the national police agency and the Interior Ministry, of which an estimated 140 computer deals amounting to more than USD $500 million could have been tainted.  Among the gifts were "a BMW motorcycle, a Nissan SUV, a Harmon Kardon home theater, a Sony 50 inch television, 12 HP laptops, several iPads and a refrigerator." According to the SEC, HP Poland allegedly made payments primarily through its public sector sales manager between 2006 and 2010 in order to win contracts for information technology products and services.  The official allegedly received a percentage of net revenue earned from the contracts, and the bribes were delivered in cash from off-the-books accounts.<br /><br />Mexico<br /><br />As part of its bid to win a software sale to Pemex, Mexico’s state-owned petroleum company, HP Mexico allegedly paid more than USD $1 million in inflated commissions to a consultant to help the company win a public IT contract worth approximately USD $6 million.  According to the SEC's order, at least USD $125,000 was funneled to a government official at Pemex with whom the consultant had connections.  Although the consultant was not an approved deal partner and had not been subjected to the due diligence required under company policy, HP Mexico sales managers allegedly used a pass-through entity to pay inflated commissions to the consultant.  This was internally referred to as the “influencer fee.”<br /><br />United Kingdom<br /><br />The U.K. Serious Fraud Office began an investigation of HP's acquisition of a U.K. based software company, Autonomy Plc, in 2013 after being referred by HP.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Polish Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>USD $600,000</td>
+<td>
+<p>Contracts with the National Police Agency</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Russian Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>EUR 8 million</td>
+<td>EUR 35 million contract to supply computer equipment to the Office of the Prosecutor General in Russia</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Mexican Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>USD $1 million</td>
+<td style="text-align: center;">IT contract with Pemex worth USD $6 million</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, HP learned of the details of the bribery investigation in December 2009 when German and Swiss police issued search warrants detailing allegations against ten current or former HP Germany employees. <br /><br />German prosecutors reportedly began the investigation in 2007 when a tax auditor discovered EUR 22 million in payments by an HP subsidiary to a small computer hardware company in Leipzig for services performed in Moscow. Tax authorities could not trace the purpose of some of the payments in the records of the small company.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 16 April 2010, the DOJ and SEC commenced investigations into HP for possible FCPA violations relating to the Russia GPO deal.  <br /><br />On 9 April 2014, HP agreed to pay more than USD $108 million to settle the SEC’s charges and the parallel DOJ criminal case.  HP consented to the SEC’s order and agreed to pay USD $29 million in disgorgement (approximately USD $26.47 million to the SEC and USD $2.53 million to satisfy an IRS forfeiture as part of the criminal matter); prejudgment interest of USD $5 million to the SEC; and criminal fines totaling USD $74.2 million to the DOJ for a total of more than $108 million in disgorgement and penalties.   HP Russia will pay USD $58.7 million of the total fines imposed.<br /><br />HP Poland entered into a deferred prosecution agreement with the DOJ and HP Mexico entered into a non-prosecution agreement with the DOJ.  <br /><br />Germany<br /><br />On 15 April 2010, German authorities arrested three current or former HP Germany employees in connection with the investigation.  A total of ten current or former HP Germany employees are currently targets of the investigation. <br /><br />On 13 September 2012, three former HP managers were charged in Germany with bribery, breach of trust, and aiding and abetting tax evasion.  One of the accused is Finnish, one is American, and one is German.  The prosecutors also requested that Hewlett-Packard be joined as defendant in the case.<br /><br />On 11 March 2014, HP disclosed that the German Public Prosecutor's Office issued an indictment for four individuals, including one current and two former HP employees, on charges including bribery, breach of trust and tax evasion. German prosecutors have also requested that HP be made an associated party to the case, and, if granted, HP could be subject to potential disgorgement of profits based on the conduct of the indicted current and former employees. <br /><br />Canada<br /><br />Following HP's guilty plea to FCPA charges, HP may face a 10-year ban under new integrity rules imposed by Canada's Public Works and Government Services ministry.  Under the new rules, companies face an automatic ban on selling products and services to the Canada government if they are convicted of bribery.<br /><br />United Kingdom <br /><br />On 19 January 2015, the Director of the U.K. Serious Fraud Office ("SFO") closed an investigation into the sale of Autonomy to HP  in 2011.  The investigation was commenced in early 2013, following a referral from HP.  The SFO concluded that there was insufficient evidence for a conviction.<br /><br />The SFO ceded jurisdiction over the investigation to the US authorities and stated that the US investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Wall Street Journal: "Russian Officials Raid H-P" (15 April 2010)</p><p>Wall Street Journal: "H-P Executives Face Bribery Probes" (15 April 2010)</p><p>New York Times: "Germans Investigate H.P. Workers for Kickbacks" (15 April 2010)</p><p>Wall Street Journal: "U.S. Joins H-P Bribery Investigation" (16 April 2010)</p><p><a href="file.asp?id=1148">Hewlett-Packard: SEC Form 10-Q (9 September 2010)</a></p><p><a href="file.asp?id=1257">Hewlett-Packard: SEC Form 10-K (15 December 2010)</a></p><p><a href="file.asp?id=1953">Hewlett-Packard: SEC Form 10-Q (10 September 2012)</a></p><p><a href="file.asp?id=2430">Hewlett Pakard: SEC Form 10-Q (9 September 2013)</a></p><p><a href="file.asp?id=2522">Hewlett Packard - Annual Report 2013 (11 March 2014)</a></p><p><a href="file.asp?id=2530">SEC Press Release (4 9 2014)</a></p><p><a href="file.asp?id=2531">SEC Order HP (4 9 2014)</a></p><p><a href="file.asp?id=2532">FBI â€” Hewlett-Packard Russia Agrees to Plead Guilty to Foreign Bribery Violations</a></p><p><a href="file.asp?id=2620">HP Autonomy investigation _ Press room _ SFO - Serious Fraud Office</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

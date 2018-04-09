@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192549k1wc8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19254987892" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FREEPORT-MCMORAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(377)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192549eop3j" width="415" height="61" /></div>
+    
+        <h1>FREEPORT-MCMORAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Freeport-McMoRan Copper & Gold Inc. ("Freeport-McMoRan")<br />PT Freeport Indonesia (90.64% owned subsidiary in Indonesia producing copper concentrates, which contain significant quantities of gold and also silver) ("PT-FI")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        World's largest publicly traded copper company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Phoenix, Arizona, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Democratic Republic of the Congo<br />Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Indonesia<br /><br />According to press reports in October and November 2011, the United Steelworkers Union in the U.S. sent a letter to the Department of Justice requesting an FCPA investigation into Freeport-McMoRan for alleged bribery of Indonesian police and military personnel by the company's subsidiary, PT Freeport Indonesia.  The letter was prompted by Indonesian media reports that PT-FI paid "meal money" to the police and military personnel so that they would defend PT-FI facilities against striking miners in Papua.  Additional reports in January 2012 allege that, in order to protect its operations in West Papua, where it operates the largest copper mine in the world, Freeport-McMoRan has given USD 79.1 million to police and military forces over a ten year period. <br /><br />The Company itself noted in its SEC Form 10-K filled on 27 February 2012 and in its quarterly reports for 2012, that the Indonesian government has responded with additional security forces to threats in the Grasberg district, which include 33 shootings between July 2009 and April 2012.<br /><br />Democratic Republic of the Congo<br /><br />In its SEC Form 10-K filed on 27 February 2012, the Company states, "In July 2009, TFM  [Tenke Fungurume Minerals district] entered into a settlement agreement with DRC tax authorities in connection with an administrative audit regarding the payment of fees for work permits and visas for its foreign workers and subcontractors, including short-term workers. Pursuant to the agreement, which covers the period from January 2007 to the date of the settlement, TFM paid approximately $16 million in fees and penalties. The procedures associated with obtaining labor and immigration authorizations for short-term workers on a timely basis are not clearly established in the DRC, and TFM continues to work proactively and cooperatively with the government authorities to establish approved procedures for doing so consistent with its mining convention and local law. In connection with this matter, we notified the U.S. government enforcement authorities about our internal investigation of the immigration work permit and visa matter and the associated criminal case. We have received and responded to requests from U.S. government authorities related to the matter and to other requests for information about our compliance program."<br /><br />In the same Form 10-K, the Company also notes, "In July 2009, TFM was advised that the Minister of Justice in the DRC authorized an inquiry regarding the alleged misappropriation of public funds in connection with securing labor and immigration authorizations and the payment of associated fees for the Tenke Fungurume project. Several government officials and three TFM employees were arrested. In October 2009, the three TFM employees were tried and acquitted. One government official, the head of immigration in the Katanga province, was sentenced to five years imprisonment on charges of embezzlement. The office of the Attorney General of the DRC filed a notice of appeal of the judgment, and the matter is pending at the Appellate Court."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indonesian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Approximately USD 79.1 million</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Indonesian media reports quoting police officers. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Jakarta Post: "National Police admit receiving 'meal money' from Freeport" (29 October 2011)</p><p>Wall Street Journal: "Steelworkers Call For FCPA Probe Of Freeport-McMoRan" (2 November 2011)</p><p><a href="file.asp?id=2026">Freeport-McMoRan: SEC Form 10-K (27 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

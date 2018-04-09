@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18424844zer">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842484x478" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FLOWSERVE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(55)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184248905bs" width="415" height="61" /></div>
+    
+        <h1>FLOWSERVE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Flowserve Corporation ("Flowserve")<br />Flowserve Pompes S.A.S. (wholly-owned French subsidiary of Flowserve) ("Flowserve Pompes")<br />Flowserve B.V. (wholly-owned Dutch subsidiary of Flowserve) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water pumps and other equipment for use in oil refineries 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Irving, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately 2001 through 2003, Flowserve Corporation, through its French and Dutch subsidiaries, Flowserve Pompes SAS and Flowserve B.V., respectively, entered into over twenty contracts in which USD 646,488 in kickback payments (described as after-sales service fees ("ASSFs")) were made and another USD 173,758 were authorized in connection with the sale of large-scale water pumps and spare parts for use in oil refineries to the Iraqi government under the United Nations ("U.N.") Oil for Food Program.  The payments went through a Jordanian agent before they reached the Iraqi-controlled account in a Jordanian bank. <br /><br />Senior executives at Flowserve Pompes concealed the payments by falsely indicating that they were paying the Jordanian agent a 10% service fee on each contract to cover the cost of installing and commissioning the equipment, even though no services were performed under the contracts.  Flowserve B.V. used a separate Jordanian entity to act as its agent for its transactions and concealed the payments by increasing the cost of the purchase orders by 10% and passing the difference back to the agent.  Flowserve B.V. also agreed to pay a special project discount to the agent in order to cover the amount of the kickbacks.  This discount thus effectively doubled the agents commission to 20%.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments Made or Authorized to the Iraqi Government </strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 820,246</p>
+</td>
+<td>
+<p>Sales of water pumps and related equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil for Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including subsidiaries of Flowserve.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 February 2008, without admitting or denying the SEC's allegations, Flowserve consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Flowserve was ordered to disgorge USD 2,720,861 in profits, plus USD 853,364 in pre-judgment interest, and to pay a civil penalty of USD 3 million.  <br /><br />On the same day, Flowserve entered into a three-year deferred prosecution agreement with the DOJ in connection with a criminal information filed against Flowserve Pompes, charging the subsidiary with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions.  Flowserve accepted responsibility for the actions of its subsidiary and agreed to a USD 4 million criminal fine.  <br /><br />According to the SEC, Flowserve B.V. was to enter into a criminal disposition with the Dutch Public Prosecutor pursuant to which it will pay a fine.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA's books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=100">Complaint: SEC v. Flowserve Corporation (February 21, 2008)</a></p><p><a href="file.asp?id=99">SEC Litigation Release: February 21, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against Flowserve Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $6.5 Million in Civil</a></p><p><a href="file.asp?id=1105">Criminal Information: DOJ v. Flowserve Pompes SAS (February 21, 2008)</a></p><p><a href="file.asp?id=1104">Deferred Prosecution Agreement: DOJ v. Flowserve Pompes SAS (February 21, 2008)</a></p><p><a href="file.asp?id=98">DOJ Press Release: February 21, 2008 (Flowserve Corporation to Pay $4 Million Penalty for Kickback Payments to the Iraqi Government Under the U.N. Oil for Food Program)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921055lddx">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192105svpt6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FLOWSERVE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(55)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192105da3jt" width="415" height="61" /></div>
+    
+        <h1>FLOWSERVE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Flowserve Corporation ("Flowserve")<br />Flowserve Pompes S.A.S. (wholly-owned French subsidiary of Flowserve) ("Flowserve Pompes")<br />Flowserve B.V. (wholly-owned Dutch subsidiary of Flowserve) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water pumps and other equipment for use in oil refineries 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Irving, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From approximately 2001 through 2003, Flowserve Corporation, through its French and Dutch subsidiaries, Flowserve Pompes SAS and Flowserve B.V., respectively, entered into over twenty contracts in which USD 646,488 in kickback payments (described as after-sales service fees ("ASSFs")) were made and another USD 173,758 were authorized in connection with the sale of large-scale water pumps and spare parts for use in oil refineries to the Iraqi government under the United Nations ("U.N.") Oil for Food Program.  The payments went through a Jordanian agent before they reached the Iraqi-controlled account in a Jordanian bank. <br /><br />Senior executives at Flowserve Pompes concealed the payments by falsely indicating that they were paying the Jordanian agent a 10% service fee on each contract to cover the cost of installing and commissioning the equipment, even though no services were performed under the contracts.  Flowserve B.V. used a separate Jordanian entity to act as its agent for its transactions and concealed the payments by increasing the cost of the purchase orders by 10% and passing the difference back to the agent.  Flowserve B.V. also agreed to pay a special project discount to the agent in order to cover the amount of the kickbacks.  This discount thus effectively doubled the agents commission to 20%.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments Made or Authorized to the Iraqi Government </strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 820,246</p>
+</td>
+<td>
+<p>Sales of water pumps and related equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil for Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including subsidiaries of Flowserve.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 February 2008, without admitting or denying the SEC's allegations, Flowserve consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Flowserve was ordered to disgorge USD 2,720,861 in profits, plus USD 853,364 in pre-judgment interest, and to pay a civil penalty of USD 3 million.  <br /><br />On the same day, Flowserve entered into a three-year deferred prosecution agreement with the DOJ in connection with a criminal information filed against Flowserve Pompes, charging the subsidiary with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions.  Flowserve accepted responsibility for the actions of its subsidiary and agreed to a USD 4 million criminal fine.  <br /><br />According to the SEC, Flowserve B.V. was to enter into a criminal disposition with the Dutch Public Prosecutor pursuant to which it will pay a fine.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA's books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=100">Complaint: SEC v. Flowserve Corporation (February 21, 2008)</a></p><p><a href="file.asp?id=99">SEC Litigation Release: February 21, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against Flowserve Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $6.5 Million in Civil</a></p><p><a href="file.asp?id=1105">Criminal Information: DOJ v. Flowserve Pompes SAS (February 21, 2008)</a></p><p><a href="file.asp?id=1104">Deferred Prosecution Agreement: DOJ v. Flowserve Pompes SAS (February 21, 2008)</a></p><p><a href="file.asp?id=98">DOJ Press Release: February 21, 2008 (Flowserve Corporation to Pay $4 Million Penalty for Kickback Payments to the Iraqi Government Under the U.N. Oil for Food Program)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

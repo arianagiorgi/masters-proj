@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923250gomw">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19232598451" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NOBLE CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(210)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192325pn9bb" width="415" height="61" /></div>
+    
+        <h1>NOBLE CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Noble Corporation ("Noble," Swiss company with its main U.S. office in Sugar Land, Texas)<br />Noble Drilling (Nigeria) Ltd ("Noble Nigeria," wholly owned Nigerian subsidiary of Noble)<br />Frontier Drilling ("Frontier," a company acquired by Noble in 2010)<br />Mark A. Jackson (former CEO of Noble)<br />Thomas F. O'Rourke (former controller and head of internal auditing of Noble)<br />James J. Ruehlen (current Director and Division Manager of Noble Nigeria)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Offshore drilling contractor
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Baar, Zug, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that Noble made improper payments, from 2003 to 2007, through its customs agent in Nigeria to officials of the Nigeria Customs Service to obtain permits and permit extensions necessary for operating offshore oil rigs in Nigeria.  On 4 November 2010, Noble reached a settlement with the DOJ under which the company admitted that it had paid approximately USD 74,000 to a Nigerian freight forwarding agent.  The company also acknowledged that certain employees knew that some of the payments would be passed on as bribes to Nigerian customs officials, and admitted that it falsely recorded the bribe payments as legitimate business expenses in its corporate books, records and accounts.<br /><br />Noble described the (at the time, ongoing) investigation as follows in its 2009 SEC Form 10-K:<br /><br />"Since June 2007, we have been conducting, with the assistance of independent outside counsel engaged by our audit committee, an internal investigation relating to our Nigerian operations. The investigation has focused on the legality under the FCPA, and local laws of our Nigerian affiliate's reimbursement of certain expenses incurred by our customs agents in connection with obtaining and renewing permits for the temporary importation of drilling units and related equipment into Nigerian waters, including permits that are necessary for our drilling units to operate in Nigerian waters. The scope of the investigation has also included our dealings with customs agents and customs authorities in certain parts of the world other than Nigeria in which we conduct our operations, as well as dealings with other types of local agents in Nigeria and such other parts of the world. There can be no assurance that evidence of additional potential FCPA violations or violations of other laws or regulations may not be uncovered through the investigation. <br /><br />"We voluntarily contacted the SEC and the U.S. Department of Justice ('DOJ') to advise them of the independent investigation. We have been cooperating, and intend to continue to cooperate fully with both agencies. If the SEC or the DOJ determines that violations of the FCPA have occurred, they could seek civil and criminal sanctions, including monetary penalties, against us and/or certain of our employees, as well as additional changes to our business practices and compliance programs, any of which could have a material adverse effect on our business or financial condition. In addition, such actions, whether actual or alleged, could damage our reputation and ability to do business, to attract and retain employees, and to access capital markets. Further, detecting, investigating, and resolving such actions is expensive and consumes significant time and attention of our senior management. <br /><br />"The independent outside counsel appointed by the audit committee to perform the internal investigation made a presentation of the results of its investigation to the DOJ and the SEC in June 2008. Since June 2008, the SEC and the DOJ have reviewed these results and information gathered by the independent outside counsel in the course of the investigation. We consider the matter to be ongoing and cannot predict (a) when it will conclude, (b) whether either the SEC or the DOJ will open its own proceeding to investigate this matter, or (c) if a proceeding is opened, what potential sanctions, penalties or other remedies these agencies may seek. We could also face fines or sanctions in relevant foreign jurisdictions. Based on information obtained to date, we believe it is probable that we will have to pay an amount to settle this matter with the DOJ and SEC, however, we are not in a position to estimate any potential liability that may result and, as a result, we have not made any accrual in our consolidated financial statements at December 31, 2009."<br /><br />Noble provided the following update in a SEC Form 8-K filed 21 July 2010, shortly after Noble acquired Frontier Drilling: <br /><br />"Given that the matter is not finally resolved, we cannot predict with certainty what amount we will pay in civil and criminal fines and penalties; however, as of June 30, 2010, we accrued approximately $5.1 million relating to this ongoing matter. Any of the sanctions as a result of the Nigerian investigation or any other future violation of the FCPA or similar law could have a material adverse effect on our business or financial condition and could damage our reputation and ability to do business, to attract and retain employees and to access capital markets. <br /><br />"Frontier identified certain payments totaling approximately $35,000 made by one of its former agents to Nigeria immigration officials in 2009 and reported this matter to the DOJ as a possible violation of the FCPA. We reviewed this matter as part of our diligence investigation of Frontier. The DOJ has not indicated what, if any, action it may take with respect to such payments, although the DOJ could seek civil and/or criminal sanctions against Frontier. Upon closing the Frontier acquisition, we would be responsible for such sanctions as well as any other sanctions relating to violations of applicable laws by Frontier, except to the extent that they may be covered by indemnities contained in the merger agreement with Frontier. Any such sanctions could have a material adverse effect on our business or financial condition." 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Nigerian Customs Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>USD 74,000</td>
+<td>Permits and permit extensions necessary for operating offshore oil rights in Nigeria</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to Noble's deferred prosecution agreement with the DOJ, the conduct was initially discovered through an internal audit in 2004. A manager learned of a fee that was paid to a Nigerian customs official, but this was not disclosed in the audit's report. A subsequent internal investigation, conducted in 2007, resulted in the voluntary disclosures to the SEC and DOJ.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States: Corporation<br /><br />On 4 November 2010, Noble entered into a non-prosecution agreement with the DOJ, agreeing to pay a USD 2.59 million criminal penalty.  According to the DOJ, "the non-prosecution agreement recognizes Noble's early voluntary disclosure, thorough self-investigation of the underlying conduct, full cooperation with the department and extensive remedial measures undertaken by the company. As a result of these factors, among others, the department agreed not to prosecute Noble or its subsidiaries for the bribe payments, provided that Noble satisfies its ongoing obligations under the agreement."<br /><br />On the same day, without admitting or denying the SEC's allegations, Noble consented to the entry of a court order enjoining it from violating the FCPA's anti-bribery, books and records, and internal controls provisions.  Noble was ordered to disgorge ill-gotten gains of USD 4,294,933 and pay prejudgment interest of USD 1,282,065.<br /><br />United States: Individuals<br /><br />On 24 February 2012, Mark Jackson and James Ruehlen were charged in a complaint filed by the SEC in the U.S. District Court for the Southern District of Texas.  The government alleged that the two men bribed officials in the Nigeria Customs Service to grant and then to extend temporary permits to allow offshore oil rigs to enter Nigerian waters and then continue operating beyond their original permit period, without the necessity of exporting and re-importing the equipment, which would have involved tremendous cost in terms of lost work, in addition to Nigerian customs duties. The SEC claims that the two men arranged and facilitated the payment of hundreds of thousands of dollars in bribes to obtain about 11 illicit permits and 29 permit extensions.  Ruehlen allegedly prepared false documents and paid the bribes, while Jackson approved and concealed the payments. <br /><br />In a separate complaint also filed on 24 February 2012, the SEC alleges that O'Rourke aided and abetted violations of the anti-bribery, books and records and internal controls sections of the Securities and Exchange Act, and that he directly violated false records and internal controls provisions of the Act.  O'Rourke agreed to the entry of a court order imposing a USD 35,000 penalty and permanently enjoining him from violations of the Act, although he neither admitted nor denied the allegations.<br /><br />On 8 May 2012, Ruehlen and Jackson filed separate motions to dismiss the claims against them, based on the failure of the government to state a claim, and on the statute of limitations.  The substantive claim for both men rests on the theory that the payments made to officials were "facilitation payments" and therefore legal within the meaning of the FCPA.  The motions also claim that the complaint does not identify in sufficient detail the Nigerian officials who allegedly received bribes.<br />On 22 June 2012, the SEC filed a combined answer to Jackson's and Ruehlen's motions to dismiss.  The answer cites precedent rejecting the facilitation payments argument, and notes that with respect to the statute of limitations argument, a tolling agreement is on file and acknowledged by the defendants, and in any event some of the corrupt conduct took place within the five-year statute of limitations (the lawsuit was filed on 24 February 2012, and the conduct alleged took place between September 2004 and May 2007).  Moreover, since some of the relief requested by the SEC is injunctive and therefore equitable relief, the statute of limitations does not apply.  The answer also rejects the defendants' claim that the bribe recipients are insufficiently identified, since government agencies and positions of employment are specified.<br /><br />On 11 December 2012, District Judge Keith P. Ellison ruled on Jackson and Ruehlen's motions to dismiss.  Judge Ellison granted Jackson's motion as to all claims insofar as the SEC seeks monetary penalties, but denied Jackson's motion insofar as the SEC seeks injunctive relief.  Ruehlen's motion to dismiss was granted as to violations that occurred prior to 24 February 2007, but denied as to claims that arose thereafter.  Furthermore, the judge denied Ruehlen's motion as to the SEC's complaint for injunctive relief (since in that case the five-year statute of limitations does not apply).  In January 2013, Judge Ellison set 28 April 2014 as the date for the trial. <br /><br />On 26 March 2013, Main Justice reported that the SEC, in an effort to avoid additional statute of limitations problems, has amended its complaint to exclude allegations occurring before 10 May 2006. According to the SEC, this date is the sum of the five years prior to the filing of the original complaint in February 2012 plus 290 days (which the SEC says the defendants agreed to as part of a tolling agreement). Jackson and Ruehlen have until 19 April 2013 to respond to the amended complaint.<br /><br />On 25 March 2014, the SEC dropped internal controls charges in a civil foreign bribery case against Mr. Jackson and Mr. Ruehlen, a current and a former executive at Noble Corp.  In a court filing, the SEC said it dropped allegations they violated internal-controls claims “to narrow this case and streamline the presentation of evidence to the jury.”<br /><br />On 1 July 2014, federal district judge Keith B. Ellison denied motions for summary judgments filed by the SEC, and by former Noble executives Mark Jackson and James Ruehlen.  According to the docket, all deadlines in the SEC's enforcement action against two former Noble executives have been vacated "pending final settlement documents," indicating that the two defendants are planning to settle with the SEC.<br /><br />On 3 July 2014, Mark Jackson and James Ruehlen entered into a settlement with the SEC without financial penalty.  While the settlement contained injunctions against the two, it did not restrict current or future employment and contained no admission of wrongdoing.<br /><br />Nigeria Enforcement<br /><br />On 13 January 2011, it was reported that Nigeria's Economic and Financial Crimes Commission (EFCC) had detained twelve oil-industry employees, including four Noble employees, in connection with the agency's investigation into the bribery scheme.  In a filing on 31 January 2011, Noble reported that it had resolved the charges with the EFCC and Nigerian Attorney General Office, entering into a non-prosecution agreement to resolve all charges and agreeing to pay a USD 2.5 million penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ and SEC investigations can spring from the agencies' investigations of business partners or competitors of the affected entities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=823">Noble Corp.: SEC Form 10K (26 February 2010)</a></p><p><a href="file.asp?id=1047">Noble Corp.: SEC Form 8-K (21 July 2010)</a></p><p><a href="file.asp?id=1188">DOJ Press Release: "Oil Services Companies and a Freight Forwarding Company Agree to Resolve Foreign Bribery Investigations and to Pay More Than $156 Million in Criminal Penalties" (4 November 2010)</a></p><p><a href="file.asp?id=1189">SEC Litigation Release: "SEC Charges Noble with FCPA Violations" (4 November 2010)</a></p><p><a href="file.asp?id=1190">Complaint: SEC v. Noble Corporation (4 November 2010)</a></p><p><a href="file.asp?id=1210">Non-Prosecution Agreement (4 November 2010)</a></p><p>Bloomberg Businessweek: "Nigeria Arrests 12 in $100 Million Oil Bribery Probe" (13 January 2011)</p><p>Wall Street Journal: "Nigeria Arrests 12 Oil Executives Over Alleged Bribery" (13 January 2011)</p><p>African Manager: "Nigeria's anti-graft agency seizes 12 oil chiefs over US$ 100m bribery scam" (13 January 2011)</p><p>Wall Street Journal: "Noble Corp. Settles Nigerian Corruption Probe" (31 January 2011)</p><p><a href="file.asp?id=1328">Noble Corp.: SEC Form 8-K (31 January 2011)</a></p><p><a href="file.asp?id=1718">SEC Press Release: "SEC Charges Three Oil Services Executives With Bribing Customs Officials in Nigeria" (4 February 2012)</a></p><p><a href="file.asp?id=1716">Noble Corp.: SEC Complaint (Jackson, Ruehlen) (24 February 2012)</a></p><p><a href="file.asp?id=1717">Noble Corp.: SEC Complaint (O'Rourke) (24 February 2012)</a></p><p><a href="file.asp?id=1814">Ruehlen Motion to Dismiss (8 May 2012)</a></p><p><a href="file.asp?id=1815">Jackson Motion to Dismiss (8 May 2012)</a></p><p><a href="file.asp?id=1871">SEC Opposition Brief to Motion to Dismiss (22 June 2012)</a></p><p>Main Justice: "SEC Amends Complaint Against Noble Executives" (26 March 2013)</p><p><a href="file.asp?id=2516">SEC Drops Charges Against Noble Corp - WSJ</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

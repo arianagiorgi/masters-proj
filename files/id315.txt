@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924564alt3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192456w8p46" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FOSHAN MEIJIAO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(315)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924562brs9" width="415" height="61" /></div>
+    
+        <h1>FOSHAN MEIJIAO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Mexico: Ministry of Public Administration<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Foshan Meijiao Trading Co. ("Foshan")<br />Tao Zili (president of Foshan)<br />Liu Xiaoting (also identified as Beth Liu) (Foshan's representative in the United States)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer and trader of recycled plastic
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Foshan City, Guangdong Province, China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports on 15 December 2010, two Chinese businessmen - Tao Zili and Liu Xiaoting of Guangdong-based Foshan Meijiao Trading Co. - were arrested by Mexican authorities for allegedly attempting to bribe officials at the state-owned petroleum company, Petróleos Mexicanos (Pemex), in order to secure contracts to buy polyethylene at preferential prices.  The two businessmen allegedly handed USD 3,000, hidden among documents, to two officials at Pemex's overseas commercial branch, PMI Comercio Internacional, and offered to pay the officials USD 25,000 to USD 60,000 a month for the preferential pricing.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Mexican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Sought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 3,000 plus between USD 25,000 - 60,000 a month<br /></td>
+<td style="text-align: center;">Favorable contracts from Pemex</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the Pemex officials reported the bribe offers to prosecutors, after which the businessmen were arrested.  The defendants reportedly described the attempted payments as "gifts for the holidays."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter remains ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>newstraightstimes: "Two Chinese arrested in Mexico in alleged bribery case" (15 Dec. 2010)</p><p>Fox News Latino: "Chinese businessman charged in Mexico denies wrongdoing" (15 Dec. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

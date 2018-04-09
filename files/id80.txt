@@ -1,0 +1,326 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184311t1k0h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843116j6pc" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TITAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(80)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843114m7ht" width="415" height="61" /></div>
+    
+        <h1>TITAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Titan Corporation ("Titan")<br />Titan Wireless (wholly-owned subsidiary of Titan engaged in business in Benin)<br />Datron World Communications (division of Datron Systems, Inc., a wholly-owned Titan subsidiary) ("DWC")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Military intelligence and communications systems 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Benin<br />Philippines<br />South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning in 1998, Titan entered into a joint venture to construct and operate a satellite-based telephone system in Benin.  In November 1998, Titan executives were introduced to a potential agent who also served as a business advisor to Benins President.  Company executives suspected that this agent traveled on a diplomatic passport and was an ambassador without portfolio who had access to the President.  Regardless of these suspicions, Titan entered into an agreement with the agent under which the agent would provide various services.  From 1999 until 2001, Titan made $3.5 million in commission payments to this agent without conducting any due diligence and without taking steps to ensure that the agent was in fact performing the services described on the invoices he submitted. <br /><br />In 2001 Titan began making additional payments to the agent in order to influence the presidential election in Benin.  These payments were recorded as social payments.  The agent submitted over $2 million in false invoices for these payments at Titan's request.  Part of the money went to purchase T-shirts with the president's photo, instructing the Beninese people to vote for him.  After making the payment, Titan was able to demand an increase in its management fee of the project from 5% to 20%. Titan then violated U.S. tax law by claiming the bribes as deductible business expenses on its tax return.<br /><br />In addition to the $2 million in payments to the President of Benin's re-election campaign, Titan purchased a $1,850 pair of earrings for the President's wife.   Titan also made a $15,000 cash payment and paid for $2,000 in travel expenses to a World Bank analyst to assist with its project in Benin and paid a Beninese government official $14,000 in travel expenses between 1999 and 2001.  Titan paid $1.35 million to three additional consultants in Benin; however, there were no records substantiating the payments or describing the work performed by the consultants. <br /><br />In addition to the Titan's conduct in Benin, DWC paid disproportionately large commissions to agents in a number of foreign countries without conducting adequate due diligence to determine whether the payments were used to violate the FCPA.  Titan and DWC then falsified documents that allowed both the agents and the company to under-report these commission payments. <br /><br />The SEC complaint also alleged that from 1999 to 2003, DWC sold $1.1 million in equipment in the Philippines and paid approximately $48,000 in commissions to its Filipino agent.  The agent then made payments to high-ranking military officers in order to win business for DWC and Titan.  In 2001, DWC entered into an agreement with an agent in South Africa.  The agent suggested deleting the FCPA clause in the contract because certain commissions needed to be paid to other parties.  DWC executives told the agent that the clause only applied to DWC's conduct and not the agents.  DWC also violated its own FCPA policy by paying a number of agents in accounts located outside of their countries of operation. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Alleged Payments to Beninese Officials</p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $2 million</p>
+</td>
+<td>
+<p style="text-align: center;">$98.2 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">$1.1 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to South African Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">$7 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In 2003 Titan entered into a merger agreement with Lockheed Martin Corporation ("Lockheed") whereby Lockheed would acquire Titan.  The merger agreement contained a representation stating that neither Titan nor its subsidiaries, directors, officers or employees had caused the company to violate the FCPA.  This statement was publicly disclosed in the companys proxy statement and in the merger agreement, which was included as an appendix to the proxy statement.  The SEC issued a Report of Investigation in March 2005 to alert companies to potential liability for representations, covenants or other provisions of a merger agreement that are made publicly available.  The SEC made it clear that it considers disclosures of material contractual terms, such as representations, to be actionable. <br /><br />After uncovering the payments during pre-merger due diligence, Titan and Lockheed jointly made a voluntary disclosure to the DOJ and SEC in February 2004.<br /><br />After repeated delays in the Titan's resolution of the matter with the government, Lockheed terminated the merger agreement in June 2004.  L-3 Communications later purchased Titan in June 2005.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 1, 2005, Titan pleaded guilty to one count of falsifying its books and records, one count of violating the anti-bribery provisions of the FCPA and one count of aiding or assisting with filing false tax returns.   Titan was required to pay a $13 million criminal fine and serve three years of probation for each count.  As a condition of probation, the company was required to implement a robust compliance program designed to detect and deter future violations of the FCPA. <br /><br />On the same day, without admitting or denying the SEC's allegations, Titan consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  In addition, Titan was required to pay a total of $15,479,195.47, including $12,620,000 in disgorgement and $2,859,195.47 in pre-judgment interest. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC expect companies to conduct due diligence before entering into a relationship with a third party, as payments made through third parties can form the basis for FCPA violations.</li><li>Excessive commissions paid to an intermediary are a red flag under the FCPA.</li><li>Publicly-traded companies should carefully review all materials, including representations in merger agreements, to ensure that they do not inadvertently violate federal securities laws.</li><li>Gifts, hospitality and travel provided to government officials and their family members constitute items of value under the FCPA.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries.</li><li>The government will take into account when a company has violated its own FCPA policy, even if the conduct in question was not necessarily a violation of the law itself.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=257">SEC Litigation Release: March 1, 2005 (SEC Sues the Titan Corporation for Payments to Election Campaign of Benin President)</a></p><p><a href="file.asp?id=258">Complaint: SEC v. The Titan Corporation </a></p><p><a href="file.asp?id=259">SEC Report of Investigation </a></p><p><a href="file.asp?id=260">U.S. Attorney Southern District of California Press Release: March 1, 2005 (Titan Pleads Guilty to FCPA Violations)</a></p><p><a href="file.asp?id=261">Criminal Information: United States v. Titan Corporation</a></p><p><a href="file.asp?id=262">Judgment: United States v. Titan Corporation</a></p><p><a href="file.asp?id=263">Waiver of Indictment: United States v. Titan Corporation</a></p><p><a href="file.asp?id=333">Plea Agreement: United States v. Titan Corporation</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921286794j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192128k6r8l" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TITAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(80)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192128v6aqe" width="415" height="61" /></div>
+    
+        <h1>TITAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Titan Corporation ("Titan")<br />Titan Wireless (wholly-owned subsidiary of Titan engaged in business in Benin)<br />Datron World Communications (division of Datron Systems, Inc., a wholly-owned Titan subsidiary) ("DWC")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Military intelligence and communications systems 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Benin<br />Philippines<br />South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning in 1998, Titan entered into a joint venture to construct and operate a satellite-based telephone system in Benin.  In November 1998, Titan executives were introduced to a potential agent who also served as a business advisor to Benins President.  Company executives suspected that this agent traveled on a diplomatic passport and was an ambassador without portfolio who had access to the President.  Regardless of these suspicions, Titan entered into an agreement with the agent under which the agent would provide various services.  From 1999 until 2001, Titan made $3.5 million in commission payments to this agent without conducting any due diligence and without taking steps to ensure that the agent was in fact performing the services described on the invoices he submitted. <br /><br />In 2001 Titan began making additional payments to the agent in order to influence the presidential election in Benin.  These payments were recorded as social payments.  The agent submitted over $2 million in false invoices for these payments at Titan's request.  Part of the money went to purchase T-shirts with the president's photo, instructing the Beninese people to vote for him.  After making the payment, Titan was able to demand an increase in its management fee of the project from 5% to 20%. Titan then violated U.S. tax law by claiming the bribes as deductible business expenses on its tax return.<br /><br />In addition to the $2 million in payments to the President of Benin's re-election campaign, Titan purchased a $1,850 pair of earrings for the President's wife.   Titan also made a $15,000 cash payment and paid for $2,000 in travel expenses to a World Bank analyst to assist with its project in Benin and paid a Beninese government official $14,000 in travel expenses between 1999 and 2001.  Titan paid $1.35 million to three additional consultants in Benin; however, there were no records substantiating the payments or describing the work performed by the consultants. <br /><br />In addition to the Titan's conduct in Benin, DWC paid disproportionately large commissions to agents in a number of foreign countries without conducting adequate due diligence to determine whether the payments were used to violate the FCPA.  Titan and DWC then falsified documents that allowed both the agents and the company to under-report these commission payments. <br /><br />The SEC complaint also alleged that from 1999 to 2003, DWC sold $1.1 million in equipment in the Philippines and paid approximately $48,000 in commissions to its Filipino agent.  The agent then made payments to high-ranking military officers in order to win business for DWC and Titan.  In 2001, DWC entered into an agreement with an agent in South Africa.  The agent suggested deleting the FCPA clause in the contract because certain commissions needed to be paid to other parties.  DWC executives told the agent that the clause only applied to DWC's conduct and not the agents.  DWC also violated its own FCPA policy by paying a number of agents in accounts located outside of their countries of operation. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Alleged Payments to Beninese Officials</p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $2 million</p>
+</td>
+<td>
+<p style="text-align: center;">$98.2 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">$1.1 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to South African Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">$7 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In 2003 Titan entered into a merger agreement with Lockheed Martin Corporation ("Lockheed") whereby Lockheed would acquire Titan.  The merger agreement contained a representation stating that neither Titan nor its subsidiaries, directors, officers or employees had caused the company to violate the FCPA.  This statement was publicly disclosed in the companys proxy statement and in the merger agreement, which was included as an appendix to the proxy statement.  The SEC issued a Report of Investigation in March 2005 to alert companies to potential liability for representations, covenants or other provisions of a merger agreement that are made publicly available.  The SEC made it clear that it considers disclosures of material contractual terms, such as representations, to be actionable. <br /><br />After uncovering the payments during pre-merger due diligence, Titan and Lockheed jointly made a voluntary disclosure to the DOJ and SEC in February 2004.<br /><br />After repeated delays in the Titan's resolution of the matter with the government, Lockheed terminated the merger agreement in June 2004.  L-3 Communications later purchased Titan in June 2005.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 1, 2005, Titan pleaded guilty to one count of falsifying its books and records, one count of violating the anti-bribery provisions of the FCPA and one count of aiding or assisting with filing false tax returns.   Titan was required to pay a $13 million criminal fine and serve three years of probation for each count.  As a condition of probation, the company was required to implement a robust compliance program designed to detect and deter future violations of the FCPA. <br /><br />On the same day, without admitting or denying the SEC's allegations, Titan consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  In addition, Titan was required to pay a total of $15,479,195.47, including $12,620,000 in disgorgement and $2,859,195.47 in pre-judgment interest. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC expect companies to conduct due diligence before entering into a relationship with a third party, as payments made through third parties can form the basis for FCPA violations.</li><li>Excessive commissions paid to an intermediary are a red flag under the FCPA.</li><li>Publicly-traded companies should carefully review all materials, including representations in merger agreements, to ensure that they do not inadvertently violate federal securities laws.</li><li>Gifts, hospitality and travel provided to government officials and their family members constitute items of value under the FCPA.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries.</li><li>The government will take into account when a company has violated its own FCPA policy, even if the conduct in question was not necessarily a violation of the law itself.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=257">SEC Litigation Release: March 1, 2005 (SEC Sues the Titan Corporation for Payments to Election Campaign of Benin President)</a></p><p><a href="file.asp?id=258">Complaint: SEC v. The Titan Corporation </a></p><p><a href="file.asp?id=259">SEC Report of Investigation </a></p><p><a href="file.asp?id=260">U.S. Attorney Southern District of California Press Release: March 1, 2005 (Titan Pleads Guilty to FCPA Violations)</a></p><p><a href="file.asp?id=261">Criminal Information: United States v. Titan Corporation</a></p><p><a href="file.asp?id=262">Judgment: United States v. Titan Corporation</a></p><p><a href="file.asp?id=263">Waiver of Indictment: United States v. Titan Corporation</a></p><p><a href="file.asp?id=333">Plea Agreement: United States v. Titan Corporation</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

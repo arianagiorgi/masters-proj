@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19240957en9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192409dur7x" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - STRABAG / STUDI INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(259)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924096ge5v" width="415" height="61" /></div>
+    
+        <h1>STRABAG / STUDI INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Rwanda: National Public Prosecution Authority<br />Hungary: Central Investigative Chief Prosecutor's Office<br />Germany: Cologne Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Strabag SE ("Strabag")<br />Studi International SA (Tunisia-based engineering contractor) ("Studi")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Road construction, civil engineering and project management
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Vienna, Austria
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Hungary<br />Rwanda<br />Germany<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2009 the former Permanent Secretary in Rwanda's Ministry of Infrastructure, Vincent Gatwadbuyenge, was arrested in connection with allegations surrounding his approval of a RWF 1.7 billion (USD 2.998 million) payment to Strabag for engineering services the company may never have provided under its construction contract for the Kigali-Bugesera road project.  An employee from Strabag was also arrested in connection with the Rwanda National Public Prosecution Authority's investigation. <br /><br />Two employees of Studi International were also arrested in connection with the investigation into the Kigali-Bugesera road project.  Studi International was responsible for supervising the construction of the road.<br /><br />It appears that Strabag may also be under investigation in Germany and Hungary for possible bribery  in connection with road construction projects in those two countries.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Rwandan Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations appear to be ongoing. <br /><br />In February 2011, the World Bank withdrew its funding for a Strabag-led consortium to lead the Nairobi Toll Road project over concerns related to the company's ability to meet integrity benchmarks.  It appears that the Chinese government will take over the funding for the Kenyan project.  It is not clear whether the World Bank's concerns were related to Strabag's activities in Rwanda, as discussed above. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Rwanda Focus:  "Two government officials land in prison for graft after strange turn of events" (3 Feb. 2009)</p><p>Rwanda Development Gateway: "Three govt officials arrested over graft" (5 Feb. 2009)</p><p>The East African: "Kigali becoming too hot for the corrupt" (14 Feb. 2009)</p><p>allAfrica.com: "Rwanda: More Rwandan Officials Held Over Graft" (21 Feb. 2009)</p><p>The Rwanda Focus: "Katurebe had authority to sigin document, Rwangombwa" (23 June 2009)</p><p>The Rwanda Focus: "Cocoon of Corruption Shaken Up" (27 Nov. 2009)</p><p>The Rwanda Focus: "Case Become Hot Potato for Prosecution's Star Witness" (27 May 2010)</p><p>In2EastAfrica: "World Bank backs out of toll road plan" (2 Feb. 2011)</p><p>In2EastAfrica: "China eyes Nairobi road after WB exit" (7 Feb. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

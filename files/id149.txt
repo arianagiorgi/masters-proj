@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922292i4t7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19222910pc0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RADIOLA AEROSPACE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(149)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192229a271m" width="415" height="61" /></div>
+    
+        <h1>RADIOLA AEROSPACE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        New Zealand: Serious Fraud Office<br />United Nations: Procurement Division<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Radiola Aerospace Limited ("Radiola")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aviation technology solutions
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wellington, New Zealand
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Sudan<br />Official/Agent of Public International Organization<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Radiola was awarded two United Nations ("U.N.") contracts in 2005-2006 to install runway lighting at the Kadugli airport in Sudan.  In May 2006, after the contract was completed, the U.N. attempted to block payment to Radiola, apparently based on rumors that the company had engaged in improprieties with U.N. staff at the Sudanese mission.<br /><br />On 18 December 2006, without a formal investigation or presentation of the allegations to Radiola, the company received a letter from the U.N. Procurement Division stating that the company had been removed from the U.N. vendor database based on "confirmed inappropriate relationships between Radiola and a U.N. official."  Radiola sought advice and explanation from the U.N. regarding the circumstances surrounding the allegations and the delisting, but received no response.   The company soon learned that it had been placed on the U.N. "blacklist."<br /><br />According to a story on 10 February 2008 in the Washington Post, Radiola allegedly participated in the drafting of a contract for runway light installation at the Kadugli airport in Sudan that the company ultimately won. According to the story, Radiola  "also sponsored a New Zealand visa application for the official's wife and pledged to cover any financial liabilities she might incur while in the country." The Washington Post reported that Radiola denied the allegations regarding the contract, but "acknowledged that it violated U.N. rules by sponsoring the visa . . . 'In hindsight it was inappropriate we should not have done it,' said Brent Albiston, Radiola's managing director. 'But absolutely no money passed hands.'"<br /><br />The U.N. referred the allegations to the New Zealand Police who then referred it to the Serious Fraud Office ("SFO").  The SFO investigated that matter, including conducting interviews with Radiola officers, and ultimately determined that there was no evidence of fraud or corruption on the part of Radiola or its Executive Director.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;U.N. Staff Member</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Sponsoring of visa application for the staff member's wife</p>
+</td>
+<td>
+<p style="text-align: center;">U.N. contracts of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Nations<br /><br />According to a 2 May 2008 article in the New Zealand Herald, Radiola's managing director Brent Albiston said that "[w]e were suspended while the UN was conducting its investigations and we can confirm we have since been reinstated and are now an approved supplier." <br /><br />New Zealand<br /><br />On 22 October 2008, the Serious Fraud Office issued a letter to Radiola stating that the office had found no evidence of fraud or corruption and was closing the file.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The damage to reputation and business opportunities as a result of allegations of bribery can be significant and debarments and/or blacklistings by international institutions can be difficult to undue.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Washington Post: "Audit of U.N.'s Sudan Mission Finds Tens of Millions in Waste" (10 February 2008)</p><p>The New Zealand Herald: "Award winning Wellington exporter accused of corruption in Sudan" (2 May 2008)</p><p>SFO: Declination Letter (22 October 2008)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

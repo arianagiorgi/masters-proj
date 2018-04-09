@@ -1,0 +1,372 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170706498om">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707060wuq7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ITT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(19)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-17070695cti" width="415" height="61" /></div>
+    
+        <h1>ITT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ITT Corporation ("ITT")<br />Nanjing Goulds Pumps Ltd. (ITTs wholly-owned Chinese subsidiary) ("NGP")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water pump products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        White Plains, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged ITT with violating the books and records and internal control provisions in connection with improper conduct by NGP, a wholly-owned subsidiary of ITT in China operating in the fluid technology business.  According to the SEC complaint, from 2001 through 2005, NGP made improper payments, totaling USD 200,000, to employees in 32 different Chinese state-owned enterprises ("SOEs") in order to influence the sale of NGP water pumps for large infrastructure projects in China.  The payments were allegedly made both directly by certain NGP employees and indirectly through third party agents.  Most of the payments went to employees of Design Institutes, some of which were SOEs, to ensure that the NGP water pumps were recommended to the SOEs that developed, constructed and owned the projects. <br /><br />The payments were allegedly recorded as increased commissions in NGP's books and records. These improper entries were consolidated and included in ITT's financial statements contained in its filings with the Commission for the company's fiscal years 2001 through 2005.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Over USD 4 million in sales generated for NGP;</p>
+<p style="text-align: center;">Over USD 1 million in profits realized by ITT</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2005, ITT's Corporate Compliance Ombudsman received an anonymous complaint from NGP employees alleging that improper payments were being made by NGP employees to Chinese government officials.  ITT self-disclosed the violations to the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 February 2009, without admitting or denying the allegations in the SEC complaint, ITT consented to the entry of final injunction permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering the company to pay disgorgement of USD 1,041,112, along with prejudgment interest of USD 387,538.11.  ITT also agreed to pay a USD 250,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The U.S. government will prosecute a parent company for the FCPA violations of a foreign subsidiary (even if the foreign subsidiary is not subject to FCPA's jurisdiction) when the foreign subsidiary's books are combined with the parent company's financial reports. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=138">SEC Litigation Release: February 11, 2009 (SEC Files Settled Charges Against ITT Corporation for Violations of the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=139">Complaint: SEC v. ITT Corporation </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184216937iy">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18421602xth" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ITT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(19)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184216sv6a2" width="415" height="61" /></div>
+    
+        <h1>ITT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ITT Corporation ("ITT")<br />Nanjing Goulds Pumps Ltd. (ITTs wholly-owned Chinese subsidiary) ("NGP")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water pump products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        White Plains, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged ITT with violating the books and records and internal control provisions in connection with improper conduct by NGP, a wholly-owned subsidiary of ITT in China operating in the fluid technology business.  According to the SEC complaint, from 2001 through 2005, NGP made improper payments, totaling USD 200,000, to employees in 32 different Chinese state-owned enterprises ("SOEs") in order to influence the sale of NGP water pumps for large infrastructure projects in China.  The payments were allegedly made both directly by certain NGP employees and indirectly through third party agents.  Most of the payments went to employees of Design Institutes, some of which were SOEs, to ensure that the NGP water pumps were recommended to the SOEs that developed, constructed and owned the projects. <br /><br />The payments were allegedly recorded as increased commissions in NGP's books and records. These improper entries were consolidated and included in ITT's financial statements contained in its filings with the Commission for the company's fiscal years 2001 through 2005.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Over USD 4 million in sales generated for NGP;</p>
+<p style="text-align: center;">Over USD 1 million in profits realized by ITT</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2005, ITT's Corporate Compliance Ombudsman received an anonymous complaint from NGP employees alleging that improper payments were being made by NGP employees to Chinese government officials.  ITT self-disclosed the violations to the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 February 2009, without admitting or denying the allegations in the SEC complaint, ITT consented to the entry of final injunction permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering the company to pay disgorgement of USD 1,041,112, along with prejudgment interest of USD 387,538.11.  ITT also agreed to pay a USD 250,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The U.S. government will prosecute a parent company for the FCPA violations of a foreign subsidiary (even if the foreign subsidiary is not subject to FCPA's jurisdiction) when the foreign subsidiary's books are combined with the parent company's financial reports. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=138">SEC Litigation Release: February 11, 2009 (SEC Files Settled Charges Against ITT Corporation for Violations of the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=139">Complaint: SEC v. ITT Corporation </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192031105it">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192031buwu2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ITT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(19)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192031397y3" width="415" height="61" /></div>
+    
+        <h1>ITT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ITT Corporation ("ITT")<br />Nanjing Goulds Pumps Ltd. (ITTs wholly-owned Chinese subsidiary) ("NGP")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water pump products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        White Plains, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged ITT with violating the books and records and internal control provisions in connection with improper conduct by NGP, a wholly-owned subsidiary of ITT in China operating in the fluid technology business.  According to the SEC complaint, from 2001 through 2005, NGP made improper payments, totaling USD 200,000, to employees in 32 different Chinese state-owned enterprises ("SOEs") in order to influence the sale of NGP water pumps for large infrastructure projects in China.  The payments were allegedly made both directly by certain NGP employees and indirectly through third party agents.  Most of the payments went to employees of Design Institutes, some of which were SOEs, to ensure that the NGP water pumps were recommended to the SOEs that developed, constructed and owned the projects. <br /><br />The payments were allegedly recorded as increased commissions in NGP's books and records. These improper entries were consolidated and included in ITT's financial statements contained in its filings with the Commission for the company's fiscal years 2001 through 2005.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Over USD 4 million in sales generated for NGP;</p>
+<p style="text-align: center;">Over USD 1 million in profits realized by ITT</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2005, ITT's Corporate Compliance Ombudsman received an anonymous complaint from NGP employees alleging that improper payments were being made by NGP employees to Chinese government officials.  ITT self-disclosed the violations to the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 February 2009, without admitting or denying the allegations in the SEC complaint, ITT consented to the entry of final injunction permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions and ordering the company to pay disgorgement of USD 1,041,112, along with prejudgment interest of USD 387,538.11.  ITT also agreed to pay a USD 250,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The U.S. government will prosecute a parent company for the FCPA violations of a foreign subsidiary (even if the foreign subsidiary is not subject to FCPA's jurisdiction) when the foreign subsidiary's books are combined with the parent company's financial reports. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=138">SEC Litigation Release: February 11, 2009 (SEC Files Settled Charges Against ITT Corporation for Violations of the Books and Records and Internal Controls Provisions of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=139">Complaint: SEC v. ITT Corporation </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192525436zz">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192525f9xa8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VITOL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(348)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925252in0z" width="415" height="61" /></div>
+    
+        <h1>VITOL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Vitol S.A. 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil trading firm
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Geneva, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ summarized the case as follows on page 62 of its report titled "Steps taken to implement and enforce the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions", submitted to the OECD Working Group on Bribery on May 28, 2010: <br /><br />"In 2007, the Manhattan (NY) District Attorney's Office charged Vitol, S.A. (Vitol), a Swiss oil trading firm, with Grand Larceny in the First Degree for its involvement in a scheme to pay kickbacks to Iraq in connection with oil purchases made under the United Nations Oil-for-Food Program (OFFP). According to court documents, while the OFFP was in effect, Vitol purchased Iraqi crude oil first as direct purchaser and later from third-parties. In June 2001, after an OPEC meeting, an agent of VITOL was told by Iraqi officials that surcharges had to be paid in order for Iraqi crude oil to be lifted. Over the next year, VITOL paid or caused surcharges to be paid on certain oil purchases in two ways. In direct purchases, VITOL had an associated entity called Vitol Bahrain send the surcharge monies to accounts controlled by the Iraqi regime. In indirect purchases, VITOL financed the purchase of oil through third-parties who then paid the surcharge to the Iraqi regime. VITOL did not inform the UN about the surcharge payments. During the period from June 2001 through September 2002, approximately $13,000,000 in surcharge monies were paid directly to the Iraqi regime in connection with crude oil purchased directly or indirectly by VITOL."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Government</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">$13 million</td>
+<td style="text-align: center;">Purchases of crude oil</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        "On November 20, 2007, Vitol pleaded guilty and was sentenced to pay restitution of $13 million to the Iraqi people through the Development Fund for Iraq, in addition to a payment of $4.5 million in lieu of fines, forfeiture and to cover the costs of prosecution."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This is the only foreign bribery-related case brought the U.S. government where the criminal charge was grand larceny. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1500">United States: "Steps taken to implement and enforce the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions" (May 28, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

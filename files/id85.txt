@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184315gq9f1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184315zead8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SALAM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(85)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18431556z1h" width="415" height="61" /></div>
+    
+        <h1>SALAM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Faheem Mousa Salam
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of a map printer and armored vests
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Faheem Mousa Salam was an employee of the Titan Corporation, working in Iraq as a translator. <br /><br />In 2005, Salam initiated a scheme to sell a map printer and 1,000 armored vests to the multinational Civilian Police Assistance Training Team ("CPATT"), an organization tasked with training the Iraqi police forces, by paying bribes to Iraqi police officials. <br /><br />On December 13, 2005, a high-ranking official with the Ministry of Interior introduced Salam to a senior official in the Iraqi police force.  When he was alone with the police official, Salam offered to pay him $60,000 as a gift if the official would arrange for CPATT to purchase the printer and vests.  Salam proposed to sell the printer for $90,000 and each vest for $1,000 each, totaling $1,090,000.  The police official stated that he would need time to consider the offer.  On January 2, 2006, Salam contacted the police official and offered to reduce the cost of the armored vests to $800 each.  Salam stated that the officials gift would also be reduced to $50,000.  <br /><br />On February 6, 2006, Salam entered into negotiations with an agent from the Special Inspector General for Iraq Reconstruction ("SIGIR") who was posing as a CPATT procurement official.  Salam offered the agent between $28,000 and $35,000 to process the contracts and told the agent he could either pay the gift in cash or wire it to an account.  On February 16, 2006, the agent received an email from Salam stating that he would not be able to go forward with the transaction. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payment Promised to Iraqi Police Official</p>
+</td>
+<td width="50%">
+<p>Potential Revenue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: 11pt; line-height: 115%; font-family: 'Calibri','sans-serif';">$60,000</span></p>
+</td>
+<td>
+<p>$1,090,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        After his conversation with Salam on January 2, 2006, the police official reported Salam to SIGIR.  A SIGIR agent then posed as a procurement officer for CPATT.  After Salam terminated negotiations, the U.S. government issued a warrant for Salams arrest and he was arrested on March 23, 2006 upon arriving at Dulles International Airport in Virginia.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On August 4, 2006, Salam pleaded guilty to violating the FCPA.  He was sentenced to three years in prison on February 5, 2007.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government uses a variety of law enforcement techniques to investigate FCPA violations. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=166">DOJ Press Release: August 4, 2006 (U.S. Civilian Translator Pleads Guilty to Offering Bribe to Iraqi Police Official)</a></p><p><a href="file.asp?id=167">DOJ Press Release: February 5, 2007 (U.S. Civilian Translator Sentenced for Offering Bribes to Iraqi and U.S. While Working in Adnon Palace in Baghdad)</a></p><p><a href="file.asp?id=168">Criminal Complaint: United States v. Faheem Mousa Salam</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19213262a57">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192132ejmh6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SALAM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(85)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921324srkd" width="415" height="61" /></div>
+    
+        <h1>SALAM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Faheem Mousa Salam
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of a map printer and armored vests
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Faheem Mousa Salam was an employee of the Titan Corporation, working in Iraq as a translator. <br /><br />In 2005, Salam initiated a scheme to sell a map printer and 1,000 armored vests to the multinational Civilian Police Assistance Training Team ("CPATT"), an organization tasked with training the Iraqi police forces, by paying bribes to Iraqi police officials. <br /><br />On December 13, 2005, a high-ranking official with the Ministry of Interior introduced Salam to a senior official in the Iraqi police force.  When he was alone with the police official, Salam offered to pay him $60,000 as a gift if the official would arrange for CPATT to purchase the printer and vests.  Salam proposed to sell the printer for $90,000 and each vest for $1,000 each, totaling $1,090,000.  The police official stated that he would need time to consider the offer.  On January 2, 2006, Salam contacted the police official and offered to reduce the cost of the armored vests to $800 each.  Salam stated that the officials gift would also be reduced to $50,000.  <br /><br />On February 6, 2006, Salam entered into negotiations with an agent from the Special Inspector General for Iraq Reconstruction ("SIGIR") who was posing as a CPATT procurement official.  Salam offered the agent between $28,000 and $35,000 to process the contracts and told the agent he could either pay the gift in cash or wire it to an account.  On February 16, 2006, the agent received an email from Salam stating that he would not be able to go forward with the transaction. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payment Promised to Iraqi Police Official</p>
+</td>
+<td width="50%">
+<p>Potential Revenue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span style="font-size: 11pt; line-height: 115%; font-family: 'Calibri','sans-serif';">$60,000</span></p>
+</td>
+<td>
+<p>$1,090,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        After his conversation with Salam on January 2, 2006, the police official reported Salam to SIGIR.  A SIGIR agent then posed as a procurement officer for CPATT.  After Salam terminated negotiations, the U.S. government issued a warrant for Salams arrest and he was arrested on March 23, 2006 upon arriving at Dulles International Airport in Virginia.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On August 4, 2006, Salam pleaded guilty to violating the FCPA.  He was sentenced to three years in prison on February 5, 2007.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government uses a variety of law enforcement techniques to investigate FCPA violations. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=166">DOJ Press Release: August 4, 2006 (U.S. Civilian Translator Pleads Guilty to Offering Bribe to Iraqi Police Official)</a></p><p><a href="file.asp?id=167">DOJ Press Release: February 5, 2007 (U.S. Civilian Translator Sentenced for Offering Bribes to Iraqi and U.S. While Working in Adnon Palace in Baghdad)</a></p><p><a href="file.asp?id=168">Criminal Complaint: United States v. Faheem Mousa Salam</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

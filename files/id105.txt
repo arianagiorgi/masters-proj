@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192150f232l">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921504cl1v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EAGLE BUS MANUFACTURING</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(105)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921500y91q" width="415" height="61" /></div>
+    
+        <h1>EAGLE BUS MANUFACTURING</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Eagle Bus Manufacturing, Inc. (subsidiary of Greyhound Lines, Inc.) ("Eagle")<br />John Blondek (President of Eagle)<br />Vernon R. Tull (Vice President of Eagle)<br />George V. Morton (Canadian agent of Eagle)<br />Saskatchewan Transportation Company ("STC")<br />Donald Castle (President of STC)<br />Darrell W.T. Lowry (Vice President of STC)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale and manufacturing of buses
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Brownsville, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Canada<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In July 1989, Morton was trying to negotiate a contract for the sale of buses manufactured by Eagle to the STC, a corporation owned by the government of the Province of Saskatchewan, Canada.  STC operated a bus transportation system in that province.  Morton met with Castle and Lowry, of STC, who told him that in order for Eagle to receive an order for 11 buses a payment of CAD 50,000 would be necessary.  In August 1989, Morton met with Tull and Blondek, of Eagle, at which time Blondek authorized Morton to pay the money demanded by Castle and Lowry.<br /><br />On 15 August 1989, Morton received a check from Lowry in the amount of CAD 52,000 payable to a corporation owned by Morton.  He deposited the check, obtained a bank draft payable to himself and later presented the bank draft at the Royal Bank of Canada in Regina and obtained 50 Canadian CAD 1,000 bills.  On 16 August 1989, Blondek signed a contract for the sale of 11 buses to STC.  The purchase price was approximately USD 2,770,000.<br /><br />Between October and November 1989, Castle and Lowry returned the bills in the CAD 1,000 denomination to Morton and requested that he convert them into bills of CAD 100 denomination, which Morton did.  In order to conceal from STC the check paid to Morton's corporation, Tull directed Morton to prepare a letter on Eagle company letterhead to Ontario Bus Industries, Inc., a Canadian firm which was assisting Eagle in the sale.  The letter falsely stated that STC had been given a volume discount amounting to USD 43,940. <br /><br />The indictment charged Blondek, Tull, Castle and Lowry with conspiring to bribe foreign officials in violation of the FCPA.  Defendants Castle and Lowry moved to dismiss the indictment against them on the grounds that, as Canadian officials, they could not be convicted of the charges.  Blondek and Tull were private U.S. citizens and did not challenge their indictment on this ground.  <br /><br />It was not disputed that Castle and Lowry could not be charged with violating the FCPA, since the Act does not criminalize the receipt of bribes by foreign officials.  The question was whether the Government could prosecute Castle and Lowry under the general conspiracy statute for conspiring to violate the FCPA.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Canadian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">CAD 50,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 2,770,000 in bus contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 2 October 1991, without admitting or denying the allegations in the DOJ's complaint, Eagle consented to the entry of a permanent injunction prohibiting future violations of the FCPA's anti-bribery provisions.<br /><br />Previously, in 1990, Morton pleaded guilty to one count of conspiracy to violate the FCPA.  He was sentenced to three years probation.<br /><br />The U.S. District Court for the Northern District of Texas found that, based upon the language of the statute and its legislative history, Castle and Lowry could not be prosecuted under the general conspiracy statute for conspiring to violate the FCPA.  The Court stated that the facts of the case supported Congress's decision to forego prosecution of foreign officials since foreign nations could and should prosecute their own officials for accepting bribes.  The Court continued saying that prosecution and punishment should be accomplished by the government which most directly suffered the abuses perpetrated by its own officials and that there was no need to contravene Congress desire to avoid such prosecutions by the United States.  The indictment against Castle and Lowry was dismissed.<br /><br />Blondek and Tull were acquitted at trial.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA prohibits corrupt payments made through third party intermediaries, including local sales agents.</li><li>The FCPA does not criminalize the receipt of bribes by foreign officials and such officials cannot be prosecuted under the general conspiracy statute for conspiracy to violate the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=307">Complaint for Permanent Injunction: U.S. v. Eagle Bus Manufacturing, Inc. (October 2, 1991)</a></p><p><a href="file.asp?id=308">Consent and Undertaking: U.S. v. Eagle Bus Manufacturing, Inc. (October 2, 1991)</a></p><p><a href="file.asp?id=309">Final Judgment of Permanent Injunction: U.S. v. Eagle Bus Manufacturing, Inc. (October 28, 1991)</a></p><p><a href="file.asp?id=311">Indictment: U.S. v. John Blondek, Vernon R. Tull, Donald Castle, and Darrell W.T. Lowry (March 15, 1990)</a></p><p><a href="file.asp?id=319">Order: U.S. v. John Blondek and Vernon R. Tull (November 17, 1991)</a></p><p><a href="file.asp?id=320">Criminal Information: U.S. v. George V. Morton (March 14, 1990)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

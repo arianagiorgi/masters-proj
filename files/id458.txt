@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192701ym228">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192701a5pkh" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - COCHLEAR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(458)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19270198sao" width="415" height="61" /></div>
+    
+        <h1>COCHLEAR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Australia: Federal Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Cochlear Ltd.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Designs, manufactures and markets cochlear implants, bone conduction implants, implants for electro-acoustic stimulation and implants for direct acoustic stimulation. 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Sydney, New South Wales, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Portugal<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 8 February 2011, a Portuguese newspaper reported that three physicians had been accused of corruption, for having accepted travel, entertainment and hospitality expenses (taking trips to Italy with their spouses) for the purpose of influencing the selection of specific medical device suppliers for the public hospital which employed them.  One of the physicians, the former director of the Otorhynolaringology Department at the Centro Hospitalar de Coimbra (the "CHC," which included the Hospital dos Covões), claimed at the trial that the practice of accepting travel and entertainment for family members was widely accepted.<br /><br />The former director, Manuel Filipe Rodrigues and his brother, Fernando Rodrigues, were allegedly accused of two counts of passive corruption, and one count of falsifying documents.  The third physician, José Bastos, is also reported to be accused of passive corruption.  The bribes were allegedly paid by an agent of Cochlear, Dieter Roth, and an audiologist, Rui Nunes, employed by Cochlear's distributor, Widex Reabilitacao Auditiva Lda.  In addition, two employees of the CHC are suspected of falsifying documents. <br /><br />Referring to a recent OECD report on Australia's implementation of its 1999 anti-bribery statute, an Australian media report published on 14 January 2013 discussed the accusations brought against seven people in Portugal, who allegedly bestowed or accepted benefits such as vacations to Disneyland and Italy for the purpose of securing a EUR 1.2 million contract to purchase the company's implants.  The media report stated that one executive employed by Cochlear was allegedly charged in the case, along with three doctors employed by public health entities, and the employee of a local distributor, Widex Reabilitacao Auditiva Lda.  A subsidiary of Cochlear based in Switzerland is also alleged to have been involved in the improper conduct, which reportedly took place in 2004. <br /><br />On 14 January 2013, the Australian Federal Police confirmed that they are reopening old investigations into Oz Minerals and Cochlear regarding alleged bribery of foreign officials.  Fairfax papers reported that an investigation had been resumed regarding Cochlear, its Swiss subsidiary and a local distributor allegedly trying to influence a medical supplies tender in Portugal in 2004. Bribery allegedly involved family holidays to Disneyland and Italy.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Investigations reopened and ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2089">Cochlear - Media report (8 February 2011), TrÃªs mÃ©dicos julgados por viajar Ã  custa de fornecedor - JN</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

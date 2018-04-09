@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1923408xs5s">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192340ey238" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TALECRIS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(226)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192340114q6" width="415" height="61" /></div>
+    
+        <h1>TALECRIS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Talecris Biotherapeutics Holdings Corp. ("Talecris")<br />Grifols SA (Barcelona-based blood plasma company which acquired Talecris in June 2011) ("Grifols")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Biopharmaceutical company specializing in protein therapy products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Research Triangle Park, North Carolina, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bulgaria<br />Iran<br />Georgia<br />Belarus<br />Unspecified<br />Brazil<br />China<br />Libya<br />Poland<br />Russia<br />Turkey<br />Ukraine<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Talecris described the ongoing investigation as follows in its Form 10-K filed with the U.S. Securities & Exchange Commission ("SEC") on 23 February 2011:<br /><br />"We are conducting an internal investigation into potential violations of the Foreign Corrupt Practices Act (FCPA) that we became aware of during the conduct of an unrelated review. The FCPA investigation is being conducted by outside counsel under the direction of a special committee of our board of directors. The investigation initially focused on sales to certain Eastern European and Middle Eastern countries, primarily Belarus, Russia and Iran, but we are also reviewing sales practices in Brazil, Bulgaria, China, Georgia, Libya, Poland, Turkey, Ukraine and other countries as deemed appropriate.<br /><br />"In July 2009, we voluntarily contacted the U.S. Department of Justice (DOJ) to advise them of the investigation and to offer our cooperation in any investigation that they want to conduct or they want us to conduct. The DOJ has not indicated what action it may take, if any, against us or any individual, or the extent to which it may conduct its own investigation. Even though we selfdisclosed this matter to the DOJ, it or other federal agencies may seek to impose sanctions on us that may include, among other things, debarment, injunctive relief, disgorgement, fines, penalties, appointment of a monitor, appointment of new control staff, or enhancement of existing compliance and training programs. Other countries in which we do business may initiate their own investigations and impose similar penalties. As a result of this investigation, we suspended shipments to some of these countries while we put additional safeguards in place. In some cases, safeguards involved terminating consultants and suspending relations with or terminating distributors in countries under investigation as circumstances warranted. These actions unfavorably affected revenue from these countries in 2010 and 2009. We have resumed sales in countries where we believe we have appropriate safeguards in place and are reallocating product to other countries as necessary. To the extent that we conclude, or the DOJ concludes, that we cannot implement adequate safeguards or otherwise need to change our business practices, distributors, or consultants in affected countries or other countries, this may result in a permanent loss of business from those countries. We expect to complete our internal FCPA investigation and present our findings to the DOJ in 2011. The preliminary findings of our investigation indicate that it is probable that there were FCPA violations by persons associated with us that the DOJ or other regulators may assert are attributable to us. Given the preliminary nature of our findings, our continuing investigation and the uncertainties regarding this matter, we are unable to estimate the financial outcome. Any such sanctions or loss of business could have a material adverse effect on us or our results of operations financial condition, or cash flows."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 28 July 2011, in its Condensed Consolidated Interim Financial Statements, Grifols stated that Talecris' internal investigation was completed in the first quarter of 2011 and that the company made an initial presentation of its findings to the DOJ in July 2011. <br /><br />In its Form 6-K filed with the SEC on 30 November 2012, Grifols announced that the DOJ has declined to continue its investigation of the allegations. According to Grifols, the DOJ noted "the significant cooperation of Grifols with the DOJ by taking immediate steps to secure valuable information and making responsible decisions that lead to the early disclosure of information to the DOJ, thanks to the Compliance Program, internal audit functions concerning bribery and related misconduct, and the continuing improvements in the global anti-corruption compliance procedures."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An FCPA investigation by the DOJ does not necessarily result in an official enforcement action or penalties.</li><li>Cooperation with the DOJ and improvements to a corporate compliance program may help a company receive a declination from the DOJ.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=840">Talecris - SEC Form 10-K (23 February 2009)</a></p><p><a href="file.asp?id=1159">Grifols - SEC Form F-4 (4 October 2010)</a></p><p><a href="file.asp?id=1354">Talecris - SEC Form 10-K (23 February 2011)</a></p><p><a href="file.asp?id=1557">Grifols - First Half Interim Financials (28 July 2011)</a></p><p><a href="file.asp?id=2164">Grifols - SEC Form 6-K (30 November 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

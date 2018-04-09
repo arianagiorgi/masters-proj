@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192532wg604">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19253245pq6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ISTROKAPITAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(357)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192532i7811" width="415" height="61" /></div>
+    
+        <h1>ISTROKAPITAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Slovakia Police Corps: Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Istrokapital SE (Slovak investment and financial group holding company based in Cyprus)<br />Mario Hoffmann (chairman of Istrokapital)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Investment and financial group
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bratislava, Slovakia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2009 the Anti-Corruption Unit of the Slovak Police Corps commenced an investigation into the alleged bribery of Turks and Caicos officials - including former premier Michael Misick - by Slovakian investment group Istrokapital and its boss, Mario Hoffmann.  Hoffmann allegedly paid bribes and gave various improper benefits to Misick in order to secure government approval and preferential treatment in connection with a large resort development on the island.<br /><br />Turks & Caicos is a British Overseas Territory.   The UK Home Office is investigating Misick and other officials involved in the matter.  In August 2009, the UK suspended Turks and Caicos' self-government due to allegations of systemic corruption.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Turks and Caicos Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation appears to be ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Slovak Spectator: "Slovak link to island graft inquir" (30 March 2009)</p><p>Guardian: "Islanders blame UK for 'stolen land'" (1 Feb. 2009)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

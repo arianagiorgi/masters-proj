@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192335a9823">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192335ymwtl" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROYAL DUTCH SHELL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(221)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192335e8fhu" width="415" height="61" /></div>
+    
+        <h1>ROYAL DUTCH SHELL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Royal Dutch Shell plc ("Shell")<br />Shell Nigeria Exploration and Production Company Ltd. (Shell subsidiary in Nigeria)("SNEPCO")<br />Shell International Exploration and Production Inc. (Shell subsidiary in the U.S.)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global group of energy and petrochemicals companies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        The Hague, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC investigated Shell and two of its subsidiaries for alleged FCPA violations in connection with their use of Panalpina for logistics and freight forwarding services in Nigeria.  On November 4, 2010, a criminal information was filed charging SNEPCO with conspiring to violate the FCPA's anti-bribery and books and records provisions, and with aiding and abetting a violation of the books and records provisions.  The charges relate to SNEPCO payment of approximately USD 2 million to its subcontractors, knowing that some or all of the money would be paid as bribes to Nigerian customs officials by Panalpina in order to import materials and equipment into the country.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Payments to Nigerian Customs Officials</td>
+<td style="text-align: center;" width="50%">Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 2 million</td>
+<td style="text-align: center;">Facilitate importation of materials and equipment through Nigerian Customs</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Shell described the (at the time, ongoing) investigation as follows in its 2009 SEC Form 20-F: <br /><br />"Shell is currently under investigation by the United States Securities and Exchange Commission and the United States Department of Justice for violations of the US Foreign Corrupt Practices Act.<br /><br />In July 2007, Shell’s US subsidiary, Shell Oil, was contacted by the US Department of Justice regarding Shell’s use of the freight forwarding firm Panalpina, Inc and potential violations of the US Foreign Corrupt Practices Act (FCPA) as a result of such use. Shell has an ongoing internal investigation and is co-operating with the US Department of Justice and the US Securities and Exchange Commission investigations. As a result of these investigations, Shell may face fines and additional costs."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 4, 2010, the DOJ and Shell entered into a deferred prosecution agreement that requires, among other things, SNEPCO to pay a USD 30 million criminal penalty.<br /><br />In a related SEC action on the same day, Shell and its U.S. subsidiary, Shell International Exploration and Production Inc., agreed to a pay approximately USD 18.1 million in disgorgement of profits and prejudgment interest.<br /><br />According to press reports, in October 2010 Shell paid a USD 10 million fine to the Nigerian government to resolve its domestic investigation into the matter.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ/SEC investigations can spring from the agencies' investigations of business partners or competitors of the affected entities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=836">Royal Dutch Shell: SEC Form 20-F (2009)</a></p><p><a href="file.asp?id=1184">DOJ Press Release: November 4, 2010 (Oil Services Companies and a Freight Forwarding Company Agree to Resolve Foreign Bribery Investigations and to Pay More Than $156 Million in Criminal Penalties)</a></p><p><a href="file.asp?id=1206">Criminal Information: U.S. v. SNEPCO (November 4, 2010)</a></p><p><a href="file.asp?id=1207">Deferred Prosecution Agreement: U.S. v. SNEPCO (November 1, 2010)</a></p><p>TheLawyer.com: "Bribery/Anti-corruption: Shell" (18 Mar. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

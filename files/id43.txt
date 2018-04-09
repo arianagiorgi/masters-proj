@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170728iwm83">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170728e5xzj" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MISSIONPHARMA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(43)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707283061q" width="415" height="61" /></div>
+    
+        <h1>MISSIONPHARMA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Missionpharma A/S ("Missionpharma")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Generic HIV and malaria drugs
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lynge, Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Official/Agent of Public International Organization<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Danish Public Prosecutor for Serious Economic Crime is investigating Missionpharma for allegedly having made improper payments to two Dutch consultants during the period 2005-2007.  For several years, the two Dutch consultants advised the United Nations ("U.N.") regarding the purchase of medicines in the Democratic Republic of Congo.<br /><br />Missionpharma received the best recommendations during a U.N. tender and was awarded a DKK 180 million contract to deliver AIDS medicine to the population of the Democratic Republic of Congo in the period from 2005-2007. <br /><br />Missionpharma challenges the Public Prosecutor's assertion that the Dutch consultants were agents of the U.N. and thus "foreign officials" under Denmark's foreign bribery law.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Potential Payments to the Dutch Consultants to the UN</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DKK 5.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">U.N. contract worth over DKK 180 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The police discovered that approximately DKK 5.5 million had somehow made its way from Missionpharma to a British bank account linked to the Dutch organisation World Response consultancy BV.  The two Dutch consultants were Director and President of the organisation. The transfer of the amount took place around the same time as Missionpharma received the large order of more than DKK 180 million. <br /><br />Both consultants were arrested in London on allegations of money laundering; however, they were released on bail.  The Danish Public Prosecutor for Serious Economic Crime and the British police are cooperating in the investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Public Prosecutor for Serious Economic Crime initially filed charges of bribery (under s. 122 of the Danish Penal Code (straffeloven)) and receipt of an unlawful commission (kickback) against Missionpharma.<br /><br />On 30 January 2009, the bribery-related charge against the company was dropped, leaving only the kickback charge.  <br /><br />The investigation is ongoing and presumably the case will not be settled for another 1-3 years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Key takeaways cannot be determined yet, as the case is still ongoing and not settled by the courts.  Nevertheless, one can note that international anti-bribery statutes generally include officials and agents of public international organizations, such as the U.N., under the definition of foreign official. This is a threshold issue for the allegations against Missionpharma.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=193">Missionpharma Press Release: 24 February 2009</a></p><p><a href="file.asp?id=194">Missionpharma Press Release: 8 October 2008</a></p><p><a href="file.asp?id=549">Letter from Public Prosectutor: 30 January 2009</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842371fdrg">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184237k84u7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MISSIONPHARMA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(43)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184237hakt9" width="415" height="61" /></div>
+    
+        <h1>MISSIONPHARMA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Missionpharma A/S ("Missionpharma")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Generic HIV and malaria drugs
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lynge, Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Official/Agent of Public International Organization<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Danish Public Prosecutor for Serious Economic Crime is investigating Missionpharma for allegedly having made improper payments to two Dutch consultants during the period 2005-2007.  For several years, the two Dutch consultants advised the United Nations ("U.N.") regarding the purchase of medicines in the Democratic Republic of Congo.<br /><br />Missionpharma received the best recommendations during a U.N. tender and was awarded a DKK 180 million contract to deliver AIDS medicine to the population of the Democratic Republic of Congo in the period from 2005-2007. <br /><br />Missionpharma challenges the Public Prosecutor's assertion that the Dutch consultants were agents of the U.N. and thus "foreign officials" under Denmark's foreign bribery law.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Potential Payments to the Dutch Consultants to the UN</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DKK 5.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">U.N. contract worth over DKK 180 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The police discovered that approximately DKK 5.5 million had somehow made its way from Missionpharma to a British bank account linked to the Dutch organisation World Response consultancy BV.  The two Dutch consultants were Director and President of the organisation. The transfer of the amount took place around the same time as Missionpharma received the large order of more than DKK 180 million. <br /><br />Both consultants were arrested in London on allegations of money laundering; however, they were released on bail.  The Danish Public Prosecutor for Serious Economic Crime and the British police are cooperating in the investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Public Prosecutor for Serious Economic Crime initially filed charges of bribery (under s. 122 of the Danish Penal Code (straffeloven)) and receipt of an unlawful commission (kickback) against Missionpharma.<br /><br />On 30 January 2009, the bribery-related charge against the company was dropped, leaving only the kickback charge.  <br /><br />The investigation is ongoing and presumably the case will not be settled for another 1-3 years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Key takeaways cannot be determined yet, as the case is still ongoing and not settled by the courts.  Nevertheless, one can note that international anti-bribery statutes generally include officials and agents of public international organizations, such as the U.N., under the definition of foreign official. This is a threshold issue for the allegations against Missionpharma.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=193">Missionpharma Press Release: 24 February 2009</a></p><p><a href="file.asp?id=194">Missionpharma Press Release: 8 October 2008</a></p><p><a href="file.asp?id=549">Letter from Public Prosectutor: 30 January 2009</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920534t2a9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192053xe70z" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MISSIONPHARMA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(43)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192053524be" width="415" height="61" /></div>
+    
+        <h1>MISSIONPHARMA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Missionpharma A/S ("Missionpharma")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Generic HIV and malaria drugs
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Lynge, Denmark
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Official/Agent of Public International Organization<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Danish Public Prosecutor for Serious Economic Crime is investigating Missionpharma for allegedly having made improper payments to two Dutch consultants during the period 2005-2007.  For several years, the two Dutch consultants advised the United Nations ("U.N.") regarding the purchase of medicines in the Democratic Republic of Congo.<br /><br />Missionpharma received the best recommendations during a U.N. tender and was awarded a DKK 180 million contract to deliver AIDS medicine to the population of the Democratic Republic of Congo in the period from 2005-2007. <br /><br />Missionpharma challenges the Public Prosecutor's assertion that the Dutch consultants were agents of the U.N. and thus "foreign officials" under Denmark's foreign bribery law.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Potential Payments to the Dutch Consultants to the UN</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DKK 5.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">U.N. contract worth over DKK 180 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The police discovered that approximately DKK 5.5 million had somehow made its way from Missionpharma to a British bank account linked to the Dutch organisation World Response consultancy BV.  The two Dutch consultants were Director and President of the organisation. The transfer of the amount took place around the same time as Missionpharma received the large order of more than DKK 180 million. <br /><br />Both consultants were arrested in London on allegations of money laundering; however, they were released on bail.  The Danish Public Prosecutor for Serious Economic Crime and the British police are cooperating in the investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Public Prosecutor for Serious Economic Crime initially filed charges of bribery (under s. 122 of the Danish Penal Code (straffeloven)) and receipt of an unlawful commission (kickback) against Missionpharma.<br /><br />On 30 January 2009, the bribery-related charge against the company was dropped, leaving only the kickback charge.  <br /><br />The investigation is ongoing and presumably the case will not be settled for another 1-3 years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Key takeaways cannot be determined yet, as the case is still ongoing and not settled by the courts.  Nevertheless, one can note that international anti-bribery statutes generally include officials and agents of public international organizations, such as the U.N., under the definition of foreign official. This is a threshold issue for the allegations against Missionpharma.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=193">Missionpharma Press Release: 24 February 2009</a></p><p><a href="file.asp?id=194">Missionpharma Press Release: 8 October 2008</a></p><p><a href="file.asp?id=549">Letter from Public Prosectutor: 30 January 2009</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

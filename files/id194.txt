@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192310l8wjq">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192310w9r28" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ERHC ENERGY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(194)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192310wdcj5" width="415" height="61" /></div>
+    
+        <h1>ERHC ENERGY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        ERHC Energy, Inc. ("ERHC Energy")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Independent oil and gas company whose sole assets are two oil and gas exploration concessions - one in Nigeria and one in Sao Tome
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Sao Tome and Principe<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ERHC Energy describes the matter as follows in an SEC Form 10-Q filed on 8 February 2011: <br /><br />"On May 4, 2006, a search warrant issued by the U.S. District Court of the Southern District of Texas, Houston Division, was executed on ERHC seeking various records including, among others, documents, if any, related to correspondence with foreign governmental officials or entities in Sao Tome and Nigeria.  The search warrant cited, among other things, possible violations of the Foreign Currupt Practices Act ('FCPA'), Section 10(b) of the Exchange Act, Rule 10b-5 under the Exchange Act and criminal conspiracy and wire fraud statutes.<br /><br />"A related SEC subpoena was issued on May 9, 2006, and a second related subpoena issued on August 29, 2006.  The subpoenas requested from ERHC a range of documents including all documents related to correspondence with foreign governmental officials or entities in Sao Tome and Nigeria, personnel records (specifically, those regarding the Company's former Chief Financial Officer, Franklin Ihekwoaba) and other corporate records.  ERHC's attorneys, Akin Gump Strauss Hauer & Feld LLP, assisted ERHC in responding to all subpoenas. On July 5, 2007, the U.S. Senate Committee on Governmental Affairs' Permanent Subcommittee on Investigations served ERHC with a subpoena, in connection with its review of matters relating to the potential abuse of payments made to foreign governments. The subpoena, as amended on July 18, 2007, sought documents and information regarding ERHC's activities, particularly those related to the acquisition of ERHC's interests in the Gulf of Guinea.  ERHC's attorneys, Akin Gump Strauss Hauer & Feld LLP, assisted ERHC in responding to all subpoenas.<br /><br />"In January 2010, all the documents taken by federal investigators from the Company's corporate headquarters in May 2006 were returned to the Company. A total of 106 boxes containing original archival records from the Company's inception until 2006 were returned.  As of December 31, 2010, the Company does not have any reason to believe that the investigations by the Department of Justice (DOJ) and the U.S. Senate Committee on Governmental Affairs' Permanent Subcommittee Investigations are active. The Company has not received any formal communication of conclusion of the investigations, however, if any of the investigations were to proceed, the Company anticipates that these investigations may be lengthy and does not know when they will conclude.  If violations are found, the Company may be subject to criminal, civil and/or administrative sanctions, including substantial fines, and the resolution or disposition of these matters could have a material adverse effect on its business, prospects, operations, financial condition and cash flows."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A search warrant issued by the U.S. District Court of the Southern District of Texas, Houston Division, was executed on ERHC seeking various records including, among others, documents, if any, related to correspondence with foreign governmental officials or entities in Sao Tome and Nigeria.  The search warrant cited, among other things, possible violations of the Foreign Currupt Practices Act ('FCPA'), Section 10(b) of the Exchange Act, Rule 10b-5 under the Exchange Act and criminal conspiracy and wire fraud statutes.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 2012, the DOJ and SEC publicly announced that the investigations were closed and neither would be pursuing action.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=803">ERHC Energy - SEC Form 10-Q (2009)</a></p><p><a href="file.asp?id=1340">ERHC Energy - SEC Formm 10-Q (8 Feb. 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

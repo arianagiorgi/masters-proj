@@ -1,0 +1,128 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925242z1a8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192524bi465" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EADS </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(347)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19252460n90" width="415" height="61" /></div>
+    
+        <h1>EADS </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />Germany: Munich Public Prosecutor's Office<br />Switzerland: Federal Public Prosecutor's Office<br />Austria: Vienna Prosecution Office<br />Italy:  Public Prosecutor's Office of Rome<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        European Aeronautic Defence and Space Company N.V. ("EADS")<br />GPT Special Project Management Ltd. ("GPT," Riyadh-based third tier subsidiary of EADS)<br />Paradigm Services Ltd (GPT is a unit of this company, which makes military satellite communications and is a subsidiary of Astrium, the aerospace arm of EADS) <br />Patria Oyj (Finnish subsidiary of EADS; see separate Compendium entry for Patria)<br />Sangcom (intermediary employed by the United Kingdom Ministry of Defense)<br />Cassidian (a division of EADS)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global aerospace and defence corporation
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Leiden, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Austria<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Saudi Arabia Allegations<br /><br />According to press reports, the UK Serious Fraud Office is investigating EADS for alleged bribery of government officials in Saudi Arabia in connection with the award of a GBP 2 billion (USD 3.3 billion) communications contract to upgrade the Saudi National Guard's satellite systems. GPT, a third tier subsidiary of EADS, allegedly bribed Saudi officials with luxury cars, jewelry and briefcases of cash (conveyed through a middleman) in order to win the contract.  Media reports allege that a controller at EADS was rebuffed when he reported to the head of the compliance department in Paris his concrete findings that bribes had been paid in Saudi Arabia.<br /><br />The Company confirmed the ongoing investigation in its annual Financial Report for 2011, published on 8 March 2012, and again in its First Half-Year Earnings Statement, published on 27 July 2012: "EADS has commissioned an independent investigation into compliance allegations made in connection with one of its subsidiaries, GPT Special Project Management Ltd. The independent investigation remains ongoing."<br /><br />Subsequent press reports (14 October 2012) allege that GPT used bank accounts at HBSC to transfer GBP 14 million in bribes from the defense company to a Saudi prince via private accounts in the Cayman Islands.   The payments are alleged to form only a small part of GBP 72 million paid by GPT to the Saudi prince, who, it is claimed, is a close relative of King Abdullah.<br /><br />Riyadh-based GPT is owned by the UK-based Paradigm Services Ltd., which in turn is a subsidiary of Astrium, the aerospace arm of EADS.  GPT is reportedly one of the companies endorsed by the UK Ministry of Defence to do highly sensitive military work in Saudi Arabia.<br /><br />Media reports in October 2012 claim that one of the two offshore companies allegedly used to channel bribes to Saudi officials, Duranton International (Cayman Islands), has filed a lawsuit against GPT for breach of contract.<br /><br />In EADS' nine month financial report, issued on 8 November 2012, the ongoing SFO investigation is again confirmed:  "The Director of the UK Serious Fraud Office has opened a formal criminal investigation into allegations concerning GPT Special Project Management Ltd., an EADS subsidiary, and certain aspects of the conduct of its business in the Kingdom of Saudi Arabia. EADS is cooperating fully with this investigation, the conclusions of which are not yet available."<br /><br />Austria Allegations<br /><br />Media reports in September 2011 alleged that Austrian prosecutors were investigating whether EADS gave as much as EUR 100 million to lobbyists to sell Eurofighter jets in Vienna.  The sale was concluded in 2003, but has spawned subsequent investigations. It originally involved a USD 2.6 billion contract for 18 fighter jets, but the deal came under scrutiny by the new government in 2006.  The number of planes was reduced to 15 in a compromise in 2007, and the last of the aircraft were delivered in 2009.<br /><br />Regarding the investigation, Austrian prosecutors are quoted as writing, "We are working on the assumption that a criminal organisation was created within the EADS consortium to extract funds out of business partners by means of false contracts to make them available for corruption operations."  <br /><br />An Italian businessman (Gianfranco Lande, who was arrested in April 2011) allegedly told investigators that EADS assigned EUR 84 million to a shell company based in London, Vector Aerospace LLP, for the purpose of bribing Austrian civil servants.  Two Viennese arms dealers, Walter S and Alfred P, have been named in the investigation as serving as liaisons for Vector.<br /><br />Media reports on 12 November 2012 allege further that funds from EADS were transferred to accounts owned by an individual whose name is given only as Frank Walter P, or one of his companies, including Comco International Business Development, an Isle of Man company.  Other shell companies that may have been involved include Incuco Capital Markets, Greenwell & Co Ltd and Crossco Aerospace.<br /><br />Swiss authorities are participating in the investigation, as some of the companies allegedly used to transfer funds were located in Switzerland.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Saudi Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Luxury cars, jewerly and briefcases of cash (approximately between GBP 9.5 million and GBP 14 million)</td>
+<td style="text-align: center;">Award of a GBP 2 billion (USD 3.3 billion) communications contract</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Austrian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>Up to EUR 180 million paid to middlemen in at least three countries</p>
+</td>
+<td style="text-align: center;">Award of a EUR 2 billion contract for 18 fighter jets<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The SFO investigation was reportedly prompted by a former employee of GPT, Lieutenant Colonel Ian Foxley, who reported the alleged misconduct to the SFO.  Foxley claims that he was terminated in retaliation for raising concerns about possible bribery in connection with the contract and has sued GPT for improper dismissal. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />The investigation is ongoing.  According to press reports on 9 October 2011, a formal probe by the SFO is being delayed by the Attorney General's analysis of the political and foreign policy implications of the case.<br /><br />The SFO announced on 7 August 2012 that it had initiated a formal criminal investigation into the matter, and that EADS was cooperating with an investigation of EADS' Riyadh subsidiary, based initially on allegations in May 2012 that GPT had bribed Saudi officials to secure a USD 3.3 billion communications contract.<br /><br />Media reports on 16 November 2012 allege that EADS has undertaken an external compliance review, and has engaged an agency specializing in anti-corruption compliance to perform the review.<br /><br />Germany, Austria, Switzerland and Italy<br /><br />Media sources reported, and a spokesman for the Munich prosecutor's office confirmed, on 7 September 2012 that Munich prosecutors had searched several sites on 6 September in connection with the corruption investigation, and that multiple suspects might be involved.  EADS confirmed the probe, according to the media, and noted that three sites had been searched.  Other sources suggest that the sites were offices in Ottobrunn near Munich, the offices of Cassidian in Unterschleissheim and the Eurofighter's management offices in Hallbergmoos.<br /><br />ASDNews reported on 29 October 2012 that Austria has renewed its effort to investigate the bribery allegations. Media sources claim that German, Swiss and Italian authorities are involved.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Telegraph: "SFO probes EADS defence contract with Saudi Arabia" (29 May 2011)</p><p>Financial Times: "UK starts probe into EADS bribery allegation" (30 May 2011)</p><p>New York Times: "Britain Investigates Bribery Charges Against EADS Unit in Saudi Deal" (31 May 2011)</p><p>The Telegraph: "SFO delays bribery inquiry involving EADS subsidiary" (9 October 2011)</p><p><a href="file.asp?id=1930">EADS: Annual Financial Statement 2011 (8 March 2012)</a></p><p><a href="file.asp?id=1929">EADS: First Half Year Financial Statement (27 July 2012)</a></p><p><a href="file.asp?id=1931">SFO: Press Release "GPT Special Project Management Ltd" (7 August 2012)</a></p><p><a href="file.asp?id=2051">EADS: Nine Month Financial Statements (8 November 2012)</a></p><p>ASDNews: "Eurofighter corruption case resurfaces: Austrian report" (29 October 2012)</p><p>Spiegel Online: "Investigation into Dubious EADS Austria Deal Intensifies" (12 November 2012)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

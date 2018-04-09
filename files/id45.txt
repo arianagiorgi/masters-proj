@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707301026y">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170730qjz6x" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSULTANTS INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(45)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170730dg739" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSULTANTS INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consultants International Co., Ltd. ("PCI")<br />Masayoshi Taga (former President of PCI)<br />Kunio Takasu (former Executive Director of PCI)<br />Haruo Sakashita (former Director of PCI)<br />Tsuneo Sakano (former Chief of Hanoi office of PCI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction consulting
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in December 2003 Takasu, Sakashita and Sakano made an improper payment of approximately US$600,000 to a senior official of the East-West Highway and Water Environment Project Management Unit of the Socialist Republic of Vietnam in Ho Chi Minh, in return for awarding consulting contracts for the Saigon East-West Highway Construction Project ("the Project").<br /><br />Press reports also indicate that in August 2006 Taga, Takasu and Sakashita made an improper payment of approximately US$220,000 to the same senior official in return for awarding consulting contracts for the Project.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Senior Vietnamese Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 820,000</p>
+</td>
+<td>
+<p style="text-align: center;">Consulting contracts for the Saigon East-West Highway Construction Project, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on August 25, 2008, the TDPPO charged PCI, Taga, Sakashita, Takasu and Sakano with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On January 29, 2009, the Tokyo District Court reportedly found:<br /><br />(1) PCI guilty and fined it JPY 70,000,000 (approx. US$780,500);<br />(2) Sakashita guilty and sentenced him to two years in prison with a three-year suspended sentence;<br />(3) Takasu guilty and sentenced him to one year and eight months in prison with a three-year suspended sentence; and<br />(4) Sakano guilty and sentenced him to one year and six months in prison with a three-year suspended sentence.<br /><br />On March 24, 2009, the Tokyo District Court reportedly found Taga guilty and sentenced him two years and six months in prison with a three-year suspended sentence for violation of the UCPLJ and an unrelated fraud case.<br /><br />On October 18, 2010, the Vietnamese official at issue was sentenced to life in prison for accepting the bribe.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=232">Towards Preventing a Recurrence of Corruption Related to Official Development Assistance (ODA), published by the Ministry of Foreign Affairs of Japan (September 2009)</a></p><p><a href="file.asp?id=233">Report of Japan-Vietnam Joint Committee for Preventing Japanese ODA-related Corruption (February 2009)</a></p><p><a href="file.asp?id=234">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>Associated Press: "Vietnam official sentenced to life over corruption involving Japan-funded road project" (18 Oct. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18423983c02">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18423914v06" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSULTANTS INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(45)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184239p67jd" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSULTANTS INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consultants International Co., Ltd. ("PCI")<br />Masayoshi Taga (former President of PCI)<br />Kunio Takasu (former Executive Director of PCI)<br />Haruo Sakashita (former Director of PCI)<br />Tsuneo Sakano (former Chief of Hanoi office of PCI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction consulting
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in December 2003 Takasu, Sakashita and Sakano made an improper payment of approximately US$600,000 to a senior official of the East-West Highway and Water Environment Project Management Unit of the Socialist Republic of Vietnam in Ho Chi Minh, in return for awarding consulting contracts for the Saigon East-West Highway Construction Project ("the Project").<br /><br />Press reports also indicate that in August 2006 Taga, Takasu and Sakashita made an improper payment of approximately US$220,000 to the same senior official in return for awarding consulting contracts for the Project.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Senior Vietnamese Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 820,000</p>
+</td>
+<td>
+<p style="text-align: center;">Consulting contracts for the Saigon East-West Highway Construction Project, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on August 25, 2008, the TDPPO charged PCI, Taga, Sakashita, Takasu and Sakano with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On January 29, 2009, the Tokyo District Court reportedly found:<br /><br />(1) PCI guilty and fined it JPY 70,000,000 (approx. US$780,500);<br />(2) Sakashita guilty and sentenced him to two years in prison with a three-year suspended sentence;<br />(3) Takasu guilty and sentenced him to one year and eight months in prison with a three-year suspended sentence; and<br />(4) Sakano guilty and sentenced him to one year and six months in prison with a three-year suspended sentence.<br /><br />On March 24, 2009, the Tokyo District Court reportedly found Taga guilty and sentenced him two years and six months in prison with a three-year suspended sentence for violation of the UCPLJ and an unrelated fraud case.<br /><br />On October 18, 2010, the Vietnamese official at issue was sentenced to life in prison for accepting the bribe.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=232">Towards Preventing a Recurrence of Corruption Related to Official Development Assistance (ODA), published by the Ministry of Foreign Affairs of Japan (September 2009)</a></p><p><a href="file.asp?id=233">Report of Japan-Vietnam Joint Committee for Preventing Japanese ODA-related Corruption (February 2009)</a></p><p><a href="file.asp?id=234">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>Associated Press: "Vietnam official sentenced to life over corruption involving Japan-funded road project" (18 Oct. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19205694v81">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192056j1iv2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSULTANTS INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(45)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920562829u" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSULTANTS INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Japan: Tokyo District Public Prosecutors Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consultants International Co., Ltd. ("PCI")<br />Masayoshi Taga (former President of PCI)<br />Kunio Takasu (former Executive Director of PCI)<br />Haruo Sakashita (former Director of PCI)<br />Tsuneo Sakano (former Chief of Hanoi office of PCI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction consulting
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to news agency reports, in December 2003 Takasu, Sakashita and Sakano made an improper payment of approximately US$600,000 to a senior official of the East-West Highway and Water Environment Project Management Unit of the Socialist Republic of Vietnam in Ho Chi Minh, in return for awarding consulting contracts for the Saigon East-West Highway Construction Project ("the Project").<br /><br />Press reports also indicate that in August 2006 Taga, Takasu and Sakashita made an improper payment of approximately US$220,000 to the same senior official in return for awarding consulting contracts for the Project.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Senior Vietnamese Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 820,000</p>
+</td>
+<td>
+<p style="text-align: center;">Consulting contracts for the Saigon East-West Highway Construction Project, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        News agencies reported that on August 25, 2008, the TDPPO charged PCI, Taga, Sakashita, Takasu and Sakano with violation of the Unfair Competition Prevention Law of Japan ("UCPLJ").<br /><br />On January 29, 2009, the Tokyo District Court reportedly found:<br /><br />(1) PCI guilty and fined it JPY 70,000,000 (approx. US$780,500);<br />(2) Sakashita guilty and sentenced him to two years in prison with a three-year suspended sentence;<br />(3) Takasu guilty and sentenced him to one year and eight months in prison with a three-year suspended sentence; and<br />(4) Sakano guilty and sentenced him to one year and six months in prison with a three-year suspended sentence.<br /><br />On March 24, 2009, the Tokyo District Court reportedly found Taga guilty and sentenced him two years and six months in prison with a three-year suspended sentence for violation of the UCPLJ and an unrelated fraud case.<br /><br />On October 18, 2010, the Vietnamese official at issue was sentenced to life in prison for accepting the bribe.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=232">Towards Preventing a Recurrence of Corruption Related to Official Development Assistance (ODA), published by the Ministry of Foreign Affairs of Japan (September 2009)</a></p><p><a href="file.asp?id=233">Report of Japan-Vietnam Joint Committee for Preventing Japanese ODA-related Corruption (February 2009)</a></p><p><a href="file.asp?id=234">Guidelines to Prevent Bribery of Foreign Public Officials, published by the Ministry of Economy, Trade and Industry of Japan (2004)</a></p><p>Associated Press: "Vietnam official sentenced to life over corruption involving Japan-funded road project" (18 Oct. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

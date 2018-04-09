@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192508e8693">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192508638rr" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SOVEREIGN WEALTH FUND INVESTIGATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(329)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19250889rv6" width="415" height="61" /></div>
+    
+        <h1>SOVEREIGN WEALTH FUND INVESTIGATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Around a dozen SEC-registered financial services firms, reportedly including Bank of America, Morgan Stanley, Citigroup, Blackstone Group, Goldman Sachs and HSBC Holdings Plc.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Financial services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Libya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in January 2011 the Boston office of the U.S. Securities and Exchange Commission ("SEC") sent letters to around a dozen financial services firms and financial institutions requesting information related their dealings with state-owned investment funds.  <br /><br />The investigation reportedly concerns whether financial firms - banks, hedge funds and private-equity firms - made improper payments through placement agents to secure investments from sovereign wealth funds. <br /><br />According to press reports in June 2011, the SEC is examining financial firms' involvement with the Libyan Investment Authority (Libya's sovereign wealth fund), among other countries. <br /><br />On 9 August 2011, Goldman Sachs confirmed in a securities filing that the company was under investigation, stating: <br /><br />"Sales, Trading and Clearance Practices. Group Inc. and certain of its affiliates are subject to a number of investigations and reviews, certain of which are industry-wide, by various governmental and regulatory bodies and self-regulatory organizations relating to the sales, trading and clearance of corporate and government securities and other financial products, including compliance with the SEC's short sale rule, algorithmic and quantitative trading, futures trading, securities lending practices, trading and clearance of credit derivative instruments, commodities trading, private placement practices, compliance with the U.S. Foreign Corrupt Practices Act and the effectiveness of insider trading controls and internal information barriers."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Main Justice: "SEC Targets Financial Services in New FCPA Probe" (10 January 2011)</p><p>Bloomberg: "SEC Probes Financial Firms on Sovereign Fund Bribes" (14 January 2011)</p><p>Main Justice: "Sovereign Wealth Fund Letters Came From SEC's Boston Unit" (1 February 2011)</p><p>Wall Street Journal: "Is Goldman the Next to Get Into FCPA Trouble?" (9 June 2011)</p><p>Bloomberg: "U.K. Prosecutors to Assist U.S. on Fund Bribery Probes" (29 June 2011)</p><p>Goldman Sachs: SEC Form 10-Q (9 August 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

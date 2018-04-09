@@ -1,0 +1,58 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192254n1146">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192254s7184" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(176)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+	<div class="msgBox" id="msg">
+		<div id="msgTBorder1" class="msgTBorder1 msgRedRev"></div>
+		<div id="msgTitle" class="msgTitle msgRedRev"><div id="msgCaption"class="msgCaption msgCRedRev">ERROR</div></div>
+		<div id="msgTBorder2" class="msgTBorder2 msgRedRev"></div>
+		
+		<div id="msgBody">
+			<div class="msgBody"><ul><li>Case does not exist.</li></ul></div>	
+			<div class="msgTBorder2" style="border-color:#666666; margin:0px 5px;"></div>
+		</div>
+		
+	</div>
+	
+    
+    </div>
+
+</div>
+</body>
+</html>

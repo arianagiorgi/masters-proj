@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922473q658">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922474c63a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PRIDE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(169)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19224782714" width="415" height="61" /></div>
+    
+        <h1>PRIDE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pride International, Inc. ("Pride")<br />Pride Forasol S.A.S. (wholly-owned French subsidiary of Pride) (“Pride Forasol”)<br />Pride Foramer de Venezuela S.A. (Venezuelan branch of Pride Forasol)<br />Mexico Drilling Limited LLC, Pride Central America LLC and Pride Drilling LLC (wholly-owned subsidiaries of Pride operating in Mexico) (collectively, "Pride Mexico")<br />Bobby Benton (former Vice President, Western Hemisphere Operations for Pride)<br />Joe Summers (former Venezuela Country Manager for Pride)<br />Ensco plc, which acquired Pride in a merger and assumed Pride's obligations under the DPA
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Offshore drilling company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />India<br />Mexico<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On December 11, 2009, the SEC charged Bobby Benton, Pride's former Vice President, Western Hemisphere Operations, with violating - and aiding and abetting violations of - the FCPA's anti-bribery, books and records and internal controls provisions, as well as making false representations to accountants, in connection with improper payments allegedly made by Pride subsidiaries to Venezuelan and Mexican government officials between 2003 and 2005.<br /><br />On August 5, 2010, the SEC charged Joe Summers, Pride's former Country Manager in Venezuela, with violating - and aiding and abetting violations of - the anti-bribery, books and records and internal controls provisions of the FCPA related to the same conduct. <br /><br />According to the SEC's complaints in both cases, between 2003 and 2005, Summers allegedly authorized payments totaling USD 384,000, through third-party agents, to an official at Venezuela's state-owned oil company - Petróleos de Venezuela S.A. (“PDVSA”) - in order to secure extensions on three drilling contracts.  In February 2005, Benton allegedly tried to conceal these payments by redacting references to bribery in a draft action plan written by the new Venezuela country manager addressing internal controls weaknesses uncovered during an internal audit report.  In addition, in 2003, Summers allegedly authorized a USD 30,000 payment to a PDVSA employee through a third-party agent in exchange for receiving payment on outstanding receivables from PDVSA. <br /><br />Separately, in December 2004, Benton allegedly authorized the payment of USD 10,000, through a third party, to a Mexican customs official in order to secure favorable treatment with regard to customs violations identified during an inspection of equipment on a Pride Mexico supply boat.  Pride Mexico’s books and records falsely documented the improper payment as an electricity maintenance expense.  Benton was also allegedly aware of USD 15,000 in improper payments made, in December 2004, by Pride Mexico's customs agent to a different Mexican customs official in order to avoid delays in the export of a rig due to claimed violations related to non-conforming equipment on-board the rig.  The payments were falsely recorded by Pride Mexico as expenses for customs agency services.<br /><br />Despite his knowledge of, or involvement in, the various alleged improper payments to Venezuelan and Mexican officials, Benton signed two false certifications denying any knowledge of bribery - in March 2005 and May 2006 - in connection with audits and reviews of Pride’s financial statements.<br /><br />On November 4, 2010, the DOJ and SEC charged Pride and Pride Forasol with FCPA violations in connection with approximately USD 800,000 in bribes directly and indirectly to government officials in Venezuela, India and Mexico.  The bribes were allegedly paid to extend drilling contracts for three rigs operating offshore in Venezuela; to secure a favorable administrative judicial decision relating to a customs dispute for a rig imported into India; and to avoid the payment of customs duties and penalties relating to a rig and equipment operating in Mexico. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 800,000</p>
+</td>
+<td>
+<p>Extension of drilling contracts in Venezuela; favorable resolution of customs dispute in India; avoidance of customs duties/penalties in Mexico</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Pride's management and internal audit department received allegations of improper payments to foreign officials during the course of an internal audit and investigation relating to certain of Pride's Latin American operations.  In February 2006, the Audit Committee of Pride's Board of Directors retained independent outside counsel to advise the committee and to conduct an investigation into the allegations, including related accounting and internal control issues.  Pride voluntarily disclosed the initial allegations to the DOJ and SEC and is cooperating with the authorities.<br /><br />Pride's internal investigation initially identified potential improper payments amounting to approximately USD 2.5 million, often made through third parties, in the following countries: Venezuela, Mexico, India, Saudi Arabia, Kazakhstan, Brazil, Nigeria, Libya, Angola and the Republic of the Congo.<br /><br />Pride management and its Audit Committee believe it likely that then members of its senior operations management were aware, or should have been aware, of the improper payments to foreign officials in the countries at issue.  Various personnel, including the former Chief Operating Officer and other corporate officers, have either resigned, been placed on administrative leave or terminated by the company in connection with the investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On August 5, 2010, Joe Summers consented to the entry of a permanent injunction, enjoining him from committing future violations of the anti-bribery, books and records and internal controls provisions of the FCPA. He also agreed to pay a USD 25,000 civil penalty. <br /><br />The SEC's complaint against Bobby Benton seeks a civil penalty, disgorgement, prejudgment interest, and injunctive relief to prevent future violations of the federal securities laws.<br /><br />On November 4, 2010, the DOJ filed a criminal information charging Pride with conspiring to violate the FCPA's anti-bribery and books and records provisions; violating the anti-bribery provisions; and violating the books and records provisions. The DOJ and Pride entered into a deferred prosecution agreement to resolve the charges.  The DOJ also filed a criminal information charging Pride Forasol with conspiring to violate the FCPA's anti-bribery provisions; violating the anti-bribery provisions; and aiding and abetting the violation of the books and records provisions. Pride Forasol agreed to plead guilty to the charges, which the company did on December 7, 2010 in U.S. District Court in Houston. The two agreements require the payment of a USD 32.625 million criminal penalty.  The DOJ noted that "During the course of the investigation, Pride provided information and substantially assisted in the investigation of Panalpina."<br /><br />Also on November 4, 2010, without admitting or denying the SEC's allegations, Pride consented to the entry of a final judgment ordering disgorgement plus pre-judgment interest and permanently enjoining it from violating the FCPA's anti-bribery, books and records, and internal controls provisions.  Pride was ordered to disgorge USD 19,341,870 in profits, plus pre-judgment interest of USD 4,187,848.<br /><br />In the first such move ever in an FCPA case, on 2 November 2012, the government filed a motion to terminate the period of probation under the December 2010 DPA.  The government explained in its motion that since Pride's merger with Ensco plc, the latter has conducted appropriate due diligence on agents and business partners, and has assumed responsibility for the implementation and oversight of compliance.  "In light of the foregoing circumstances, continuing the term of the defendant's probation is not required to 'protect the public from further crimes of the defendant.'... the sentence ... has promoted respect for the law and 'adequate deterrence' against international corruption... The government, therefore, has determined that no further purpose of the United States in the enforcement of the federal criiminal laws would be served by continuing the term of probation imposed on Pride Forasol." <br /><br />The motion was unopposed, and the three-year DPA was terminated early.   The government simultaneously filed a motion to dismiss the criminal information filed against Pride.  The judge signed the order granting the government's motion on 5 November 2012.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ/SEC investigations can spring from the agencies' investigations of business partners or competitors of the affected entities.</li><li>The government may move to shorten the term of a DPA if it determines that probation is no longer warranted.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=616">SEC Litigation Release: December 14, 2009 (SEC Charges Former Officer of Pride International With Violating the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=617">Complaint: SEC v. Bobby Benton (December 10, 2009)</a></p><p><a href="file.asp?id=618">Pride International, Inc.: SEC Form 10-Q (November 2, 2009)</a></p><p><a href="file.asp?id=694">Pride International, Inc.: Press Release (February 16, 2010)</a></p><p><a href="file.asp?id=774">Pride International, Inc.: SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1196">DOJ Press Release: November 4, 2010 (Oil Services Companies and a Freight Forwarding Company Agree to Resolve Foreign Bribery Investigations and to Pay More Than $156 Million in Criminal Penalties)</a></p><p><a href="file.asp?id=1197">SEC Litigation Release: November 4, 2010 (SEC Charges Pride International With Violating the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=1198">Complaint: SEC v. Pride International, Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1211">Criminal Information: U.S. v. Pride Forasol S.A.S. (November 4, 2010)</a></p><p><a href="file.asp?id=1212">Joint Motion to Waive Presentence Investigation and Consolidate Plea and Sentencing: U.S. v. Pride Forasol S.A.S. (November 4, 2010)</a></p><p><a href="file.asp?id=1213">Plea Agreement: U.S. v. Pride Forasol S.A.S. (November 1, 2010)</a></p><p><a href="file.asp?id=1214">Criminal Information: U.S. v. Pride International, Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1215">Deferred Prosecution Agreement: U.S. v. Pride International, Inc. (November 1, 2010)</a></p><p><a href="file.asp?id=2041">Pride - Motion to Terminate DPA (2 November 2012), Government's unopposed motion to terminate probation</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

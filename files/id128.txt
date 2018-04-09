@@ -1,0 +1,122 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922126cz8a">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192212xpooy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HYDRO KLEEN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(128)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192212mxm21" width="415" height="61" /></div>
+    
+        <h1>HYDRO KLEEN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Canada: Royal Canadian Mounted Police<br />Canada: Office of the Attorney General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Hydro Kleen Systems Inc. ("Hydro Kleen")<br />Robert Watts (President and majority shareholder of Hydro Kleen)<br />Paulette Bakke (Operations Coordinator at Hydro Kleen)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil refinement services (pigging)
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Red Deer, Alberta, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United States<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2000-2001, Hydro Kleen and certain of its employees made improper payments to a U.S. immigration official, Hector Ramirez Garcia, working at Calgary International Airport.  The payments were made in exchange for Garcia's favorable processing and approval of L1 visas (intra-company transferee work permits) for Hydro Kleen employees, facilitating their entry into the U.S. to provide services to oil refinery customers.  The payments were made to Genesis Solutions 2000, a company Garcia had set up as an immigration consultancy.  Hydro Kleen employees paid Garcia approximately CAD 28,000 between September 2000 and November 2001.    <br /><br />Apparently without the knowledge of Hydro Kleen, Mr. Garcia also began investigating the visa status of officers and directors at Hydro Kleen's competitors.  He entered comments about these individuals into an immigration "lookout" database, thus making it more difficult for the parties to gain entry into the U.S.  Garcia also apparently provided Hydro Kleen with various confidential information about Hydro Kleen's competitors.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to United States Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;">&nbsp;<strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">CAD 28,000</p>
+</td>
+<td>
+<p style="text-align: center;">Preferential visa processing and approval, of unspecified value;</p>
+<p style="text-align: center;">Various corporate espionage activities</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2001, Innovative Coke Expulsion, another Alberta company and a competitor of Hydro Kleen, sued Hydro Kleen for allegedly bribing a U.S. immigration official to arrange U.S. visas for its employees while denying them to Innovative Coke Expulsion employees.  This private lawsuit likely prompted the investigation by the Royal Canadian Mounted Police.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Hydro Kleen, Watts and Bakke were each charged with two counts of violating Section 3(1)(a) of Canada's Corruption of Foreign Public Officials Act ("CFPOA").  <br /><br />On January 10, 2005, Hydro Kleen entered a plea of guilty in the Court of Queen's Bench in Red Deer, Alberta.  The company admitted to one count under Section 3(1)(a) of the CFPOA and was ordered to pay a CAD 25,000 fine. The charges against Watts and Bakke were stayed.  <br /><br />In July 2002, the U.S. official, Hector Ramirez Garcia, pleaded guilty to accepting bribes.  He was sentenced to six months in jail and subsequently deported to the United States.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Cooperation with the Royal Canadian Mounted Police and Crown attorneys may result in a stay of charges against the corporation's directors and officers.</li><li>The sentencing assessment for a bribery offence sentencing under the CFPOA will be similar to that under Section 426 of the Canadian Criminal Code.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=440">Oral Judgment, Alberta Court of Queen's Bench (January 10, 2005)</a></p><p><a href="file.asp?id=441">Corporate Social Responsibility - Bribery and Corruption: Ninth Report to Parliament, Department of Foreign Affairs and International Trade (Dec. 2, 2008)</a></p><p>News Release: National Post: "Firm accused of bribing officer to get U.S. visas: Alberta company sued: Competitor alleges American official accepted payments" (Dec. 14, 2001)</p><p>News Release: National Post: "U.S. Immigration officer faces bribery charges: Work visas allegedly arranged for workers at Alberta company" (May 17, 2002)</p><p>News Release: National Post: "Oil firm fined for bribing U.S. Customs official" (Jan. 11, 2005)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

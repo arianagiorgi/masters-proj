@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192204pdy9w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922040469w" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OWL SECURITIES & INVESTMENTS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(120)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19220453m68" width="415" height="61" /></div>
+    
+        <h1>OWL SECURITIES & INVESTMENTS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Owl Securities and Investments, Ltd. ("OSI")<br />OSI Gibraltar (business incorporated in Gibraltar with principal place of business in Kansas City, Missouri)<br />OSI Proyectos (wholly-owned subsidiary of OSI Gibraltar located in Costa Rica)<br />Robert Richard King (shareholder of OSI)<br />Pablo Barquero Hernandez (OSI's agent in Costa Rica)<br />Albert Franklin Reitz (officer, employee and shareholder of OSI)<br />Richard Halford (shareholder and Chief Financial Officer of OSI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Development of a mixed-use facility on 50 square miles of Costa Rican coastline
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kansas City, Missouri, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Costa Rica<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning around 1997 and continuing until 2000, Robert King, Pablo Hernandez , Albert Reitz, Richard Halford and others  devised and carried out a scheme to make improper payments to public officials, politicians and political parties in Costa Rica in order to receive a land concession from the Costa Rican government to build a mixed-use facility.  The development was to include a new port, an international airport, a beach-front resort, a marina, and residential estates, among other facilities.  <br /><br />OSI and OSI Proyectos made payments to government officials, candidates for political office and political parties in order to receive support for the project and to obtain favorable changes to various laws and regulations.  These included payments made to candidates for the Costa Rican Congress in exchange for their support and influence.  The co-conspirators called these payments "political support money," "consulting fees," "tolls" and "kiss money," and agreed to transfer the funds either directly or through OSI Proyectos' Costa Rican attorneys.  <br /><br />In addition to payments made to officials and politicians in order to receive support for the project, King, Hernandez, Reitz, Halford and others with OSI planned to make an additional $1.5 million payment divided between the ruling party and opposition party after receiving the land concession.  This payment was described as "closing costs" and the money was to be held in escrow until the final concession agreement was completed.  <br /><br />King, OSI and the other co-conspirators told potential investors that they had no liability for the payments made to the Costa Rican officials because the company in which they were buying an interest was "squeaky clean" and all of the "dirty work" was being carried out by another offshore company.  The co-conspirators established a bank account in Panama through a third party who was known to and trusted by Costa Rican officials in order to make the payment.  OSI never received the concession and the $1.5 million was never made. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Payments Allegedly Made or Promised to Costa Rican Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $1.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Land concession</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The FBI conducted an investigation into OSI's activities.  It is unclear how the FBI learned of the conduct. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In June 2001, Robert King and Pablo Barquero Hernandez were charged with conspiracy to violate the FCPA, substantive violations of the FCPA and violations of the Travel Act.  King stood trial and was convicted on all counts.  He was sentenced to 30 months in prison and ordered to pay a $60,000 fine.  The conviction was upheld on appeal.  Hernandez remains a fugitive in Costa Rica.  Costa Rica will not extradite its citizens. <br /><br />Also in 2001, Albert Reitz pleaded guilty to conspiracy to violate the FCPA, mail fraud, false statements and filing false income tax returns.  Richard Halford pleaded guilty to conspiracy to violate the FCPA.  Both Reitz and Halford agreed to testify against King at his trial and, as a result, both received probation and community service.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to political parties and candidates for political office can form the basis for a FCPA violation.</li><li>The offer or promise of an improper payment, even if no payment is ever made, can form the basis for a FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=336">United States v. Robert Richard King (8th Cir. 2003)</a></p><p><a href="file.asp?id=337">Criminal Information: United States v. Albert Franklin Reitz </a></p><p><a href="file.asp?id=338">Plea Agreement: United States v. Albert Franklin Reitz</a></p><p><a href="file.asp?id=386">Indictment: United States v. Robert Richard King and Pablo Barquero Hernandez </a></p><p><a href="file.asp?id=691">Criminal Information: U.S. v. Richard K. Halford</a></p><p><a href="file.asp?id=692">Plea Agreement: U.S. v. Richard K. Halford</a></p><p><a href="file.asp?id=693">Sentencing Documents: U.S. v. Richard K. Halford</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

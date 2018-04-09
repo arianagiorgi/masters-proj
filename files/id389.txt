@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192600486e9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192600jcy42" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DUN & BRADSTREET</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(389)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19260095z1c" width="415" height="61" /></div>
+    
+        <h1>DUN & BRADSTREET</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Dun & Bradstreet (D&B)<br />Shanghai Roadway D&B Marketing Services Co Ltd. ("D&B Shanghai," acquired by D&B in 2009)<br />Weili Cui, General Manager of D&B Shanghai<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Data collection and dissemination for businesses
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Short Hills, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to several Chinese news portals, D&B Shanghai was raided by local police on 15 March 2012. Three D&B Shanghai senior executives responsible for data procurement  were arrested, and four computers were confiscated.  The General Manager of D&B Shanghai, Weili Cui, was detained by police.  Both D&B Shanghai and the Shengyang offices of Dun & Bradstreet were closed down.  Chinese news reports allege that D&B is accused of violating privacy protection laws, and that it collected data illegally about 150 million Chinese individuals from financial institutions and hospitals, and then sold some of the information for 23 cents per person.<br /><br />In its SEC Form 8-K filed on 18 March 2012, the Company stated, "D&B has been reviewing certain allegations that local employees may have violated the Foreign Corrupt Practices Act and certain other laws in our China operations.  D&B  is cooperating with the local Chinese investigation, and has voluntarily reported these matters to the U.S. Department of Justice and the U.S. Securities and Exchange Commission.<br /><br />"D&B will continue to actively pursue these investigations until the matter is satisfactorily resolved."<br /><br />On 8 May 2012, the Company announced that it had completely shut down its Roadway consumer direct marketing business.<br /><br />In addition to reiterating the above statements about the China investigation and permanent closure of Roadway, the Company announced in its SEC Form 10-Q filed on 1 November 2012 that "On September 28, 2012, Roadway was charged in a Bill of Prosecution, along with five current or former employees, by the Shanghai District Prosecutor with illegally obtaining private information of Chinese citizens. A trial date has not yet been set. We have been advised that a conviction of Roadway and the five individuals is likely, and that a criminal fine will be imposed on Roadway. We are unable to provide a reasonable estimate of the fine at this time."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong> <br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The investigation into the data collection (privacy) violations began with a report by  CCTV, China Central TV Station, the predominant state television broadcaster in mainland China; Shanghai police opened its own investigation after being informed.<br />The company then made voluntary disclosure of the information to the SEC and the DOJ.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1738">Dun & Bradstreet - SEC Form 8-K (19 March 2012)</a></p><p><a href="file.asp?id=1739">Dun & Bradstreet - Press release (19 March 2012), D&B Reports on Investigation Related to China Operations</a></p><p><a href="file.asp?id=2062">Dun & Bradstreet - SEC Form 10-Q (1 November 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

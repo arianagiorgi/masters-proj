@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192505h484w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192505r9383" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RONY FUCHS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(325)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925053g13e" width="415" height="61" /></div>
+    
+        <h1>RONY FUCHS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Georgia: Prosecutor's Office of Georgia<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rony Fuchs (Israeli businessman)<br />Zeev Frenkiel (associate of Mr. Fuchs)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Energy infrastructure investments
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Israel
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Georgia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On January 12, 2011, it was reported that Rony Fuchs, an Israeli businessman, and his associate, Zeev Frenkiel, were being held by Georgian authorities on charges of allegedly offering a USD 7 million bribe to the Georgian Deputy Finance Minister in exchange for his convincing of the Georgian government not to challenge an international arbitration decision under which Mr. Fuchs was awarded USD 98.1 million - to be paid by Georgia - in connection with a failed investment in Georgia's energy infrastructure in the 1990s.  <br /><br />Mr. Fuchs denied the allegations.  His attorney reportedly stated that, in fact, senior Georgian officials were attempting to convince him to kickback a portion of his award to them following disbursement of the award.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments Offered to Georgian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Sought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 7 million</td>
+<td style="text-align: center;">Agreement not to oppose Georgia's payment of&nbsp;USD 98.1 million arbitral award</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 1, 2011, Fuchs and Frenkiel were convicted by the Tbilisi City Court.  Fuchs was sentenced to seven years in prison and fined USD 300,000.  Frenkiel received six years in prison and a USD 60,000 fine. The two men are appealing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>High profile scandals and bribery cases can impact diplomatic relations.  The Fuchs case has dampened relations between Israel and Georgia.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>WSJ: "Israeli Businessman On Trial For Bribery In Georgia" (12 Jan. 2011)</p><p>Georgia Times: "Fuchs and Frenkel want to appeal to the Supreme Court of Georgia" (12 Aug. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

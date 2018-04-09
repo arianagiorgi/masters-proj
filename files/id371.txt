@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192544p124h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192544kpu06" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(371)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192544hnliz" width="415" height="61" /></div>
+    
+        <h1>ION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ion Geophysical Corporation ("Ion")<br />GX Technology (subdiary of Ion) ("GXT")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of advanced, integrated geophysical solutions to oil & gas companies and seismic contractors
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports in July 2011, India's Central Bureau of Investigation ("CBI") is investigating whether Ion's GX Technology ("GXT") subsidiary paid bribes to the former Director General of Hydrocarbons in the Ministry of Petroleum and Natural Gas, V.K. Sibal, in order to secure a contract in 2005 to conduct a seismic survey in without going through the tender process.  GXT and its Indian representative, Sujata Venkatraman, have reportedly been named in CBI documents for providing favors to Sibel, including funding the education of his daughter at a hotel management institute in Switzerland.<br /><br />Sibal is reportedly under investigation for a variety of corrupt practices between 2004 and 2009, when he was responsible for all clearances given for oil and gas exploration and production.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Contract to conduct a seismic survey</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The investigation of GXT grew out of the CBI's probe into the former Director General of Hydrocarbons in the Ministry of Petroleum and Natural Gas, V.K. Sibal.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. <br /><br />In June 2012, media sources reported that the CBI was split over whether to transform a preliminary corruption inquiry against former Director General of Hydrocarbons VK Sibal into formal criminal charges.  It was reported that the joint director for the anti-corruption division as well as the Directorate of Prosecution had recommended that a criminal case be filed against Sibal, his subordinates at the Directorate General of Hydrocarbons (DGH) and Reliance Industries for the grant of undue favors under the production-sharing contract for the KG D6 gas block.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>India Today: "CBI closes in on Oil regulator" (16 July 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

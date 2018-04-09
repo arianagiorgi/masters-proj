@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842493zz86">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18424927q33" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OIL STATES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(56)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184249pv63h" width="415" height="61" /></div>
+    
+        <h1>OIL STATES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Oil States International, Inc. ("Oil States")<br />Hydraulic Wells Control, LLC (a wholly-owned subsidiary of Oil States) ("HWC")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Specialty provider of rigs and well site services to oil and gas producers
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        HWC hired a Venezuelan consultant in 2000 to provide assistance with daily operations, including submitting invoices to Petrleos de Venezuela S.A. ("PDVSA"), an oil company owned by the Venezuelan government.  HWC conducted no due diligence on the consultant, provided no FCPA training to the consultant and did not address compliance with U.S. laws in its agreement with the consultant.  In 2003, PDVSA proposed a kickback scheme to the consultant whereby the consultant would submit inflated bills to HWC and kickback the excess to PDVSA's employees.  HWC would then invoice PDVSA for lost rig time on various jobs.  PDVSA employees had the authority to delay or stop HWC's work. <br /><br />From 2003 until December 2004, when the conduct was discovered, HWC paid over $500,000 to the consultant, approximately $348,350 of which was paid to PDVSA officials.  The payments were categorized as over-charges for lost rig time and gel (a material used in drilling).  At the same time HWC billed PDVSA for lost rig time and gel.  HWC included inaccurate entries in its books and records, which were then consolidated into Oil States' books and records.  HWC accounted for approximately 1% of Oil States' consolidated revenues during the period in question. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$348,350</p>
+</td>
+<td>
+<p>Avoidance of threatened halts and delays, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2004, HWC senior management in the United States discovered an unexplained decrease in the profit margin of the company's Venezuelan operations.  Management immediately investigated and uncovered the kickback scheme.  HWC then reported the conduct to Oil States' management who reported the matter to the company's audit committee.  Oil States terminated the relationship with the consultant, disciplined the HWC employees responsible, corrected its books and records, reimbursed PDVSA for the improper charges, and voluntarily disclosed the conduct to the SEC and the U.S. Department of Justice. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Oil States consented to the entry of a cease-and-desist order by the SEC without admitting or denying the SEC's findings.  Oil States did not receive a monetary penalty, but was enjoined from committing future violations  of the FCPA's books and records and internal controls provisions. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt voluntary disclosure and swift remedial action can result in a company receiving no monetary penalty.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries even when the subsidiaries only account for a small percentage of the parent company's revenue.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=225">Cease-and-Desist Order: In the matter of Oil States International, Inc. (April 27, 2006) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192105vb0o8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192105z51v8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OIL STATES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(56)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921059h06s" width="415" height="61" /></div>
+    
+        <h1>OIL STATES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Oil States International, Inc. ("Oil States")<br />Hydraulic Wells Control, LLC (a wholly-owned subsidiary of Oil States) ("HWC")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Specialty provider of rigs and well site services to oil and gas producers
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        HWC hired a Venezuelan consultant in 2000 to provide assistance with daily operations, including submitting invoices to Petrleos de Venezuela S.A. ("PDVSA"), an oil company owned by the Venezuelan government.  HWC conducted no due diligence on the consultant, provided no FCPA training to the consultant and did not address compliance with U.S. laws in its agreement with the consultant.  In 2003, PDVSA proposed a kickback scheme to the consultant whereby the consultant would submit inflated bills to HWC and kickback the excess to PDVSA's employees.  HWC would then invoice PDVSA for lost rig time on various jobs.  PDVSA employees had the authority to delay or stop HWC's work. <br /><br />From 2003 until December 2004, when the conduct was discovered, HWC paid over $500,000 to the consultant, approximately $348,350 of which was paid to PDVSA officials.  The payments were categorized as over-charges for lost rig time and gel (a material used in drilling).  At the same time HWC billed PDVSA for lost rig time and gel.  HWC included inaccurate entries in its books and records, which were then consolidated into Oil States' books and records.  HWC accounted for approximately 1% of Oil States' consolidated revenues during the period in question. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Venezuelan Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$348,350</p>
+</td>
+<td>
+<p>Avoidance of threatened halts and delays, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In December 2004, HWC senior management in the United States discovered an unexplained decrease in the profit margin of the company's Venezuelan operations.  Management immediately investigated and uncovered the kickback scheme.  HWC then reported the conduct to Oil States' management who reported the matter to the company's audit committee.  Oil States terminated the relationship with the consultant, disciplined the HWC employees responsible, corrected its books and records, reimbursed PDVSA for the improper charges, and voluntarily disclosed the conduct to the SEC and the U.S. Department of Justice. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Oil States consented to the entry of a cease-and-desist order by the SEC without admitting or denying the SEC's findings.  Oil States did not receive a monetary penalty, but was enjoined from committing future violations  of the FCPA's books and records and internal controls provisions. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt voluntary disclosure and swift remedial action can result in a company receiving no monetary penalty.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries even when the subsidiaries only account for a small percentage of the parent company's revenue.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=225">Cease-and-Desist Order: In the matter of Oil States International, Inc. (April 27, 2006) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

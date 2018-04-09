@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192239je30g">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19223916pg8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - JEFFERSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(160)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922395ejt9" width="415" height="61" /></div>
+    
+        <h1>JEFFERSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        William J. Jefferson
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        William Jefferson served as a Congressman in the United States House of Representatives for Louisiana's 2nd Congressional District from 1991 until 2009. Beginning in 2001 and continuing until 2005, Jefferson solicited bribes from several businessmen, including Vernon Jackson, who was the President, Chairman and CEO of iGate, in exchange for his assistance with securing business in several West African countries.  <br /><br />In order to carry out the scheme, Jefferson instructed iGate to retain companies owned and controlled by members of his family, including his wife. Under one such arrangement, iGate entered into a professional services agreement with ANJ Group LLC ("ANJ"). Under the agreement, iGate agreed to pay ANJ a monthly retainer of USD 7,500, five percent of iGate's gross sales and an option for up to one million shares of iGate stock over a five year period.  In exchange, Jefferson organized official trips to several West African countries, introduced Jackson to influential members of Congress and endorsed iGate's technology to various U.S. Government agencies. <br /><br />Jefferson also solicited bribes from Brett Pfeffer, a former member of his Congressional staff, who was employed as president of an investment fund in McLean, Virginia.  Pfeffer in turn solicited his client, Lori Mody, who became the government's cooperating witness in the case.  Pfeffer and Jefferson introduced Mody to Jackson in order to convince Mody to fund projects using iGate's technology and services in Nigeria and other African countries.  Jefferson agreed to use his influence to promote these projects in exchange for various favors, including requesting a family member be given a contract for legal work in connection with the Nigerian project.  Jefferson also asked Mody to give shares of the projects and other items of value to members of his family.   <br /><br />In addition to soliciting bribes, Jefferson also allegedly promised to pay bribes to Nigerian officials in order to obtain their support for the necessary government approvals for the project in Nigeria. According to the prosecution, Jefferson allegedly agreed to pay Nigeria's former Vice President Atiku Abubakar and other Nigerian officials USD 500,000 in cash.  After the business was established, the officials would then receive a percentage of the share of the profits. Mody allegedly gave Jefferson USD 100,000 in marked bills to pass to the Nigerian officials as a first installment on the USD 500,000 payment. The FBI recovered USD 90,000 from Jefferson's freezer when they searched his home. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>&nbsp;<span style="font-size: 11pt; line-height: 115%; font-family: Calibri;">Payment Allegedly Promised to<span>&nbsp; </span>Nigerian Government Officials</span></strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;">&nbsp;<strong><span style="font-size: 11pt; line-height: 115%; font-family: Calibri;">Business Advantage Allegedly Sought</span></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;<span style="font-size: 11pt; line-height: 115%; font-family: Calibri;">USD 500,000 and a share of the profits</span></p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;<span style="font-size: 11pt; line-height: 115%; font-family: Calibri;">Government approvals for a telecommunications venture</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Businesswoman Lori Mody filed a complaint with authorities regarding the Congressman's solicitation of bribes. She cooperated with the FBI and DOJ by wearing a wire and giving marked bills to the Congressman, which were later found in his freezer.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 4 June 2007, Jefferson was indicted on 16 counts including conspiracy to solicit bribes by a public official, conspiracy to commit wire fraud and conspiracy to violate the FCPA; solicitation of bribes by a public official; wire fraud; violations of the FCPA; money laundering; obstruction of justice; and racketeering.  <br /><br />On 5 August 2009, Jefferson was convicted of 11 counts, including conspiracy to solicit bribes by a public official, conspiracy to deprive citizens of honest services by wire fraud, and conspiracy to violate the FCPA; conspiracy to solicit bribes by a public official; solicitation of bribes; wire fraud; money laundering and racketeering.  Jefferson was acquitted of substantive FCPA violation, several counts of wire fraud and obstruction of justice.  <br /><br />Although Jefferson was convicted on count one of the indictment, which included conspiracy to violate the FCPA, it is impossible to determine whether the jury found that he actually did conspire to violate the FCPA. Count one listed three separate conspiracies, including conspiracy to solicit bribes and conspiracy to deprive citizens of honest services. The judge instructed the jury that in order for them to find Jefferson guilty of count one, they only needed to find that he engaged in two of the three conspiracies. The jury was not required to specify which conspiracies they believed he was guilty of. <br /><br />On 13 November 2009, Jefferson was sentenced to 13 years in prison. He was also ordered to forfeit USD 470,653.  He has been released on bail pending appeal of his conviction.<br /><br />On 26 May 2006, Pfeffer was sentenced to 96 months in prison and fined USD 24,000 for bribing a public official and aiding and abetting the solicitation of bribes by a member of Congress. He pleaded guilty to the charges on 11 January 2006.  <br /><br />On 8 September 2006, Jackson was sentenced to 87 months in prison and two years of supervised release. Jackson pleaded guilty to conspiracy to commit bribery and bribery of a public official on 3 May 2006. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government uses a variety of investigative tools to uncover FCPA violations.</li><li>Where applicable, the government will combine FCPA allegations with charges relating to other criminal violations, such as wire fraud, money laundering, racketeering or solicitation of bribes.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=537">DOJ Press Release: June 4, 2007 (Congressman William Jefferson Indicted On Bribery, Racketeering, </a></p><p><a href="file.asp?id=539">Opinion of United States Court of Appeals for the Fourth Circuit Motion to Dismiss: United States v. William J. Jefferson (denied) (November 12, 2008) </a></p><p><a href="file.asp?id=540">Brief for the United States: United States v. Rayburn House Office Building, Room 2113, Washington, DC 20515 (March 30, 2007)</a></p><p><a href="file.asp?id=541">Motions for Alternative Service of Trial Subpoena: United States v. William J. Jefferson </a></p><p><a href="file.asp?id=542">Notice of Intent to Rely on Certain Evidence: United States v. William J. Jefferson (November 16, 2007)</a></p><p><a href="file.asp?id=543"> Motion to Suppress: United States v. William J. Jefferson </a></p><p><a href="file.asp?id=544">Petition for Writ of Certiorari: William J. Jefferson v. United States </a></p><p><a href="file.asp?id=545">DOJ Press Release: May 3, 2006 (Businessman Pleads Guilty to Paying Bribes to U.S. Congressman)</a></p><p><a href="file.asp?id=546">DOJ Press Release: September 8, 2007 (Louisville Businessman Sentenced to 87 Months in Prison for Bribing Congressman)</a></p><p><a href="file.asp?id=547">DOJ Press Release: January 11, 2006 (Former Congressional Legislative Assistant Brett M. Pfeffer Pleads Guilty in Bribery Scheme)</a></p><p><a href="file.asp?id=548">DOJ Press Release: May 26, 2006 (Former Congressional Legislative Assistant Brett M. Pfeffer Sentenced in Bribery Scheme)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

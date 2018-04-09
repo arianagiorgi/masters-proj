@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924510ud8x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19245123168" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PWS INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(308)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924519zuuh" width="415" height="61" /></div>
+    
+        <h1>PWS INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        PWS International Limited (London-based insurance brokerage) ("PWS")<br />Julian Messent (Director at PWS; head of Property (Americas) Division)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Insurance brokerage
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Costa Rica<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The UK Serious Fraud Office and City of London Police began an investigation in 2006 into alleged bribery involving Julian Messent, a Director at PWS International Limited ("PWS"), a London-based insurance brokerage, and officials at the Costa Rican state insurance company, Instituto Nacional de Seguros ("INS"), and the national electricity and telecommunications provider, Instituto Costarricense de Electricidad ("ICE").  <br /><br />In 2010, Messent was charged and pleaded guilty to making or authorizing 41 corrupt payments totaling nearly USD 2 million between February 1999 and June 2002 to Costa Rican officials (or their wives and associated companies) at the INS and ICE in exchange for INS's retention of PWS as its reinsurance policy broker.  INS, in turn, was the insurer for ICE. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Costa Rican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 1,982,230.77</td>
+<td style="text-align: center;">Retention of PWS International Limited as reinsurance policy&nbsp;broker</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following Costa Rica's elections in 2002, officials in both the INS and ICE were replaced and questions were raised regarding the contract with PWS and payments made under it.  The Foreign and Commonwealth Office referred the case to the SFO in October 2005.  The case was accepted for investigation in August 2006. <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In April 2010, the SFO charged Messent with two counts of corruption in violation of section 1(1) of the Prevention of Corruption Act 1906.  On October 22, 2010, he pleaded guilty in Southwark Crown Court.<br /><br />On October 26, 2010, Messent was sentenced to 21 months imprisonment and ordered to pay GBP 100,000 in restitution to the Republic of Costa Rica.  If Messent fails to make the restitution, he must serve an additional 12 months imprisonment.  He was also disqualified from acting as a company director for a period of five years.<br /><br />Costa Rican authorities have an ongoing domestic bribery investigation into the government officials at issue. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>One source of UK SFO anti-bribery cases are referrals from the Foreign and Commonwealth Office, whose embassies and consulates learn of domestic bribery scandals and investigations in their host countries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1176">SFO Press Release (26 October 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

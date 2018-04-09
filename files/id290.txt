@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924350gu88">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924359qbty" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SMITH & WESSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(290)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192435h97sm" width="415" height="61" /></div>
+    
+        <h1>SMITH & WESSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Smith & Wesson Holding Corporation ("Smith & Wesson")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of firearms and related law enforcement and security equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Springfield, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nepal<br />Unspecified<br />Indonesia<br />Pakistan<br />Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 19 January 2010, the U.S. Department of Justice ("DOJ") unsealed indictments of 22 individuals from the law enforcement and military equipment industries in connection with the Africa Sting operation (see separate Compendium entry on Africa Sting).  One of the individuals indicted was Smith & Wesson's former Vice President-Sales, International & U.S. Law Enforcement. <br /><br />On 21 February 2012, the DOJ filed a motion to dismiss with prejudice the indictments of the remaining defendants who were pending trial, including Smith & Wesson's former Vice President-Sales, International & U.S. Law Enforcement. On 24 February 2012, the district court granted the motion to dismiss. <br /><br />On 19 June 2014, the company announced in its SEC Form 10-K that the DOJ has declined to prosecute.  Smith & Wesson said the DOJ investigation caused it "to make substantial changes in our foreign sales personnel and foreign representatives, modify our processes, and cease sales in certain foreign countries."  Moreover, the company said that the changes have had "a material adverse effect" on foreign sales. <br /><br />In fiscal 2011, the U.S. Securities and Exchange Commission ("SEC") conducted a non-public, fact-finding inquiry to determine whether there were any violations of the federal securities laws.  It appears this civil inquiry was triggered in part by the DOJ investigation into potential FCPA violations.<br /><br />On 28 July 2014, the SEC charged Smith & Wesson with violating the FCPA.  According to the SEC’s Order, Smith & Wesson’s international sales staff attracted new business by offering, authorizing, or making illegal payments or providing gifts meant for government officials in Pakistan, Indonesia, Turkey, Nepal, and Bangladesh.  <br /><br />Pakistan<br /><br />In Pakistan, Smith & Wesson obtained a USD $107,852 contract with the Pakistani police department after allegedly authorizing its local agent to provide more than USD $11,000 worth of guns to Pakistani police officials as gifts and to make additional cash payments.  The contract was to sell 548 pistols to the Pakistani police department.<br /><br />Indonesia<br /><br />In Indonesia, Smith & Wesson allegedly authorized a third-party agent to provide an inflated payment to Indonesian officials under the guise of legitimate firearm lab testing costs in order to win a contract with the Indonesian police department, but despite making the payment, the company did not secure the sales contract.<br /><br />The SEC’s order alleged that Smith & Wesson also authorized improper payments to third-party agents who indicated that portions would be provided to foreign officials in Turkey, Nepal, and Bangladesh.  The attempts to secure sales contracts in those countries were ultimately unsuccessful. <br /><br />The SEC noted that Smith & Wesson’s remedial actions mitigated the settlement amount, including that the company halted the impending international sales transactions before they went through and terminated its entire international sales staff.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $11,000 worth of guns<br /></td>
+<td style="text-align: center;">USD $107,852 contract with the Pakistani police department&nbsp;<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Africa Sting action involved a purported deal to purchase equipment for the presidential guard of an African Government with FBI agents posing as African Government officials.<br /><br />In fiscal 2011, the SEC conducted a non-public, fact-finding inquiry that may have led to the Pakistan, Indonesia, Turkey, Nepal, and Bangladesh allegations coming to light.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The DOJ declined to prosecute Smith & Wesson in June 2014 for its role in the Africa Sting Operation. In its Form 10-K filed on 19 June 2014, Smith & Wesson said the DOJ investigation caused it "to make substantial changes in our foreign sales personnel and foreign representatives, modify our processes, and cease sales in certain foreign countries." The changes have had "a material adverse effect" on foreign sales, the company said.<br /><br />On 28 July 2014, the SEC charged Smith & Wesson with violating the FCPA.  The company agreed to pay USD $2 million to settle the charges.  The company agreed to pay USD $107,852 in disgorgement, USD $21,040 in prejudgment interest, and a USD $1.906 million penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments and gifts given by sales agents to government officials in order to win contracts violate the FCPA. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1021">Smith & Wesson SEC Form 10-K (1 July 2010)</a></p><p><a href="file.asp?id=1412">Smith & Wesson - SEC Form 10-Q (10 March 2011)</a></p><p><a href="file.asp?id=2556">Smith & Wesson Form 10-K (6 19 2014)</a></p><p><a href="file.asp?id=2575">SEC Order Charging Smith & Wesson</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

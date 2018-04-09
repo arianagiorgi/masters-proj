@@ -1,0 +1,494 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843104r096">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843104n849" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FERROSTAAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(79)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184310113ua" width="415" height="61" /></div>
+    
+        <h1>FERROSTAAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />Germany: Munich Public Prosecutor's Office<br />Greece: Athens Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ferrostaal AG (former subsidiary of Munich-based MAN SE) ("Ferrostaal")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial and engineering products and services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Essen, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Colombia<br />Greece<br />Indonesia<br />Nigeria<br />Portugal<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Since 2003, Ferrostaal has been under investigation for allegedly having paid DM 460 million in bribes to the late General Sani Abacha of Nigeria to win a contract for the construction of a metals factory in Nigeria.  Ferrostaal allegedly made two payments into Abacha's UBS bank account in Switzerland in October 1996 worth DM 20 million.  According to the Swiss Attorney General of Canton de Genève, Daniel Zapelli, the payments were made for active corruption by Ferrostaal AG .  Allegedly, it was later confirmed that this was bribery to win contracts.  <br /><br />British-based businessman and Labor party donor, David Uri, was charged and convicted in Switzerland for laundering the Abacha money.  His judgment by Daniel Zapelli also raises the possibility that UBS, the Swiss bank that held the funds, knew the account was being used by the Abacha family, an allegation the bank strongly denies.<br /><br />According to press reports, the company was also under investigation for allegedly paying DM 200,000 (EUR 102,258, USD 138,099) to former Indonesian President Bacharuddin Jusuf Habibie.  It appears that the Abacha and Habibie matters are no longer being pursued because the payments occurred prior to Germany's accession to the OECD Anti-Bribery Convention and thus such "useful expenditures," or payments made to procure contracts, were not yet illegal in Germany.<br /><br />According to press reports, the company is currently under investigation for allegedly making EUR 1.6 million in improper payments to an honorary Portuguese consul for his assistance as a "consultant" in securing the EUR 880 million sale of two Type 209 submarines to Portugal in November 2003, as well as allegedly paying EUR 1 million to a rear admiral in the Portuguese Navy.<br /><br />The company also allegedly brokered corrupt deals Indonesia, Colombia and Argentina on behalf of other German companies.  Ferrostaal allegedly paid bribes to officials at the Indonesian state-owned banknote printing company in order to secure sales of printing and embossing machines; EUR 625,000-850,000 in bribes to key Colombian officials in the Navy and Ministry of Defense in order to secure a EUR 28 million deal to sell a coast guard vessel to the Colombian Navy; and six figure bribe to an Argentine defense ministry officials to obtain an Argentine Coast Guard contract. <br /><br />According to press reports, on 24 March 2010, Klaus Lesker, a member of Ferrostaal's executive board, was arrested.  The Munich Public Prosecutor's Office is investigating Lesker and two other former board members and multiple senior executives for serious bribery of foreign public officials, as well as for suspected tax evasion.  Investigators appear to be focusing on five particular projects, worth a total of almost EUR 1 billion, which Ferrostaal is believed to have secured through bribery.<br /><br />Separate press reports also state that the Munich Public Prosecutor's Office is also looking into Ferrostaal's sale of submarines to the Greek government; the Greek authorities have reportedly opened an investigation into the matter as well.<br /><br />In addition, other sources report that Ferrostaal's offices in Buenos Aires were raided in June 2010 at the direction of Federal Criminal Court Judge Ariel Lijo, who is overseeing an investigation into allegations that the company paid bribes to win a EUR 3.5 million design contract for coastal patrol vessels.  Eight individuals - including several Argentina senior naval officers and several Ferrostaal managers - have reportedly been charged in Argentina in connection with the matter.  <br /><br />Details of the internal investigation conducted by Debevoise & Plimpton LLP for Ferrostaal were leaked in October 2011 by the website Wikigreeks.org. (see cited article below).
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DM 460 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contract for construction of a metals factory, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DM 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Portuguese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 1.6 million (Portuguese honorary consul acting as "consultant");<br />EUR 1 million (rear admiral in Portuguese Navy)</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of two Type 209 submarines to the Portuguese Navy, valued at EUR 880 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of printing and embossing machines to Indonesian state-owned banknote printing company, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Colombian Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 625,000-850,000</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of coast guard vessel to Colombian Navy, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Argentine Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Six figure amount (EUR)</p>
+</td>
+<td>
+<p style="text-align: center;">Argentine Coast Guard contract, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Greek Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In 2000, the German weekly Der Spiegel published the case of the German bank M.M. Warburg which channeled millions of German marks through their subsidiary in Switzerland in 1998.  According to Der Spiegel, Warburg money was paid to Abacha by the German construction firm, Ferrostaal, to secure an order for building an aluminum plant in Southern Nigeria.  The bribes, which amounted to millions of German marks according to Der Spiegel, were paid from Warburg in Hamburg to their subsidiary in Luxemburg, via their branch in Zurich. <br /><br />The Swiss Banking Commission, a watchdog organization to supervise the nation's banking sector, learned about the transaction in 1998 when it was alerted by Warburgs Swiss auditors and intervened. As a result, the supervisory board replaced leading employees of the Swiss Warburg subsidiary. The Banking Commission published the case in its 1998 annual report, albeit without naming Abacha, Nigeria, or Warburg and alerted the authorities in Germany and Luxemburg to the transaction and an investigation was launched. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        David Uri was found guilty of aggravated professional money laundering, forgery and support of criminal organization. He was fined but escaped a jail sentence because he cooperated fully with the investigation and was judged to have shown sincere contrition.  He nevertheless lost USD 1 million in profits he made from the scheme.  <br /><br />In 2004, Swiss banking regulators publicly reprimanded UBS for failing to conduct proper checks in the case.<br /><br />In December 2004, the son of the late General Abacha was arrested in Germany while allegedly attempting to close an account of which he was the sole holder and was facing extradition in Switzerland in connection with looted funds stashed away in the country's bank.  Abba Abacha was arrested when German authorities were alerted by the Deutsche Bank Branch in Essen.  The account which Abba allegedly attempted to close is said to be containing part of the USD 700 million frozen by the Swiss authorities in 1999, after Nigeria asked for assistance in investigating the financial network allegedly set up by the former head of state.  Funds embezzled by the Abacha clan include several million Deutsche marks paid in bribes by the Ferrostaal steel group in connection with the building of an aluminum factory in Nigeria.  In November 2009, a magistrate in Geneva found Abba Abacha guilty of participation in a criminal organization, sentenced him to a suspended prison term and ordered confiscation of USD 350 million in funds held in Luxembourg and the Bahamas. <br /><br />In the course of their investigation into Ferrostaal's former parent company, engineering group MAN, Munich prosecutors obtained certain key documents related to potential bribery by Ferrostaal in connection with the sale of eight oceangoing tugs to a Hamburg shipping company.  This prompted a raid on Ferrostaal offices in Essen in July 2009.<br /><br />According to press reports, Munich prosecutors commenced proceedings (case number 565 Js 33037/10) against Ferrostaal in late March 2010 and are relying on extensive testimony by two witnesses. <br /><br />On 11 April 2011, it was reported that two former Ferrostaal managers were charged by Munich prosecutors in connection with EUR 62 million (USD 89.7 million) in alleged bribes paid between 2000 and 2007 to receive contracts to supply submarines to Greece and Portugal. According to press reports on 14 October 2011, these proceedings are ongoing. <br /><br />On 14 October 2011, it was reported that Ferrostaal shareholders had approved paying a EUR 149 million fine to settle the Greek submarine bribery case, although no formal agreement has yet been reached with prosecutors.<br /><br />The Greek and Argentine investigations are ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Punch (Nigeria): January 10, 2005 (Abacha's son faces trial in Switzerland, by Chijama Ogbu, Gbenga Odugbesan and John Alechenu with Agency Report)</p><p>Financial Times: December 22, 2003 (UK businessman convicted for laundering cash)</p><p>Financial Times: December 23, 2003 (Swiss convict British businessman who laundered bribes for Abacha, by Thomas Catan, Stephen Fidler)</p><p>Financial Times: December 23, 2003 (UK businessman convicted for laundering cash Swiss Abacha Case, by Thomas Catan, Stephen Fidler)</p><p>Swissinfo.ch: May 31, 2000 (Who slipped up in the Abacha case?, by Markus Haefliger)</p><p>Times Online: December 24, 2003 (Labour Donor laundered Abacha money, by David Charter)</p><p>Deutche Well: April 22, 2002 (Ferrostaal at Center of Probe into Nigerian Corruption Affair)</p><p>Spiegel Online International: 30 March 2010 (Germany's Ferrostaal Suspected of Organizing Bribes for Other Firms)</p><p>Times Live: 10 April 2010 (Ferrostaal feels heat of bribery probe)</p><p>Spiegel Online International: 11 May 2010 (How German Companies Bribed Their Way to Greek Deals)</p><p>EUobserver: 26 July 2010 (EU commission called upon to go after corrupt defence deals)</p><p>Latin American Herald Tribune: 30 June 2010 (Argentine Navy Brass, German Execs Charged with Corruption)</p><p>Reuters: 11 April 2011 (Two ex-managers of Ferrostaal charged with bribery)</p><p>Main Justice: "Ferrostaal's Internal Probe Uncovers 'Questionable' Payments Worldwide, Including Greece" (7 Oct. 2011)</p><p>WSJ: "Ferrostaal Shareholders Approve EUR149 Million Fine In Bribery Case" (14 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192127wh978">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192127pb8b8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FERROSTAAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(79)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192127882q3" width="415" height="61" /></div>
+    
+        <h1>FERROSTAAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />Germany: Munich Public Prosecutor's Office<br />Greece: Athens Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ferrostaal AG (former subsidiary of Munich-based MAN SE) ("Ferrostaal")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial and engineering products and services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Essen, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />Colombia<br />Greece<br />Indonesia<br />Nigeria<br />Portugal<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Since 2003, Ferrostaal has been under investigation for allegedly having paid DM 460 million in bribes to the late General Sani Abacha of Nigeria to win a contract for the construction of a metals factory in Nigeria.  Ferrostaal allegedly made two payments into Abacha's UBS bank account in Switzerland in October 1996 worth DM 20 million.  According to the Swiss Attorney General of Canton de Genève, Daniel Zapelli, the payments were made for active corruption by Ferrostaal AG .  Allegedly, it was later confirmed that this was bribery to win contracts.  <br /><br />British-based businessman and Labor party donor, David Uri, was charged and convicted in Switzerland for laundering the Abacha money.  His judgment by Daniel Zapelli also raises the possibility that UBS, the Swiss bank that held the funds, knew the account was being used by the Abacha family, an allegation the bank strongly denies.<br /><br />According to press reports, the company was also under investigation for allegedly paying DM 200,000 (EUR 102,258, USD 138,099) to former Indonesian President Bacharuddin Jusuf Habibie.  It appears that the Abacha and Habibie matters are no longer being pursued because the payments occurred prior to Germany's accession to the OECD Anti-Bribery Convention and thus such "useful expenditures," or payments made to procure contracts, were not yet illegal in Germany.<br /><br />According to press reports, the company is currently under investigation for allegedly making EUR 1.6 million in improper payments to an honorary Portuguese consul for his assistance as a "consultant" in securing the EUR 880 million sale of two Type 209 submarines to Portugal in November 2003, as well as allegedly paying EUR 1 million to a rear admiral in the Portuguese Navy.<br /><br />The company also allegedly brokered corrupt deals Indonesia, Colombia and Argentina on behalf of other German companies.  Ferrostaal allegedly paid bribes to officials at the Indonesian state-owned banknote printing company in order to secure sales of printing and embossing machines; EUR 625,000-850,000 in bribes to key Colombian officials in the Navy and Ministry of Defense in order to secure a EUR 28 million deal to sell a coast guard vessel to the Colombian Navy; and six figure bribe to an Argentine defense ministry officials to obtain an Argentine Coast Guard contract. <br /><br />According to press reports, on 24 March 2010, Klaus Lesker, a member of Ferrostaal's executive board, was arrested.  The Munich Public Prosecutor's Office is investigating Lesker and two other former board members and multiple senior executives for serious bribery of foreign public officials, as well as for suspected tax evasion.  Investigators appear to be focusing on five particular projects, worth a total of almost EUR 1 billion, which Ferrostaal is believed to have secured through bribery.<br /><br />Separate press reports also state that the Munich Public Prosecutor's Office is also looking into Ferrostaal's sale of submarines to the Greek government; the Greek authorities have reportedly opened an investigation into the matter as well.<br /><br />In addition, other sources report that Ferrostaal's offices in Buenos Aires were raided in June 2010 at the direction of Federal Criminal Court Judge Ariel Lijo, who is overseeing an investigation into allegations that the company paid bribes to win a EUR 3.5 million design contract for coastal patrol vessels.  Eight individuals - including several Argentina senior naval officers and several Ferrostaal managers - have reportedly been charged in Argentina in connection with the matter.  <br /><br />Details of the internal investigation conducted by Debevoise & Plimpton LLP for Ferrostaal were leaked in October 2011 by the website Wikigreeks.org. (see cited article below).
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DM 460 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contract for construction of a metals factory, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">DM 200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Portuguese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 1.6 million (Portuguese honorary consul acting as "consultant");<br />EUR 1 million (rear admiral in Portuguese Navy)</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of two Type 209 submarines to the Portuguese Navy, valued at EUR 880 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of printing and embossing machines to Indonesian state-owned banknote printing company, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Colombian Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 625,000-850,000</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of coast guard vessel to Colombian Navy, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Argentine Officials on Behalf of Another German Company&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Six figure amount (EUR)</p>
+</td>
+<td>
+<p style="text-align: center;">Argentine Coast Guard contract, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Greek Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In 2000, the German weekly Der Spiegel published the case of the German bank M.M. Warburg which channeled millions of German marks through their subsidiary in Switzerland in 1998.  According to Der Spiegel, Warburg money was paid to Abacha by the German construction firm, Ferrostaal, to secure an order for building an aluminum plant in Southern Nigeria.  The bribes, which amounted to millions of German marks according to Der Spiegel, were paid from Warburg in Hamburg to their subsidiary in Luxemburg, via their branch in Zurich. <br /><br />The Swiss Banking Commission, a watchdog organization to supervise the nation's banking sector, learned about the transaction in 1998 when it was alerted by Warburgs Swiss auditors and intervened. As a result, the supervisory board replaced leading employees of the Swiss Warburg subsidiary. The Banking Commission published the case in its 1998 annual report, albeit without naming Abacha, Nigeria, or Warburg and alerted the authorities in Germany and Luxemburg to the transaction and an investigation was launched. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        David Uri was found guilty of aggravated professional money laundering, forgery and support of criminal organization. He was fined but escaped a jail sentence because he cooperated fully with the investigation and was judged to have shown sincere contrition.  He nevertheless lost USD 1 million in profits he made from the scheme.  <br /><br />In 2004, Swiss banking regulators publicly reprimanded UBS for failing to conduct proper checks in the case.<br /><br />In December 2004, the son of the late General Abacha was arrested in Germany while allegedly attempting to close an account of which he was the sole holder and was facing extradition in Switzerland in connection with looted funds stashed away in the country's bank.  Abba Abacha was arrested when German authorities were alerted by the Deutsche Bank Branch in Essen.  The account which Abba allegedly attempted to close is said to be containing part of the USD 700 million frozen by the Swiss authorities in 1999, after Nigeria asked for assistance in investigating the financial network allegedly set up by the former head of state.  Funds embezzled by the Abacha clan include several million Deutsche marks paid in bribes by the Ferrostaal steel group in connection with the building of an aluminum factory in Nigeria.  In November 2009, a magistrate in Geneva found Abba Abacha guilty of participation in a criminal organization, sentenced him to a suspended prison term and ordered confiscation of USD 350 million in funds held in Luxembourg and the Bahamas. <br /><br />In the course of their investigation into Ferrostaal's former parent company, engineering group MAN, Munich prosecutors obtained certain key documents related to potential bribery by Ferrostaal in connection with the sale of eight oceangoing tugs to a Hamburg shipping company.  This prompted a raid on Ferrostaal offices in Essen in July 2009.<br /><br />According to press reports, Munich prosecutors commenced proceedings (case number 565 Js 33037/10) against Ferrostaal in late March 2010 and are relying on extensive testimony by two witnesses. <br /><br />On 11 April 2011, it was reported that two former Ferrostaal managers were charged by Munich prosecutors in connection with EUR 62 million (USD 89.7 million) in alleged bribes paid between 2000 and 2007 to receive contracts to supply submarines to Greece and Portugal. According to press reports on 14 October 2011, these proceedings are ongoing. <br /><br />On 14 October 2011, it was reported that Ferrostaal shareholders had approved paying a EUR 149 million fine to settle the Greek submarine bribery case, although no formal agreement has yet been reached with prosecutors.<br /><br />The Greek and Argentine investigations are ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Punch (Nigeria): January 10, 2005 (Abacha's son faces trial in Switzerland, by Chijama Ogbu, Gbenga Odugbesan and John Alechenu with Agency Report)</p><p>Financial Times: December 22, 2003 (UK businessman convicted for laundering cash)</p><p>Financial Times: December 23, 2003 (Swiss convict British businessman who laundered bribes for Abacha, by Thomas Catan, Stephen Fidler)</p><p>Financial Times: December 23, 2003 (UK businessman convicted for laundering cash Swiss Abacha Case, by Thomas Catan, Stephen Fidler)</p><p>Swissinfo.ch: May 31, 2000 (Who slipped up in the Abacha case?, by Markus Haefliger)</p><p>Times Online: December 24, 2003 (Labour Donor laundered Abacha money, by David Charter)</p><p>Deutche Well: April 22, 2002 (Ferrostaal at Center of Probe into Nigerian Corruption Affair)</p><p>Spiegel Online International: 30 March 2010 (Germany's Ferrostaal Suspected of Organizing Bribes for Other Firms)</p><p>Times Live: 10 April 2010 (Ferrostaal feels heat of bribery probe)</p><p>Spiegel Online International: 11 May 2010 (How German Companies Bribed Their Way to Greek Deals)</p><p>EUobserver: 26 July 2010 (EU commission called upon to go after corrupt defence deals)</p><p>Latin American Herald Tribune: 30 June 2010 (Argentine Navy Brass, German Execs Charged with Corruption)</p><p>Reuters: 11 April 2011 (Two ex-managers of Ferrostaal charged with bribery)</p><p>Main Justice: "Ferrostaal's Internal Probe Uncovers 'Questionable' Payments Worldwide, Including Greece" (7 Oct. 2011)</p><p>WSJ: "Ferrostaal Shareholders Approve EUR149 Million Fine In Bribery Case" (14 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

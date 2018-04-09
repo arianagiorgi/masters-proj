@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19245034km6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19245065txa" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SENSATA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(307)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192450bc11k" width="415" height="61" /></div>
+    
+        <h1>SENSATA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Sensata Technologies Holding N.V. ("Sensata")<br />Sensata Technologies B.V. (wholly-owned subsidiary)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sensors and controls for a broad range of markets and applications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Almelo, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+         Following voluntary disclosure by Sensata of possible violations in China, the SEC and DOJ launched investigations in 2010.  The DOJ informed the company during the first half of 2012 that it had concluded its investigation and did not intend to prosecute the Company.  The process is described in more detail below:<br /><br />Sensata described an ongoing FCPA investigation as follows in its SEC Form 10-K filed on January 31, 2011:<br /><br />"During the second half of 2010, we conducted an internal investigation under the direction of the audit committee of our board of directors to determine whether any laws, including the FCPA, may have been violated in connection with a certain business relationship entered into by one of our operating subsidiaries involving business in China. We believe the amount of payments and the business involved are immaterial. We discontinued the specific business relationship and did not identify any other suspect transactions in our investigation. We contacted the United States Department of Justice and the Securities and Exchange Commission to begin the process of making a voluntary disclosure of the possible violations, investigation, and initial findings. We will continue to cooperate fully with their review; however, the outcome of such review is unknown. The FCPA (and related statutes and regulations) provides for potential monetary penalties, criminal and civil sanctions, and other remedies. We are unable to estimate the potential penalties and/or sanctions, if any, that might be assessed in connection with our voluntary disclosure of possible FCPA violations. Any such penalties or sanctions may have a negative effect on our results of operations, financial condition and reputation."<br /><br />This statement was repeated in the Company's SEC Form 10-K filed on 10 February 2012.<br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Payments to Chinese Officials</td>
+<td style="text-align: center;" width="50%">Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its SEC Form 10-Q filed on 27 July 2012, the Company described the closure by the DOJ of its FCPA investigation:<br /><br />"During 2012, the DOJ informed us that it has closed its inquiry into the matter but indicated that it could reopen its inquiry in the future in the event it were to receive additional information or evidence. We have not received an update from the SEC concerning the status of its inquiry."<br /><br />As noted, the SEC investigation may be ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Voluntary disclosure of possible violations may result in a brief investigation and closure by the DOJ without charges or settlement.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1175">Sensata - SEC Form 10-Q (22 Oct. 2010)</a></p><p><a href="file.asp?id=1410">Sensata - SEC Form 10-K (31 Jan. 2011)</a></p><p><a href="file.asp?id=1904">Sensata - SEC Form 10Q (27 July 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

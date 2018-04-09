@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922407eup9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192240mal09" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WORLD BANK CONSULTANTS (KARLSSON & FJELLNER)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(161)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192240x0v77" width="415" height="61" /></div>
+    
+        <h1>WORLD BANK CONSULTANTS (KARLSSON & FJELLNER)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Eje Karlsson (a consultant within the construction industry)<br />Claes Fjellner (an accountant of the company where Karlsson was employed)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International development consulting contracts
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Official/Agent of Public International Organization<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Swedish International Development Cooperation Agency ("SIDA") has a fund, The Consultant Trust Fund, open to development agencies and banks. The World Bank administrates this fund and decides on its means.  From 1997 to 1999, the defendants allegedly committed bribery in three sets of transactions related to the fund.<br /><br />The first set of transactions arose after the defendants met two officials of the World Bank in Washington, DC in 1997. The first official, "S," was a Task Manager responsible for selecting consultants to conduct feasibility studies for projects funded by the Bank. The second official, "B," was a Trust Fund Manager responsible for approving the use of the Bank's trust funds regarding consultants. After the meeting, S and B agreed that consulting contracts were to be awarded by the Bank to the defendants in return for kickbacks. The defendants were eventually awarded three contracts, two relating to projects in Ethiopia and one relating to the Kenya Urban Transport Infrastructure Project ("KUTIP"). The consultants paid S and B approximately USD 280,000 and USD 140,000 in bribes respectively. One payment was sent to a third party beneficiary. All payments were made in 1998 (i.e. before the offense of bribery of a foreign public official had entered into force in Sweden in July 1999). <br /><br />The second set of transactions was similar to the first. The defendants allegedly paid USD 10,000 plus certain entertainment expenses to "R," another Task Manager of the World Bank, in May 1999. The payments were allegedly bribes to obtain consultancy contracts in relation to a Sri Lankan project.<br /> <br />The third and last set of transactions involved "N," the local Project Manager and representative of the Kenyan government in KUTIP. N allegedly sent funds from the KUTIP project (through an intermediary) to Claes Fjellner in Sweden. Fjellner deposited the money in a bank account, from which S withdrew the funds and delivered them to N in Nigeria. S and Fjellner each received 10 percent of the funds for their services. Fjellner made two deposits of USD 50,000 each pursuant to this scheme.<br /><br />On 8 November 2002, the defendants were charged with bribery and aiding and abetting another in such a crime. Fjellner was also charged with false accounting.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to World Bank Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD 480,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts to conduct&nbsp;World Bank feasibility studies</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        During 1999 a unit within the World Bank, dealing with suspicions regarding embezzlement, received an anonymous notification. An internal investigation started which led to the Swedish indictments.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 12 January 2004, the Huddinge District Court convicted the defendants for bribing S and B in relation to the first set of transactions described above. Fjellner was also convicted of gross false accounting. Fjellner was sentenced to one year and six months imprisonment and Karlsson was sentenced to one year imprisonment. The charges relating to R and the funds from N were dismissed.<br /><br />The judgment was appealed and on 1 December 2005 the Svea Court of Appeal upheld the convictions in all relevant parts.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Officials or agents of public international organizations, such as the United Nations or World Bank, are considered "foreign officials" under the OECD Anti-Bribery Convention and under the foreign bribery laws of signatories to the Convention.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Non-Profit</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

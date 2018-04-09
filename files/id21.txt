@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170708cwrro">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170708vu12r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSOLIDATED INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(21)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170708k0kgp" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSOLIDATED INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consolidated Industries LP ("PCI")<br />Leo Winston Smith (former Director of Sales and Marketing at PCI)<br />Martin Eric Self (former President and partial owner of PCI)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Air separation units and other oxygen and nitrogen generating equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Santa Ana, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged two former PCI executives with FCPA violations in connection with bribes paid to a United Kingdom Ministry of Defence ("UK-MOD") official, Michael Hale, in order to obtain or retain air separation unit ("ASU") equipment contracts with the Royal Air Force ("RAF").  According to court documents, Leo Winston Smith, PCI's former Director of Sales and Marketing, was responsible for sales to a variety of domestic and international clients, including the UK-MOD and other UK defense agencies.  In or around October 1999, Smith and Martin Eric Self, the former President and partial owner of PCI, created a sham marketing agreement between PCI and a relative of Hale, through which over $70,000 in improper payments were passed.  <br /><br />Smith admitted that PCI obtained UK-MOD contracts in exchange for these payments.  Smith also admitted that he under-reported income on his 2003 tax return and that he failed to file a 2003 tax return for his company, Design Smith Inc.  Self admitted that he did not know of any genuine services provided to PCI by the officials relative and that he believed that there was a high probability that the payments were being made in exchange for obtaining and retaining UK-MOD contracts for PCI.  Self, despite these beliefs, initiated several of the improper wire transfers to the relative.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to UK-MOD Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $70,000</p>
+</td>
+<td>
+<p style="text-align: center;">Multiple UK-MOD Contracts for ASUs</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In late 2003, after the conduct alleged in court documents occurred, a group of investors acquired PCI and re-named it Pacific Consolidated Industries LLC ("PCI LLC").  PCI LLC disclosed the matter to the DOJ and cooperated in the government's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 3, 2009, Smith pleaded guilty to a two-count superseding information charging him with conspiracy to violate the FCPA and with corruptly obstructing and impeding the due administration of the internal revenue laws.  Smith's sentencing hearing was then postponed repeatedly.  On December 6, 2010, Judge Andrew Guilford of the Central District of California ordered Smith to pay a $7500 fine and a $200 special assessment, and sentenced him to six months in prison, followed by six months of home confinement and then three years of supervised released.  The DOJ had requested a 37-month prison sentence. <br /><br />Previously, on May 8, 2008, Self pleaded guilty to a two-count information charging him with violating the FCPA in connection with the same set of conduct.  On November 17, 2008, Self was sentenced to two years of probation.<br /><br />In April 2007, the UK-MOD official, Michael Hale, pleaded guilty in the UK to accepting over $300,000 in bribes and was sentenced to a two-year prison term.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ or SEC will coordinate investigations into possible FCPA violations with other U.S. enforcement agencies, such as the Internal Revenue Service, in connection with other criminal charges related to the same set of conduct.</li><li>U.S. enforcement agencies will cooperate and share evidence with their overseas counterparts, such as those in the UK, to facilitate prosecutions of other individuals, including bribe-takers, involved in the illicit conduct.</li><li>Judges have shown a propensity to impose lighter sentences against individual FCPA defendants than those requested by prosecutors, often after hearing arguments (as in with Leo Winston Smith in this case) related to defendants' old age and poor health.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1140">Indictment: U.S. v. Leo Winston Smith (April 25, 2007)</a></p><p><a href="file.asp?id=1138">DOJ Press Release: June 22, 2007 (Former Pacific Consolidated Industries LP Executive Arrested for Conspiring to Bribe U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=230">Information: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=231">Plea Agreement: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=1137">Change of Plea: U.S. v. Martin Eric Self (May 8, 2008)</a></p><p><a href="file.asp?id=229">DOJ Press Release: May 8, 2008 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1142">U.S. Response to Presentence Report: U.S. v. Martin Eric Self (November 11, 2008)</a></p><p><a href="file.asp?id=1141">Judgment: U.S. v. Martin Eric Self (November 17, 2008)</a></p><p><a href="file.asp?id=228">Plea Agreement: U.S. v. Leo Winston Smith (August 28, 2009)</a></p><p><a href="file.asp?id=227">First Superseding Information:  U.S. v. Leo Winston Smith (September 1, 2009)</a></p><p><a href="file.asp?id=226">DOJ Press Release: September 3, 2009 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1136">U.S. Sentencing Memo: U.S. v. Leo Winston Smith (December 11, 2009)</a></p><p><a href="file.asp?id=1292">U.S. v. Leo Winston Smith: Smith's Sentencing Report (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1291">U.S. v. Leo Winston Smith: Smith's Sentencing Letters (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1290">U.S. v. Leo Winston Smith: Judgment (December 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18421802vug">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842188g5p0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSOLIDATED INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(21)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184218pcd46" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSOLIDATED INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consolidated Industries LP ("PCI")<br />Leo Winston Smith (former Director of Sales and Marketing at PCI)<br />Martin Eric Self (former President and partial owner of PCI)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Air separation units and other oxygen and nitrogen generating equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Santa Ana, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged two former PCI executives with FCPA violations in connection with bribes paid to a United Kingdom Ministry of Defence ("UK-MOD") official, Michael Hale, in order to obtain or retain air separation unit ("ASU") equipment contracts with the Royal Air Force ("RAF").  According to court documents, Leo Winston Smith, PCI's former Director of Sales and Marketing, was responsible for sales to a variety of domestic and international clients, including the UK-MOD and other UK defense agencies.  In or around October 1999, Smith and Martin Eric Self, the former President and partial owner of PCI, created a sham marketing agreement between PCI and a relative of Hale, through which over $70,000 in improper payments were passed.  <br /><br />Smith admitted that PCI obtained UK-MOD contracts in exchange for these payments.  Smith also admitted that he under-reported income on his 2003 tax return and that he failed to file a 2003 tax return for his company, Design Smith Inc.  Self admitted that he did not know of any genuine services provided to PCI by the officials relative and that he believed that there was a high probability that the payments were being made in exchange for obtaining and retaining UK-MOD contracts for PCI.  Self, despite these beliefs, initiated several of the improper wire transfers to the relative.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to UK-MOD Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $70,000</p>
+</td>
+<td>
+<p style="text-align: center;">Multiple UK-MOD Contracts for ASUs</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In late 2003, after the conduct alleged in court documents occurred, a group of investors acquired PCI and re-named it Pacific Consolidated Industries LLC ("PCI LLC").  PCI LLC disclosed the matter to the DOJ and cooperated in the government's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 3, 2009, Smith pleaded guilty to a two-count superseding information charging him with conspiracy to violate the FCPA and with corruptly obstructing and impeding the due administration of the internal revenue laws.  Smith's sentencing hearing was then postponed repeatedly.  On December 6, 2010, Judge Andrew Guilford of the Central District of California ordered Smith to pay a $7500 fine and a $200 special assessment, and sentenced him to six months in prison, followed by six months of home confinement and then three years of supervised released.  The DOJ had requested a 37-month prison sentence. <br /><br />Previously, on May 8, 2008, Self pleaded guilty to a two-count information charging him with violating the FCPA in connection with the same set of conduct.  On November 17, 2008, Self was sentenced to two years of probation.<br /><br />In April 2007, the UK-MOD official, Michael Hale, pleaded guilty in the UK to accepting over $300,000 in bribes and was sentenced to a two-year prison term.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ or SEC will coordinate investigations into possible FCPA violations with other U.S. enforcement agencies, such as the Internal Revenue Service, in connection with other criminal charges related to the same set of conduct.</li><li>U.S. enforcement agencies will cooperate and share evidence with their overseas counterparts, such as those in the UK, to facilitate prosecutions of other individuals, including bribe-takers, involved in the illicit conduct.</li><li>Judges have shown a propensity to impose lighter sentences against individual FCPA defendants than those requested by prosecutors, often after hearing arguments (as in with Leo Winston Smith in this case) related to defendants' old age and poor health.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1140">Indictment: U.S. v. Leo Winston Smith (April 25, 2007)</a></p><p><a href="file.asp?id=1138">DOJ Press Release: June 22, 2007 (Former Pacific Consolidated Industries LP Executive Arrested for Conspiring to Bribe U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=230">Information: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=231">Plea Agreement: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=1137">Change of Plea: U.S. v. Martin Eric Self (May 8, 2008)</a></p><p><a href="file.asp?id=229">DOJ Press Release: May 8, 2008 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1142">U.S. Response to Presentence Report: U.S. v. Martin Eric Self (November 11, 2008)</a></p><p><a href="file.asp?id=1141">Judgment: U.S. v. Martin Eric Self (November 17, 2008)</a></p><p><a href="file.asp?id=228">Plea Agreement: U.S. v. Leo Winston Smith (August 28, 2009)</a></p><p><a href="file.asp?id=227">First Superseding Information:  U.S. v. Leo Winston Smith (September 1, 2009)</a></p><p><a href="file.asp?id=226">DOJ Press Release: September 3, 2009 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1136">U.S. Sentencing Memo: U.S. v. Leo Winston Smith (December 11, 2009)</a></p><p><a href="file.asp?id=1292">U.S. v. Leo Winston Smith: Smith's Sentencing Report (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1291">U.S. v. Leo Winston Smith: Smith's Sentencing Letters (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1290">U.S. v. Leo Winston Smith: Judgment (December 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192033s7142">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192033l511a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PACIFIC CONSOLIDATED INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(21)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192033j047a" width="415" height="61" /></div>
+    
+        <h1>PACIFIC CONSOLIDATED INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Pacific Consolidated Industries LP ("PCI")<br />Leo Winston Smith (former Director of Sales and Marketing at PCI)<br />Martin Eric Self (former President and partial owner of PCI)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Air separation units and other oxygen and nitrogen generating equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Santa Ana, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged two former PCI executives with FCPA violations in connection with bribes paid to a United Kingdom Ministry of Defence ("UK-MOD") official, Michael Hale, in order to obtain or retain air separation unit ("ASU") equipment contracts with the Royal Air Force ("RAF").  According to court documents, Leo Winston Smith, PCI's former Director of Sales and Marketing, was responsible for sales to a variety of domestic and international clients, including the UK-MOD and other UK defense agencies.  In or around October 1999, Smith and Martin Eric Self, the former President and partial owner of PCI, created a sham marketing agreement between PCI and a relative of Hale, through which over $70,000 in improper payments were passed.  <br /><br />Smith admitted that PCI obtained UK-MOD contracts in exchange for these payments.  Smith also admitted that he under-reported income on his 2003 tax return and that he failed to file a 2003 tax return for his company, Design Smith Inc.  Self admitted that he did not know of any genuine services provided to PCI by the officials relative and that he believed that there was a high probability that the payments were being made in exchange for obtaining and retaining UK-MOD contracts for PCI.  Self, despite these beliefs, initiated several of the improper wire transfers to the relative.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to UK-MOD Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $70,000</p>
+</td>
+<td>
+<p style="text-align: center;">Multiple UK-MOD Contracts for ASUs</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In late 2003, after the conduct alleged in court documents occurred, a group of investors acquired PCI and re-named it Pacific Consolidated Industries LLC ("PCI LLC").  PCI LLC disclosed the matter to the DOJ and cooperated in the government's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 3, 2009, Smith pleaded guilty to a two-count superseding information charging him with conspiracy to violate the FCPA and with corruptly obstructing and impeding the due administration of the internal revenue laws.  Smith's sentencing hearing was then postponed repeatedly.  On December 6, 2010, Judge Andrew Guilford of the Central District of California ordered Smith to pay a $7500 fine and a $200 special assessment, and sentenced him to six months in prison, followed by six months of home confinement and then three years of supervised released.  The DOJ had requested a 37-month prison sentence. <br /><br />Previously, on May 8, 2008, Self pleaded guilty to a two-count information charging him with violating the FCPA in connection with the same set of conduct.  On November 17, 2008, Self was sentenced to two years of probation.<br /><br />In April 2007, the UK-MOD official, Michael Hale, pleaded guilty in the UK to accepting over $300,000 in bribes and was sentenced to a two-year prison term.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ or SEC will coordinate investigations into possible FCPA violations with other U.S. enforcement agencies, such as the Internal Revenue Service, in connection with other criminal charges related to the same set of conduct.</li><li>U.S. enforcement agencies will cooperate and share evidence with their overseas counterparts, such as those in the UK, to facilitate prosecutions of other individuals, including bribe-takers, involved in the illicit conduct.</li><li>Judges have shown a propensity to impose lighter sentences against individual FCPA defendants than those requested by prosecutors, often after hearing arguments (as in with Leo Winston Smith in this case) related to defendants' old age and poor health.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1140">Indictment: U.S. v. Leo Winston Smith (April 25, 2007)</a></p><p><a href="file.asp?id=1138">DOJ Press Release: June 22, 2007 (Former Pacific Consolidated Industries LP Executive Arrested for Conspiring to Bribe U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=230">Information: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=231">Plea Agreement: U.S. v. Martin Eric Self (May 2, 2008)</a></p><p><a href="file.asp?id=1137">Change of Plea: U.S. v. Martin Eric Self (May 8, 2008)</a></p><p><a href="file.asp?id=229">DOJ Press Release: May 8, 2008 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1142">U.S. Response to Presentence Report: U.S. v. Martin Eric Self (November 11, 2008)</a></p><p><a href="file.asp?id=1141">Judgment: U.S. v. Martin Eric Self (November 17, 2008)</a></p><p><a href="file.asp?id=228">Plea Agreement: U.S. v. Leo Winston Smith (August 28, 2009)</a></p><p><a href="file.asp?id=227">First Superseding Information:  U.S. v. Leo Winston Smith (September 1, 2009)</a></p><p><a href="file.asp?id=226">DOJ Press Release: September 3, 2009 (Former Pacific Consolidated Industries LP Executive Pleads Guilty in Connection with Bribes Paid to U.K. Ministry of Defence Official)</a></p><p><a href="file.asp?id=1136">U.S. Sentencing Memo: U.S. v. Leo Winston Smith (December 11, 2009)</a></p><p><a href="file.asp?id=1292">U.S. v. Leo Winston Smith: Smith's Sentencing Report (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1291">U.S. v. Leo Winston Smith: Smith's Sentencing Letters (Nov. 24, 2010)</a></p><p><a href="file.asp?id=1290">U.S. v. Leo Winston Smith: Judgment (December 6, 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

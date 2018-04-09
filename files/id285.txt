@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924314qg64">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924315o23k" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SOUTH AFRICAN ARMS DEAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(285)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19243147epe" width="415" height="61" /></div>
+    
+        <h1>SOUTH AFRICAN ARMS DEAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        South Africa: National Prosecuting Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BAE Systems PLC<br />Thomson-CSF South Africa Party Ltd. (now Thales)<br />EADS South Africa<br />Thyssen Krupp<br />Agusta<br />Daimler Aerospace <br />Sanip (wholly owned subsidiary of Saab Aerospace) <br />Michael Woerfel (Managing Director of EADS South Africa)<br />Schabir Shaik (former Director of Thomson-CSF South Africa Pty. Ltd.)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various defense products and services, including helicopters, frigates, submarines, fighters, jet trainers and corvettes
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Various
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 1994, shortly after South Africa's first non-racial elections, the government announced plans to modernize the country's defense equipment starting with the purchase of corvettes for the Navy. The "Arms Deal" as it became known, was finalized in 1999 and cost the government 30 billion Rand or approximately US$4.8 billion. Equipment purchased by South Africa included frigates, helicopters, fighters, submarines and jet trainers.  The Arms Deal was tainted with allegations of corruption and led to investigations into a number of companies and individuals that participated in the tenders. These companies included BAE Systems PLC; Thomson-CSF South Africa Party Ltd. (now Thales); EADS South Africa; Thyssen Krupp; Agusta; Daimler Aerospace; and Sanip, a wholly-owned subsidiary of Saab Aerospace.  The scandal surrounding the Arms Deal resulted in the investigation of a number of high-ranking political officials including current President Jacob Zuma and resulted in the conviction of two individuals. It is unclear whether investigations into the companies are ongoing in South Africa. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Total amount of payments to government officials</td>
+<td width="50%">&nbsp;Total value of all contracts</td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td>US$4.8 billion</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        SOUTH AFRICAN NATIONAL PROSECUTING AUTHORITY<br /><br />Tony Yengeni was investigated in 2001 for receiving discounts on cars from Daimler Aerospace, which later became EADS. He pleaded guilty to one charge of fraud in 2003 and was sentenced to four years in prison; he served four months of his sentence.  The charge of corruption was dropped as a result of the plea bargain. <br /><br />Michael Woerfel, former Managing Director of EADS South Africa, was arrested and charged with corruption related to providing discounts on luxury vehicles to South African officials including Tony Yegeni. The charges against Mr. Woerfel were dropped in 2003 because the government had dropped the same charge against Mr. Yegeni. <br /><br />Schabir Shaik, former Director of Thomson-CSF South Africa Party Ltd. and a number of other companies including the Nboki group of companies, was convicted on June 2, 2005 on two charges of corruption and one charge of fraud. On June 5, 2005 Mr. Shaik was sentenced to 15 years in prison. On March 3, 2009, Mr. Shaik was paroled on medical grounds due to hypertension and high blood pressure after serving two years and four months in prison. <br /><br />According to a February 2009 report by the National Prosecuting Authority ("NPA"), the SFO was assisting the South African government with its investigation of BAE. The NPA declined to list potential targets of the investigation in the report.<br /><br /> The NPA stated in its February 2009 report that it was still investigating the German Frigate Consortium and had requested information from the German government. It declined to list specific companies or individuals that were under investigation. <br /><br />The Directorate of Special Operations ("DSO") otherwise known as the Scorpions was the arm of the NPA responsible for investigating and prosecuting organized crime and corruption in South Africa. It was officially disbanded in late January 2009. For a while it was unclear whether the NPA has continued its investigations into the Arms Deal after the dissolution of the Scorpions.  On October 18, 2010, it was reported that the Police's Directorate for Priority Crime Investigation had formally closed the investigation based on the lack of admissible evidence. <br /><br />According to press reports on July 31, 2011, South African police reopened its investigation into Saab and were requesting assistance from Swedish and UK authorities.  The probe is now being led by the "Hawks", the new elite investigative squad of the police and successor to the "Scorpions".  According to press reports on September 15, 2011, President Zuma will be setting up a commission of inquiry to look into the broader scandal. According to press reports on October 27, 2011, the commission has been established with a $5 million, two-year budget and the panel of judges will have search and seize powers and the power to compel witnesses. <br /><br />NON-SOUTH AFRICAN INVESTIGATIONS<br /><br />The UK Serious Fraud Office ("SFO") began investigating BAE's role in the South African Arms Deal in 2003, according to press reports. The SFO coordinated efforts with the NPA, including requesting the NPA to conduct a dawn raid on BAE's South African offices in November 2008. On February 5, 2010 the SFO entered into a settlement with BAE related to allegations of bribery and corruption in Tanzania, apparently declining to prosecute the company for bribery in South Africa. <br /><br />According to press reports, German authorities launched an investigation into Thyssen Krupp's alleged role in the South Africa bribery scheme related to the German Frigate Consortium. On June 18, 2006 the company announced that the investigation by German authorities had been closed without finding any evidence of corruption.  [See "German Frigate Consortium" summary.]
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In certain countries, governmental issues and political considerations may play a role in the outcome of investigations into corruption and bribery. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=967">The Arms Deal: Ten Years On, Selim Gool (August 13, 2009) </a></p><p><a href="file.asp?id=968">Thyssen Krupp Cleared of Arms Deal Corruption, Stephen Laufer (June 18, 2008)</a></p><p><a href="file.asp?id=969">The Arms Deal Investigation - How Far It's Come, Report by the National Prosecuting Authority (February 7, 2009)</a></p><p><a href="file.asp?id=970">Timeline: BAE Corruption Probe, BBC News (February 5, 2010)</a></p><p>Financial Times: "South Africa abandons arms deal bribery probe" (18 Oct. 2010)</p><p>Defense News: "S. Africa Reopens Probe Into Gripen Bribes: Report" (31 July 2011)</p><p>Financial Times: "Zuma sets up corruption probe" (15 Sept. 2011)</p><p>Washington Post: "South Africa gives sweeping powers to a panel probing arms deal bribery scandal" (27 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

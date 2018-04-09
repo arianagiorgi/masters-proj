@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192353csd5v">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192353967q2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DCNS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(240)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923539fmn6" width="415" height="61" /></div>
+    
+        <h1>DCNS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        France: Investigating Magistrate<br />France: Public Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Direction des Constructions Navales Services ("DCNS")<br />Direction des Construction Navales ("DCN")<br />Direction des Construction Navales International ("DCNI"), a subsidiary of DCN<br />Thales International Asia ("Thint Asia"), which, as a private company took over contracts that were previously held by the state company DCN<br />Armaris (joint venture company set up in 2002 by DCNS and Thales)<br />Perimekar Sdn Bhd, a Malyasian company established in 1999<br />Terasasi, a Hong Kong company orignally incorporated in Malaysia<br />Razak Baginda, owner of Perimekar and part owner of Terasasi, also friend and advisor of Najib Razak<br />Mazalinda Baginda, wife of Razak Baginda<br />Najib Razak, Malaysian Prime Minister, formerly Minister of Defense<br />Abdul Malim Baginda, father of Razak Baginda and part owner of Terasasi<br />Gifen, a company headquartered in Malta<br />Eurolux, a Luxembourg company<br />Technomar, a Belgian company<br />Bernard Baiocco, CEO of Thint Asia in 2004<br />Lembaga Tabung Haji, a charitable fund supporting pilgrimmage<br />Lembaga Tabung Angkatan Tentera, a Malaysian military pension fund
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        French state-owned shipbuilder specializing in warships
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Malaysia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, French prosecutors are investigating possible corrupt practices by DCNS in connection with Armaris' sale of two new Scorpene submarines and a used Agosta vessel to the Malaysian government in 2002, a deal valued at GBP 937 million.  It was the largest arms deal ever completed by the Malaysian government.  Armaris allegedly paid a GBP 107 million (EUR 114 million) "commission" to a Malaysian company called Perimekar in 2006; Perimekar appears to have been secretly owned by Abdul Razak Baginda, an aide to then-Defense Minister (now Prime Minister) Najib Tun Razak.  The payments to Perimekar were ostensibly for "coordination and support services."  Another CD 46 million was paid to a company called Terasasi, owned by Razak Baginda and his father Abdul Malim Baginda, pursuant to a consultancy contract signed with Thint Asia in October 2000.<br /><br />In March 2012, a formal inquiry was initiated with the appointment of two French judges, Roger Le Loire and Serge Tournaire, to conduct the investigation.  In May 2012, an in camera session was held by the two judges.  The focus of the inquiry is whether the payments described above were indeed for services rendered, or went as bribes to the Minister of Defense and/or his adviser.  An invoice issued by Terasasi Sdn on 28 August 2004 is for EUR 359,450 and addressed to Thint Asia.  The message with the invoice reads, "Razak is requesting whether this SF [support fee, success fee] could be processed quickly." Another invoice, dated 1 October 2000, is for EUR 100,000. <br /><br />Terasasi Sdn is said to have profited by the amount of EUR 3.8 million, while Terasasi HK is said to have gained EUR 32.3 million.<br /><br />It is not clear whether the investigating judges will also inquire into the gruesome murder near Kuala Lumpur of Altantuya Shaariibuu, the estranged girlfriend and interpreter for Abdul Razak Baginda during the negotiations of the submarine sale.  Shaariibuu is said to have requested USD 500,000 from Baginda to purchase her silence.  Two of Baginda's bodyguards were convicted of the murder and face the death penalty.<br /><br />Earlier bribes were well known, as Gerarde Philippe Maneyas, former finance director for DCN, had claimed a tax deduction for EUR 32 million allegedly used to bribe Malaysian officials for purchase of the Scorpenes. Since the purchase was made before 2002 and the advent of OECD anticorruption convention-inspired legislation, such payments were tax-deductible in France.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;GBP 107 million commission paid to company allegedly connected to Malaysia's current prime minister</td>
+<td style="text-align: center;">&nbsp;Sale of three submarines for GBP 937 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the French judicial investigation was prompted by a whistleblower's allegations of bribery and industrial espionage in connection with the Malaysian warship deal.  The Malaysian anti-corruption organization, Suaram, had filed a civil complaint in the matter in March 2010. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 4 October 2012, media reports revealed that a subpoena had been served by the French investigating magistrates.  Although there was no official confirmation, media sources pointed to Jasbir Singh Chahl as the possible recipient of the summons.  Jasbir was allegedly involved in the purchase of the Scorpene submarine.<br /><br />The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Times Online: "Arms deal link to death of model" (March 22, 2009)</p><p>Asia Sentinel: "French Legal Team in Malaysia to Probe Sub Deal" (April 27, 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

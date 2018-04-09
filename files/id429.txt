@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19263570j24">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19263541gkm" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PFIZER-WYETH (See also PFIZER)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(429)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192635x5yci" width="415" height="61" /></div>
+    
+        <h1>PFIZER-WYETH (See also PFIZER)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wyeth<br />Pfizer, Inc.<br />PT Wyeth Indonesia ("Wyeth Indonesia"), a majority-owned subsidiary of Wyeth   <br />Wyeth Pakistan Limited ("Wyeth Pakistan"), a  majority-owned subsidiary of Wyeth  <br />Shanghai Wyeth Nutritional Co., Ltd. ("Wyeth China"), a majority-owned subsidiary of Wyeth<br />COCI Corporation  ("Wyeth Saudi Arabia"), a Delaware corporation operating an office in Saudi Arabia
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Madison, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Pakistan<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Wyeth was acquired by Pfizer in October 2009.  Pfizer undertook a risk-based FCPA due diligence review of Wyeth's operations, reporting possible FCPA violations to the SEC within 180 days of the acquisition.  Pfizer's disclosures identified improper payments made by Wyeth's Nutritional Products Division in Indonesia, Pakistan, China, and Saudi Arabia, as well as additional improper payments made by other Wyeth subsidiaries. <br /><br />A complaint filed by the SEC in August 2012, alleges that between 2005 and 2010, Wyeth subsidiaries paid bribes in Indonesia, Pakistan, China, and Saudi Arabia, in order to influence healthcare professionals employed by the governments of those countries, and that employees of the subsidiaries hid the transactions by falsely recording them as legitimate expenses for promotional activities, marketing, training, travel and entertainment, conferences and advertising.   <br /><br />Indonesia Allegations<br /><br />Between 2005 until 2010, Wyeth Indonesia  provided cash payments and nutritional products to employees of Indonesian government-owned hospitals, including doctors employed by the Indonesian government.  The purpose of the payments was to ensure that Wyeth products would be given to new mothers at Indonesian hospitals, and to obtain information to be used in Wyeth's subsequent marketing efforts.  Inaccurate invoices were submitted for these payments  in order to hide the purpose of the transaction.<br /><br />Wyeth Indonesia's Ethical Nutritional Division used funds allocated for continuing medical education to make cash payments and provided Wyeth nutritional products, BlackBerrys, cell phones, and phone card credits to government-employed doctors and midwives as payment and inducement to ensure that babies who had received Wyeth products at birth would continue to use them. <br /><br />Wyeth Indonesia's distributors were instructed to generate invoices and to deliver the products, and then to then charge back the value of the goods to Wyeth Indonesia so that the institutions received the products without charge.  In 2006, Wyeth's International Corporate Compliance Office ordered this practice stopped, but employees continued the practice but used travel agencies and conference organizers, who submitted fictitious invoices for which the Wyeth Indonesia employees could receive reimbursement.  The employees attempted to hide these transactions by recording them as "Miscellaneous Expenses – Joint Promotions,"  "Medical Education - Promo," "Trade Allowances," and "Miscellaneous Selling Expenses."<br /><br />Pakistan Allegations <br /><br />From 2005 to 2009, Wyeth Pakistan employees gave cash and paid for travel, office equipment and renovations for doctors employed by institutions owned or controlled by the Pakistani government, in order to influence the doctors to recommend Wyeth products to new mothers.   Until 2008, these benefits were funded through the submission of fictitious expense reimbursement requests by Wyeth Pakistan employees, which were approved by local  management.  In 2008, Wyeth's external auditor questioned the reimbursement submissions in the Nutritional Division; thereafter, Wyeth Pakistan employees used collusive vendors to generate funds.  The venders would submit fraudulent invoices for printing and marketing services, and the cash generated by payment of the false invoices was used to pay government doctors to recommend Wyeth products.  The transactions were recorded as “Advertising and Sales Promotion,” “Film Show,” “Entertainment,” “Product Meetings,” and “Give Aways and Gifts.”   <br /><br />China Allegations<br /><br />From 2005 to 2010, Wyeth employees made cash payments to Chinese state-owned hospitals and healthcare providers (including doctors, nurses, and midwives) employed by the Chinese government for the purpose of influencing the recipients to recommend Wyeth nutritional products to their patients, and to obtain information about new births that could be used for marketing purposes.  The payments were funded through the submission of false expense reimbursement request for meals, travel, entertainment and speaker fees.   The reimbursement requests were either inflated or related to events or activities that did not occur.  Some of the bribe money was generated through collusive travel agencies that submitted false or inflated invoices for organizing consumer education events.  The travel agency would take a fee from the payment, and give the cash to the Wyeth employees.   The transactions were falsely recorded in Wyeth's books. <br /><br />Saudi Arabia Allegations<br /><br />In June 2007, Wyeth's local distributor in Saudi Arabia was directed by Wyeth Saudi Arabia to make a cash payment to a Saudi Arabian customs official to secure the release of a shipment of promotional items that were being held in port because Wyeth Saudi Arabia had failed to secure a required Saudi Arabian Standards Organization Certificate of Conformity.  Wyeth Saudi Arabia reimbursed the distributor for the payment in July 2007, recording it as a "facilitation expenses."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Payments to Foreign Officials <br /></td>
+<td style="text-align: center;" width="50%">&nbsp;Business Advantage in Indonesia, China and Pakistan</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unknown</td>
+<td style="text-align: center;">&nbsp;USD&nbsp;17,217,831&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Pfizer undertook a global internal review of Wyeth's operations following the 2009 acquisition; this review uncovered corrupt payments made by Wyeth employees and subsidiaries in Indonesia, Pakistan, China and Saudi Arabia, which Pfizer disclosed voluntarily to the SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SEC filed a complaint against Wyeth in August 2012, announcing on 7 August 2012 separate settlements, subject to court approval, with both Wyeth and Pfizer. The two companies combined agreed to pay more than USD 45 million combined to settle their respective charges. <br /><br />Wyeth agreed to pay disgorgement of USD 17,217,831 in net profits and prejudgment interest of USD 1,658,793, for a total of USD 18,876,624.<br /><br />Wyeth's parent company, Pfizer, is required to make regular compliance reports to the SEC as part of its deferred prosecution agreement with the DOJ; as a Pfizer subsidiary, the status of Wyeth's remediation and implementation of its compliance program will be submitted with that of Pfizer.<br /><br />The company is permanently enjoined from further books and records violations.<br /><br />In a parallel action, the Department of Justice announced that Pfizer H.C.P. Corporation agreed to pay a USD 15 million penalty to resolve its FCPA investigation. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Legacy liability will be imposed, with reduced penalties, even where voluntary disclosure took place within 18 months of acquisition.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1920">Pfizer-Wyeth - Complaint SEC v. Wyeth (7 August 2012)</a></p><p><a href="file.asp?id=1921">Pfizer-Wyeth - DOJ Media Release (7 August 2012), DOJ announces settlement</a></p><p><a href="file.asp?id=1922">Pfizer-Wyeth - Press Releases (7 August 2012), Settlement with U.S. authorities</a></p><p><a href="file.asp?id=1923">Pfizer-Wyeth - SEC Media Release (7 August 2012), SEC Charges Pfizer with FCPA Violations</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

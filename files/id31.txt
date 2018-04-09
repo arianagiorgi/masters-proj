@@ -1,0 +1,432 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707170b9kd">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170717dqu6u" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MAGYAR TELEKOM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(31)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707174999t" width="415" height="61" /></div>
+    
+        <h1>MAGYAR TELEKOM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Hungary: Financial Supervisory Authority <br />Hungary: National Bureau of Investigation <br />Macedonia: Public Prosecutor's Office<br />Montenegro: Supreme State Prosecutor<br />Hungary: Central Investigative Chief Prosecutor's Office<br />Germany: Bonn Public Prosecutor's Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Magyar Telekom Telecommunications Plc. ("Magyar Telekom")<br />Makedonski Telekom (a subsidiary of Magyar Telekom in Macedonia, formerly the state-owned Macedonian telecommunications service provider)<br />Telekom Crme Gore A.D. (also known as Cmogorski Telekom, a subsidiary of Magyar Telekom in Montenegro and formerly the state-owned telecommunications services provider)<br />Deutsche Telekom AG ("Deutsche Telekom," Magyar Telekom's Germany-based parent company)<br />Rene Obermann (CEO of Deutsche Telekom)<br />Elek Straub (former chairman and CEO of Magyar Telekom)<br />Andras Balogh (former senior executive in the Strategy Department of Magyar Telekom)<br />Tamas Morvai (former Director of Business Development and Acquisitions  of Magyar Telekom)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Budapest, Hungary
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Macedonia<br />Montenegro<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Magyar Telekom and Deutsche Telekom AG, on 29 December 2011, agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro by the DOJ and SEC.  The government investigations date back nearly five years and involved funneling bribes to government officials to delay the entry of a competitor into the mobile-phone market.  <br /><br />As explained by Magyar Telekom's Corporate Communications Directorate, the company conducted an internal investigation regarding possible improper conduct in Macedonia and Montenegro.  The preliminary conclusions from the internal investigation suggested that four consulting contracts entered into in 2005 were done so for improper purposes, and that in 2006 company employees destroyed evidence relevant to the investigation.  During the course of the internal investigation, additional contracts were identified as questionable and the Board of Directors determined to expand the scope of the internal investigation in February 2007.  <br /><br />The independent investigators submitted a status report in May 2008, finding that there was affirmative evidence of misconduct in connection with six contracts for advisory, marketing, acquisition due diligence and/or lobbying services in Macedonia.  These contracts were entered into between 2004 and 2006 between Magyar Telekom (and/or various company affiliates) and a Cyprus-based consulting company (and/or its affiliates).  According to the status report, under these contracts, Magyar Telekom and its affiliates paid a total of over EUR 6.7 million.  <br /><br />The Audit Committee's final report, presented to the Board of Directors on 2 December 2009, identified: (i) EUR 7 million in likely illegitimate expenditures under Montenegrin contracts, which were not propery recorded in the books and records of the company or its subsidiaries; (ii) certain former employees intentionally destroyed documents related to the company and its affiliates' activities in Macedonia; (iii) between 2000 and 2006, a small group of former executives at the company and its Macedonian affiliates authorized the expenditure of EUR 24 million through suspect consulting, lobbying and other contracts (including certain contracts between the company and its subsidiaries on the one hand, and affiliates of a Cyprus-based consulting firm on the other); (iv) contrary to their terms, a number of contracts were undertaken to obtain specific regulatory and other benefits from the government of Macedonia, although outside counsel could not identify the ultimate beneficiaries of the improper payments; and (v) the former senior executives, in entering into the suspect contracts and approving expenditures under them, knowingly caused transactions that circumvented internal controls, led to false books and records entries, lacked due diligence and monitoring, lacked evidence of performance, and were designed for the purpose of obtaining certain government benefits. <br /><br />The final report stated that the investigation did not uncover evidence demonstrating receipt of payments by Macedonian officials.  The report also stated that no current senior executives or board members were implicated in the wrongdoing.  <br /><br />However, in a complaint filed by the SEC on 29 December 2011 against Elek Straub, Andras Balogh and Tamas Morvai, the SEC alleges that in 2005 and 2006, the three men executed a bribery scheme in Macedonia, making payments of EUR 4.875 million to an intermediary in order to prevent a competitor from entering the Macedonian telecommunications market.  The complaint alleges that Straub, Balogh and Morvai knew the money would be paid to Macedonian officials, and that they retained a Greek intermediary to facilitate the scheme.  The men are alleged to have entered into a secret agreement entitled the "protocol of cooperation" with Macedonian government officials, pursuant to which the officials would delay the issuance of a mobile telephone license to Magyar's competitor, and ensure that the Company would be exempt from an increased frequency fee.<br /><br />The complaint also alleges that the three men authorized corrupt payments totaling EUR 7.35 million in Montenegro in order to facilitate the acquisition by Magyar Telekom of the Montenegrin telecommunications company.  Straub, Balogh and Morvai devised a scheme in Montenegro whereby they would bypass limitations set by the Company's Board of Directors regarding the per-share price the Company would be allowed to pay for the acquisition of  a supermajority in the formerly state-owned Montenegrin  telecommunications company.   Montenegrin government officials contributed an additional EUR 0.30 per share to private shareholders, later receiving funds transfers from Magyar through third party intermediaries pursuant to four bogus contracts.  Three of the contracts were with shell companies in Mauritius, the Seychelles, and the British West Indies (the latter based in the UK). Another contract involved a New York person employed to channel money to the sister of a Montenegrin official.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Macedonian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR&nbsp;24 million</p>
+</td>
+<td>
+<p style="text-align: center;">Regulatory and other benefits from the government of Macedonia, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Illegitimate Expenditures&nbsp;Under&nbsp;Montenegrin Contracts</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 7 million</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        PricewaterhouseCoopers ("PWC") identified two questionable contracts when conducting its audit of Magyar Telekom's 2005 financial statements.  As a result of these findings, in February 2006 Magyar Telekom's Audit Committee retained White & Case as its independent legal counsel to conduct an investigation into whether the company made payments under those contracts, or other contracts, that were potentially prohibited by U.S. laws or regulations, including the FCPA, or by the company's internal policy.   Magyar Telekom is listed on the New York Stock Exchange ("NYSE").  <br /><br />The company disclosed the internal investigation to the Hungarian Financial Supervisory Authority ("HFSA"), as well as to the DOJ and SEC in the United States.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S. Enforcement<br /><br />U.S. enforcement authorities began an investigation into the transactions and expanded the investigation in 2007.  In a letter to the Audit Committees counsel, dated 27 February 2009, the DOJ requested that the Audit Committee pursue all reasonable avenues of investigation prior to completing the internal investigation and issuing a final report, recognizing that this may lead to a delay in the completion of the report.  The DOJ also requested that the Audit Committee not release the final report without the approval of the DOJ, given the possible interference with the DOJ's own investigation.  In the 27 February 2009 letter, the DOJ also stated that the company's assistance to the DOJ would be taken into account when the DOJ establishes its position on this matter.  <br /><br />On 29 December 2011, Magyar Telekom and Deutsche Telekom AG agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro. The combined criminal penalty to the U.S. Department of Justice (DOJ) was USD 63.9 million, while Magyar Telekom agreed to settle the Securities and Exchange Commission's (SEC) charges by paying more than USD 31.2 million in disgorgement and pre-judgment interest settlement.  The DOJ filed a criminal information against Magyar Telekom and a two-year deferred prosecution agreement in U.S. District Court for the Eastern District of Virginia. The SEC also sued three former Magyar executives. <br /><br />Also on 29 December 2011, the SEC filed a civil complaint against Elek Straub, Andras Balogh and Tamas Morvai, alleging that they had engaged in bribery schemes that resulted in the payment of  EUR 4.875 million, and EUR 7.35 million, part of which was paid as bribes to Macedonian and Montenegrin officials, respectively.<br /><br />In five claims including FCPA bribery offenses, books and records offenses, false accounting, internal controls and false statements, the SEC complaint requests injunctive relief, disgorgement and civil penalties.<br /><br />On 29 October 2012, the defendants jointly filed a motion to dismiss the complaint.  The grounds for the requested dismissal were (1) lack of personal jurisdiction; (2) barred by the statute of limitations; (3) failure to adequately state a bribery offense or other claim upon which relief may be granted.  In a 5 December 2012  memorandum in opposition to the defendants' motion to dismiss the complaint, the SEC claims that the defendants are subject to personal jurisdiction because their conduct caused foreseeable consequences in the United States; that the statute of limitations only begins to run when the defendants enter the United States, which they have yet to do, and; the complaint identifies specific acts which fall within the purview of the claimed violations.  Responding to this memorandum, the defendants claim that the SEC ignored key documents that undermined its arguments, including the fact that the annual filing for 2005 was not filed by the company, but instead postponed, and a disclosure informed investors that the company would release the results when the internal investigation was complete.  <br /><br />On 8 February 2013, Judge Richard J. Sullivan of the U.S. District Court for the Southern District of New York denied the defendants' motion to dismiss in its entirety. Regarding the lack of personal jurisdiction claim, Judge Sullivan found that the SEC had established that Magyar Telekom's alleged bribes and concealment, even if occurring outside of the United States, were allegedly directed at the United States and thus were sufficient to meet the "minimum contacts" standard for personal jurisdiction in a U.S. district court. Judge Sullivan also found that the SEC sufficiently established the second part of the personal jurisdiction standard, which is that the court's exercise of jurisdiction over the defendants would not be unreasonable. <br /><br />Regarding the claim that the SEC's action was time barred, Judge Sullivan found in the plain language of the relevant statute that the five-year statute of limitations only begins when a defendant is "found within the United States." Over five years passed between the alleged conduct and the filing of the action, but the defendants were never "found within the United States" during this period. Therefore, the statute of limitations had not run. <br /><br />Finally, Judge Sullivan also rejected the defendants' three-tiered argument that the SEC's action failed to state a claim by not providing sufficient facts to support the allegations. Judge Sullivan found that the SEC provided sufficient facts to support 1) its claim that the defendants had made "use of the mails or any other means or instrumentality of interstate commerce corruptly in furtherance of" the alleged bribes; 2) its claim that the intended recipients of the alleged bribes were "foreign officials" under the FCPA; and 3) its claim regarding the alleged fraudulent behavior of each defendant in reference to the Exchange Act's rule on materially false or misleading statements in SEC filings and audits. The judge therefore denied the motion to dismiss in its entirety and ordered a status conference for April 2013.<br /><br />On 26 February 2013, the Wall Street Journal reported that these defendants have requested permission from Judge Sullivan to file an interlocutory appeal of his decision to the U.S. Court of Appeals for the Second Circuit. <br /><br />On 10 March 2014, the SEC announced that it was dropping allegations that former executives of the Hungarian unit of Deutsche Telekom (Mr. Straub,  Mr. Balogh and Mr. Morval) bribed officials in Montenegro.  The remaining allegations that the executives bribed government officials in Macedonia to block competition against Magyar are still pending. <br /><br />(According to Magyar Telekom's Second Half 2010 Results, the company faced ongoing investigations by the Macedonian, Montenegrin, Hungarian and U.S. governments.  The company cooperated with each government investigation.  At that time, the company stated that it had  incurred HUF 2.3 billion in expenses related to the investigation in 2010.) <br /><br />Montenegro Enforcement<br /><br />The Supreme State Prosecutor of the Republic of Montenegro is investigating Cmogorski Telekom, the company's Montenegrin subsidiary, in connection with the contracts at issue in the internal investigation.  <br /><br />Hungary Enforcement<br /><br />The Hungarian Central Investigating Chief Prosecutor's Office has commenced a criminal investigation into "alleged corruption with the intention of violating obligations in international relations and other alleged criminal offenses." The Hungarian National Bureau of Investigation ("NBI") is investigating "alleged misappropriation of funds relating to payments made in connection with the Company's ongoing internal investigation and the possible misuse of personal data of employees in the context of the internal investigation."<br /><br />Macedonia Enforcement<br /><br />The Ministry of Interior of the Republic of Macedonia issued requests to Magyar Telekom's Macedonian subsidiaries for information and documents related to certain procurement and dividend payment activities.  Based on a 10 December 2008 press release on the Macedonian Ministry of Interior website, it appears that the Ministry's Organized Crime Department submitted files to the Basic Public Prosecution Office of Organized Crime and Corruption in Macedonia, proposing that criminal charges be brought against four individuals, including three former Magyar Telekom Group employees.  These individuals are alleged to have committed an act of abuse of office and authorizations while employed at Makedonski Telekom (a Magyar Telekom subsidiary in Macedonia) in connection with five consulting contracts with a company called Chaptex Holdings Ltd. during 2005-2006.  <br /><br />Germany Enforcement<br /><br />According to press reports on 3 September 2010, Deutsche Telekom's offices were raided by German authorities in connection with an investigation by the Bonn Public Prosecutor's Office into the alleged misconduct in Macedonia and Montenegro.  German authorities began an investigation into whether Deutsche Telekom and its CEO, Rene Obermann, had any involvement in the matter.  According to press reports on 3 January 2011, prosecutors dropped their bribery investigation of Mr. Obermann and two others suspects, but were still investigating five others. 
+		<h2>COMPLIANCE MONITOR</h2>
+        None
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=152">Magyar Telekom Press Release: "Continued focus on cost cutting and customer retention, revised 2009 guidance" (6 August 2009)</a></p><p><a href="file.asp?id=598">Maygar Telekom Press Release: "Magyar Telekom Announces Receipt of Final Report of the Audit Committee's Internal Investigation" (3 December 2009)</a></p><p><a href="file.asp?id=599">Magyar Telekom: Form 6-K (3 December 2009)</a></p><p><a href="file.asp?id=1107">Magyar Telekom: First Half 2010 Results (5 August 2010)</a></p><p>FOXBusiness: "German Prosecuter Says It Searched Deutsche Telekom Offices" (3 September 2010)</p><p>realdeal.hu: "Deutsche Telekom investigated on suspicion of bribery at Hungarian unit" (3 September 2010)</p><p>BBC News: "Deutsche Telekom head Rene Obermann in bribery probe" (15 September 2010)</p><p>Wall Street Journal: "Deutsche Telekom Chief Cleared In German Bribery Probe" (3 January 2011)</p><p><a href="file.asp?id=1407">Magyar Telekom: Annual Report 2010 (24 February 2011)</a></p><p><a href="file.asp?id=1675">DOJ Press Release: "Magyar Telekom and Deutsche Telekom Resolve Foreign Corrupt Practices Act Investigation" (29 December 2011)</a></p><p><a href="file.asp?id=1676">SEC Litigation Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1677">SEC Press Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1678">SEC: Complaint for Executives (29 December 2011)</a></p><p><a href="file.asp?id=1679">SEC: Complaint for Companies (29 December 2011)</a></p><p><a href="file.asp?id=2073">Magyar Telekom Executives: Memorandum in Support of Motion to Dismiss (29 October 2012)</a></p><p>SEC: Memorandum in Opposition to Motion to Dismiss (5 December 2012)</p><p>Wall Street Journal: "Former Magyar Execs Ask for Appeal Pre-Trial" (26 February 2013)</p><p><a href="file.asp?id=2496">SEC Drops Some Charges Against Magyar Execs</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184226ix440">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184226hz9ni" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MAGYAR TELEKOM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(31)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842269q1lf" width="415" height="61" /></div>
+    
+        <h1>MAGYAR TELEKOM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Hungary: Financial Supervisory Authority <br />Hungary: National Bureau of Investigation <br />Macedonia: Public Prosecutor's Office<br />Montenegro: Supreme State Prosecutor<br />Hungary: Central Investigative Chief Prosecutor's Office<br />Germany: Bonn Public Prosecutor's Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Magyar Telekom Telecommunications Plc. ("Magyar Telekom")<br />Makedonski Telekom (a subsidiary of Magyar Telekom in Macedonia, formerly the state-owned Macedonian telecommunications service provider)<br />Telekom Crme Gore A.D. (also known as Cmogorski Telekom, a subsidiary of Magyar Telekom in Montenegro and formerly the state-owned telecommunications services provider)<br />Deutsche Telekom AG ("Deutsche Telekom," Magyar Telekom's Germany-based parent company)<br />Rene Obermann (CEO of Deutsche Telekom)<br />Elek Straub (former chairman and CEO of Magyar Telekom)<br />Andras Balogh (former senior executive in the Strategy Department of Magyar Telekom)<br />Tamas Morvai (former Director of Business Development and Acquisitions  of Magyar Telekom)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Budapest, Hungary
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Macedonia<br />Montenegro<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Magyar Telekom and Deutsche Telekom AG, on 29 December 2011, agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro by the DOJ and SEC.  The government investigations date back nearly five years and involved funneling bribes to government officials to delay the entry of a competitor into the mobile-phone market.  <br /><br />As explained by Magyar Telekom's Corporate Communications Directorate, the company conducted an internal investigation regarding possible improper conduct in Macedonia and Montenegro.  The preliminary conclusions from the internal investigation suggested that four consulting contracts entered into in 2005 were done so for improper purposes, and that in 2006 company employees destroyed evidence relevant to the investigation.  During the course of the internal investigation, additional contracts were identified as questionable and the Board of Directors determined to expand the scope of the internal investigation in February 2007.  <br /><br />The independent investigators submitted a status report in May 2008, finding that there was affirmative evidence of misconduct in connection with six contracts for advisory, marketing, acquisition due diligence and/or lobbying services in Macedonia.  These contracts were entered into between 2004 and 2006 between Magyar Telekom (and/or various company affiliates) and a Cyprus-based consulting company (and/or its affiliates).  According to the status report, under these contracts, Magyar Telekom and its affiliates paid a total of over EUR 6.7 million.  <br /><br />The Audit Committee's final report, presented to the Board of Directors on 2 December 2009, identified: (i) EUR 7 million in likely illegitimate expenditures under Montenegrin contracts, which were not propery recorded in the books and records of the company or its subsidiaries; (ii) certain former employees intentionally destroyed documents related to the company and its affiliates' activities in Macedonia; (iii) between 2000 and 2006, a small group of former executives at the company and its Macedonian affiliates authorized the expenditure of EUR 24 million through suspect consulting, lobbying and other contracts (including certain contracts between the company and its subsidiaries on the one hand, and affiliates of a Cyprus-based consulting firm on the other); (iv) contrary to their terms, a number of contracts were undertaken to obtain specific regulatory and other benefits from the government of Macedonia, although outside counsel could not identify the ultimate beneficiaries of the improper payments; and (v) the former senior executives, in entering into the suspect contracts and approving expenditures under them, knowingly caused transactions that circumvented internal controls, led to false books and records entries, lacked due diligence and monitoring, lacked evidence of performance, and were designed for the purpose of obtaining certain government benefits. <br /><br />The final report stated that the investigation did not uncover evidence demonstrating receipt of payments by Macedonian officials.  The report also stated that no current senior executives or board members were implicated in the wrongdoing.  <br /><br />However, in a complaint filed by the SEC on 29 December 2011 against Elek Straub, Andras Balogh and Tamas Morvai, the SEC alleges that in 2005 and 2006, the three men executed a bribery scheme in Macedonia, making payments of EUR 4.875 million to an intermediary in order to prevent a competitor from entering the Macedonian telecommunications market.  The complaint alleges that Straub, Balogh and Morvai knew the money would be paid to Macedonian officials, and that they retained a Greek intermediary to facilitate the scheme.  The men are alleged to have entered into a secret agreement entitled the "protocol of cooperation" with Macedonian government officials, pursuant to which the officials would delay the issuance of a mobile telephone license to Magyar's competitor, and ensure that the Company would be exempt from an increased frequency fee.<br /><br />The complaint also alleges that the three men authorized corrupt payments totaling EUR 7.35 million in Montenegro in order to facilitate the acquisition by Magyar Telekom of the Montenegrin telecommunications company.  Straub, Balogh and Morvai devised a scheme in Montenegro whereby they would bypass limitations set by the Company's Board of Directors regarding the per-share price the Company would be allowed to pay for the acquisition of  a supermajority in the formerly state-owned Montenegrin  telecommunications company.   Montenegrin government officials contributed an additional EUR 0.30 per share to private shareholders, later receiving funds transfers from Magyar through third party intermediaries pursuant to four bogus contracts.  Three of the contracts were with shell companies in Mauritius, the Seychelles, and the British West Indies (the latter based in the UK). Another contract involved a New York person employed to channel money to the sister of a Montenegrin official.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Macedonian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR&nbsp;24 million</p>
+</td>
+<td>
+<p style="text-align: center;">Regulatory and other benefits from the government of Macedonia, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Illegitimate Expenditures&nbsp;Under&nbsp;Montenegrin Contracts</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 7 million</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        PricewaterhouseCoopers ("PWC") identified two questionable contracts when conducting its audit of Magyar Telekom's 2005 financial statements.  As a result of these findings, in February 2006 Magyar Telekom's Audit Committee retained White & Case as its independent legal counsel to conduct an investigation into whether the company made payments under those contracts, or other contracts, that were potentially prohibited by U.S. laws or regulations, including the FCPA, or by the company's internal policy.   Magyar Telekom is listed on the New York Stock Exchange ("NYSE").  <br /><br />The company disclosed the internal investigation to the Hungarian Financial Supervisory Authority ("HFSA"), as well as to the DOJ and SEC in the United States.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S. Enforcement<br /><br />U.S. enforcement authorities began an investigation into the transactions and expanded the investigation in 2007.  In a letter to the Audit Committees counsel, dated 27 February 2009, the DOJ requested that the Audit Committee pursue all reasonable avenues of investigation prior to completing the internal investigation and issuing a final report, recognizing that this may lead to a delay in the completion of the report.  The DOJ also requested that the Audit Committee not release the final report without the approval of the DOJ, given the possible interference with the DOJ's own investigation.  In the 27 February 2009 letter, the DOJ also stated that the company's assistance to the DOJ would be taken into account when the DOJ establishes its position on this matter.  <br /><br />On 29 December 2011, Magyar Telekom and Deutsche Telekom AG agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro. The combined criminal penalty to the U.S. Department of Justice (DOJ) was USD 63.9 million, while Magyar Telekom agreed to settle the Securities and Exchange Commission's (SEC) charges by paying more than USD 31.2 million in disgorgement and pre-judgment interest settlement.  The DOJ filed a criminal information against Magyar Telekom and a two-year deferred prosecution agreement in U.S. District Court for the Eastern District of Virginia. The SEC also sued three former Magyar executives. <br /><br />Also on 29 December 2011, the SEC filed a civil complaint against Elek Straub, Andras Balogh and Tamas Morvai, alleging that they had engaged in bribery schemes that resulted in the payment of  EUR 4.875 million, and EUR 7.35 million, part of which was paid as bribes to Macedonian and Montenegrin officials, respectively.<br /><br />In five claims including FCPA bribery offenses, books and records offenses, false accounting, internal controls and false statements, the SEC complaint requests injunctive relief, disgorgement and civil penalties.<br /><br />On 29 October 2012, the defendants jointly filed a motion to dismiss the complaint.  The grounds for the requested dismissal were (1) lack of personal jurisdiction; (2) barred by the statute of limitations; (3) failure to adequately state a bribery offense or other claim upon which relief may be granted.  In a 5 December 2012  memorandum in opposition to the defendants' motion to dismiss the complaint, the SEC claims that the defendants are subject to personal jurisdiction because their conduct caused foreseeable consequences in the United States; that the statute of limitations only begins to run when the defendants enter the United States, which they have yet to do, and; the complaint identifies specific acts which fall within the purview of the claimed violations.  Responding to this memorandum, the defendants claim that the SEC ignored key documents that undermined its arguments, including the fact that the annual filing for 2005 was not filed by the company, but instead postponed, and a disclosure informed investors that the company would release the results when the internal investigation was complete.  <br /><br />On 8 February 2013, Judge Richard J. Sullivan of the U.S. District Court for the Southern District of New York denied the defendants' motion to dismiss in its entirety. Regarding the lack of personal jurisdiction claim, Judge Sullivan found that the SEC had established that Magyar Telekom's alleged bribes and concealment, even if occurring outside of the United States, were allegedly directed at the United States and thus were sufficient to meet the "minimum contacts" standard for personal jurisdiction in a U.S. district court. Judge Sullivan also found that the SEC sufficiently established the second part of the personal jurisdiction standard, which is that the court's exercise of jurisdiction over the defendants would not be unreasonable. <br /><br />Regarding the claim that the SEC's action was time barred, Judge Sullivan found in the plain language of the relevant statute that the five-year statute of limitations only begins when a defendant is "found within the United States." Over five years passed between the alleged conduct and the filing of the action, but the defendants were never "found within the United States" during this period. Therefore, the statute of limitations had not run. <br /><br />Finally, Judge Sullivan also rejected the defendants' three-tiered argument that the SEC's action failed to state a claim by not providing sufficient facts to support the allegations. Judge Sullivan found that the SEC provided sufficient facts to support 1) its claim that the defendants had made "use of the mails or any other means or instrumentality of interstate commerce corruptly in furtherance of" the alleged bribes; 2) its claim that the intended recipients of the alleged bribes were "foreign officials" under the FCPA; and 3) its claim regarding the alleged fraudulent behavior of each defendant in reference to the Exchange Act's rule on materially false or misleading statements in SEC filings and audits. The judge therefore denied the motion to dismiss in its entirety and ordered a status conference for April 2013.<br /><br />On 26 February 2013, the Wall Street Journal reported that these defendants have requested permission from Judge Sullivan to file an interlocutory appeal of his decision to the U.S. Court of Appeals for the Second Circuit. <br /><br />On 10 March 2014, the SEC announced that it was dropping allegations that former executives of the Hungarian unit of Deutsche Telekom (Mr. Straub,  Mr. Balogh and Mr. Morval) bribed officials in Montenegro.  The remaining allegations that the executives bribed government officials in Macedonia to block competition against Magyar are still pending. <br /><br />(According to Magyar Telekom's Second Half 2010 Results, the company faced ongoing investigations by the Macedonian, Montenegrin, Hungarian and U.S. governments.  The company cooperated with each government investigation.  At that time, the company stated that it had  incurred HUF 2.3 billion in expenses related to the investigation in 2010.) <br /><br />Montenegro Enforcement<br /><br />The Supreme State Prosecutor of the Republic of Montenegro is investigating Cmogorski Telekom, the company's Montenegrin subsidiary, in connection with the contracts at issue in the internal investigation.  <br /><br />Hungary Enforcement<br /><br />The Hungarian Central Investigating Chief Prosecutor's Office has commenced a criminal investigation into "alleged corruption with the intention of violating obligations in international relations and other alleged criminal offenses." The Hungarian National Bureau of Investigation ("NBI") is investigating "alleged misappropriation of funds relating to payments made in connection with the Company's ongoing internal investigation and the possible misuse of personal data of employees in the context of the internal investigation."<br /><br />Macedonia Enforcement<br /><br />The Ministry of Interior of the Republic of Macedonia issued requests to Magyar Telekom's Macedonian subsidiaries for information and documents related to certain procurement and dividend payment activities.  Based on a 10 December 2008 press release on the Macedonian Ministry of Interior website, it appears that the Ministry's Organized Crime Department submitted files to the Basic Public Prosecution Office of Organized Crime and Corruption in Macedonia, proposing that criminal charges be brought against four individuals, including three former Magyar Telekom Group employees.  These individuals are alleged to have committed an act of abuse of office and authorizations while employed at Makedonski Telekom (a Magyar Telekom subsidiary in Macedonia) in connection with five consulting contracts with a company called Chaptex Holdings Ltd. during 2005-2006.  <br /><br />Germany Enforcement<br /><br />According to press reports on 3 September 2010, Deutsche Telekom's offices were raided by German authorities in connection with an investigation by the Bonn Public Prosecutor's Office into the alleged misconduct in Macedonia and Montenegro.  German authorities began an investigation into whether Deutsche Telekom and its CEO, Rene Obermann, had any involvement in the matter.  According to press reports on 3 January 2011, prosecutors dropped their bribery investigation of Mr. Obermann and two others suspects, but were still investigating five others. 
+		<h2>COMPLIANCE MONITOR</h2>
+        None
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=152">Magyar Telekom Press Release: "Continued focus on cost cutting and customer retention, revised 2009 guidance" (6 August 2009)</a></p><p><a href="file.asp?id=598">Maygar Telekom Press Release: "Magyar Telekom Announces Receipt of Final Report of the Audit Committee's Internal Investigation" (3 December 2009)</a></p><p><a href="file.asp?id=599">Magyar Telekom: Form 6-K (3 December 2009)</a></p><p><a href="file.asp?id=1107">Magyar Telekom: First Half 2010 Results (5 August 2010)</a></p><p>FOXBusiness: "German Prosecuter Says It Searched Deutsche Telekom Offices" (3 September 2010)</p><p>realdeal.hu: "Deutsche Telekom investigated on suspicion of bribery at Hungarian unit" (3 September 2010)</p><p>BBC News: "Deutsche Telekom head Rene Obermann in bribery probe" (15 September 2010)</p><p>Wall Street Journal: "Deutsche Telekom Chief Cleared In German Bribery Probe" (3 January 2011)</p><p><a href="file.asp?id=1407">Magyar Telekom: Annual Report 2010 (24 February 2011)</a></p><p><a href="file.asp?id=1675">DOJ Press Release: "Magyar Telekom and Deutsche Telekom Resolve Foreign Corrupt Practices Act Investigation" (29 December 2011)</a></p><p><a href="file.asp?id=1676">SEC Litigation Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1677">SEC Press Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1678">SEC: Complaint for Executives (29 December 2011)</a></p><p><a href="file.asp?id=1679">SEC: Complaint for Companies (29 December 2011)</a></p><p><a href="file.asp?id=2073">Magyar Telekom Executives: Memorandum in Support of Motion to Dismiss (29 October 2012)</a></p><p>SEC: Memorandum in Opposition to Motion to Dismiss (5 December 2012)</p><p>Wall Street Journal: "Former Magyar Execs Ask for Appeal Pre-Trial" (26 February 2013)</p><p><a href="file.asp?id=2496">SEC Drops Some Charges Against Magyar Execs</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192042u9w3j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192042t7g1r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MAGYAR TELEKOM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(31)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192042kui4p" width="415" height="61" /></div>
+    
+        <h1>MAGYAR TELEKOM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Hungary: Financial Supervisory Authority <br />Hungary: National Bureau of Investigation <br />Macedonia: Public Prosecutor's Office<br />Montenegro: Supreme State Prosecutor<br />Hungary: Central Investigative Chief Prosecutor's Office<br />Germany: Bonn Public Prosecutor's Office <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Magyar Telekom Telecommunications Plc. ("Magyar Telekom")<br />Makedonski Telekom (a subsidiary of Magyar Telekom in Macedonia, formerly the state-owned Macedonian telecommunications service provider)<br />Telekom Crme Gore A.D. (also known as Cmogorski Telekom, a subsidiary of Magyar Telekom in Montenegro and formerly the state-owned telecommunications services provider)<br />Deutsche Telekom AG ("Deutsche Telekom," Magyar Telekom's Germany-based parent company)<br />Rene Obermann (CEO of Deutsche Telekom)<br />Elek Straub (former chairman and CEO of Magyar Telekom)<br />Andras Balogh (former senior executive in the Strategy Department of Magyar Telekom)<br />Tamas Morvai (former Director of Business Development and Acquisitions  of Magyar Telekom)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Budapest, Hungary
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Macedonia<br />Montenegro<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Magyar Telekom and Deutsche Telekom AG, on 29 December 2011, agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro by the DOJ and SEC.  The government investigations date back nearly five years and involved funneling bribes to government officials to delay the entry of a competitor into the mobile-phone market.  <br /><br />As explained by Magyar Telekom's Corporate Communications Directorate, the company conducted an internal investigation regarding possible improper conduct in Macedonia and Montenegro.  The preliminary conclusions from the internal investigation suggested that four consulting contracts entered into in 2005 were done so for improper purposes, and that in 2006 company employees destroyed evidence relevant to the investigation.  During the course of the internal investigation, additional contracts were identified as questionable and the Board of Directors determined to expand the scope of the internal investigation in February 2007.  <br /><br />The independent investigators submitted a status report in May 2008, finding that there was affirmative evidence of misconduct in connection with six contracts for advisory, marketing, acquisition due diligence and/or lobbying services in Macedonia.  These contracts were entered into between 2004 and 2006 between Magyar Telekom (and/or various company affiliates) and a Cyprus-based consulting company (and/or its affiliates).  According to the status report, under these contracts, Magyar Telekom and its affiliates paid a total of over EUR 6.7 million.  <br /><br />The Audit Committee's final report, presented to the Board of Directors on 2 December 2009, identified: (i) EUR 7 million in likely illegitimate expenditures under Montenegrin contracts, which were not propery recorded in the books and records of the company or its subsidiaries; (ii) certain former employees intentionally destroyed documents related to the company and its affiliates' activities in Macedonia; (iii) between 2000 and 2006, a small group of former executives at the company and its Macedonian affiliates authorized the expenditure of EUR 24 million through suspect consulting, lobbying and other contracts (including certain contracts between the company and its subsidiaries on the one hand, and affiliates of a Cyprus-based consulting firm on the other); (iv) contrary to their terms, a number of contracts were undertaken to obtain specific regulatory and other benefits from the government of Macedonia, although outside counsel could not identify the ultimate beneficiaries of the improper payments; and (v) the former senior executives, in entering into the suspect contracts and approving expenditures under them, knowingly caused transactions that circumvented internal controls, led to false books and records entries, lacked due diligence and monitoring, lacked evidence of performance, and were designed for the purpose of obtaining certain government benefits. <br /><br />The final report stated that the investigation did not uncover evidence demonstrating receipt of payments by Macedonian officials.  The report also stated that no current senior executives or board members were implicated in the wrongdoing.  <br /><br />However, in a complaint filed by the SEC on 29 December 2011 against Elek Straub, Andras Balogh and Tamas Morvai, the SEC alleges that in 2005 and 2006, the three men executed a bribery scheme in Macedonia, making payments of EUR 4.875 million to an intermediary in order to prevent a competitor from entering the Macedonian telecommunications market.  The complaint alleges that Straub, Balogh and Morvai knew the money would be paid to Macedonian officials, and that they retained a Greek intermediary to facilitate the scheme.  The men are alleged to have entered into a secret agreement entitled the "protocol of cooperation" with Macedonian government officials, pursuant to which the officials would delay the issuance of a mobile telephone license to Magyar's competitor, and ensure that the Company would be exempt from an increased frequency fee.<br /><br />The complaint also alleges that the three men authorized corrupt payments totaling EUR 7.35 million in Montenegro in order to facilitate the acquisition by Magyar Telekom of the Montenegrin telecommunications company.  Straub, Balogh and Morvai devised a scheme in Montenegro whereby they would bypass limitations set by the Company's Board of Directors regarding the per-share price the Company would be allowed to pay for the acquisition of  a supermajority in the formerly state-owned Montenegrin  telecommunications company.   Montenegrin government officials contributed an additional EUR 0.30 per share to private shareholders, later receiving funds transfers from Magyar through third party intermediaries pursuant to four bogus contracts.  Three of the contracts were with shell companies in Mauritius, the Seychelles, and the British West Indies (the latter based in the UK). Another contract involved a New York person employed to channel money to the sister of a Montenegrin official.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Macedonian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR&nbsp;24 million</p>
+</td>
+<td>
+<p style="text-align: center;">Regulatory and other benefits from the government of Macedonia, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Illegitimate Expenditures&nbsp;Under&nbsp;Montenegrin Contracts</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 7 million</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        PricewaterhouseCoopers ("PWC") identified two questionable contracts when conducting its audit of Magyar Telekom's 2005 financial statements.  As a result of these findings, in February 2006 Magyar Telekom's Audit Committee retained White & Case as its independent legal counsel to conduct an investigation into whether the company made payments under those contracts, or other contracts, that were potentially prohibited by U.S. laws or regulations, including the FCPA, or by the company's internal policy.   Magyar Telekom is listed on the New York Stock Exchange ("NYSE").  <br /><br />The company disclosed the internal investigation to the Hungarian Financial Supervisory Authority ("HFSA"), as well as to the DOJ and SEC in the United States.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S. Enforcement<br /><br />U.S. enforcement authorities began an investigation into the transactions and expanded the investigation in 2007.  In a letter to the Audit Committees counsel, dated 27 February 2009, the DOJ requested that the Audit Committee pursue all reasonable avenues of investigation prior to completing the internal investigation and issuing a final report, recognizing that this may lead to a delay in the completion of the report.  The DOJ also requested that the Audit Committee not release the final report without the approval of the DOJ, given the possible interference with the DOJ's own investigation.  In the 27 February 2009 letter, the DOJ also stated that the company's assistance to the DOJ would be taken into account when the DOJ establishes its position on this matter.  <br /><br />On 29 December 2011, Magyar Telekom and Deutsche Telekom AG agreed to pay a combined USD 95 million to settle civil and criminal charges to resolve Foreign Corrupt Practices Act (FCPA) investigations into activities by Magyar Telekom and subsidiaries in Macedonia and Montenegro. The combined criminal penalty to the U.S. Department of Justice (DOJ) was USD 63.9 million, while Magyar Telekom agreed to settle the Securities and Exchange Commission's (SEC) charges by paying more than USD 31.2 million in disgorgement and pre-judgment interest settlement.  The DOJ filed a criminal information against Magyar Telekom and a two-year deferred prosecution agreement in U.S. District Court for the Eastern District of Virginia. The SEC also sued three former Magyar executives. <br /><br />Also on 29 December 2011, the SEC filed a civil complaint against Elek Straub, Andras Balogh and Tamas Morvai, alleging that they had engaged in bribery schemes that resulted in the payment of  EUR 4.875 million, and EUR 7.35 million, part of which was paid as bribes to Macedonian and Montenegrin officials, respectively.<br /><br />In five claims including FCPA bribery offenses, books and records offenses, false accounting, internal controls and false statements, the SEC complaint requests injunctive relief, disgorgement and civil penalties.<br /><br />On 29 October 2012, the defendants jointly filed a motion to dismiss the complaint.  The grounds for the requested dismissal were (1) lack of personal jurisdiction; (2) barred by the statute of limitations; (3) failure to adequately state a bribery offense or other claim upon which relief may be granted.  In a 5 December 2012  memorandum in opposition to the defendants' motion to dismiss the complaint, the SEC claims that the defendants are subject to personal jurisdiction because their conduct caused foreseeable consequences in the United States; that the statute of limitations only begins to run when the defendants enter the United States, which they have yet to do, and; the complaint identifies specific acts which fall within the purview of the claimed violations.  Responding to this memorandum, the defendants claim that the SEC ignored key documents that undermined its arguments, including the fact that the annual filing for 2005 was not filed by the company, but instead postponed, and a disclosure informed investors that the company would release the results when the internal investigation was complete.  <br /><br />On 8 February 2013, Judge Richard J. Sullivan of the U.S. District Court for the Southern District of New York denied the defendants' motion to dismiss in its entirety. Regarding the lack of personal jurisdiction claim, Judge Sullivan found that the SEC had established that Magyar Telekom's alleged bribes and concealment, even if occurring outside of the United States, were allegedly directed at the United States and thus were sufficient to meet the "minimum contacts" standard for personal jurisdiction in a U.S. district court. Judge Sullivan also found that the SEC sufficiently established the second part of the personal jurisdiction standard, which is that the court's exercise of jurisdiction over the defendants would not be unreasonable. <br /><br />Regarding the claim that the SEC's action was time barred, Judge Sullivan found in the plain language of the relevant statute that the five-year statute of limitations only begins when a defendant is "found within the United States." Over five years passed between the alleged conduct and the filing of the action, but the defendants were never "found within the United States" during this period. Therefore, the statute of limitations had not run. <br /><br />Finally, Judge Sullivan also rejected the defendants' three-tiered argument that the SEC's action failed to state a claim by not providing sufficient facts to support the allegations. Judge Sullivan found that the SEC provided sufficient facts to support 1) its claim that the defendants had made "use of the mails or any other means or instrumentality of interstate commerce corruptly in furtherance of" the alleged bribes; 2) its claim that the intended recipients of the alleged bribes were "foreign officials" under the FCPA; and 3) its claim regarding the alleged fraudulent behavior of each defendant in reference to the Exchange Act's rule on materially false or misleading statements in SEC filings and audits. The judge therefore denied the motion to dismiss in its entirety and ordered a status conference for April 2013.<br /><br />On 26 February 2013, the Wall Street Journal reported that these defendants have requested permission from Judge Sullivan to file an interlocutory appeal of his decision to the U.S. Court of Appeals for the Second Circuit. <br /><br />On 10 March 2014, the SEC announced that it was dropping allegations that former executives of the Hungarian unit of Deutsche Telekom (Mr. Straub,  Mr. Balogh and Mr. Morval) bribed officials in Montenegro.  The remaining allegations that the executives bribed government officials in Macedonia to block competition against Magyar are still pending. <br /><br />(According to Magyar Telekom's Second Half 2010 Results, the company faced ongoing investigations by the Macedonian, Montenegrin, Hungarian and U.S. governments.  The company cooperated with each government investigation.  At that time, the company stated that it had  incurred HUF 2.3 billion in expenses related to the investigation in 2010.) <br /><br />Montenegro Enforcement<br /><br />The Supreme State Prosecutor of the Republic of Montenegro is investigating Cmogorski Telekom, the company's Montenegrin subsidiary, in connection with the contracts at issue in the internal investigation.  <br /><br />Hungary Enforcement<br /><br />The Hungarian Central Investigating Chief Prosecutor's Office has commenced a criminal investigation into "alleged corruption with the intention of violating obligations in international relations and other alleged criminal offenses." The Hungarian National Bureau of Investigation ("NBI") is investigating "alleged misappropriation of funds relating to payments made in connection with the Company's ongoing internal investigation and the possible misuse of personal data of employees in the context of the internal investigation."<br /><br />Macedonia Enforcement<br /><br />The Ministry of Interior of the Republic of Macedonia issued requests to Magyar Telekom's Macedonian subsidiaries for information and documents related to certain procurement and dividend payment activities.  Based on a 10 December 2008 press release on the Macedonian Ministry of Interior website, it appears that the Ministry's Organized Crime Department submitted files to the Basic Public Prosecution Office of Organized Crime and Corruption in Macedonia, proposing that criminal charges be brought against four individuals, including three former Magyar Telekom Group employees.  These individuals are alleged to have committed an act of abuse of office and authorizations while employed at Makedonski Telekom (a Magyar Telekom subsidiary in Macedonia) in connection with five consulting contracts with a company called Chaptex Holdings Ltd. during 2005-2006.  <br /><br />Germany Enforcement<br /><br />According to press reports on 3 September 2010, Deutsche Telekom's offices were raided by German authorities in connection with an investigation by the Bonn Public Prosecutor's Office into the alleged misconduct in Macedonia and Montenegro.  German authorities began an investigation into whether Deutsche Telekom and its CEO, Rene Obermann, had any involvement in the matter.  According to press reports on 3 January 2011, prosecutors dropped their bribery investigation of Mr. Obermann and two others suspects, but were still investigating five others. 
+		<h2>COMPLIANCE MONITOR</h2>
+        None
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=152">Magyar Telekom Press Release: "Continued focus on cost cutting and customer retention, revised 2009 guidance" (6 August 2009)</a></p><p><a href="file.asp?id=598">Maygar Telekom Press Release: "Magyar Telekom Announces Receipt of Final Report of the Audit Committee's Internal Investigation" (3 December 2009)</a></p><p><a href="file.asp?id=599">Magyar Telekom: Form 6-K (3 December 2009)</a></p><p><a href="file.asp?id=1107">Magyar Telekom: First Half 2010 Results (5 August 2010)</a></p><p>FOXBusiness: "German Prosecuter Says It Searched Deutsche Telekom Offices" (3 September 2010)</p><p>realdeal.hu: "Deutsche Telekom investigated on suspicion of bribery at Hungarian unit" (3 September 2010)</p><p>BBC News: "Deutsche Telekom head Rene Obermann in bribery probe" (15 September 2010)</p><p>Wall Street Journal: "Deutsche Telekom Chief Cleared In German Bribery Probe" (3 January 2011)</p><p><a href="file.asp?id=1407">Magyar Telekom: Annual Report 2010 (24 February 2011)</a></p><p><a href="file.asp?id=1675">DOJ Press Release: "Magyar Telekom and Deutsche Telekom Resolve Foreign Corrupt Practices Act Investigation" (29 December 2011)</a></p><p><a href="file.asp?id=1676">SEC Litigation Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1677">SEC Press Release: "SEC Charges Magyar Telekom and Former Executives with Bribing Officials in Macedonia and Montenegro" (29 December 2011)</a></p><p><a href="file.asp?id=1678">SEC: Complaint for Executives (29 December 2011)</a></p><p><a href="file.asp?id=1679">SEC: Complaint for Companies (29 December 2011)</a></p><p><a href="file.asp?id=2073">Magyar Telekom Executives: Memorandum in Support of Motion to Dismiss (29 October 2012)</a></p><p>SEC: Memorandum in Opposition to Motion to Dismiss (5 December 2012)</p><p>Wall Street Journal: "Former Magyar Execs Ask for Appeal Pre-Trial" (26 February 2013)</p><p><a href="file.asp?id=2496">SEC Drops Some Charges Against Magyar Execs</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

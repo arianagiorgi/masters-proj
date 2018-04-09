@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192504746pu">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192504rtaxa" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - STR HOLDINGS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(324)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192504gfa5x" width="415" height="61" /></div>
+    
+        <h1>STR HOLDINGS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        STR Holdings, Inc. ("STR Holdings")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Solar encapsulants manufacturing and quality assurance services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Enfield, Connecticut, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        STR Holdings described the ongoing investigation as follows in its SEC Form 10-K filed on March 19, 2010: <br /><br />"We operate in a number of countries throughout the world, including countries known to have a reputation for corruption, and are subject to the risk that our employees and agents may take actions that are determined to be in violation of anti−corruption laws, including the FCPA. Any violation of the FCPA or other anti−corruption laws could result in substantial fines, sanctions, civil and/or criminal penalties and curtailment of operations in certain jurisdictions and might adversely affect our business, results of operations or financial condition. Other requirements can also be imposed on companies that violate the FCPA, including the appointment of a government−approved monitor or the implementation of enhanced compliance procedures. In addition, actual or alleged violations could damage our reputation and ability to do business and, if material, could be deemed a breach or event of default under our credit facilities. Further, detecting, investigating, and resolving actual or alleged violations is expensive and can consume significant time and attention of our senior management.<br /><br />In late 2008, in the course of routine monitoring of our internal controls, our internal audit staff discovered certain payments made and expenses for entertainment provided to government officials in India from approximately 2006 to 2008 that may have been in violation of the FCPA as well as Indian law. The payments and entertainment expenses were related to our quality assurance business and totaled approximately $26,000. Upon discovering such payments and expenses and performing an initial review and evaluation with the assistance of an outside forensic accounting firm, our Audit Committee directed outside legal counsel to perform an investigation. Our internal audit staff, outside legal counsel or forensic accounting firm performed investigative procedures in 12 of our foreign locations where major international operations are conducted. In the course of that investigation, we discovered up to approximately $74,000 in additional expenses since 2003 in two other jurisdictions that also may be inconsistent with the requirements of the FCPA. Our internal investigation uncovered no evidence that the payments or expenses were related to (i) falsifying, altering or otherwise influencing the conduct of our quality assurance tests or test results or (ii) securing any government contracts.<br /><br />After completing our internal investigation, we made personnel changes in India and enhanced our FCPA−related policies and procedures, including providing additional ethical and FCPA training to key employees, enhancing our monitoring of expenses and other internal controls and appointing a chief compliance director. It is possible that despite our efforts, additional FCPA issues, or issues under anti−corruption laws of other jurisdictions, could arise in the future. Any failure by us to comply with the FCPA or anti−corruption laws in the future could have a material adverse effect on our business, financial condition, results of operations and cash flows.<br /><br />In early June 2009, we self−reported the results of our inquiry to the U.S. Department of Justice, or the DOJ, and the enforcement division of the U.S. Securities and Exchange Commission, or the SEC. To our knowledge, the DOJ and SEC were not aware of this matter prior to our report. Shortly after our report, we provided additional information requested by the DOJ and SEC. Since providing that additional information, and as of the date of this filing, the DOJ has not responded to our report or requested any additional information from us. As of March 18, 2010, the DOJ has not informed us as to whether it intends to pursue this matter further. In addition, in connection with our initial public offering, the SEC advised us that because it does not appear that we were subject to the SEC's jurisdiction during the relevant period, the SEC does not intend to pursue this matter at this time. We cannot predict the outcome resulting from our report to the DOJ. Any criminal prosecution would be costly and time−consuming to defend and such defense may not be successful and would have a material adverse effect on our business, result in harm to our reputation and negatively impact our results of operations. In addition, any fines or penalties imposed by the DOJ could be substantial and any requirements imposed upon us by the DOJ could be difficult, time−consuming and expensive to implement and comply with and could result in difficulties in conducting business in foreign jurisdictions and maintaining existing and attracting new customer relationships. Any failure to comply with any such requirements could result in further prosecution, fines or penalties. Any adverse determination by the DOJ, if material, could also be deemed to be a breach of covenants and an event of default under our credit facilities, which could result in our being required to immediately repay the principal amount outstanding under such facilities and prevent us from borrowing under our revolving credit facility, and adversely affect our liquidity and financial condition."<br /><br />STR Holdings provided the following update in its SEC Form 10-K filed on March 11, 2011:<br /><br />"In late 2008, in the course of routine monitoring of our internal control, we discovered payments made and expenses incurred in our international Quality Assurance operations in India and China that may have been in violation of the FCPA as well as local law, which resulted in personnel changes and our adoption of enhanced FCPA-related policies, procedures, training and controls. It is possible that despite these efforts, additional FCPA or anti-corruption issues may arise in the future. We also self-reported the existence of these payments to the U.S. Department of Justice in 2009, which has not taken any action with respect to the reported matters. Any actions by this or any other governmental agencies, or any failure by us to comply with the FCPA or other anti-corruption laws, could have a material adverse effect on our business, financial condition, results of operations or cash flow."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1287">STR Holdings - SEC Form 10-K (March 19, 2010)</a></p><p><a href="file.asp?id=1413">STR Holdings - SEC Form 10-K (11 March 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

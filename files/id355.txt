@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925309t1eg">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925301i05j" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BOUTIQUE - ANGEL YOTZOV</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(355)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192530fh9q3" width="415" height="61" /></div>
+    
+        <h1>BOUTIQUE - ANGEL YOTZOV</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Bulgaria: Sofia City Prosecution Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Angel Yotzov (now-deceased Bulgarian businessman active in Zambia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Health products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bulgaria
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Zambia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The case is described as follows in the OECD's Phase 3 Report on Bulgaria's application of the OECD Anti-Bribery Convention: <br /><br />"Bribery of the Secretary of the Ministry of Health in Zambia involving a bribe of USD 270 000 in 2000. The alleged briber was the manager of a company 'Boutique - Angel Yotzov'. The Zambian official was convicted in 2007 and sentenced to 5 years' imprisonment. Bulgaria commenced a preliminary inquiry in 2007 and sent an MLA request to Zambia. Pre-trial proceedings against the alleged bribery began in 2008. The case was in limbo, pending Zambia's response to an MLA request, when the alleged briber died in June 2009. The proceedings were terminated in November 2010."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Zambian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As stated above, the case was closed in November 2010 due to the death of the defendant. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>According to the OECD, foreign bribery is not considered an area of high risk for Bulgarian businesses by Bulgarian public officials, the private sector or civil society.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>OECD Phase 3 Report on Bulgaria (18 March 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

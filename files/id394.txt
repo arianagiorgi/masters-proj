@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19260482655">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926043r7g8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ANALOGIC CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(394)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192604niqk8" width="415" height="61" /></div>
+    
+        <h1>ANALOGIC CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Denmark: Public Prosecutor for Serious Economic Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Analogic Corporation ("Analogic")<br />BK Medical ("BK"), a Danish subsidiary of Analogic
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design and manufacture of advanced medical imaging and security systems for healthcare and airport security markets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Peabody, Massachussets, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In its Annual Report and SEC Form 10-K for the fiscal year ending 31 January 2011, and again it the quarterly report filed on 7 March 2012, Analogic noted that it had  identified transactions involving the company's Danish subsidiary, BK Medical, and some of its foreign distributors, which may have violated U.S., Danish and other law as well as the company's business policies.  The Company added that the incidents "have included transactions in which the distributors paid BK Medical amounts in excess of amounts owed and BK Medical transferred the excess amounts, at the direction of the distributors, to third parties identified by the distributors. We have been unable to ascertain with certainty the ultimate beneficiaries or the purpose of these transfers."<br /><br />The company disclosed the findings to the DOJ, the SEC and the Danish Government.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        After disclosing the suspect transactions to US and Danish authorities, Analogic terminated employment of BK Medical employees who were involved in the transactions, and began winding down its relationship with BK Medical distributors who were involved.  In its SEC filing, the Company explained, "Revenue from sales to the BK Medical distributors with whom we have decided to wind down BK Medical's relationship, represented less than 1% of our total revenue in fiscal year 2011 and less than 2.5% of our total revenue in the three and six months ended January 31, 2012. During the six months ended January 31, 2012, we incurred employee termination costs of approximately $400 and inquiry-related costs of approximately $1,204 in connection with this matter."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1767">Analogic - SEC form 10-K for period ending 31 July 2011 (4 Oct. 2011)</a></p><p><a href="file.asp?id=1768">Analogic - SEC Form 10-Q for period ending 31 January 2012 (7 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

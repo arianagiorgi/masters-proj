@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192556i0bmn">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192556b6026" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WYNN RESORTS LIMITED</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(384)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19255656745" width="415" height="61" /></div>
+    
+        <h1>WYNN RESORTS LIMITED</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wynn Resorts Limited (Wynn Resorts)<br />Stephen A. Wynn (chairman and CEO of Wynn Resorts)<br />Wynn Macau (subsidiary of Wynn Resorts) <br />Wynn Las Vegas LLC (subsidiary of Wynn Resorts)<br />Kazuo Okada (former director of Wynn Resorts and formerly in control of approximately 20% of Wynn Resorts' shares)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Developer and operator of high end hotels and casinos
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paradise, Nevada, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In January 2012, Kazuo Okada, a member of the board of directors of Wynn Resorts and in control of approximately 20% of Wynn Resort's shares, filed a petition for a writ of mandamus against Wynn Resorts in Clark County District Court in Nevada, requesting that Wynn Resorts make its books and records available for the inspection of Mr. Okada, which it had refused to do upon formal request by Mr. Okada in November 2011.  The complaint alleges that beginning in 1999 or 2000, Mr. Okada provided funding for Wynn Resort's resort development projects, and that approximately USD 135 million of these funds were pledged by Wynn Macau to the University of Macau Development Foundation. The contribution is alleged to have consisted of a USD 25 million donation made in May 2011, and a commitment of additional donations of USD 10 million for each of the years between 2012 and 2022, when the concession received by Wynn Macau to build and operate a casino was scheduled to expire.  <br /><br />Wynn announced that on 8 February 2012, "following Mr. Okada's lawsuit, the company received a letter from the Salt Lake Regional Office of the U.S. Securities and Exchange Commission requesting that, in connection with an informal inquiry by the SEC, the company preserve information relating to the donation to the University of Macau, any donations by the company to any other educational charitable institutions, including the University of Macau Development Foundation, and the company's casino or concession gaming licenses or renewals in Macau. The company intends to fully comply with the SEC's request."<br /><br />In an additional statement, Wynn noted, "Wynn Resorts Ltd., made a commitment to the University of Macau Development Foundation in support of the new Asia-Pacific Academy of Economics and Management. This contribution consists of a $25 million payment made in May 2011 and a commitment for additional donations of $10 million each year for the calendar years 2012 through 2022 inclusive. The pledge was consistent with the company's long-standing practice of providing philanthropic support for deserving institutions in the markets in which it operates. The pledge was made following an extensive analysis which concluded that the gift was made in accordance with all applicable laws. The pledge was considered by the Boards of Directors of both the company and Wynn Macau and approved by 15 of the 16 directors who serve on those boards. The sole dissenting vote was Mr. Kazuo Okada whose stated objection was to the length of time over which the donation would occur, not its propriety."<br /><br />Reuters reported on 10 April 2013 that the U.S. Department of Justice ("DOJ") filed a motion to intervene in a law suit in a Nevada state court between Okada and Wynn Resorts "to prevent disrupting an ongoing criminal probe into the bribery allegations." The story said that the filing disclosed that the DOJ has initiated investigation of the company's donation to the University of Macau. <br /><br />Additional details regarding the bribery allegations against Mr. Okada and his companies are found in the Compendium entries entitled "Universal Entertainment Corp."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%"><strong>Approximate Alleged Payments to Chinese Officials<br /></strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr style="text-align: center;">
+<td>USD 25 million donation in 2011 and commitment for USD 10 million donation per year from 2012 to 2022</td>
+<td>Concession to build and operate a casino in Macau<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The allegations were disclosed in Okada's January 2012 complaint filed against Wynn requesting full disclosure of Wynn Resorts' financial transactions, including contributions to the University of Macau.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        According to a Wall Street Journal story from 9 July 2013, the SEC has told Wynn Resorts that is has decided to not recommend formal civil enforcement against the company regarding the donation to the University of Macau. <br /><br />The DOJ's investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>SEC investigations can be spawned by disputes between shareholders.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1705">Okada v. Wynn Resorts Complaint (1 January 2012)</a></p><p><a href="file.asp?id=1703">Wynn Resorts: SEC Form 8-K (13 February 2012)</a></p><p><a href="file.asp?id=1702">Wynn Resorts: SEC Form 8-K (18 February 2012)</a></p><p><a href="file.asp?id=1706">Wynn Resorts v. Okada (18 February 2012)</a></p><p><a href="file.asp?id=1741">Wynn Resorts: Notice of removal from state court to federal court (12 March 2012)</a></p><p><a href="file.asp?id=1873">Wynn Resorts: SEC Form 10-Q (10 May 2012)</a></p><p><a href="file.asp?id=2048">Wynn Resorts: SEC Form 10-Q (9 November 2012)</a></p><p>Reuters: "U.S. says Okada's Universal is target of criminal bribery probe" (10 April 2013)</p><p>Wall Street Journal: "Wynn Resorts: SEC Doesn't Plan Action After Inquiry Into Macau Unit" (9 July 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #000000;">Charities</span><br /><span style="color: #006600;">Entertainment/Film </span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

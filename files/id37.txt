@@ -1,0 +1,426 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170723h98eb">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707235xa4h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LATIN NODE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(37)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707237jho5" width="415" height="61" /></div>
+    
+        <h1>LATIN NODE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        eLandia International, Inc. (publicly-held parent company of Latin Node) ("eLandia")<br />Latin Node, Inc. (subsidiary of eLandia International, Inc.) ("Latin Node")<br />Jorge Granados (former chief executive officer at Latin Node)<br />Manuel Caceres (former vice president of business development at Latin Node)<br />Manuel Salvoch (former chief financial officer at Latin Node)<br />Juan Pablo Vasquez (former chief commercial officer at Latin Node)<br />Marcelo Chimirri (former managing director of Hondutel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Wholesale telecommunications services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Miami, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Honduras<br />Yemen<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From March 2004 until June 2007, Latin Node (a recently acquired subsidiary of eLandia International, Inc. and a privately-held company at the time) paid approximately USD 1,099,889 to employees of the state-owned telecommunications company in Honduras, Empresa Hondureña de Telecomunicaciones ("Hondutel").  The payments were made through its local consultant, employees of a local subsidiary and directly from the company's bank account in Miami.  <br /><br />Latin Node authorized a portion of the payments in order to win an interconnection agreement with Hondutel, which allowed the company to use Hondutel's telecommunications lines.  These payments were made through its local consultant, a company believed to be controlled by the brother of the official at Hondutel who was responsible for awarding interconnection agreements.  Latin Node then made additional payments to reduce the rate per minute under the interconnection agreement.  In June 2007, Latin Node hired the Honduran official who awarded the interconnection agreement to head business development for Latin America and the Caribbean. <br /><br />In addition, from July 2005 until April 2006, Latin Node paid approximately USD 1,150,654 to Yemeni government officials in exchange for favorable interconnection rates.  Latin Node gained entry into the Yemeni market by partnering with a company that had already received a favorable interconnection rate.  Under their revenue sharing agreement, Latin Node received 60% of the profits and its partner received 40%.  It was understood that Latin Nodes partner would then pay officials at TeleYemen, the state-owned telecommunications company, in order to maintain the favorable rates.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Honduran Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,099,889</p>
+</td>
+<td>
+<p style="text-align: center;">Interconnection agreement with Hondutel and reduced rate per minute charges under the agreement</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Yemeni Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,150,654</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced rate per minute charge under interconnection agreements</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2007, eLandia acquired Latin Node and discovered the potentially illegal payments.  The company retained the law firm Holland & Knight to conduct an internal investigation and voluntarily disclosed the conduct to the DOJ within three months of the initial discovery.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 April 2009, Latin Node pleaded guilty to a one-count criminal information as part of a plea agreement with the government.  Under the agreement, Latin Node agreed to pay a USD 2,000,000 criminal fine, a USD 400 special assessment and agreed to continue its cooperation with the government.  <br /><br />The DOJ noted that the USD 2,000,000 statutory maximum fine was appropriate in this case, rather than calculating the fine under the Alternative Fines Act, because of the impossibility of calculating the profits or losses under the contracts since eLandia had terminated them upon discovering the illegal payments.  <br /><br />The DOJ also noted eLandia's extraordinary cooperation with the investigation, including its prompt voluntary disclosure to the government and its significant remedial efforts.  In particular, the government noted that eLandia terminated those Latin Node employees who were responsible for the conduct and strengthened its own anti-bribery compliance program even though no eLandia employees were involved in the conduct.  The government also cited Latin Node's acceptance of responsibility for its conduct and the fact that Latin Node only existed as a shell company for purposes of entering into a plea agreement with the government.  <br /><br />On 20 December 2010, Jorge Granados, Latin Node's former chief executive officer, and Manuel Caceres, the former vice president of business development, were arrested and indicted for allegedly paying more than USD 500,000 in bribes to government officials in Honduras.  The 19-count indictment, which was initially returned by a federal grand jury in Miami on 14 December 2010 and was unsealed on 20 December 2010, charged the two men with criminal violations of the FCPA and international money laundering.   Caceres pleaded guilty on 18 May 2011 and Granados pleaded guilty on 19 May 2011.  On 7 September 2011, Granados was sentenced to 46 months in prison, to be followed by two years of supervised release.<br /><br />On 19 April 2012, Caceres was sentenced to 23 months in prison; he is scheduled to begin serving his sentence in a Florida prison in July 2012.<br /><br />On 17 December 2010, Manuel Salvoch, Latin Node's former chief financial officer, and Juan Pablo Vasquez, the chief commercial officer, were charged in a sealed criminal information with conspiracy to violate the FCPA.  Salvoch was arrested on 11 January 2011 and pleaded guilty on 12 January 2011.  He faces up to five years in prison and fine of USD 250,000 or more, and three years of supervised released.  Salvoch is serving as a cooperating witness for the DOJ.  Vasquez pleaded guilty on 21 January 2011.<br /><br />Salvoch was sentenced to 10 months of prison on 8 June 2012, to be followed by three years of supervised release.  Vazquez  received three years of probation.<br /><br />In Honduras, the country's Supreme Court on 22 January 2013 acquitted Marcelo Chimirri, former managing director of Hondutel, of all charges of bribery, fraud and abuse of authority.   Several other Hondutel employees are still on trial there.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A parent company's cooperation with the DOJ can prevent criminal charges for that company and can render a more favorable settlement for its subsidiaries.</li><li>A company considering a merger or acquisition should conduct thorough pre-merger due diligence on the target company in order to uncover any potential FCPA violations.</li><li>Payments to employees of state-owned entities can form the basis of an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=146">Criminal Information: U.S. v. Latin Node, Inc. (March 23, 2009)</a></p><p><a href="file.asp?id=1133">Statement of Offense: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=147">Plea Agreement: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=148">Sentencing Memo: U.S. v. Latin Node, Inc.  (April 3, 2009)</a></p><p><a href="file.asp?id=1132">Judgment: U.S. v. Latin Node, Inc. (April 8, 2009)</a></p><p><a href="file.asp?id=145">DOJ Press Release: April 7, 2009 (Latin Node Inc., Pleads Guilty to Foreign Corrupt Practices Act Violation and Agrees to Pay $2 Million Criminal Fine)</a></p><p><a href="file.asp?id=1262">DOJ Press Release: December 20, 2010 (Former Senior Executives of Latin Node Inc. Charged with Bribing Honduran Officials and Money Laundering)</a></p><p><a href="file.asp?id=1368">Criminal Information: U.S. v. Manuel Salvoch (17 Dec. 2010)</a></p><p><a href="file.asp?id=1369">Plea Agreement: U.S. v. Manuel Salvoch (12 Jan. 2011)</a></p><p><a href="file.asp?id=1491">DOJ Press Release: 19 May 2011 (Former CEO of U.S. Telecommunications Company Pleads Guilty to Foreign Bribery Conspiracy)</a></p><p><a href="file.asp?id=1584">DOJ Press Release: 8 Sept. 2011 (Former CEO of U.S. Telecommunications Company Sentenced to 46 Months in Prison for Bribing Foreign Government Officials)</a></p><p><a href="file.asp?id=1868">Latin Node - Sentencing Memorandum (Salvoch) (7 June 2012)</a></p><p><a href="file.asp?id=1869">Latin Node - Judgement (Salvoch) (8 June 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184232sx873">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842327c62c" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LATIN NODE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(37)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842323yc5m" width="415" height="61" /></div>
+    
+        <h1>LATIN NODE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        eLandia International, Inc. (publicly-held parent company of Latin Node) ("eLandia")<br />Latin Node, Inc. (subsidiary of eLandia International, Inc.) ("Latin Node")<br />Jorge Granados (former chief executive officer at Latin Node)<br />Manuel Caceres (former vice president of business development at Latin Node)<br />Manuel Salvoch (former chief financial officer at Latin Node)<br />Juan Pablo Vasquez (former chief commercial officer at Latin Node)<br />Marcelo Chimirri (former managing director of Hondutel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Wholesale telecommunications services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Miami, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Honduras<br />Yemen<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From March 2004 until June 2007, Latin Node (a recently acquired subsidiary of eLandia International, Inc. and a privately-held company at the time) paid approximately USD 1,099,889 to employees of the state-owned telecommunications company in Honduras, Empresa Hondureña de Telecomunicaciones ("Hondutel").  The payments were made through its local consultant, employees of a local subsidiary and directly from the company's bank account in Miami.  <br /><br />Latin Node authorized a portion of the payments in order to win an interconnection agreement with Hondutel, which allowed the company to use Hondutel's telecommunications lines.  These payments were made through its local consultant, a company believed to be controlled by the brother of the official at Hondutel who was responsible for awarding interconnection agreements.  Latin Node then made additional payments to reduce the rate per minute under the interconnection agreement.  In June 2007, Latin Node hired the Honduran official who awarded the interconnection agreement to head business development for Latin America and the Caribbean. <br /><br />In addition, from July 2005 until April 2006, Latin Node paid approximately USD 1,150,654 to Yemeni government officials in exchange for favorable interconnection rates.  Latin Node gained entry into the Yemeni market by partnering with a company that had already received a favorable interconnection rate.  Under their revenue sharing agreement, Latin Node received 60% of the profits and its partner received 40%.  It was understood that Latin Nodes partner would then pay officials at TeleYemen, the state-owned telecommunications company, in order to maintain the favorable rates.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Honduran Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,099,889</p>
+</td>
+<td>
+<p style="text-align: center;">Interconnection agreement with Hondutel and reduced rate per minute charges under the agreement</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Yemeni Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,150,654</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced rate per minute charge under interconnection agreements</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2007, eLandia acquired Latin Node and discovered the potentially illegal payments.  The company retained the law firm Holland & Knight to conduct an internal investigation and voluntarily disclosed the conduct to the DOJ within three months of the initial discovery.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 April 2009, Latin Node pleaded guilty to a one-count criminal information as part of a plea agreement with the government.  Under the agreement, Latin Node agreed to pay a USD 2,000,000 criminal fine, a USD 400 special assessment and agreed to continue its cooperation with the government.  <br /><br />The DOJ noted that the USD 2,000,000 statutory maximum fine was appropriate in this case, rather than calculating the fine under the Alternative Fines Act, because of the impossibility of calculating the profits or losses under the contracts since eLandia had terminated them upon discovering the illegal payments.  <br /><br />The DOJ also noted eLandia's extraordinary cooperation with the investigation, including its prompt voluntary disclosure to the government and its significant remedial efforts.  In particular, the government noted that eLandia terminated those Latin Node employees who were responsible for the conduct and strengthened its own anti-bribery compliance program even though no eLandia employees were involved in the conduct.  The government also cited Latin Node's acceptance of responsibility for its conduct and the fact that Latin Node only existed as a shell company for purposes of entering into a plea agreement with the government.  <br /><br />On 20 December 2010, Jorge Granados, Latin Node's former chief executive officer, and Manuel Caceres, the former vice president of business development, were arrested and indicted for allegedly paying more than USD 500,000 in bribes to government officials in Honduras.  The 19-count indictment, which was initially returned by a federal grand jury in Miami on 14 December 2010 and was unsealed on 20 December 2010, charged the two men with criminal violations of the FCPA and international money laundering.   Caceres pleaded guilty on 18 May 2011 and Granados pleaded guilty on 19 May 2011.  On 7 September 2011, Granados was sentenced to 46 months in prison, to be followed by two years of supervised release.<br /><br />On 19 April 2012, Caceres was sentenced to 23 months in prison; he is scheduled to begin serving his sentence in a Florida prison in July 2012.<br /><br />On 17 December 2010, Manuel Salvoch, Latin Node's former chief financial officer, and Juan Pablo Vasquez, the chief commercial officer, were charged in a sealed criminal information with conspiracy to violate the FCPA.  Salvoch was arrested on 11 January 2011 and pleaded guilty on 12 January 2011.  He faces up to five years in prison and fine of USD 250,000 or more, and three years of supervised released.  Salvoch is serving as a cooperating witness for the DOJ.  Vasquez pleaded guilty on 21 January 2011.<br /><br />Salvoch was sentenced to 10 months of prison on 8 June 2012, to be followed by three years of supervised release.  Vazquez  received three years of probation.<br /><br />In Honduras, the country's Supreme Court on 22 January 2013 acquitted Marcelo Chimirri, former managing director of Hondutel, of all charges of bribery, fraud and abuse of authority.   Several other Hondutel employees are still on trial there.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A parent company's cooperation with the DOJ can prevent criminal charges for that company and can render a more favorable settlement for its subsidiaries.</li><li>A company considering a merger or acquisition should conduct thorough pre-merger due diligence on the target company in order to uncover any potential FCPA violations.</li><li>Payments to employees of state-owned entities can form the basis of an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=146">Criminal Information: U.S. v. Latin Node, Inc. (March 23, 2009)</a></p><p><a href="file.asp?id=1133">Statement of Offense: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=147">Plea Agreement: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=148">Sentencing Memo: U.S. v. Latin Node, Inc.  (April 3, 2009)</a></p><p><a href="file.asp?id=1132">Judgment: U.S. v. Latin Node, Inc. (April 8, 2009)</a></p><p><a href="file.asp?id=145">DOJ Press Release: April 7, 2009 (Latin Node Inc., Pleads Guilty to Foreign Corrupt Practices Act Violation and Agrees to Pay $2 Million Criminal Fine)</a></p><p><a href="file.asp?id=1262">DOJ Press Release: December 20, 2010 (Former Senior Executives of Latin Node Inc. Charged with Bribing Honduran Officials and Money Laundering)</a></p><p><a href="file.asp?id=1368">Criminal Information: U.S. v. Manuel Salvoch (17 Dec. 2010)</a></p><p><a href="file.asp?id=1369">Plea Agreement: U.S. v. Manuel Salvoch (12 Jan. 2011)</a></p><p><a href="file.asp?id=1491">DOJ Press Release: 19 May 2011 (Former CEO of U.S. Telecommunications Company Pleads Guilty to Foreign Bribery Conspiracy)</a></p><p><a href="file.asp?id=1584">DOJ Press Release: 8 Sept. 2011 (Former CEO of U.S. Telecommunications Company Sentenced to 46 Months in Prison for Bribing Foreign Government Officials)</a></p><p><a href="file.asp?id=1868">Latin Node - Sentencing Memorandum (Salvoch) (7 June 2012)</a></p><p><a href="file.asp?id=1869">Latin Node - Judgement (Salvoch) (8 June 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920484js64">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920487y6f9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LATIN NODE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(37)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920485ncaa" width="415" height="61" /></div>
+    
+        <h1>LATIN NODE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        eLandia International, Inc. (publicly-held parent company of Latin Node) ("eLandia")<br />Latin Node, Inc. (subsidiary of eLandia International, Inc.) ("Latin Node")<br />Jorge Granados (former chief executive officer at Latin Node)<br />Manuel Caceres (former vice president of business development at Latin Node)<br />Manuel Salvoch (former chief financial officer at Latin Node)<br />Juan Pablo Vasquez (former chief commercial officer at Latin Node)<br />Marcelo Chimirri (former managing director of Hondutel)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Wholesale telecommunications services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Miami, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Honduras<br />Yemen<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From March 2004 until June 2007, Latin Node (a recently acquired subsidiary of eLandia International, Inc. and a privately-held company at the time) paid approximately USD 1,099,889 to employees of the state-owned telecommunications company in Honduras, Empresa Hondureña de Telecomunicaciones ("Hondutel").  The payments were made through its local consultant, employees of a local subsidiary and directly from the company's bank account in Miami.  <br /><br />Latin Node authorized a portion of the payments in order to win an interconnection agreement with Hondutel, which allowed the company to use Hondutel's telecommunications lines.  These payments were made through its local consultant, a company believed to be controlled by the brother of the official at Hondutel who was responsible for awarding interconnection agreements.  Latin Node then made additional payments to reduce the rate per minute under the interconnection agreement.  In June 2007, Latin Node hired the Honduran official who awarded the interconnection agreement to head business development for Latin America and the Caribbean. <br /><br />In addition, from July 2005 until April 2006, Latin Node paid approximately USD 1,150,654 to Yemeni government officials in exchange for favorable interconnection rates.  Latin Node gained entry into the Yemeni market by partnering with a company that had already received a favorable interconnection rate.  Under their revenue sharing agreement, Latin Node received 60% of the profits and its partner received 40%.  It was understood that Latin Nodes partner would then pay officials at TeleYemen, the state-owned telecommunications company, in order to maintain the favorable rates.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Honduran Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,099,889</p>
+</td>
+<td>
+<p style="text-align: center;">Interconnection agreement with Hondutel and reduced rate per minute charges under the agreement</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Yemeni Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,150,654</p>
+</td>
+<td>
+<p style="text-align: center;">Reduced rate per minute charge under interconnection agreements</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In June 2007, eLandia acquired Latin Node and discovered the potentially illegal payments.  The company retained the law firm Holland & Knight to conduct an internal investigation and voluntarily disclosed the conduct to the DOJ within three months of the initial discovery.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 April 2009, Latin Node pleaded guilty to a one-count criminal information as part of a plea agreement with the government.  Under the agreement, Latin Node agreed to pay a USD 2,000,000 criminal fine, a USD 400 special assessment and agreed to continue its cooperation with the government.  <br /><br />The DOJ noted that the USD 2,000,000 statutory maximum fine was appropriate in this case, rather than calculating the fine under the Alternative Fines Act, because of the impossibility of calculating the profits or losses under the contracts since eLandia had terminated them upon discovering the illegal payments.  <br /><br />The DOJ also noted eLandia's extraordinary cooperation with the investigation, including its prompt voluntary disclosure to the government and its significant remedial efforts.  In particular, the government noted that eLandia terminated those Latin Node employees who were responsible for the conduct and strengthened its own anti-bribery compliance program even though no eLandia employees were involved in the conduct.  The government also cited Latin Node's acceptance of responsibility for its conduct and the fact that Latin Node only existed as a shell company for purposes of entering into a plea agreement with the government.  <br /><br />On 20 December 2010, Jorge Granados, Latin Node's former chief executive officer, and Manuel Caceres, the former vice president of business development, were arrested and indicted for allegedly paying more than USD 500,000 in bribes to government officials in Honduras.  The 19-count indictment, which was initially returned by a federal grand jury in Miami on 14 December 2010 and was unsealed on 20 December 2010, charged the two men with criminal violations of the FCPA and international money laundering.   Caceres pleaded guilty on 18 May 2011 and Granados pleaded guilty on 19 May 2011.  On 7 September 2011, Granados was sentenced to 46 months in prison, to be followed by two years of supervised release.<br /><br />On 19 April 2012, Caceres was sentenced to 23 months in prison; he is scheduled to begin serving his sentence in a Florida prison in July 2012.<br /><br />On 17 December 2010, Manuel Salvoch, Latin Node's former chief financial officer, and Juan Pablo Vasquez, the chief commercial officer, were charged in a sealed criminal information with conspiracy to violate the FCPA.  Salvoch was arrested on 11 January 2011 and pleaded guilty on 12 January 2011.  He faces up to five years in prison and fine of USD 250,000 or more, and three years of supervised released.  Salvoch is serving as a cooperating witness for the DOJ.  Vasquez pleaded guilty on 21 January 2011.<br /><br />Salvoch was sentenced to 10 months of prison on 8 June 2012, to be followed by three years of supervised release.  Vazquez  received three years of probation.<br /><br />In Honduras, the country's Supreme Court on 22 January 2013 acquitted Marcelo Chimirri, former managing director of Hondutel, of all charges of bribery, fraud and abuse of authority.   Several other Hondutel employees are still on trial there.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A parent company's cooperation with the DOJ can prevent criminal charges for that company and can render a more favorable settlement for its subsidiaries.</li><li>A company considering a merger or acquisition should conduct thorough pre-merger due diligence on the target company in order to uncover any potential FCPA violations.</li><li>Payments to employees of state-owned entities can form the basis of an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=146">Criminal Information: U.S. v. Latin Node, Inc. (March 23, 2009)</a></p><p><a href="file.asp?id=1133">Statement of Offense: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=147">Plea Agreement: U.S. v. Latin Node, Inc. (April 3, 2009)</a></p><p><a href="file.asp?id=148">Sentencing Memo: U.S. v. Latin Node, Inc.  (April 3, 2009)</a></p><p><a href="file.asp?id=1132">Judgment: U.S. v. Latin Node, Inc. (April 8, 2009)</a></p><p><a href="file.asp?id=145">DOJ Press Release: April 7, 2009 (Latin Node Inc., Pleads Guilty to Foreign Corrupt Practices Act Violation and Agrees to Pay $2 Million Criminal Fine)</a></p><p><a href="file.asp?id=1262">DOJ Press Release: December 20, 2010 (Former Senior Executives of Latin Node Inc. Charged with Bribing Honduran Officials and Money Laundering)</a></p><p><a href="file.asp?id=1368">Criminal Information: U.S. v. Manuel Salvoch (17 Dec. 2010)</a></p><p><a href="file.asp?id=1369">Plea Agreement: U.S. v. Manuel Salvoch (12 Jan. 2011)</a></p><p><a href="file.asp?id=1491">DOJ Press Release: 19 May 2011 (Former CEO of U.S. Telecommunications Company Pleads Guilty to Foreign Bribery Conspiracy)</a></p><p><a href="file.asp?id=1584">DOJ Press Release: 8 Sept. 2011 (Former CEO of U.S. Telecommunications Company Sentenced to 46 Months in Prison for Bribing Foreign Government Officials)</a></p><p><a href="file.asp?id=1868">Latin Node - Sentencing Memorandum (Salvoch) (7 June 2012)</a></p><p><a href="file.asp?id=1869">Latin Node - Judgement (Salvoch) (8 June 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

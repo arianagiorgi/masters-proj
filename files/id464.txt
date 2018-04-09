@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192706jsvub">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192706ki370" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LAS VEGAS SANDS CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(464)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19270622rf7" width="415" height="61" /></div>
+    
+        <h1>LAS VEGAS SANDS CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Las Vegas Sands Corp. ("LVSC")<br />Sands China Ltd. ("SCL;" LVSC's subsidiary in Macau, China)<br />Steven C. Jacobs (former chief executive officer ("CEO") of SCL)<br />Sheldon Adelson (CEO of LVSC)<br />Leonel Alves (member of the Chinese People's Political Consultative Conference and a Macau legislator)<br />Yang Saixin (Chinese businessman)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Owner and operator of several casinos and resorts around the world
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Las Vegas, Nevada, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 1 March 2011, LVSC made public in its annual Form 10-K that it had been subpoenaed by the U.S. Securities and Exchange Commission ("SEC") in early February of that year regarding possible violations of the FCPA.  It also disclosed that it was under investigation by the U.S. Department of Justice ("DOJ").<br /><br />On 16 July 2012, ProPublica and PBS Frontline published a joint story detailing the alleged bribes based off of documents they obtained which included dozens of emails, billing invoices, memos and reports that circulated among top executives of LVSC and its attorneys.  The story published on ProPublica's website claimed that Sheldon Adelson, CEO of LVSC, instructed a top executive to pay about USD 700,000 in legal fees to Leonel Alves, a Macau legislator whose firm was serving as outside counsel to LVSC in Macau.<br /><br />An in-depth New York Times article from 13 August 2012 detailed the relationship between Sheldon Adelson and Yang Saixin, a Chinese businessman.  The article, based on a review of "more than a thousand pages of corporate records in China, as well as interviews with former Sands executives and others," alleged that "Sands paid out more than $70 million to companies tied to Mr. Yang for the trade center and for a Chinese basketball team the Sands sponsored. But several million dollars appear to be unaccounted for after the projects were suddenly shut down by the company, The New York Times found.  What became of any missing money and whether any of it wound up in the hands of Chinese officials are among the questions being examined by the Federal Bureau of Investigation, the Justice Department and the Securities and Exchange Commission."<br /><br />In its Form 10-K filed with the SEC on 1 March 2013, LVSC said that its "Audit Committee advised the Company and its independent accountants that it had reached certain preliminary findings, including that there were likely violations of the books and records and internal controls provisions of the FCPA." In a press release dated 3 March 2013, and in response to news reports, LVSC insisted that its Form 10-K only referred to the accounting provisions of the FCPA and that no violations of the FCPA's anti-bribery provisions have occurred. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unknown</td>
+<td style="text-align: center;">&nbsp;Unknown</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to the 13 August 2012 New York Times article, federal investigators began looking into LVSC's activities in China after Steven C. Jacobs, former CEO of SCL, filed a wrongful termination lawsuit in 2010 which alleged that he had been pressured to exercise improper leverage against government officials in Macau. <br /><br />LVSC's Form 10-K filed with the SEC on 1 March 2011 also said:<br /><br />"On October 20, 2010, Steven C. Jacobs, the former Chief Executive Officer of SCL, filed an action against LVSC and SCL in the District Court of Clark County, Nevada, alleging breach of contract against LVSC and SCL and breach of the implied covenant of good faith and fair dealing and tortious discharge in violation of public policy against LVSC. Mr. Jacobs is seeking unspecified damages. This action is in a preliminary stage. The Company intends to vigorously defend this matter.  <br /><br />"On February 9, 2011, LVSC received a subpoena from the Securities and Exchange Commission requesting that the Company produce documents relating to its compliance with the Foreign Corrupt Practices Act (the 'FCPA'). The Company has also been advised by the Department of Justice that it is conducting a similar investigation. It is the Company's belief that the subpoena may have emanated from allegations contained in the lawsuit filed by Steven C. Jacobs described above. The Company intends to cooperate with the investigations." 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />The DOJ and SEC investigations are ongoing.<br /><br />Hong Kong<br /><br />On 20 December 2011, the Wall Street Journal reported that the Securities and Futures Commission in Hong Kong had notified SCL that it conducted an investigation of undisclosed allegations relating to SCL and that it would not take any regulatory action against it. The article stated that it is unclear whether this investigation was in any way related to the investigations of the DOJ and SEC, and it is also unknown if any allegations of bribery were investigated.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2108">Las Vegas Sands: SEC Form 10-K (1 March 2011)</a></p><p>Wall Street Journal: "Macau Sansd Says Hong Kong Probe is Over" (20 December 2011)</p><p><a href="file.asp?id=2106">Las Vegas Sands: SEC Form 10-Q (10 May 2012)</a></p><p>ProPublica: "Inside the Investigation of Leading Republican Money Man Sheldon Adelson" (16 July 2012)</p><p><a href="file.asp?id=2107">Las Vegas Sands: SEC Form 10-Q (9 August 2012)</a></p><p>New York Times: "Scrutiny for Casino Mogul's Frontman in China" (13 August 2012)</p><p><a href="file.asp?id=2160">Las Vegas Sands: SEC Form 10-K (1 March 2013)</a></p><p><a href="file.asp?id=2161">Las Vegas Sands: Press Release (3 March 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

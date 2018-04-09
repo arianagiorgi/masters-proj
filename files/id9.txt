@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1706570o00x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17065783k7t" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHIQUITA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(9)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1706578tvgq" width="415" height="61" /></div>
+    
+        <h1>CHIQUITA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chiquita Brands International, Inc. ("Chiquita")<br />Bananos de Exportacion S.A. (Chiquita's subsidiary in Colombia) ("Banadex")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Banana production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Cincinnati, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Colombia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Chiquita violated the books and records and internal controls provisions of the FCPA through the conduct of its indirect wholly-owned subsidiary in Colombia, Banadex.  Chiquita's Colombian operations included a number of banana farms located throughout the country, as well as an import/export facility in the city of Turbo, which was owned and operated by Banadex.  Beginning in 1993, the Colombian government licensed the Turbo port facility to store goods pending their inspection by customs officials.  In 1995, the government issued a decree requiring all license holders to submit renewal applications.  Banadex learned of the decree through its customs broker, Comercio Exterior Asesores Limitada ("CEA"), (under Colombian law, companies are required to hire licensed customs brokers to interact with customs officials on their behalf).  <br /><br />In September 1995, Banadex management was advised by an employee that the port facility's renewal was in jeopardy due to two earlier citations for failure to comply with customs regulations, and that replacing the port facility would cost the company approximately USD 1 million.  Banadex's chief administrative officer, without the knowledge or consent of any Chiquita employee and in contravention of Chiquita's policies, authorized CEA to make a payment to Colombian customs officials in order to secure the license renewal.  At the direction of the chief administrative officer, Banadex's security officer and controller made  two installment payments totaling USD 30,000.   Both installments were paid by Banadex's security officer through the company's discretionary spending account.  The first installment payment was identified in the company's books and records as a maritime donation; the second payment was described as related to a maritime agreement.  Banadex did not inform or request permission from any Chiquita employee within the U.S. regarding the payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Colombian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1 million in averted costs of replacing the Turbo port facility</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The SEC acknowledged that Chiquita's policies and procedures contain strict guidelines regarding the use of discretionary expenses accounts.  In 1996, Chiquita's internal auditing staff notified management of a number of instances where Banadex had failed to provide documentation regarding discretionary expenses, as required by Chiquita's internal accounting control procedures.  Chiquita had strict policies prohibiting improper payments to customs officials and the company monitored and enforced those policies by requiring the quarterly identification and disclosure of all payments to government officials or employees, political candidates, or political parties. In contravention of Chiquita policy, Banadex failed to identify and disclose the USD 30,000 in payments on the disclosure forms submitted for the relevant quarters.  <br /><br />In April 1997, Chiquita's internal audit staff uncovered the payments during an audit review of Banadex.  Chiquita conducted an internal investigation and took corrective action, including terminating the responsible Banadex employees and reinforcing its internal controls with respect to its Colombian operations.  Chiquita voluntarily disclosed the matter to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 3 October 2001, without admitting or denying the allegations, Chiquita consented to the entry of a cease-and-desist order.  Under a settled complaint filed by the SEC on the same day, Chiquita agreed to pay a USD 100,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may exercise leniency with a company that has an established anti-bribery compliance program and functioning internal controls, should the company discover that violations of its policies have occurred within one of its business units or subsidiaries.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=46">SEC Litigation Release: October 3, 2001 (SEC Settles Case Against Chiquita Brands International, Inc.)</a></p><p><a href="file.asp?id=47">Cease-and-Desist Order: In the Matter of Chiquita Brands International, Inc. (October 3, 2001)</a></p><p><a href="file.asp?id=48">Complaint: SEC v. Chiquita Brands International, Inc. (October 3, 2001)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184207x027a">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184207kv532" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHIQUITA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(9)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842072adk7" width="415" height="61" /></div>
+    
+        <h1>CHIQUITA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chiquita Brands International, Inc. ("Chiquita")<br />Bananos de Exportacion S.A. (Chiquita's subsidiary in Colombia) ("Banadex")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Banana production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Cincinnati, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Colombia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Chiquita violated the books and records and internal controls provisions of the FCPA through the conduct of its indirect wholly-owned subsidiary in Colombia, Banadex.  Chiquita's Colombian operations included a number of banana farms located throughout the country, as well as an import/export facility in the city of Turbo, which was owned and operated by Banadex.  Beginning in 1993, the Colombian government licensed the Turbo port facility to store goods pending their inspection by customs officials.  In 1995, the government issued a decree requiring all license holders to submit renewal applications.  Banadex learned of the decree through its customs broker, Comercio Exterior Asesores Limitada ("CEA"), (under Colombian law, companies are required to hire licensed customs brokers to interact with customs officials on their behalf).  <br /><br />In September 1995, Banadex management was advised by an employee that the port facility's renewal was in jeopardy due to two earlier citations for failure to comply with customs regulations, and that replacing the port facility would cost the company approximately USD 1 million.  Banadex's chief administrative officer, without the knowledge or consent of any Chiquita employee and in contravention of Chiquita's policies, authorized CEA to make a payment to Colombian customs officials in order to secure the license renewal.  At the direction of the chief administrative officer, Banadex's security officer and controller made  two installment payments totaling USD 30,000.   Both installments were paid by Banadex's security officer through the company's discretionary spending account.  The first installment payment was identified in the company's books and records as a maritime donation; the second payment was described as related to a maritime agreement.  Banadex did not inform or request permission from any Chiquita employee within the U.S. regarding the payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Colombian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1 million in averted costs of replacing the Turbo port facility</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The SEC acknowledged that Chiquita's policies and procedures contain strict guidelines regarding the use of discretionary expenses accounts.  In 1996, Chiquita's internal auditing staff notified management of a number of instances where Banadex had failed to provide documentation regarding discretionary expenses, as required by Chiquita's internal accounting control procedures.  Chiquita had strict policies prohibiting improper payments to customs officials and the company monitored and enforced those policies by requiring the quarterly identification and disclosure of all payments to government officials or employees, political candidates, or political parties. In contravention of Chiquita policy, Banadex failed to identify and disclose the USD 30,000 in payments on the disclosure forms submitted for the relevant quarters.  <br /><br />In April 1997, Chiquita's internal audit staff uncovered the payments during an audit review of Banadex.  Chiquita conducted an internal investigation and took corrective action, including terminating the responsible Banadex employees and reinforcing its internal controls with respect to its Colombian operations.  Chiquita voluntarily disclosed the matter to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 3 October 2001, without admitting or denying the allegations, Chiquita consented to the entry of a cease-and-desist order.  Under a settled complaint filed by the SEC on the same day, Chiquita agreed to pay a USD 100,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may exercise leniency with a company that has an established anti-bribery compliance program and functioning internal controls, should the company discover that violations of its policies have occurred within one of its business units or subsidiaries.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=46">SEC Litigation Release: October 3, 2001 (SEC Settles Case Against Chiquita Brands International, Inc.)</a></p><p><a href="file.asp?id=47">Cease-and-Desist Order: In the Matter of Chiquita Brands International, Inc. (October 3, 2001)</a></p><p><a href="file.asp?id=48">Complaint: SEC v. Chiquita Brands International, Inc. (October 3, 2001)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920211g0h0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920211p8so" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHIQUITA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(9)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192021e8uj0" width="415" height="61" /></div>
+    
+        <h1>CHIQUITA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Chiquita Brands International, Inc. ("Chiquita")<br />Bananos de Exportacion S.A. (Chiquita's subsidiary in Colombia) ("Banadex")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Banana production and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Cincinnati, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Colombia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Chiquita violated the books and records and internal controls provisions of the FCPA through the conduct of its indirect wholly-owned subsidiary in Colombia, Banadex.  Chiquita's Colombian operations included a number of banana farms located throughout the country, as well as an import/export facility in the city of Turbo, which was owned and operated by Banadex.  Beginning in 1993, the Colombian government licensed the Turbo port facility to store goods pending their inspection by customs officials.  In 1995, the government issued a decree requiring all license holders to submit renewal applications.  Banadex learned of the decree through its customs broker, Comercio Exterior Asesores Limitada ("CEA"), (under Colombian law, companies are required to hire licensed customs brokers to interact with customs officials on their behalf).  <br /><br />In September 1995, Banadex management was advised by an employee that the port facility's renewal was in jeopardy due to two earlier citations for failure to comply with customs regulations, and that replacing the port facility would cost the company approximately USD 1 million.  Banadex's chief administrative officer, without the knowledge or consent of any Chiquita employee and in contravention of Chiquita's policies, authorized CEA to make a payment to Colombian customs officials in order to secure the license renewal.  At the direction of the chief administrative officer, Banadex's security officer and controller made  two installment payments totaling USD 30,000.   Both installments were paid by Banadex's security officer through the company's discretionary spending account.  The first installment payment was identified in the company's books and records as a maritime donation; the second payment was described as related to a maritime agreement.  Banadex did not inform or request permission from any Chiquita employee within the U.S. regarding the payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Colombian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 1 million in averted costs of replacing the Turbo port facility</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The SEC acknowledged that Chiquita's policies and procedures contain strict guidelines regarding the use of discretionary expenses accounts.  In 1996, Chiquita's internal auditing staff notified management of a number of instances where Banadex had failed to provide documentation regarding discretionary expenses, as required by Chiquita's internal accounting control procedures.  Chiquita had strict policies prohibiting improper payments to customs officials and the company monitored and enforced those policies by requiring the quarterly identification and disclosure of all payments to government officials or employees, political candidates, or political parties. In contravention of Chiquita policy, Banadex failed to identify and disclose the USD 30,000 in payments on the disclosure forms submitted for the relevant quarters.  <br /><br />In April 1997, Chiquita's internal audit staff uncovered the payments during an audit review of Banadex.  Chiquita conducted an internal investigation and took corrective action, including terminating the responsible Banadex employees and reinforcing its internal controls with respect to its Colombian operations.  Chiquita voluntarily disclosed the matter to the SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 3 October 2001, without admitting or denying the allegations, Chiquita consented to the entry of a cease-and-desist order.  Under a settled complaint filed by the SEC on the same day, Chiquita agreed to pay a USD 100,000 civil penalty.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may exercise leniency with a company that has an established anti-bribery compliance program and functioning internal controls, should the company discover that violations of its policies have occurred within one of its business units or subsidiaries.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=46">SEC Litigation Release: October 3, 2001 (SEC Settles Case Against Chiquita Brands International, Inc.)</a></p><p><a href="file.asp?id=47">Cease-and-Desist Order: In the Matter of Chiquita Brands International, Inc. (October 3, 2001)</a></p><p><a href="file.asp?id=48">Complaint: SEC v. Chiquita Brands International, Inc. (October 3, 2001)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

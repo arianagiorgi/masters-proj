@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184319ex5o2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184319c1v10" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WILLBROS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(89)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843198hy8r" width="415" height="61" /></div>
+    
+        <h1>WILLBROS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Willbros Group, Inc. ("Willbros")<br />Willbros International, Inc. (wholly-owned subsidiary of Willbros responsible for international operations) ("WII")<br />Willbros West Africa, Inc. (wholly-owned subsidiary of WII) ("Willbros West Africa")<br />Willbros Offshore Nigeria, Inc. (majority-owned subsidiary of Willbros West Africa) ("Willbros Offshore Nigeria")<br />Willbros Servicios Obras y Sistemas S.A. (wholly-owned subsidiary of WII in Ecuador) ("Willbros Ecuador")<br />Willbros Transandia (wholly-owned subsidiary of WII in Bolivia) ("Willbros Bolivia")<br />Jim Bob Brown (former WII employee) <br />Jason Edward Steph (former general manager of onshore operations with WII)<br />Gerald Jansen (former administrative supervisor in Nigeria)<br />Llyod Biggers (former employee in Nigeria)<br />Carlos Galvez (former accounting employee in Bolivia)<br />James Tillery (former president of WII)<br />Paul Novak (former WII consultant in Nigeria) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas construction projects
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Ecuador<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning in 2003 and continuing until 2005, James Tillery and others, including Jim Bob Brown, Jason Steph, Gerald Jansen and Llyod Biggers, allegedly orchestrated and took part in a scheme to bribe Nigerian government officials in order to win two pipeline construction projects in Nigeria.  WII allegedly paid over USD 6.3 million in bribes to government officials in order to win the two projects that resulted in approximately USD 8.9 million in profits.<br /><br />According to the allegations, in late 2003, before bidding on the Eastern Gas Gathering System ("EGGS") pipeline project, Tillery and others planned to make improper payments to Nigerian officials in order to win the contract for phase one of the project.  Allegedly in order to carry out the scheme, WII entered into a consulting agreement with a company represented by Paul Novak, under which the consultant would receive 3% of all contract revenue to then pass on to officials at the Nigerian National Petroleum Corporation ("NNPC"), its subsidiary the National Petroleum Investment Management Services ("NAPIMS") and employees of the private company operating the joint venture controlled by NNPC.  <br /><br />In January 2005, Tillery resigned after Willbross audit committee began investigating tax improprieties in Willbros Bolivia.  The audit committee's investigation soon spread to the company's operations in Nigeria and, as a result, the consulting contract to pay Nigerian officials responsible for the EGGS contract was terminated.  In order to continue making payments to Nigerian officials, Brown, Steph and others allegedly agreed to pay USD 1.85 million to officials to cover previous commitments.  In order to obtain the money, Brown allegedly borrowed USD 1 million from Willbros West Africa's joint venture partner.  Steph then is alleged to have borrowed an additional USD 500,000 in Nigerian currency from another individual working for a Nigerian oil and gas company.  The payments were allegedly made through a second Nigerian consultant, also represented by Novak, and were categorized as loans to the consultant.  For the remaining USD 350,000, and according to the allegations, Steph procured the money from a Willbros cash account in Nigeria that he then gave to the consultant in order to pay the Nigerian officials. <br /><br />In August 2004, Willbros West Africa executed a number of contracts to provide services for an offshore pipeline.  WII, through Tillery and others, allegedly decided to make over USD 5 million in payments to officials from NNPC and NAPIMS, as well as a senior official in the executive branch in order to win the contract. <br /><br />In addition, the allegations say that Willbros and its affiliates made approximately USD 300,000 in payments to officials working for Nigerian tax authorities and in Nigerian courts.  The payments allegedly were made in order to reduce tax obligations and in exchange for favorable treatment in pending litigation.  In order to make the payments, Jansen and Biggers allegedly falsified invoices for fuel, freight or catering services. <br /><br />In 2003, at Tillery's instruction, Willbros Ecuador decided to pursue a contract to rehabilitate a pipeline in Ecuador.  It became clear that if WII wanted to win the contract, it would need to pay 10% of the contract value, or USD 300,000, to certain officials at the state-owned oil company, PetroEcuador and its subsidiary, PetroComercial.  USD 150,000 was to be paid upfront and the remaining USD 150,000 was to be paid upon completion of the project.  The government officials involved in the project were removed before it was completed.  Both the former officials and the new officials who replaced them wanted the money.  Willbros Ecuador allegedly reached an agreement that the previous officials would receive USD 90,000 and the new officials would receive USD 165,000.  These alleged payments were recorded in the company's books as consulting  fees, platform expenses and prepaid expenses.  <br /><br />In Bolivia, WII allegedly made improper payments in order to minimize its tax obligations.  WII was awarded a contract to complete a pipeline in late 2001, and was required to pay 13% of its receipts in value-added tax ("VAT"), as well as a foreign withholding tax.  WII and a consultant allegedly worked to minimize the tax due by creating false invoices from Bolivian vendors to offset the VAT obligation.  In addition, Tillery allegedly directed Carlos Galvez to reduce the foreign withholding tax liabilities.  According to the allegations, as a result of the false invoices and misrepresentations in the company's books, WII's VAT and foreign withholding tax liabilities were materially understated for 2002, 2003 and 2004, in violation of the FCPA's books and records provisions.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 6.3 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 8.9 million (profits)<br />USD 487 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Ecuadorian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Resulting Revenue/Profits</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 300,000</p>
+</td>
+<td>
+<p style="text-align: center;">Over USD 3.3 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Willbros voluntarily disclosed the conduct to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 May 2008, Willbros and WII entered into a three-year deferred prosecution agreement with the DOJ, under which Willbros was required to pay a USD 22 million criminal penalty.  The criminal information contained six counts, including one count of conspiracy to violate the FCPA, two counts of substantive FCPA violations and three counts of falsifying books and records related to corrupt payments.  In addition to the criminal penalty, Willbros was required to appoint an independent corporate monitor.  <br /><br />On the same day, Willbros, Steph, Jansen, Biggers and Galvez, without admitting or denying the SEC's allegations, consented to the entry of final judgments permanently enjoining them from future violations of, in various combinations, the FCPA's anti-bribery, books and records and internal controls provisions and other federal securities laws.  Willbros agreed to pay USD 8.9 million in disgorgement and USD 1.4 million in pre-judgment interest.  Jansen was required to pay a USD 30,000 civil penalty and Galvez was required to pay a USD 35,000 civil penalty.  <br /><br />On 14 September 2006, without admitting or denying the SEC's allegations, Jim Bob Brown consented to the entry of final judgment permanently enjoining him from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  Upon a motion by the SEC, the court was to determine at a later date whether or not to assess a civil penalty against Brown.  <br /><br />Also on 14 September 2006, Brown pleaded guilty to one count of conspiring to violate the FCPA.  On 28 January 2010, he was sentenced to 12 months and one day in prison, two years of supervised release and ordered to pay a fine of USD 1,000 a month while on supervised release.  Brown cooperated with the DOJ's ongoing investigations, which was acknowledged by the court at his sentencing hearing.<br /><br />On 5 November 2007, Jason Steph pleaded guilty to one count of conspiring to violate the FCPA.  On January 28, 2010, he was sentenced to 15 months in prison, two years of supervised release and ordered to pay a USD 2,000 fine.  Steph cooperated with the DOJ's ongoing investigations, which was acknowledged by the court at his sentencing hearing.<br /><br />A grand jury indicated Paul Novak and James Tillery on charges of conspiring to violate the FCPA as well as substantive violations of the FCPA.  Novak was arrested on 19 December 2008 when he returned to the United States from South Africa after his passport had been revoked.  <br /><br />On 12 November 2009, Novak pleaded guilty to one count of conspiracy and one substantive count of violating the FCPA. On 3 May 2013, the DOJ announced that Novak has been sentenced to 15 months in prison and is required to pay a USD 1 million fine. James Tillery remains a fugitive. <br /><br />Following expiration of the period of monitorship stipulated in the DPA, the Company's attorneys filed a motion to dismiss the criminal charges stemming from the documented conduct in Nigeria and South America prior to 2006.  On 2 April 2012, the U.S. District Court in Houston signed an order of dismissal of all charges, with prejudice.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to employees of private companies who act in an official capacity, such as operating a joint venture controlled by a state-owned entity, can form the basis for FCPA violations.</li><li>Falsifying documents in order to reduce tax liability violate the books and records provisions of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=182">DOJ Press Release: "Former Executive of Willbros Subsidiary Pleads Guilty to Conspiring to Bribe Foreign Officials in Nigeria and Ecuador" (14 September 2006)</a></p><p><a href="file.asp?id=175">SEC Litigation Release: "SEC Charges Former Employee of A Willbros Group, Inc. Subsidiary with FCPA Violations" (14 September 2006)</a></p><p><a href="file.asp?id=176">Complaint: SEC v. Jim Bob Brown (14 September 2006)</a></p><p><a href="file.asp?id=180">Indictment: United States v. Jason Edward Steph (19 July 2007)</a></p><p><a href="file.asp?id=184">DOJ Press Release: "Former Executive of Willbros Subsidiary Pleads Guilty to Conspiring to Bribe Nigerian Government Officials" (5 November 2007)</a></p><p><a href="file.asp?id=181">Plea Agreement: United States v. Jason Edward Steph (5 November 2007)</a></p><p><a href="file.asp?id=408">Indictment: U.S. v. James K. Tillery and Paul G. Novak (17 January 2008)</a></p><p><a href="file.asp?id=173">DOJ Press Release: "Willbros Group Inc. Enters Deferred Prosecution Agreement" (14 May 2008)</a></p><p><a href="file.asp?id=177">Deferred Prosecution Agreement: U.S. v. Willbros Group, Inc. and Willbros International, Inc. (14 May 2008)</a></p><p><a href="file.asp?id=174">SEC Litigation Release: "SEC Files Settled FCPA Action Against Willbros Group, Inc. and Several Former Employees" (14 May 2008)</a></p><p><a href="file.asp?id=179">Complaint: SEC v. Willbros Group, Inc., Jason Steph, Gerald Jansen, Lloyd Biggers, Carlos Galvez (14 May 2008)</a></p><p><a href="file.asp?id=409">DOJ Press Release: "Former Willbros International Executive and Consultant Charged in $6 Million Foreign Bribery Conspiracy" (19 December 2008)</a></p><p><a href="file.asp?id=339">DOJ Press Release: "Former Willbros International Consultant Pleads Guilty to $6 Million Foreign Bribery Scheme" (12 November 2009)</a></p><p><a href="file.asp?id=681">DOJ Press Release: "Former Willbros International Executives Sentenced to Prison for Their Roles in $6 Million Foreign Bribery Scheme" (28 January 2010)</a></p><p><a href="file.asp?id=1798">Willbros News Release: DOJ monitorship ended and all charges dismissed (9 April 2012)</a></p><p><a href="file.asp?id=2267">DOJ Press Release: "Former Consultant for Willbros International Sentenced in Connection with Foreign Bribery Scheme" (3 May 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192136q7dvo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19213668f96" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WILLBROS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(89)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192136y7qzc" width="415" height="61" /></div>
+    
+        <h1>WILLBROS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Willbros Group, Inc. ("Willbros")<br />Willbros International, Inc. (wholly-owned subsidiary of Willbros responsible for international operations) ("WII")<br />Willbros West Africa, Inc. (wholly-owned subsidiary of WII) ("Willbros West Africa")<br />Willbros Offshore Nigeria, Inc. (majority-owned subsidiary of Willbros West Africa) ("Willbros Offshore Nigeria")<br />Willbros Servicios Obras y Sistemas S.A. (wholly-owned subsidiary of WII in Ecuador) ("Willbros Ecuador")<br />Willbros Transandia (wholly-owned subsidiary of WII in Bolivia) ("Willbros Bolivia")<br />Jim Bob Brown (former WII employee) <br />Jason Edward Steph (former general manager of onshore operations with WII)<br />Gerald Jansen (former administrative supervisor in Nigeria)<br />Llyod Biggers (former employee in Nigeria)<br />Carlos Galvez (former accounting employee in Bolivia)<br />James Tillery (former president of WII)<br />Paul Novak (former WII consultant in Nigeria) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas construction projects
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Ecuador<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Beginning in 2003 and continuing until 2005, James Tillery and others, including Jim Bob Brown, Jason Steph, Gerald Jansen and Llyod Biggers, allegedly orchestrated and took part in a scheme to bribe Nigerian government officials in order to win two pipeline construction projects in Nigeria.  WII allegedly paid over USD 6.3 million in bribes to government officials in order to win the two projects that resulted in approximately USD 8.9 million in profits.<br /><br />According to the allegations, in late 2003, before bidding on the Eastern Gas Gathering System ("EGGS") pipeline project, Tillery and others planned to make improper payments to Nigerian officials in order to win the contract for phase one of the project.  Allegedly in order to carry out the scheme, WII entered into a consulting agreement with a company represented by Paul Novak, under which the consultant would receive 3% of all contract revenue to then pass on to officials at the Nigerian National Petroleum Corporation ("NNPC"), its subsidiary the National Petroleum Investment Management Services ("NAPIMS") and employees of the private company operating the joint venture controlled by NNPC.  <br /><br />In January 2005, Tillery resigned after Willbross audit committee began investigating tax improprieties in Willbros Bolivia.  The audit committee's investigation soon spread to the company's operations in Nigeria and, as a result, the consulting contract to pay Nigerian officials responsible for the EGGS contract was terminated.  In order to continue making payments to Nigerian officials, Brown, Steph and others allegedly agreed to pay USD 1.85 million to officials to cover previous commitments.  In order to obtain the money, Brown allegedly borrowed USD 1 million from Willbros West Africa's joint venture partner.  Steph then is alleged to have borrowed an additional USD 500,000 in Nigerian currency from another individual working for a Nigerian oil and gas company.  The payments were allegedly made through a second Nigerian consultant, also represented by Novak, and were categorized as loans to the consultant.  For the remaining USD 350,000, and according to the allegations, Steph procured the money from a Willbros cash account in Nigeria that he then gave to the consultant in order to pay the Nigerian officials. <br /><br />In August 2004, Willbros West Africa executed a number of contracts to provide services for an offshore pipeline.  WII, through Tillery and others, allegedly decided to make over USD 5 million in payments to officials from NNPC and NAPIMS, as well as a senior official in the executive branch in order to win the contract. <br /><br />In addition, the allegations say that Willbros and its affiliates made approximately USD 300,000 in payments to officials working for Nigerian tax authorities and in Nigerian courts.  The payments allegedly were made in order to reduce tax obligations and in exchange for favorable treatment in pending litigation.  In order to make the payments, Jansen and Biggers allegedly falsified invoices for fuel, freight or catering services. <br /><br />In 2003, at Tillery's instruction, Willbros Ecuador decided to pursue a contract to rehabilitate a pipeline in Ecuador.  It became clear that if WII wanted to win the contract, it would need to pay 10% of the contract value, or USD 300,000, to certain officials at the state-owned oil company, PetroEcuador and its subsidiary, PetroComercial.  USD 150,000 was to be paid upfront and the remaining USD 150,000 was to be paid upon completion of the project.  The government officials involved in the project were removed before it was completed.  Both the former officials and the new officials who replaced them wanted the money.  Willbros Ecuador allegedly reached an agreement that the previous officials would receive USD 90,000 and the new officials would receive USD 165,000.  These alleged payments were recorded in the company's books as consulting  fees, platform expenses and prepaid expenses.  <br /><br />In Bolivia, WII allegedly made improper payments in order to minimize its tax obligations.  WII was awarded a contract to complete a pipeline in late 2001, and was required to pay 13% of its receipts in value-added tax ("VAT"), as well as a foreign withholding tax.  WII and a consultant allegedly worked to minimize the tax due by creating false invoices from Bolivian vendors to offset the VAT obligation.  In addition, Tillery allegedly directed Carlos Galvez to reduce the foreign withholding tax liabilities.  According to the allegations, as a result of the false invoices and misrepresentations in the company's books, WII's VAT and foreign withholding tax liabilities were materially understated for 2002, 2003 and 2004, in violation of the FCPA's books and records provisions.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nigerian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 6.3 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 8.9 million (profits)<br />USD 487 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Ecuadorian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Resulting Revenue/Profits</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 300,000</p>
+</td>
+<td>
+<p style="text-align: center;">Over USD 3.3 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Willbros voluntarily disclosed the conduct to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 May 2008, Willbros and WII entered into a three-year deferred prosecution agreement with the DOJ, under which Willbros was required to pay a USD 22 million criminal penalty.  The criminal information contained six counts, including one count of conspiracy to violate the FCPA, two counts of substantive FCPA violations and three counts of falsifying books and records related to corrupt payments.  In addition to the criminal penalty, Willbros was required to appoint an independent corporate monitor.  <br /><br />On the same day, Willbros, Steph, Jansen, Biggers and Galvez, without admitting or denying the SEC's allegations, consented to the entry of final judgments permanently enjoining them from future violations of, in various combinations, the FCPA's anti-bribery, books and records and internal controls provisions and other federal securities laws.  Willbros agreed to pay USD 8.9 million in disgorgement and USD 1.4 million in pre-judgment interest.  Jansen was required to pay a USD 30,000 civil penalty and Galvez was required to pay a USD 35,000 civil penalty.  <br /><br />On 14 September 2006, without admitting or denying the SEC's allegations, Jim Bob Brown consented to the entry of final judgment permanently enjoining him from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  Upon a motion by the SEC, the court was to determine at a later date whether or not to assess a civil penalty against Brown.  <br /><br />Also on 14 September 2006, Brown pleaded guilty to one count of conspiring to violate the FCPA.  On 28 January 2010, he was sentenced to 12 months and one day in prison, two years of supervised release and ordered to pay a fine of USD 1,000 a month while on supervised release.  Brown cooperated with the DOJ's ongoing investigations, which was acknowledged by the court at his sentencing hearing.<br /><br />On 5 November 2007, Jason Steph pleaded guilty to one count of conspiring to violate the FCPA.  On January 28, 2010, he was sentenced to 15 months in prison, two years of supervised release and ordered to pay a USD 2,000 fine.  Steph cooperated with the DOJ's ongoing investigations, which was acknowledged by the court at his sentencing hearing.<br /><br />A grand jury indicated Paul Novak and James Tillery on charges of conspiring to violate the FCPA as well as substantive violations of the FCPA.  Novak was arrested on 19 December 2008 when he returned to the United States from South Africa after his passport had been revoked.  <br /><br />On 12 November 2009, Novak pleaded guilty to one count of conspiracy and one substantive count of violating the FCPA. On 3 May 2013, the DOJ announced that Novak has been sentenced to 15 months in prison and is required to pay a USD 1 million fine. James Tillery remains a fugitive. <br /><br />Following expiration of the period of monitorship stipulated in the DPA, the Company's attorneys filed a motion to dismiss the criminal charges stemming from the documented conduct in Nigeria and South America prior to 2006.  On 2 April 2012, the U.S. District Court in Houston signed an order of dismissal of all charges, with prejudice.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to employees of private companies who act in an official capacity, such as operating a joint venture controlled by a state-owned entity, can form the basis for FCPA violations.</li><li>Falsifying documents in order to reduce tax liability violate the books and records provisions of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=182">DOJ Press Release: "Former Executive of Willbros Subsidiary Pleads Guilty to Conspiring to Bribe Foreign Officials in Nigeria and Ecuador" (14 September 2006)</a></p><p><a href="file.asp?id=175">SEC Litigation Release: "SEC Charges Former Employee of A Willbros Group, Inc. Subsidiary with FCPA Violations" (14 September 2006)</a></p><p><a href="file.asp?id=176">Complaint: SEC v. Jim Bob Brown (14 September 2006)</a></p><p><a href="file.asp?id=180">Indictment: United States v. Jason Edward Steph (19 July 2007)</a></p><p><a href="file.asp?id=184">DOJ Press Release: "Former Executive of Willbros Subsidiary Pleads Guilty to Conspiring to Bribe Nigerian Government Officials" (5 November 2007)</a></p><p><a href="file.asp?id=181">Plea Agreement: United States v. Jason Edward Steph (5 November 2007)</a></p><p><a href="file.asp?id=408">Indictment: U.S. v. James K. Tillery and Paul G. Novak (17 January 2008)</a></p><p><a href="file.asp?id=173">DOJ Press Release: "Willbros Group Inc. Enters Deferred Prosecution Agreement" (14 May 2008)</a></p><p><a href="file.asp?id=177">Deferred Prosecution Agreement: U.S. v. Willbros Group, Inc. and Willbros International, Inc. (14 May 2008)</a></p><p><a href="file.asp?id=174">SEC Litigation Release: "SEC Files Settled FCPA Action Against Willbros Group, Inc. and Several Former Employees" (14 May 2008)</a></p><p><a href="file.asp?id=179">Complaint: SEC v. Willbros Group, Inc., Jason Steph, Gerald Jansen, Lloyd Biggers, Carlos Galvez (14 May 2008)</a></p><p><a href="file.asp?id=409">DOJ Press Release: "Former Willbros International Executive and Consultant Charged in $6 Million Foreign Bribery Conspiracy" (19 December 2008)</a></p><p><a href="file.asp?id=339">DOJ Press Release: "Former Willbros International Consultant Pleads Guilty to $6 Million Foreign Bribery Scheme" (12 November 2009)</a></p><p><a href="file.asp?id=681">DOJ Press Release: "Former Willbros International Executives Sentenced to Prison for Their Roles in $6 Million Foreign Bribery Scheme" (28 January 2010)</a></p><p><a href="file.asp?id=1798">Willbros News Release: DOJ monitorship ended and all charges dismissed (9 April 2012)</a></p><p><a href="file.asp?id=2267">DOJ Press Release: "Former Consultant for Willbros International Sentenced in Connection with Foreign Bribery Scheme" (3 May 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

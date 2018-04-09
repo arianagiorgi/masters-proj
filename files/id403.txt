@@ -1,0 +1,126 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1926129ezo5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19261232rzy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EURASIAN NATURAL RESOURCES CORPORATION PLC (ENRC)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(403)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192612su202" width="415" height="61" /></div>
+    
+        <h1>EURASIAN NATURAL RESOURCES CORPORATION PLC (ENRC)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Eurasian Natural Resources Corporation plc ("ENRC")<br />SSGPO (an iron ore mine owned by ENRC and located at Rudniy, Kazakhstan)<br />Bulat Zeinullatovich Baizhasarov (the Kazakh regional police commander )<br />Mehmet Dalman (former chairman of ENRC)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Diversified natural resources company, including activities in mining, processing, energy, logistics and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Democratic Republic of the Congo<br />Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Telegraph reported allegations on 19 April 2012 that money from the employees' fund at SSGPO was used to pay for the U.S. education (Michigan State University) of the son of the Kazakh regional police commander, Bulat Baizhasarov, at a time when SSGPO was mining iron ore in Baizhasarov's home province.  <br /><br />The Guardian reported on 25 April 2013 that Mehmet Dalman resigned as chairman of ENRC. Dalman had been leading the internal investigation of the corruption allegations involving the Company. The Guardian also reported the UK Serious Fraud Office's ("SFO") announcement that it has initiated a criminal investigation of ENRC and "[t]he focus of the investigation will be fraud, bribery and corruption relating to the activities of the company or its subsidiaries in Kazakhstan and Africa."  ENRC confirmed the existence of the investigation and said that it is cooperating with the SFO.<br /><br />On 30 April 2013, Reuters reported that ENRC is also internally investigating allegations of corruption related to its acquisition of mining concessions in the Democratic Republic of the Congo. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Kazakh Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Tuition for a regional police commander's son<br /></td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Congolese Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A whistleblower from the Company reported the matter to the SFO.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SFO's criminal investigation of ENRC is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Telegraph: "ENRC cash 'used to pay university fees of offical's son'" (12 April 2012)</p><p>The Guardian: "ENRC: Serious Fraud Office launches criminal investigation" (25 April 2013)</p><p>Reuters: "ENRC warns shareholders of more questions on Congo" (30 April 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

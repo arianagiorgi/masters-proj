@@ -1,0 +1,228 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192410q6az9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192410t60gt" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SNC-LAVALIN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(260)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192410jt5ue" width="415" height="61" /></div>
+    
+        <h1>SNC-LAVALIN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Switzerland: Federal Public Prosecutor's Office<br />Canada: Royal Canadian Mounted Police<br />India: Central Bureau of Investigation<br />Bangladesh: Anti Corruption Commission<br />Algeria:  Ministry of Justice<br />Canada: L'Unit&eacute; permanente anticorruption<br />Tunisia:  Commission of Inquiry into Corruption and Embezzlement<br />World Bank: Integrity Vice Presidency<br />France: Public Prosecutor of Reims<br />France: National Division of Financial Investigations<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        SNC-Lavalin Group Inc. ("SNC-Lavalin")<br />SNC-Lavalin Inc. (wholly owned subsidiary of SNC-Lavalin)<br />SNC-Lavalin International Inc. ("SLII," wholly owned subsidiary of SNC-Lavalin)<br />SNC-Lavalin Europe S.A.S. ("SNC-Lavalin Europe," wholly owned subsidiary of SNC-Lavalin headquartered in France)<br />Candu Energy Inc. (wholly owned subsidiary of SNC-Lavalin)<br />Kerala State Electricity Board ("KSEB") <br />Klaus Triendl (former Senior Vice President at SNC-Lavalin)<br />G. Karthikeyan (headed the KSEB at the time contracts were signed with SNC-Lavalin, later elected Speaker of the Kerala State Assembly in June 2011)<br />Pinarayi Vijayan (former Minister of Power for Kerala state, later Secretary of the Communist Party of India-Marxists)<br />Sami Abdallah Bebawi (former Executive Vice President of SNC Lavalin)<br />Riadh Ben Aïssa (former Executive Vice President of SNC-Lavalin)<br />Stéphane Roy (former Vice President Controller of SNC-Lavalin)<br />Pierre Duhaime (former Chief Executive Officer of SNC-Lavalin)<br />Mohammed Ismail (Director of International Projects at SNC-Lavalin in Toronto)<br />Ramesh Shah (former Vice President at SNC-Lavalin in Toronto)<br />Farid Bedjaoui (agent of SNC-Lavalin in Algeria)<br />Constantine Kyes, a prominent lawyer who formerly headed the tax practice at the Montreal office of Dentons Canada LPP<br />Sami Bebawi, former senior SNC executive
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering and construction 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Montreal, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />Tunisia<br />Malawi<br />Zambia<br />Algeria<br />Bangladesh<br />Cambodia<br />Ghana<br />India<br />Kazakhstan<br />Libya<br />Mozambique<br />Nigeria<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        India<br /><br />According to press reports, in 2009 SNC-Lavalin was named in a charging document filed by the Indian Central Bureau of Investigation ("CBI") in connection with a corruption scandal in India's Kerala state.  The company allegedly paid bribes to Communist Party of India-Marxist's ("CPI-M") Kerala Secretary Pinarayi Vijayan and other officials in 1997 (when Vijayan was Kerala Power Minister) in order to secure contracts for the renovation of three power plants in the state (Pallivasal, Sengulam and Panniar).<br /><br />Bangladesh<br /><br />SNC-Lavalin submitted a bid to act as the owner's engineer for the Bangladeshi government to supervise the contractor responsible for the construction of a six kilometer bridge over the Padma River (the "Padma Bridge Project"), which would allow greater commerce throughout the delta to Dhaka.<br />Court documents allege that between 2009 and 2011, several SNC Lavalin employees, including Kevin Wallace, former President of the Company's wholly owned subsidiary Candu Energy Inc, offered bribes to Bangladeshi government officials in order to with the Padma Bridge Project.  Wallace worked with the Bangladeshi Bridge Authority and the Bangladeshi Minister of Communications during preparations for the aborted Padma Bridge Project.  Among the list of targeted officials were the Bangladeshi Minister of Communications, the Secretary of Roads, the Bangladesh Bridge Authority Executive Director and the nephew of the then Prime Minister of Bangladesh.<br /><br />Tunisia<br /><br />SNC-Lavalin's projects in Libya included construction projects worth hundreds of millions of dollars, including an airport, a prison and a water pipeline. Projects in Tunisia included the November 2010 award, with Genoa-based Ansaldo Energia, of a contract by the Société Tunisienne de l'Eléctricité et du Gaz (STEG) to design and construct a 420 MW gas-powered combined cycle thermal power plant at Sousse, Tunisia. <br /><br />On 28 February 2012, the audit committee of SNC-Lavalin initiated an independent investigation, with the help of an outside law firm, regarding USD 33.5 million in payments attributed in the Company's books to certain construction projects, but not used for these projects.  The Company also reported losses of USD 22.5 million on other unattributed projects.  <br /><br />Libya<br /><br />On 2 March 2012, a law firm in Quebec filed a motion to be named representative in a class action suit seeking millions in damages on behalf of investors who purchased SNC-Lavalin shares between March 2009 and the end of February 2012.  The claimants allege that the company and certain senior managers were engaged in unlawful activities in Libya, and that the company "made statements that were materially false and misleading in regard to SNC-Lavalin's code of conduct, legal compliance and internal controls." The lawsuit names Riadh Ben Aïssa, who left the company in February 2012.<br /><br />In a 9 February 2012 press release, SNC-Lavalin announced that Riadh Ben Aïssa, Executive Vice President, and Stéphane Roy, Vice President Controller, were no longer in the employ of the company.  SNC-Lavalin emphasized that its employees are required to comply with the Company's ethical and business conduct codes. <br /><br />In a detailed press report dated 26 March 2012, the Company summarized the results of the independent review "of the facts and circumstances surrounding certain payments and contracts," including providing an executive summary of the independent review findings and recommendations, delivered on 23 March 2012.  <br /><br />In an additional press release issued on 26 March 2012, SNC-Lavalin announced the resignation of Chief Executive Officer Pierre Duhaime, and his retirement from the Company.   <br /><br />On 13 November 2012, media sources reported that Riadh Ben Aïssa's brother filed a claim against SNC-Lavalin on the grounds that Ben Aïssa was dismissed unfairly.  Ben Aïssa's family has also allegedly filed a claim against the newspapers La Presse and the Globe and Mail for defamation.  On 13 September 2013, Canada successfully extradited Aissa to return to Canada to face fraud, bribery and money laundering charges in relation to a Montreal hospital contract according to the National Post.  A ruling handed down by Switzerland’s Federal Criminal Court shows Canada’s Department of Justice formally sought Mr. Ben Aissa’s extradition in January. Swiss authorities approved the request in May 2013.<br /><br />On 25 January 2013, several Canadian newspapers including the Globe and Mail and National Post reported that portions of a 59-page sworn affidavit prepared by the RCMP in April 2012 were made public after the Globe and Mail applied to have the material unsealed.  The affidavit was first used by police to obtain a search warrant they executed on SNC-Lavalin's corporate headquarters in Montreal in April 2012.<br /><br />According to media reports, the affidavit alleges that Riadh Ben Aïssa arranged more than USD 160 million in bribes to Saadi Gadhafi (the son of former Libyan leader Moammar Gadhafi) in exchange for  helping SNC-Lavalin land contracts in Libya.  Mr. Ben Aïssa's juniors also reportedly plotted to smuggle Saadi Gadhafi from Libya to Mexico as political unrest was threatening the North African dictatorship. Late in 2011, Cynthia Vanier, a Canadian woman with connections to SNC-Lavalin, was put in jail in Mexico on allegations that she conspired to smuggle Saadi Gadhafi to the Mexican resort town of Puerto Vallarta.  <br /><br />According to a National Post report from 13 July 2013, SNC-Lavalin has filed a law suit in Quebec Superior Court against Riadh Ben Aïssa, Cynthia Vanier, and her consulting firm (Vanier Consulting Ltd) to recover payments made to Vanier to help smuggle Saadi Gadhafi out of Algeria and to an interior designer to prepare a penthouse for him in Toronto. The law suit "alleges that Mr. Ben Aissa authorized the payments without the company’s knowledge. It asks the court to return $1.8-million that went to Vanier Consulting and $200,000 paid to a Toronto interior decorator."<br /><br />Algeria<br /><br />On 21 February 2013, Reuters reported that Swiss authorities have extended their investigation to include an SNC-Lavalin agent named Farid Bedjaoui. The Globe and Mail, also reporting on 21 February 2013, said that Mr. Bedjaoui assisted SNC-Lavalin in acquiring contracts with Sonatrach (Algeria's state-owned oil company) and is alleged to have made approximately USD 200 million worth of questionable payments on behalf of a number of energy companies. Details regarding any specific allegations of payments made on behalf of SNC-Lavalin in Algeria were not given in either report.<br /><br />Cambodia<br /><br />In a 17 April 2013 press release, the World Bank announced the ten-year debarment of SNC-Lavalin Inc. and over 100 of its affiliates. The World Bank said that the companies were being debarred for misconduct in two World Bank projects: the Padma Bridge Project and the Rural Electrification and Transmission Project in Cambodia. The press release stated that the "misconduct involved a conspiracy to pay bribes and misrepresentations when bidding for Bank-financed contracts in violation of the World Bank's procurement guidelines," but did not provide any additional details regarding allegations in Cambodia.<br /><br />United Arab Emirates<br /><br />On 26 June 2013, The Globe and Mail reported that the Public Prosecutor of Reims had initiated an investigation of SNC-Lavalin Europe, headquartered in Reims until November 2012, in July 2012. Police investigated the company's offices sometime in the fall of 2012. According to the story, the prosecutor initiated the investigation after he learned of accounting "anomalies." According to the story, one anomaly was a CAD 13.5 million payment that the prosecutor alleged to be paid to someone in the Middle East. The Globe and Mail reported that a Reims newspaper alleged that the payment was made in relation to a project in Abu Dhabi, United Arab Emirates. The story quotes an SNC-Lavalin spokeswoman as disagreeing: "The Abu Dhabi accounting code was falsely used for mispayments."<br /><br />According to a story on 26 June 2013 in The Star, the same SNC-Lavalin spokeswoman said that the news about the French investigation: "It's a new revelation, if you like. It's a detail that the public didn’t know about before, but it's still start of the same issue." According to the story, "the firm has identified the money as a portion of the $56 million in improper payments that led to the dismissal of its chief executive and head of construction last year. . . . Former chief executive Pierre Duhaime and executive vice-president of construction Riadh Ben Aissa are facing criminal charges for allegedly using a portion of that $56 million as bribes to secure a contract to build a new mega-hospital in Montreal. The alleged kickback of $22.5 million was made to look like a consultant fee for a project in Algeria, but was actually paid to a company run by the Montreal hospital’s president, Dr. Arthur Porter, police allege. . . . The other portion of the $56 million in improper payments went to a second project that has not been identified by SNC-Lavalin, nor has it resulted in any criminal charges by police."<br /><br />In its 26 June 2013 story, The Globe and Mail said that the Public Prosecutor in Reims transferred the case to investigators in Paris in December 2012. Based on a 26 June 2013 report in Financial Post, it appears that these investigators are from the Division Nationale des Investigations Financières.<br /><br />Other Countries<br /><br />According to CBC News reports from 15 May 2013, SNC-Lavalin allegedly used "a secret internal accounting code" to pay bribes in 13 projects in 10 countries from 2008 to 2011. The internal code was "PCC," which stood for either project consultancy costs and project commercial cost, and was, according to the World Bank in reference to allegations in Bangladesh, "a euphemism used by SNC-Lavalin to indicate the cost of bribes to be paid." CBC News reported that the countries where this allegedly occurred are Ghana, Nigeria, Malawi, Mozambique, Uganda, Zambia, Kazakhstan, India, Bangladesh, and Cambodia. According to a report by The Canadian Press on 20 May 2013, SNC-Lavalin said that these allegations "have been resolved and are history."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319" valign="top">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian Officials</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained (India)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Power plant projects</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Bangladeshi Officials</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought (Bangladesh)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Padma Bridge Project worth USD 3 billion</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Tunisian Officials</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought (Tunisia)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">USD 22.5 million (2010-2011)</p>
+<p style="text-align: center;">USD 8.25 million (invoice from 2009 collection agreement)</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Libyan Officials</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought (Libya)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">USD 160 million</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Emirati Officials</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought (UAE)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">Possibly a payment of CAD 13.5 million</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2">
+<tbody>
+<tr>
+<td width="319">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials in an Unspecified Location</strong></p>
+</td>
+<td width="319">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought (Unspecified Location)</strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p style="text-align: center;">USD 33.5 million (4th quarter 2011)</p>
+</td>
+<td width="319">
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 16 January 2007, the Kerala High Court ordered a CBI investigation into the power plant renovation contracts in Kerala.<br /><br />The Bangladeshi investigation was reportedly prompted by a referral from the World Bank to the Canadian RCMP.  <br /><br />The investigation of the allegations in Libya was initiated in Switzerland in May 2011; in April 2012 the Canadian authorities conducted a raid on SNC-Lavalin's offices in Canada following a request by the Swiss police.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Switzerland<br /><br />In a 29 March 2012 press statement, SNC-Lavalin announced that Ben Aïssa had been arrested in Switzerland, although specific details were unknown.  He has since been extradited to Canada to face charges there.<br /><br />On 13 April 2012, SNC-Lavalin announced that the RCMP had conducted another raid on its offices in connection with an investigation of "certain individuals who are no longer employed by the Company." The press report went on to say that the SNC-Lavalin is cooperating fully with the authorities but cannot comment on an ongoing investigation.<br /><br />In November 2012, Swiss prosecutors allegedly questioned Sami Bébawi, who served as manager of construction at SNC-Lavalin until January 2007.<br /><br />On 26 November 2012, Swiss authorities extended Riadh Ben Aïssa's detention, as they sought to learn the destination of USD 139 million in funds deposited by SNC-Lavalin into accounts at a private bank, EFG, in Geneva.  According to a 25 November 2012 report in CBC News, Ben Aïssa has been indicted in Switzerland on charges of money laundering and corruption.  CBC News also reports that a Swiss attorney associated with Ben Aïssa (Roland Kaufmann) has been charged with money laundering and corruption for having set up two companies (Dinova and Duvel Securities) in the British Virgin Islands, which were involved in the money transfers.  CBC News says that a joint investigation is underway involving Canadian and Swiss authorities.  On 20 August 2014, Mr. Ben Aissa agreed to a deal with Swiss prosecutors that could lead to his extradition.  Switzerland’s Attorney-General's office said that Mr. Ben Aissa signed a plea deal with prosecutors on 4 August 2014, and a Swiss court is expected to rule on the plea deal in October.<br /><br />On 21 February 2013, Reuters reported that the Swiss authorities have extended their investigation to include SNC-Lavalin agent Farid Bedjaoui.  <br /><br />Tunisia<br /><br />Various media reports in April 2012 revealed that SNC-Lavalin is under investigation by the Tunisian Commission of Inquiry into Corruption and Embezzlement regarding a CAD 320 million contract the company was awarded in 2010 with an Italian partner, Ansaldo Energia.<br /><br />India <br />On 25 February 2011, it was reported that the Indian Central Bureau of Investigation (CBI) Special Court had again issued a summons to SNC-Lavalin in connection with the corruption scandal in India's Kerala state.  The court reportedly has also issued an arrest warrant for Klaus Triendl, former Senior Vice President at SNC-Lavalin, and initiated steps to extradite him to India. <br /><br />According to press reports, the CBI's "SNC-Lavalin case" is ongoing.  According to these reports, on 11 July 2012, the CBI presented documentation to the Kerala court substantiating efforts taken to effect the extradition of Klaus Triendl, including contacts with the Union Minister of External Affairs, the High Commission of India in Canada and the Canadian Police authorities.  In 2013, the Kerala court reportedly split the trial between Klaus Triendl and CPI state secretary Pinarayi Vijayan.<br /><br />Canada <br /><br />On 3 September 2011, it was reported that the Royal Canadian Mounted Police ("RCMP") had initiated an investigation into the Company regarding alleged corruption involving a USD 1.2 billion World Bank loan for a USD 2.9 billion bridge project in Bangladesh and had executed several raids in Ontario.  In a press release on 6 September 2011, SNC-Lavalin confirmed the investigation.   <br /><br />On 11 April 2012, Mohammed Ismail, Director of International Projects at SNC-Lavalin Toronto and Ramesh Shah, former Vice President at SNC-Lavalin Toronto were charged with one count of violating the Corruption of Foreign Officials Act ("CFPOA").  The two men appeared in a Toronto court on 25 June 2012 in order to set a date for their preliminary hearing, which will take place in 2013.<br /><br />On 28 November 2012, the L'Unité permanente anticorruption ("UPAC"), Quebec's anti-corruption unit, announced that its Investigation Service had arrested Pierre Duhaime, former Chief Executive Officer of SNC-Lavalin, at his home that morning, on suspicion of conspiracy to commit fraud, fraud and use of false documents.  In the same press statement, UPAC announced that mutual assistance proceedings are underway between UPAC and authorities in Switzerland regarding Riadh Ben Aïssa.<br /><br />The Star reported that Pierre Duhaime was formally charged with fraud on 11 February 2013, to which he pleaded not guilty.<br /><br />In September 2013, the RMPC charged Kevin Wallace, former Senior Vice President of SNC-Lavalin International Inc, Zulfiquar Ali Bhuiyan, a Canadian citizen with ties to business in Bangladesh and Abul Hasan Chowdrey, a prominent Bangladeshi lobbyist, have been charged for violating Canada's Corruption of Foreign Public Officials Act related to the company's failed bid to oversee the building of the Padma Bridge in Bangladesh. <br /><br />Two lower-level SNC-Lavalin employees await trial in Toronto for similar allegations. <br /><br />On 21 January 2014, the RCMP in Montreal filed criminal charges against two former senior SNC-Lavalin executives. Mr. Roy, a former vice-president at SNC-Lavalin, was charged with fraud, bribing a foreign public official, and contravening a United Nations economic measures act related to Libya.  Mr. Bebawi was charged with fraud, two counts of laundering the proceeds of a crime, four counts of possession of property obtained by crime and one count of bribing a foreign public official.<br /><br />On 10 September 2014, police in Canada charged Mr. Kyres, a prominent lawyer who formerly headed the tax practice at the Montreal office of Dentons Canada LPP, for an alleged plot against a potential witness in connection with the SNC-Lavalin probe. Mr. Kyres was charged  with extortion and obstruction of justice, according to the Globe and Mail.  Mr. Kyres allegedly approached undercover police to obtain a statement from Riadh Ben Aissa, a former vice president of SNC-Lavalin who was in jail in Switzerland for money laundering, fraud, and corruption.  Sami Bebawi, another former senior SNC executive, was also charged with obstruction of justice on 10 September 2014. <br /><br />SNC Lavalin, claiming it was duped by its own executives, will recoup more than USD $13 million that was recovered in a bribery probe by the Royal Canadian Mounted Police.<br /><br />On 19 February 2015, the Royal Canadian Mounted Police's (RCMP) National Division charged SNC Lavalin Group Inc., its division SNC-Lavalin Construction Inc. and its subsidiary SNC-Lavalin International Inc. with violating the Corruption of Foreign Public Officials Act (CFPOA). The charges relate to CAN$47,689,868 (US$37,946,982) in alleged bribe payments made to Libyan officials between 2001 and 2013. A second count is for fraud of approximately CAN$130-million (US$103-million) related to construction projects in Libya, including the Great Man Made River Project.  <br /><br />Bangladesh<br /><br />The Bangladesh Anti-Corruption Commission ("ACC") initiated an investigation of the matter.  On 2 July 2012, the ACC questioned Ziaul Haque, a local agent of SNC-Lavalin.  In a World Bank press release dated 20 September 2012, it is noted that the World Bank "believes" the Bangladeshi government to have put all officials suspected of involvement in the alleged corruption on leave pending the outcome of the investigation. The Chairman of the ACC, Ghulam Rahman, alleged on 27 November 2012 that "[a]ttempts of bribery were made regarding the appointment of a consultant for the [Padma Bridge Project]."  Rahman also noted that World Bank investigators, who had visited Bangladesh in October, would return in early December 2012.<br /><br />Unconfirmed media reports on 18 December 2012 alleged that the ACC planned to issue a report accusing the former president of Candu Energy Inc. of conspiracy to bribe government officials. <br /><br />On 20 September 2012, the World Bank announced the conditional resumption of funding of the Padma Bridge Project.  Measures demanded by the World Bank include the introduction by Bangladesh of new procurement arrangements, with better oversight and transparency.  Bangladesh was also required to commit to the conduct of a "full and fair" investigation into the corruption allegations, and to allow the results of the investigation to be reviewed by an external panel, which will report its findings both to the Bangladeshi government and the World Bank.<br /><br />However, Bangladesh withdrew its request for World Bank funding for the Padma Bridge Project on 31 January 2013. The World Bank said on 1 February 2013 that Bangladesh's "letter to the World Bank confirms the authorities' intent to continue the investigation of alleged corruption related to the project. The World Bank has taken note of the government's decision of not seeking renewed World Bank financing for the Padma Bridge, and it encourages the Anti-Corruption Commission to complete a full and fair investigation of the corruption allegations."<br /><br />Algeria<br /><br />According to a CBC News report from 3 June 2013, police searched SNC-Lavalin's offices in Algiers. SNC-Lavalin's spokeswoman told CBC News that "the authorities have given us no details" about the investigation and that it "included a search of our offices with which we co-operated in order to assist the authorities to obtain whatever information is needed to resolve the matters in question."<br /><br />France<br /><br />The investigation is ongoing.<br /><br />World Bank <br />On 2 April 2012, the Company reported in a press release that "one of its subsidiaries received formal notice from the World Bank that the rights of that subsidiary to bid on new World Bank projects have been temporarily suspended." (By agreement, the other developments banks that were committed to funding portions of the project followed the World Bank suspension:  the Asian Development Bank (ADB) had pledged USD 610 million, Japan International Cooperation Agency (JICA) had committed USD 400 million and the Islamic Development Bank had promised USD 140 million.)   SNC-Lavalin acknowledged that the World Bank had issued an "Early Temporary Suspension" ("ETS").  Under the World Bank's Sanctions Procedures, an ETS may be issued prior to the conclusion of an investigation by the Bank's integrity vice presidency, if there is sufficient evidence to conclude that a sanctionable practice has occurred, and that the appropriate sanction for such misconduct is a minimum of two years' debarment. A temporary suspension prevents a company from being awarded new World Bank-financed contracts for an initial period of six months, subject to possible extension for an additional six months.<br /><br />On 29 June 2012, the World Bank issued the following press statement: "The World Bank has credible evidence corroborated by a variety of sources which points to a high-level corruption conspiracy among Bangladeshi government officials, SNC Lavalin executives and private individuals in connection with the Padma Multipurpose Bridge Project.  The World Bank provided evidence from two investigations to the Prime Minister, as well as the Minister of Finance and the Chairman of the Anti-Corruption Commission of Bangladesh (ACC) in September 2011 and April 2012. We urged the authorities of Bangladesh to investigate this matter fully and, where justified, prosecute those responsible for corruption.  We did so because we hoped the Government would give the matter the serious attention it warrants.  In Canada, where SNC Lavalin's headquarters are located, after executing numerous search warrants and a year-long investigation based on a referral from the World Bank, the Crown Prosecution Services brought corruption charges against two former SNC executives in connection with the Padma Bridge Project."<br /><br />On 17 April 2013, the World Bank announced that it reached a settlement with SNC-Lavalin Inc. regarding allegations of misconduct in two World Bank projects. The settlement includes a 10-year debarment for SNC-Lavalin Inc. and over 100 of its affiliates. These companies have been barred from bidding on World Bank-financed projects for the 10-year period due to "the company's misconduct in relation to the Padma Multipurpose Bridge Project in Bangladesh, as well as misconduct under another Bank-financed project." The press release stated that the other project is the Rural Electrification and Transmission Project in Cambodia. The period of debarment can be reduced to eight years based on the Company's compliance with the debarment agreement. <br /><br />It is important to note that this debarment does not include all SNC-Lavalin Group Inc. subsidiaries and affiliates. SNC-Lavalin Inc. and these 100-plus affiliates represent a significant portion of the Group's business, but not all of it. Subsidiaries and affiliates of SNC-Lavalin Group Inc. that are not included in the debarment may still bid for World Bank projects provided that they comply with the relevant rules and procedures.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>ExpressBuzz: "SNC-Lavalin deny bribing Kerala politicians" (12 June 2009)</p><p>Thaindian News: "Reprieve for Vijayan in SNC Lavalin case" (17 April 2010)</p><p>	The Hindu: "Further probe against Pinarayi 'improper:' CBI" (18 April 2010)</p><p>Express News Service: "No clean chit to anyone in Lavalin case: CBI " (22 April 2010)</p><p>	The Hindu: "CBI court issues summons to SNC-Lavalin" (25 February 2011)</p><p>	Ottawa Citizen: "SNC-Lavalin workers in RCMP corruption probe" (3 September 2011)</p><p>The Star: "Canadian company says it's cooperating with corruption probe" (3 September 2011)</p><p>SNC-Lavalin News Release: "Clarification on the RCMP Investigation" (6 September 2011)</p><p><a href="file.asp?id=1754">SNC-Lavalin Press Report: "SNC-Lavalin Reports on Results of Voluntary Independent Review" (26 March 2012)</a></p><p><a href="file.asp?id=1755">SNC-Lavalin Press Release: "SNC-Lavalin Announces Departure of Chief Executive Officer, Appointment of Interim Chief Executive Officer and Fourth Quarter and Year-end Results for 2011" (26 March 2012)</a></p><p><a href="file.asp?id=1771">SNC-Lavalin Press Release: "SNC-Lavalin Delivers Update on Bangladesh Investigation" (2 April 2012)</a></p><p><a href="file.asp?id=2227">SNC-Lavalin Press Release: "SNC-Lavalin Cooperates with the RCMP" (13 April 2012)</a></p><p><a href="file.asp?id=1809">SNC-Lavalin Press Release: "SNC-Lavalin's Position Regarding the Announcement of Riadh Ben Aissa's Arrest" (29 April 2012)</a></p><p><a href="file.asp?id=1875">World Bank Press Release: "World Bank Statement on Padma Bridge" (29 June 2012)</a></p><p><a href="file.asp?id=1961">SNC-Lavalin Press Release: "World Bank Statement of September 20, 2012 on Padma Bridge" (20 September 2012)</a></p><p><a href="file.asp?id=2079">SNC-Lavalin: Interim Condensed Consolidated Financial Statements (2 November 2012)</a></p><p>	CBC News: "Swiss probe $139M SNC-Lavalin laundering case" (25 November 2012)</p><p><a href="file.asp?id=2052">UPAC Press Release: "Cas presume de corruption, L'UPAC a procede a une arrestation" (28 November 2012)</a></p><p><a href="file.asp?id=2080">SNC-Lavalin Press Release: "SNC-Lavalin's Position Regarding the Announcement of Pierre Duhaime's Arrest" (28 November 2012)</a></p><p><a href="file.asp?id=2226">World Bank Press Release: "Statement on Padma Multipurpose Bridge Project" (1 February 2013)</a></p><p>The Star: "Former SNC head Pierre Duhaime formally charged with fraud" (11 February 2013)</p><p>The Globe and Mail: "SNC bribery probe widens to Algeria" (21 February 2013)</p><p>Reuters: "Probe into possible SNC bribes widens to Algeria" (21 February 2013)</p><p><a href="file.asp?id=2225">World Bank Press Release: "World Bank Debars SNC-Lavalin Inc. and its Affiliates for 10 years" (17 April 2013)</a></p><p>CBC News: "SNC-Lavalin International used secret code for 'bribery' payments" (15 May 2013)</p><p>CBC News: "10 countries where SNC-Lavalin contracts under scrutiny" (15 May 2013)</p><p>The Canadian Press: "SNC-Lavalin maintains that new bribery allegations have been resolved" (20 May 2013)</p><p>CBC News: "SNC-Lavalin offices in Algeria raided amid bribery probe" (3 June 2013)</p><p>The Globe and Mail: "French police investigating new details of SNC-Lavalin payments" (26 June 2013)</p><p>The Star: "French probe reveals details of $13.5M payment by SNC-Lavalin" (26 June 2013)</p><p>Financial Post: "French police probe SNC-Lavalin, related to Canadian investigation" (26 June 2013)</p><p>National Post: "SNC-Lavalin files $2-million claim against former VP Riadh Ben Aissa, Cynthia Vanier" (11 July 2013)</p><p>CBC News: "Former SNC-Lavalin VP charged in Bangladesh bribery probe" (19 September 2013)</p><p><a href="file.asp?id=2626">Royal Canadian Mounted Police Press Release (Feb. 19, 2015)</a></p><p><a href="file.asp?id=2627">RCMP Press Release re Sami Abdellah Bebawi & Constantine Andreas Kyres (Sep. 10, 2014)</a></p><p><a href="file.asp?id=2628">Chowdhury v. H.M.Q. 2014 ONSC 2635</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

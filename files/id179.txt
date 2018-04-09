@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192256renf9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192256f836e" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALCOA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(179)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922562583z" width="415" height="61" /></div>
+    
+        <h1>ALCOA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Alcoa Inc. ("Alcoa")<br />Alumina Ltd ("Alumina," a joint venture partner of Alcoa in Bahrain)<br />Alcoa World Alumina ("AWA," a joint venture between Alcoa and Alumina in Bahrain)<br />Aluminium Bahrain BSC ("Alba")<br />Bruce Allan Hall (former CEO of Alba)<br />Victor Michael Phillip Dahdeleh (see separate Compendium entry)<br />Sheikh Isa bin Ali al-Khalifa (former head of Alba's board, former Oil Minister of Bahrain)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Producer of alumina and aluminum products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bahrain<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 27 February 2008, Alcoa received notice that Alba, a direct competitor, had filed suit against Alcoa and Mr. Dahdaleh for allegedly engaging in a conspiracy to defraud Alba over the course of 15 years.  The complaint further alleged that Alcoa (1) illegally bribed officials of the government of Bahrain and officers of Alba in order to force Alba to purchase alumina at excessively high prices, (2) illegally bribed officials of the government of Bahrain and officers of Alba and issued threats in order to pressure Alba to enter into an agreement by which Alcoa would purchase an equity interest in Alba, and (3) assigned portions of existing supply contracts between Alcoa and Alba for the sole purpose of facilitating alleged bribes and unlawful commissions. <br /><br />On 26 February 2008, Alcoa advised the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") of these claims, and began an internal investigation.  Alcoa expressed its intention to cooperate fully in any investigation that the DOJ or the SEC may commence. On 17 March 2008, the DOJ notified Alcoa that it had opened a formal investigation and Alcoa has been cooperating with the government. <br /><br />In response to a motion filed by the DOJ on 27 March 2008, the U.S. District Court ordered the suit filed by Alba to be administratively closed and that all discovery be stayed to allow the DOJ to fully conduct an investigation and ordered that the case  be reopened at the close of the DOJ's investigation. The company also faces two related shareholder derivative suits that were stayed pending the close of the government's investigation.<br /><br />Alba's civil suit was allowed to proceed in November 2011.   The complaint alleged that Alcoa paid USD $9.5 million in bribes to officials in Bahrain and Alba executives so that they would overpay for alumina for their smelting operations, and that the over-payments amounted to USD $420 million.  The complaint alleged that Mr. Dahdaleh earned USD $13.5 in illegal commissions.  Media reports claimed that Sheikh Isa bin Ali al-Khalifa, the former head of Alba's board and Bahrain's oil minister, was a recipient of Mr. Dahdeleh's bribes.  On 9 October 2012, Alcoa entered into a settlement with Alba for USD $85 million.  In announcing the settlement, Alcoa said it did not admit liability.<br /><br />In connection with the case, the U.K. Serious Fraud Office ("SFO") charged Mr. Dahdaleh and Mr. Hall in 2012.  Alcoa was not named as a defendant in the SFO's case. The SFO's charging documents alleged that Mr. Dahdaleh paid USD $67 million in bribes to former officials of Alba between 1998 and 2006 in return for raw material supply contracts for Alcoa and others worth over $3 billion.  Further, the SFO alleged that Mr. Hall received a bribe of GBP 852,416 in March 2004, USD $286,043 in June 2004 and USD $98,013 a month later, and that Mr. Hall used some of the illegal proceeds to purchase an apartment in the Knightsbridge district of London.<br /><br />In a press release dated 8 July 2013, Alcoa announced the potential need for approximately USD $200 million to settle the DOJ matter and announced that the SEC  rejected Alcoa's most recent offer of USD $60 million.<br /><br />On 9 January 2014, Alcoa entered into a settlement totaling USD $384 million with the SEC and DOJ.  According to the SEC Order, Alcoa's subsidiaries allegedly retained a consultant with ties to the royal family of Bahrain to assist in negotiations with Bahraini government officials in connection with sales of alumina to Alba.  <br /><br />The relationship with the consultant was allegedly designed to facilitate corrupt payments to Bahraini officials.  According to the SEC Order, money used for the bribes came from the commissions that AWA paid to the consultant as well as price markups the consultant made between the purchase price of the product from Alcoa and the sale price to Alba.  The consultant was allegedly paid a commission on sales where he acted as an agent and received a markup on sales where he acted as a purported distributor; yet, according to the SEC Order, "no legitimate services were provided to justify the role of the consultant as a distributor."<br /><br />According to the SEC Order, in August 2003, the consultant made 2 payments totaling USD $7 million to accounts for the benefit of a Bahraini government official who the consultant had been retained to lobby. Two weeks later, according to the SEC Order, Alcoa and Alba signed an agreement to have Alcoa participate in Alba’s plant expansion.  In October 2004, the consultant allegedly paid USD $1 million to an account for the benefit of that same government official. According to the SEC Order, shortly thereafter, Alba agreed to Alcoa’s offer for a supply agreement.  Around the time of the execution of the final supply agreement in 2005, the consultant's controlled companies allegedly paid another Bahraini government official and his beneficiaries USD $41 million in three payments. <br /><br />Moreover, from 2005 through 2009, Alcoa allegedly continued to grant overrides to extend increasing credit lines to the consultant’s purported distributorships; during this period, the credit lines granted to this consultant were significantly greater than those granted by Alcoa to any other third party. By 2007, Alcoa was allegedly extending a credit line of USD $58 million. <br /><br />The SEC determined that "Alcoa did not conduct due diligence or otherwise seek to determine whether there was a legitimate business purpose for the use of a middleman."  Alcoa agreed to plead guilty to one count of violating the FCPA's anti-bribery provisions with the DOJ.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Bahraini Officials&nbsp;</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained&nbsp;</strong></p>
+</td>
+</tr>
+<tr>
+<td>USD $110 million</td>
+<td>
+<p>Influence over contract negotiations</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 26 February 2008, Alcoa advised the DOJ and SEC of the lawsuit filed by Alba claiming that Alcoa illegally bribed officials of Bahrain in order to force Alba to purchase alumina at excessively high prices.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 9 January 2014, the SEC and DOJ charged Alcoa with repeatedly violating the FCPA in order to maintain a key source of business. Alcoa agreed to settle the SEC’s charges and a parallel DOJ criminal case announced by paying a total of USD $384 million. The SEC investigation found that more than USD $110 million in corrupt payments were made to Bahraini officials with influence over contract negotiations between Alcoa and a major government-operated aluminum plant.  <br /><br />Alcoa was charged with lacking sufficient internal controls to prevent and detect the bribes, which were improperly recorded in Alcoa’s books and records as legitimate commissions or sales to a distributor.<br /><br />Alcoa will pay USD $175 million in disgorgement of ill-gotten gains to the SEC, of which USD $14 million will be satisfied by the company’s payment of forfeiture in the parallel criminal matter.  Alcoa also will pay a criminal fine of USD $209 million.<br /><br />Alcoa agreed to plead guilty to one count of violating the anti-bribery provisions of the FCPA in connection with a 2004 corrupt transaction, to pay a criminal fine of USD $209 million, and to administratively forfeit USD $14 million.   As part of the plea agreement with the DOJ, Alcoa agreed to maintain and implement an enhanced global anti-corruption compliance program.<br /><br />United Kingdom<br /><br />Mr. Hall was extradited from Australia to the UK, and charged on 15 February 2012 at Westminster Magistrates' Court, with receiving bribes between 1998 and 2006.  Charges include conspiracy to corrupt, corruption, acquiring and transferring criminal property.  <br /><br />Mr. Hall and co-defendant Mr. Dahdeleh, appeared in Southwark Crown Court on 2 March 2012.  Mr. Hall pleaded guilty in 2012 to conspiracy to corrupt after he was charged with taking nearly USD $5 million in bribes.  He was ordered by the court to repay USD $5.1 million to Alba in seven days.  On 22 July 2014, Mr. Hall was put in jail in the U.K. for a period of sixteen months.<br /><br />On 10 December 2013, the trial of Mr. Dahdaleh ended in complete acquittal after two witnesses from U.S. law firm Akin Gump, involved in the investigation, refused to testify and another witness changed his evidence.  Please see separate Compendium summary regarding the case against Victor Dahdeleh.<br /><br />Bahrain<br /><br />Bahrain's 2008 investigation centered on Sheikh Isa bin Ali al-Khalifa, the country's former minister of petroleum and chairman of Alba, and on Jordan-born Canadian businessman Mr. Dahdaleh, who acted as Alcoa's agent in Bahrain. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Failure to conduct due diligence or otherwise seek to determine whether there is a legitimate business purpose for consultants may lead to significant penalties. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2466">SEC Order and Settlement</a></p><p><a href="file.asp?id=2467">SEC Press Release on Alcoa Settlement</a></p><p><a href="file.asp?id=2468">DOJ Press Release on Alcoa Settlement</a></p><p><a href="file.asp?id=789">Alcoa: SEC Form 10-K (18 February 2010)</a></p><p><a href="file.asp?id=980">Alba v. Alcoa: Unopposed Motion of the United States to Intervene and for a Stay of Discovery and Memorandum in Support of Motion (20 March 2008)</a></p><p><a href="file.asp?id=981">Alba v. Alcoa: Order Granting Department of Justice's Motion to Intervene (27 March 2008)</a></p><p><a href="file.asp?id=1385">Alcoa: SEC Form 10-K (17 February 2011)</a></p><p><a href="file.asp?id=1697">SFO Press Release: "Bruce Hall charged with corruption and money laundering" (15 February 2012)</a></p><p><a href="file.asp?id=2360">Alcoa Press Release: "Alcoa Reports Strong Operational Performance Offset by Special Items; Including Special Items, Net Loss of $0.11 Per Share; Excluding Special Items, Net Income of $0.07 Per Share" (8 July 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

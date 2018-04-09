@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192317t6f4c">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192317qp1kc" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IBM (ASIA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(201)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19231784l3j" width="415" height="61" /></div>
+    
+        <h1>IBM (ASIA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Korea: Seoul District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        International Business Machines Corporation ("IBM")<br />IBM Korea, Inc. (IBM's wholly-owned subsidiary in Korea) ("IBM Korea")<br />LG IBM PC Co. (a now-dissolved joint venture between IBM Korea and LG Electronics) ("LG IBM")<br />IBM (China) Investment Company Limited and IBM Global Services (China) Co., Ltd. (wholly owned subsidiaries of IBM in China) (collectively, "IBM China")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of computer products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Armonk, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        IBM described the ongoing investigation involving IBM Korea as follows in its 2009 Annual Report:<br /><br />"In January 2004, the Seoul District Prosecutors Office in South Korea announced it had brought criminal bid-rigging charges against several companies, including IBM Korea and LG IBM (a joint venture between IBM Korea and LG Electronics, which has since been dissolved, effective January, 2005) and had also charged employees of some of those entities with, among other things, bribery of certain officials of government-controlled entities in Korea and bid rigging. IBM Korea and LG IBM cooperated fully with authorities in these matters. A number of individuals, including former IBM Korea and LG IBM employees, were subsequently found guilty and sentenced. IBM Korea and LG IBM were also required to pay fines. Debarment orders were imposed at different times, covering a period of no more than a year from the date of issuance, which barred IBM Korea from doing business directly with certain government-controlled entities in Korea. All debarment orders have since expired and when they were in force did not prohibit IBM Korea from selling products and services to business partners who sold to government-controlled entities in Korea. In addition, the U.S. Department of Justice and the SEC have both contacted the company in connection with this matter. In March 2008, the company received a request from the SEC for additional information."<br /><br />According to press reports in June 2010, IBM was also conducting an internal investigation into possible bribery involving its China operations.  IBM China was reportedly terminating or downgrading approximately 120 staff from various offices in China, including some senior employees, for violating the company's anti-corruption policies.  Press reports stated that the misconduct involved overseas training expenses for Chinese government officials.<br /><br />On 18 March 2011, the SEC charged International Business Machines Corporation ("IBM") with violating the FCPA's books and records and internal control provisions by providing improper cash payments, gifts, and travel and entertainment to government officials in South Korea and China.  <br /><br />The SEC alleged that, from 1998 to 2003, employees of IBM Korea, Inc. and LG IBM PC Co., Ltd. paid cash bribes and provided improper gifts and payments of travel and entertainment expenses to various government officials in South Korea in order to secure the sale of IBM products.  The payments amounted to approximately KRW 216,832,500 (South Korean Won), or USD 207,000.  <br /><br />The SEC also alleged that, from at least 2004 to early 2009, employees of IBM (China) Investment Company Limited and IBM Global Services (China) Co., Ltd. engaged in a widespread practice of providing overseas trips, entertainment, and improper gifts to Chinese government officials.  The improper conduct involved several key IBM China employees and more than 100 IBM China employees overall.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <p>Approximate Alleged Payments to South Korean Officials   Business Advantage Allegedly Obtained     Cash bribes and improper gifts, travel and entertainment expenses, valued at USD 207,000   Sales of IBM products worth USD 54 million     &nbsp;     Approximate Alleged Payments to&nbsp;Chinese Officials   Business Advantage Allegedly Obtained     Overseas trips, entertainment and improper gifts, of unspecified value   Sales of IBM products</p>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 18 March 2011, without admitting or denying the SEC's allegations, IBM consented to the entry of a final judgment permanently enjoining the company from violating the FCPA's books and records and internal control provisions. IBM agreed to pay disgorgement of USD 5,300,000, USD 2,700,000 in prejudgment interest, and a USD 2,000,000 civil penalty.  The DOJ appears to have closed its investigation without taking any enforcement action. <br /><br />In December 2012, Judge Richard Leon notified the parties that he would not approve the settlement unless both the SEC and IBM could agree to additional settlement terms recommended by the court.  The Court would like to see reporting requirements imposed on IBM, including annual reports to the SEC regarding FCPA compliance efforts, as well as disclosure of new criminal or civil investigations involving the company.  IBM apparently agrees to the former but not the latter, and the SEC has supported IBM's position.  The Court asked the parties to provide evidence to support IBM's claim that the investigation reporting requirement is too burdensome.<br /><br />According to Bloomberg News, Judge Leon approved the settlement between the SEC and IBM on 25 July 2013. According to the article, "IBM agreed to make annual reports to the judge and the SEC describing its efforts to comply with the FCPA. The company also agreed to immediately report to the SEC and the court 'upon learning that it is reasonably likely' IBM violated the FCPA in connection with improper payments to foreign officials or any fraudulent books and records."<br /><br />South Korea<br /><br />As described in its 2009 annual report above, South Korean authorities previously charged employees of IBM Korea and LB IBM with bribery and bid rigging, among other charges, and these employees were subsequently found guilty and sentenced.  The two companies were fined and IBM Korea was temporarily debarred.   
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Although the U.S. DOJ and SEC may both initiate investigations of a company for potential FCPA violations, one agency may decide to close its investigation without taking any enforcement action while the other agency moves forward.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Fair Trade Commission Judgment: Number 2003-220 (26 December 2003)</p><p>Seoul Central District Prosecutors Office Press Release: Results of the investigation of IBM Korea and LG IBM (2 January 2004)</p><p>Seoul Central District Court Decision: Criminal Division 23 (17 February 2004)</p><p><a href="file.asp?id=815">IBM: 2009 Annual Report</a></p><p>TechSecurityChina.com: "IBM Cleanses Its China Ranks Of Corrupt Staff" (21 June 2010)</p><p>China Business News (CBN) Weekly: [Chinese language publication] (21 June 2010)</p><p><a href="file.asp?id=1374">SEC Litigation Release: "IBM to Pay $10 Million in Settled FCPA Enforcement Action" (18 March 2011)</a></p><p><a href="file.asp?id=1375">Complaint: SEC v. International Business Machines Corporation (18 March 2011)</a></p><p>Bloomberg News: "IBM Judge OKs Foreign Bribe Settlement Two Years Later" (26 July 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

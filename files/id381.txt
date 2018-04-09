@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925532hmv5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192553v5478" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MARUBENI CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(381)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19255397y07" width="415" height="61" /></div>
+    
+        <h1>MARUBENI CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        JGC Corporation<br />Kellogg Brown & Root Inc. (KBR)<br />Snamprogetti Netherlands B.V.<br />Technip S.A<br />TSKJ<br />Wojciech J. Chodan<br />Jeffrey Tesler 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Japanese trading company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In order to obtain contracts to build liquefied natural gas facilities on Bonny Island, Nigeria, beginning in 1995, the TSKJ joint venture composed of Technip S.A., Snamprogetti  Netherlands B.V., Kellogg Brown & Root Inc. (KBR), and JGC Corporation hired an individual named Jeffrey Tesler, and the Marubeni Corporation, to pay bribes to Nigerian government officials.  Over a period of nine years, TSKJ paid approximately USD $132 million to a corporation controlled by Tesler, and USD $51 million to Marubeni Corporation, with the understanding the part of these sums would be used to pay Nigerian officials for facilitating and awarding four construction contracts, worth over USD $6 billion.<br /><br />For a detailed account of the role played by each of the joint venture partners in the bribery scheme, see the individual Compendium entries for those entities.   
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Nigerian Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;A portion of over USD 50 million&nbsp;paid to Marubeni for negotiating and securing the contracts (an additional&nbsp;USD 132 million was&nbsp;paid to another intermediary)</td>
+<td style="text-align: center;">Four EPC contracts, valued at USD 6 billion, secured for the four-party JV by Marubeni and the second intermediary (Tesler)</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the Nigeria LNG bribery scandal first came to light during the course of investigations by French prosecutors into Elf-Aquitaine's operations in Asia and Africa.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In February 2009, KBR's successor company, Kellogg Brown & Root LLC, pleaded guilty to FCPA-related charges for its participation in the bribery scheme; it was ordered to pay a USD 402 million fine and to retain an independent compliance monitor for a three-year period.<br /><br />In June 2010, Technip entered into a deferred prosecution agreement with the Department of Justice, whereby the company agreed to pay a USD 240 million criminal penalty and to retain an independent compliance monitor for two years.<br />Likewise, in July 2010, the DOJ entered into a USD 240 million deferred prosecution agreement with Snamprogetti.<br /><br />In April 2011, JGC agreed to pay a criminal penalty of USD 218.8 million, in a two-year deferred prosecution agreement with the DOJ, also requiring the retention of an independent compliance consultant for a period of two years. <br /><br />Albert "Jack" Stanley, former CEO of KBR, pleaded guilty in September 2008 to conspiring to violate the FCPA for his involvement.  In February 2009, Jeffrey Tesler and Wojciech J. Chodan, a former salesperson and consultant of a United Kingdom subsidiary of KBR, were also indicted.   Tesler was extradited from the United Kingdom, and pleaded guilty to conspiracy and FCPA charges, agreeing to pay USD 148,964,568.  In December 2010, Chodan was extradited from the UK and pleaded guilty to FCPA charges, paying USD 726,885 in penalties.<br /><br />On 17 January 2012, a criminal information was filed against the Japanese trading company, Marubeni Corporation, in the U.S. District Court for the Southern District of Texas, charging the company with conspiracy to violate the FCPA, and with aiding and abetting violations of the FCPA.   An agreement was reached with the DOJ, whereby prosecution of the violations will be deferred for two years, and Marubeni will pay USD 54.6 million to the DOJ; if Marubeni abides by the terms of the agreement, the criminal information will be dismissed upon the expiry of the two year period.   
+		<h2>COMPLIANCE MONITOR</h2>
+        Marubeni has undertaken to engage a corporate compliance monitor for a period of two years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC will pursue FCPA violations committed by U.S. and foreign companies alike.</li><li>Information obtained by the DOJ and SEC from one cooperating company will likely be utilized to investigate and prosecute other entities implicated in the same or related conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1681">Marubeni - DOJ Press Release (17 Jan 2012)</a></p><p><a href="file.asp?id=1691">Marubeni - Criminal Information (17 Jan. 2012)</a></p><p><a href="file.asp?id=2487">Marubeni - DOJ Plea Agreement (3 19 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843164ya04">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184316934j1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMAC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(86)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184316803h1" width="415" height="61" /></div>
+    
+        <h1>AMAC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Shu Quan-Sheng ("Shu") <br />AMAC International ("AMAC") <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Project to design and build a hydrogen liquefier
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newport News, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Mr. Shu, a native of China and a naturalized U.S. citizen, was the President, Secretary and Treasurer of AMAC, a high-tech company that performs research grants on behalf of the Department of Energy and NASA.  <br /><br />From 2003 until 2007, Mr. Shu provided assistance to the Chinese government in designing and developing a cryogenic fueling system for space launch vehicles in violation of U.S. export control law.  In addition, AMAC acted as a marketing agent for a French company that has its shares listed on a U.S. stock exchange.  The French company was competing for a contract to develop a 600 liter per hour liquid hydrogen tank system for the 101st Research Institute, an institute overseen by the Commission of Science Technology and Industry for the National Defense. <br /><br />In order to secure the contract for the French company, Mr. Shu paid bribes totaling USD $189,300 to three Chinese officials on three separate occasions.  These payments were referred to as percentage points.  As a result of the payments, the French company won the contract worth approximately USD $4 million and Mr. Shu received a 10% commission. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Chinese Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD $189,300</p>
+</td>
+<td>
+<p>USD $4 million (revenue for French company); USD $386,740.27 (apparent commission to Shu)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The FBI conducted an investigation into Shu's activities with assistance from the U.S. Immigration and Customs Enforcement and the U.S. Department of Commerce, Office of Export Enforcement. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The FBI arrested Mr. Shu on September 24, 2008 and he pleaded guilty on November 17, 2008 to two counts of violating the Arms Export Control Act and one count of violating the FCPA.  On April 7, 2009, Mr. Shu was sentenced to 51 months in prison.  He was also required to forfeit USD $386,740.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government may prosecute FCPA charges along with violations of other laws, such as export control laws.</li><li>Intermediaries that are subject to U.S. jurisdiction will be charged with violating the FCPA if they make improper payments to assist the companies they represent obtain or retain business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=264">DOJ Press Release: April 7, 2009 (Virginia Physicist Sentenced to 51 Months in Prison for Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=265">DOJ Press Release: November 17, 2008 (Virginia Physicist Pleads Guilty to Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=266">DOJ Press Release: September 24, 2008 (Virginia Physicist Arrested for Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=267">Criminal Information: U.S. v. Shu Quan-Sheng (November 12, 2008)</a></p><p><a href="file.asp?id=268">Plea Agreement: U.S. v. Shu Quan-Sheng (November 17, 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921330x6x1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192133sebi3" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMAC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(86)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192133l9555" width="415" height="61" /></div>
+    
+        <h1>AMAC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Shu Quan-Sheng ("Shu") <br />AMAC International ("AMAC") <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Project to design and build a hydrogen liquefier
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newport News, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Mr. Shu, a native of China and a naturalized U.S. citizen, was the President, Secretary and Treasurer of AMAC, a high-tech company that performs research grants on behalf of the Department of Energy and NASA.  <br /><br />From 2003 until 2007, Mr. Shu provided assistance to the Chinese government in designing and developing a cryogenic fueling system for space launch vehicles in violation of U.S. export control law.  In addition, AMAC acted as a marketing agent for a French company that has its shares listed on a U.S. stock exchange.  The French company was competing for a contract to develop a 600 liter per hour liquid hydrogen tank system for the 101st Research Institute, an institute overseen by the Commission of Science Technology and Industry for the National Defense. <br /><br />In order to secure the contract for the French company, Mr. Shu paid bribes totaling USD $189,300 to three Chinese officials on three separate occasions.  These payments were referred to as percentage points.  As a result of the payments, the French company won the contract worth approximately USD $4 million and Mr. Shu received a 10% commission. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Chinese Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD $189,300</p>
+</td>
+<td>
+<p>USD $4 million (revenue for French company); USD $386,740.27 (apparent commission to Shu)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The FBI conducted an investigation into Shu's activities with assistance from the U.S. Immigration and Customs Enforcement and the U.S. Department of Commerce, Office of Export Enforcement. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The FBI arrested Mr. Shu on September 24, 2008 and he pleaded guilty on November 17, 2008 to two counts of violating the Arms Export Control Act and one count of violating the FCPA.  On April 7, 2009, Mr. Shu was sentenced to 51 months in prison.  He was also required to forfeit USD $386,740.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government may prosecute FCPA charges along with violations of other laws, such as export control laws.</li><li>Intermediaries that are subject to U.S. jurisdiction will be charged with violating the FCPA if they make improper payments to assist the companies they represent obtain or retain business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=264">DOJ Press Release: April 7, 2009 (Virginia Physicist Sentenced to 51 Months in Prison for Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=265">DOJ Press Release: November 17, 2008 (Virginia Physicist Pleads Guilty to Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=266">DOJ Press Release: September 24, 2008 (Virginia Physicist Arrested for Illegally Exporting Space Launch Data to China and Offering Bribes to Chinese Officials)</a></p><p><a href="file.asp?id=267">Criminal Information: U.S. v. Shu Quan-Sheng (November 12, 2008)</a></p><p><a href="file.asp?id=268">Plea Agreement: U.S. v. Shu Quan-Sheng (November 17, 2008)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

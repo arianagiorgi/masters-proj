@@ -1,0 +1,136 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922525lj21">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192252d7gvi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INNOSPEC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(174)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19225209m3v" width="415" height="61" /></div>
+    
+        <h1>INNOSPEC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />Indonesia: Corruption Eradication Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Innospec Inc. ("Innospec")<br />Alcor Chemie Vertriebs GmbH (Innospec's wholly-owned indirect Swiss subsidiary) ("Alcor")<br />Innospec Limited (Innospec's wholly-owned UK subsidiary) ("Innospec Ltd.")<br />David Turner (former Business Director of Innospec's TEL group and Business Unit Director, Octane Additives)<br />Paul W. Jennings (former CEO and CFO of Innospec)<br />Dennis Graham John Kerrison (former CEO of Associated Octel Corporation (subsequently renamed Innospec Ltd.))<br />Willy Sebastian Liem, Innospec agent and the director of Soegih Interjaya<br />Miltiades ("Miltos") Papachristos (former Asia-Pacific Regional Sales Director for Innospec Ltd.)<br />Associated Octel Corporation, (subsequently renamed Innospec Ltd)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Specialty chemicals, including anti-knock fuel additives used in oil refineries 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newark, DE, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 7 February 2006, the Securities and Exchange Commission ("SEC") notified Innospec that it had commenced an investigation into certain transactions under the United Nations Oil for Food ("OFF") Program involving Innospec's wholly-owned indirect Swiss subsidiary, Alcor Chemie Vertriebs GmbH ("Alcor"), between 1 June 1999 and 31 December 2003.  The SEC issued a subpoena requiring the production of various documents, including documents related to the OFF transactions.  Following notification of the SEC's investigation, Innospec commenced its own internal review of its participation in the OFF Program. <br /><br />The SEC served additional subpoenas on Innospec on 10 October 2007 and 1 November 2007, requiring the production of documents related to the OFF Program and to transactions involving Innospec or Innospec subsidiaries and state-owned or state-controlled entities between 1 June 1999 and the date of the subpoenas.  The SEC request concerned the use of foreign agents and the possible extra-contractual payments made to secure business with foreign governmental entities, potentially in violation of the FCPA and other laws.  <br /><br />As part of its coordinated investigation with the SEC, the Department of Justice ("DOJ") also notified Innospec about an investigation into possible violations of other laws stemming from the same matters covered by the SEC's investigation; namely, possible anti-trust violations related to the U.S. and international markets for tetraethyl lead (anti-knock fuel additives for oil refineries; "TEL").<br /><br />The SEC and DOJ investigations covered matters concerning certain former and current Innospec executives, including the company's former CEO, Paul W. Jennings, who resigned on 20 March 2009. <br /><br />On 19 February 2008, Innospec's Board of Directors formed a special committee to oversee the company's internal investigation and cooperation with the SEC and DOJ, with the assistance of outside counsel.  The committee was comprised of the chairmen of the Board, the Audit Committee and the Nominating and Governance Committee, all of whom are independent directors.  <br /><br />Innospec received a letter on 5 March 2008 expanding the range of the DOJ's document request and a letter on 13 June 2009 requesting information related to the U.S. Office of Foreign Assets Control ("OFAC").  OFAC was investigating various activities Innospec may have engaged in with respect to restricted countries.  <br /><br />On 31 July 2009, the DOJ disclosed the arrest of a Ousama M. Naaman, who had been indicted (under seal) on 7 August 2008, for certain FCPA violations in connection to his alleged participation in an eight-year conspiracy to defraud the OFF Program and bribe Iraqi officials on behalf of Innospec (described in the Naaman documents as "a publicly traded U.S. chemical company") in order to secure sales of a chemical additive used in the refining of leaded fuel.   Naaman served as Innospec and Alcor's agent for Iraq and certain other markets.  <br /><br />Separately, on 21 May 2008, the UK's Serious Fraud Office ("SFO") notified  Innospec's wholly-owned subsidiary in the UK, Innospec Limited ("Innospec Ltd."), that it had commenced an investigation into its activities under the Oil For Food Program ("OFF").  In connection with this investigation, Innospec produced documents to the SFO related to its OFF activities between 1 January 1996 and 31 December 2003.  Following notification of the SFO's investigation, Innospec expanded its internal investigation to include the matters under review by the SFO and began to cooperate with the office.  On 16 October 2008, the SFO notified the company that it had expanded its investigation into potential overseas bribery involving commercial agents, matters already forming a large portion of the SEC and DOJ investigation.  The SFO investigation also included matters concerning certain former and current executives.  <br /><br />Indonesia<br /><br />On 25 February 2010, the SFO charged Innospec Ltd.  with conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977, in connection with "bribery on a significant scale by Innospec and its agents in Indonesia."  The SFO alleged that, between 14 February 2002 and 31 December 2006, certain Innospec Ltd. directors, executives, employees and agents conspired to make improper payments to Indonesian officials in order to secure (or as rewards for having secured) contracts from the Indonesian government to supply it with tetra ethyl lead ("TEL").  <br /><br />According to the SFO, executives had "deliberately" organized the bribes to prolong the sales of TEL, which was used in cars and aircraft.  They allegedly paid bribes – of up to USD $17 million – to influential Indonesian officials to ensure "further orders would be placed and the use of TEL prolonged." At the time, TEL was slowly being banned around the world due to health fears.  <br /><br />By 2000, the toxic chemical was being sold in only a handful of countries – Iraq, Iran, South Africa, Venezuela and Indonesia.  Secret company documents that were discussed in court revealed how the prime objective was to "maximize the income stream from the prolonged use of TEL in Indonesia" and to aggressively challenge alternative, non-hazardous products.  Some of the bribes were paid to impede Indonesian politicians from bringing in laws to ban the chemical which made engines run more smoothly and reduce noise.<br /><br />Iraq<br /><br />On 25 October 2011, David Turner appeared before Westminster Magistrates' Court, where the Serious Fraud Office charged him with conspiring to make corrupt payments to public officials in Indonesia and Iraq to secure contracts for Innospec Ltd. for the supply of its products, as well as with conspiring to defraud a competitor company by bribing Iraqi officials to provide unfavorable test results on its product.  The case was transferred for Southwark Crown Court. <br /><br />Then, on 10 February 2012, SFO filed charges in Southwark Crown Court against Miltiades ("Miltos") Papachristos, formerly the Asia-Pacific Regional Sales Director for Innospec Ltd.  Papachristos, a dual UK and Greek citizen, is charged with bribing public officials in Indonesia in order to secure or reward the grant of contracts between Innospec and the government of Indonesia.<br /><br />On 18 March 2010, Innospec pleaded guilty in U.S. District Court to defrauding the UN, violating the FCPA and violating the U.S. embargo against Cuba.  The twelve-count information charged Innospec with wire fraud in connection with the payment of kickbacks to the former Iraqi government under the OFF Program, with FCPA violations in connection with bribe payments it made to officials in the Iraqi Ministry of Oil and with the sale of chemicals to Cuban power plants in violation of the embargo against Cuba.  Between 2000 and 2003, Innospec's Swiss subsidiary, Alcor, was awarded five contracts valued at more than EUR 40 million to sell tetraethyl lead to refineries run by the Iraqi Ministry of Oil under the OFF Program.  In order to secure these contracts, Alcor paid or promised to pay at least USD 4 million in kickbacks to the former Iraqi government, inflating the price of the contracts by approximately 10% to cover the cost of the kickbacks before submitting them to the UN for approval.  Alcor also falsely characterized the payments on the its books and records as "commissions" paid to Ousama Naaman, its agent in Iraq.<br /><br />Innospec also paid and promised to over USD 1.5 million in bribes - in the form of cash and travel - to Iraqi Ministry of Oil officials in order to secure sales of tetraethyl lead from 2004 to 2008.  The company also paid USD 150,000 in 2006 to Iraqi Ministry of Oil officials to ensure that a competing product was not approved for use in Iraqi refineries. The company recorded the payments as "commissions" using false invoices which were incorporated into its books and records.<br /><br />In a related matter, on 18 March 2010, the SEC filed a settled civil complaint charging Innospec with violating the FCPA's anti-bribery, internal controls and books and records provisions in connection with the above-described conduct. <br /><br />Cuba<br /><br />Between 2001 and 2004, an Innospec subsidiary also sold nearly USD $20 million in oil soluble fuel additives to state-owned Cuban power plants without a license from OFAC, in violation of the Trading With the Enemy Act. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>USD 4 million</p>
+<p>USD 1.5 million</p>
+<p>USD 150,000</p>
+</td>
+<td style="text-align: center;">
+<p>Contracts worth EUR 40 million for the sale of tetraethyl lead</p>
+<p>Sales of tetraethyl lead, of unspecified value</p>
+<p>Assurance that a competing product to tetraethyl lead was not approved for use in Iraqi refineries</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indonesian Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 2.9 million<br /></td>
+<td style="text-align: center;">Secure sales of unspecified value<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Global Settlement<br /><br />In its 2009 Form 10-K, filed on 19 February 2010, Innospec announced that it had set aside USD 40.2 million in total accruals for an anticipated global settlement of the DOJ, SEC and SFO investigations.<br /><br />The DOJ, SEC and SFO each publicly acknowledged their mutual cooperation in reaching this USD 40.2 million global settlement.  <br /><br />United States <br /><br />On 18 March 2010, Innospec pleaded guilty in U.S. District Court to the twelve-count information, agreeing to pay a USD 14.1 million criminal fine and to retain an independent compliance monitor for a minimum of three years.  <br /><br />On the same day, without admitting or denying the SEC's allegations, Innospec consented to the entry of a court order permanently enjoining it from future violations of the FCPA's anti-bribery, internal controls, and books and records provisions.  Innospec was ordered to pay USD 60,071,613 in disgorgement, provided that the SEC waive all but USD 11,200,000 of disgorgement and permitting payment in four installments based upon Innospec's sworn Statement of Financial Condition; and ordering the company to comply with certain undertakings regarding its FCPA compliance program, including retaining an independent monitor for a three-year period.<br /><br />On the same day, Innospec also settled USD 2.2 million to resolve outstanding matters with OFAC related to the company's violation of the embargo against Cuba.<br /><br />In its Sentencing Memorandum, the DOJ noted that the U.S. Sentencing Guidelines called for a criminal fine ranging between USD 101.5 million and USD 203 million and the company's total liability to all of the enforcement agencies including criminal fines, civil penalties, disgorgement and pre-judgment interest would be in excess of USD 400 million. The USD 40.2 million global settlement with the DOJ, SEC and SFO represents a significantly reduced amount due to the fact that larger fines and penalties would have jeopardized Innospec's continued viability. <br /><br />On 5 August 2010, David Turner and Innospec's third-party agent, Ousama Naaman, settled charges with the SEC. Turner and Naaman consented to the entry of final judgments permanently enjoining them from violating securities laws. In addition, Turner agreed to disgorge USD 40,000 to the SEC. Naaman agreed to disgorge USD 810,076 and pay pre-judgment interest of USD 67,030. He also agreed to a USD 438,038 civil penalty, which will be offset by any criminal fines he receives.<br /><br />[Please see a separate Compendium entry titled "Naaman" for information regarding Ousama Naaman's guilty plea.]<br /><br />On 24 January 2011, without admitting or denying the SEC's allegations, Paul Jennings consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA.  Jenning allegedly violated the FCPA and aided and abetted Innospec's violations beginning in mid to late 2004 during his tenure as Chief Financial Officer (CFO) and continuing after he became Chief Executive Officer (CEO) in 2005.  Jennings agreed to disgorge USD 116,092 (plus prejudgment interest of USD 12,945) and to pay a USD 100,000 civil penalty that, according to the SEC, takes into consideration Jennings' cooperation with the government's investigation.<br /><br />United Kingdom <br /><br />On 18 March 2010, Innospec Ltd. appeared in Southwark Crown Court  and pleaded guilty to bribing employees of Pertamina (an Indonesian state-owned refinery) and other  Indonesian in order to secure sales of tetraethyl lead.  A USD 12.7 million financial criminal penalty is to be imposed on Innospec Ltd.  On 26 March 2010, Innospec Ltd. entered a plea of guilty and was fined USD 12.7 million.  At the hearing in the Southwark Crown Court, Lord Justice Thomas  criticized the settlement, stating that the SFO had acted beyond its remit in negotiating the trans-Atlantic plea bargain and that the USD 12.7 million fine was "inadequate."  <br /><br />On 27 October 2011, Dennis Kerrison and Paul Jennings appeared before Westminster Magistrates' Court on charges related to alleged corrupt payments to gain public contracts in Indonesia.  Mr Jennings is also charged in connection with corrupt payments in Iraq.  The case was transferred for Southwark Crown Court.  <br /><br />On 11 June 2012, Paul Jennings pleaded guilty in Southwark Crown Court to charges that he conspired to corrupt public officials in Indonesia between 2002 and 2008, and in Iraq between 2003 and 2009, in order to secure contracts for the supply of Innospec products such as tetraethyl lead.  Two other former Innospec executives who are defendants in the case, Miltos Papachristos and Dennis Kerrison, pleaded not guilty.  <br /><br />On 30 July 2012, Jennings pleaded guilty to an additional charge of conspiracy to corrupt Iraqi officials, by making payments designed to induce government inspectors to produce unfavorable test results of a competitor product. <br /><br />On 18 June 2014, Dennis Kerrison, a former Innospec chief executive, and Miltiades Papachristos, a former regional sales director, were convicted by a jury at the Southwark Crown Court of conspiracy and bribery.  According to the SFO, the bribes were intended to secure, or serve as rewards for having secured, contracts from the Government of Indonesia for the supply of Innospec products including Tetraethyl Lead, a highly dangerous organo-lead compound.<br /><br />On 19 September 2014, a U.K. court of appeal upheld the convictions against Mr. Kerrison and Mr. Papachristos.  The justices, however, reduced Mr. Kerrison's sentence from four years to three because the trial judge incorrectly considered the starting point for the sentence as four years instead of five.<br /><br />Indonesia<br /><br />On 9 April 2010, The Jakarta Post reported that Indonesia's Corruption Eradication Commission ("KPK") had begun its own investigation into Innospec Ltd.'s activities in the country between 2000 and 2006. <br /><br />According to media reports in January 2012, Indonesia's Corruption Eradication Commission (Indonesian abbreviation "KPK") named a local agent for Innospec as a suspect in the Innospec bribery matter and charged the agent under Indonesian anti-corruption laws. According to media reports quoting a KPK spokesperson, Willy Sebastian Liem allegedly received over USD 17.48 million in commissions from Innospec and also channeled money to officials at the Energy Ministry, upstream oil and gas regulator BPMigas and state oil company Pertamina.<br /><br />On 17 January 2012, David Turner, Innospec's former Limited Global Sales and Marketing Director for Tetraethyl Lead, pleaded guilty to three counts of conspiracy to corrupt.  The first two counts charged Turner with conspiracy to give corrupt payments to public officials in Indonesia and Iraq between 2002 and 2008 in order to secure contracts for the sale of Tetraethyl lead.  In addition, Dr. Turner pleaded guilty to charges that he effected improper payments to Iraqi officials in 2006 and 2007 in order to ensure that tests on a competitor product would result in unfavorable assessments. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Kevin Abikoff of Hughes Hubbard & Reed LLP, jointly appointed by the DOJ, SEC and SFO
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC will work with other government agencies both in the United States and overseas when investigating potential violations of the FCPA.</li><li>The DOJ and SEC will take into account a company's inability to pay a fine when entering into a corporate settlement agreement.</li><li>The SFO's ability to negotiate settlements with companies under investigation has been called into question following the Innospec matter, with potential implications for the SFO's voluntary disclosure program and new approach to anti-bribery prosecutions.</li><li>Individuals can face charges in different jurisdictions for the same conduct, as David Turner has in both the US (SEC civil matter) and the UK (SFO criminal matter).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=698">Innospec 2009 Form 10-K (February 19, 2010)</a></p><p><a href="file.asp?id=699">SFO Press Release: 25 February 2010</a></p><p><a href="file.asp?id=714">DOJ Press Release: March 18, 2010 (Innospec Inc. Pleads Guilty to FCPA Charges and Defrauding the United Nations; Admits to Violating the U.S. Embargo Against Cuba)</a></p><p><a href="file.asp?id=715">SEC Litigation Release: March 18, 2010 (SEC Files Settled Foreign Corrupt Practices Act Charges Against Innospec, Inc. For Engaging in Bribery in Iraq and Indonesia With Total Disgorgement and Criminal Fines of $40.2 million)</a></p><p><a href="file.asp?id=716">Complaint: SEC v. Innospec, Inc. (March 18, 2010)</a></p><p><a href="file.asp?id=717">SFO Press Release: 18 March 2010 (Innospec Limited prosecuted for corruption by the SFO)</a></p><p><a href="file.asp?id=758">Sentencing Memorandum: U.S. v. Innospec</a></p><p><a href="file.asp?id=759">Plea Agreement: U.S. v. Innospec</a></p><p><a href="file.asp?id=760">Criminal Information: U.S. v. Innospec</a></p><p>The Jakarta Post: 9 April 2010 (KPK probes Innospec's bribe)</p><p><a href="file.asp?id=781">SFO Press Release: 26 March 2010 (Innospec judgment)</a></p><p><a href="file.asp?id=780">Sentencing remarks of Lord Justice Thomas (26 March 2010)</a></p><p><a href="file.asp?id=1068">SEC Litigation Release No. 21615 (August 5, 2010) in SEC v. David P. Turner and Ousama M. Naaman </a></p><p><a href="file.asp?id=1069">SEC Complaint: SEC v. David P. Turner and Ousama M. Naaman (August 5, 2010)</a></p><p><a href="file.asp?id=1314">SEC Litigation Release: January 24, 2011 (SEC Files Settled Bribery Charges Against Paul W. Jennings)</a></p><p><a href="file.asp?id=1315">Complaint: SEC v. Paul W. Jennings (January 24, 2011)</a></p><p><a href="file.asp?id=1623">SFO Press Release: 25 Oct. 2011 (Innospec Ltd: Former executive in court on fraud and corruption charges)</a></p><p><a href="file.asp?id=1626">SFO Press Release: 27 Oct. 2011 (Innospec Ltd: Two more executives charged with corruption)</a></p><p>"KPK Points Finger Over Fuel Bribes," Jakarta Globe (2 Jan 2012)</p><p><a href="file.asp?id=1682">Innospec - SFO Press Release  (17 Jan 2012) Innospec Ltd Former director pleads guilty to corruption</a></p><p><a href="file.asp?id=1683">Innospec - SFO Press Release  (17 Jan 2012) Innospec Ltd Former director pleads guilty to corruption</a></p><p><a href="file.asp?id=1693">Innospec - SFO Press Release (10 Feb. 2012) - Innospec Ltd. A fourth person charged in corruption inquiry</a></p><p><a href="file.asp?id=1854">Innospec - SFO Press Release (11 June 2012), Innospec Ltd Former CEO admits making corrupt payments</a></p><p><a href="file.asp?id=1855">Innospec - SFO Press Release (25 October 2011), Former executive in court on fraud and corruption charges</a></p><p><a href="file.asp?id=1900">Innospec - SFO Press Release (30 July 2012), Former CEO admits bribery (Jennings)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

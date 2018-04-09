@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192218e5442">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922184906h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BOURKE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(136)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192218g3h08" width="415" height="61" /></div>
+    
+        <h1>BOURKE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Frederic Bourke, Jr.<br />Viktor Kozeny<br />David Pinkerton (former AIG executive)<br />Hans Bodmer (Swiss lawyer) <br />Omega Advisers, Inc. ("Omega")<br />Clayton Lewis (owner of Omega) <br />Thomas Farrell (employee of Oily Rock) <br />State Oil Company of the Azerbaijan Republic ("SOCAR")<br />Oily Rock Ltd.<br />Minaret Group Ltd.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Privatization of a state-owned oil company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        British Virgin Islands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Azerbaijan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1997 until 1999, Viktor Kozeny, Frederic Bourke, Jr., David Pinkerton, Hans Bodmer, Clayton Lewis, Thomas Farrell and others allegedly conspired to pay millions of dollars to Azeri officials in order to win an auction to gain control over the State Oil Company of the Azerbaijan Republic ("SOCAR").   The bribes were offered in stock shares, cash and other gifts.  <br /><br />Viktor Kozeny, Bourke's friend and neighbor in Aspen, Colorado, was allegedly the mastermind behind the conspiracy.  Kozeny created several companies, including Oily Rock Ltd. ("Oily Rock") and Minaret Group Ltd. ("Minaret") which he used to purchase vouchers and options in order to bid on shares of SOCAR.  Kozeny then allegedly agreed to transfer two-thirds of the vouchers and options to Azeri government officials and give them two-thirds of any profits Oily Rock realized from SOCAR's privatization. In addition, Kozeny allegedly paid more than USD 11 million to Azeri officials either through wire transfers to bank accounts held for their benefit or by hand delivering cash.  The indictment also lists gifts of jewelry and other luxury items as well as travel by Azeri officials to New York City in order to receive medical treatment as items of value given to senior Azeri officials under the scheme. <br /><br />Bourke, one of a number of investors, invested USD 8 million in Oily Rock. According to the government, he knew Kozeny was bribing Azeri government officials in order to win the bid for SOCAR.  Other investors included Omega Advisors, Inc., owned by Clayton Lewis; American International Group ("AIG"); and a number of Bourke's family and friends.  <br /><br />The Azeri government never privatized SOCAR and Oily Rock's investors lost their money.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Azeri Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;Millions of dollars worth of cash and wire payments; shares;&nbsp;investment vouchers and optoins; gifts of jewerly; travel; and medical expenses</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;<span style="font-size: 11pt; line-height: 115%; font-family: Calibri;">Control of the state-owned oil company in Azerbaijan after privatization</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Thomas Ferrell pleaded guilty in 2003 to violating the FCPA and conspiracy to violate the FCPA.  He is currently awaiting sentencing.<br /><br />On 5 August 2003, Bodmer was indicted on charges of conspiracy to violate the FCPA and conspiracy to engage in money laundering. In 2004, Bodmer pleaded guilty to the money laundering conspiracy charge. The court dismissed the FCPA charge because the United States did not have jurisdiction over Bodmer (a non-U.S.-resident foreign national who served as an agent of a domestic concern) at the time the  conduct occurred (prior to the 1998 amendment to the FCPA). Bodmer cooperated with the government in its investigation of Bourke, including testifying against him at trial.  As of June 2012, he was free on bail, living in Switzerland, and ostensibly awaiting sentencing.  On 7 March 2013, Bloomberg News reported that Bodmer has been sentenced to time already served in prison. U.S. District Judge Shira Scheindlin also ordered Bodmer to pay a USD 500,000 fine and forfeit USD 131,906.<br /><br />On 10 February 2004, Clayton Lewis pleaded guilty to violating the FCPA and conspiracy to violate the FCPA.  He testified against Bourke during trial.  His sentencing had been repeatedly pushed back as the DOJ works on bringing Kozeny to trial (at which Lewis would testify). On 4 April 2013, Bloomberg News reported that Clayton Lewis has been sentenced to time already served in prison. Lewis must also pay a fine of USD 100 for court costs.<br /><br />On 12 May 2005, David Pinkerton was indicted for his role in the bribery scheme. The government dropped the charges against him in July 2008 for lack of evidence.<br /><br />On 5 October 2005, Viktor Kozeny was arrested in the Bahamas, where he had fled in 1999.  He was released on bail in April 2007.  The United States sought Kozeny's extradition, but Kozeny won an appeal to prevent extradition in 2010.  The UK Privy Council ruled on 28 March 2012 that Kozeny, a Czech citizen, could not be extradited to the United States.<br /><br />On 6 July 2007, Omega Advisors entered into a non-prosecution agreement with the government for its role in the investment in the privatization program. Omega acknowledged that Clayton Lewis, one of its employees, knew of the bribery scheme prior to Omega's investment. As part of its agreement, Omega agreed to forfeit USD 500,000. <br /><br />On 10 July 2009, Frederic Bourke was found guilty of conspiring to violate the FCPA and the Travel Act, as well as making false statements to the FBI. Bourke was acquitted of one count of money laundering. He was sentenced to one year and one day in federal prison on 10 November 2009.  He was also ordered to pay a USD 1 million fine and serve three years of supervised release after his prison term.  Bourke has been released on bail pending appeal of his conviction.<br /><br />At trial, Bourke raised a number of defenses, including requesting a jury instruction on the local law defense, which states that payments that are legal under the laws of the country in which they are made cannot be prosecuted. According to Bourke's attorneys, bribe payments cannot be prosecuted in Azerbaijan if they are a result of extortion and subsequently disclosed to the government. The judge in the case rejected this argument, holding that in order for the payments to fall under the local law defense the payments themselves must be legal under local law. In this case, the bribe payments were illegal under Azeri law, even though Bourke would have been absolved from criminal liability had he faced an extortionate situation and disclosed the payments.  <br /><br />On 14 December 2011, the U.S. Court of Appeals for the Second Circuit affirmed Frederic Bourke's 2009 conviction of conspiring to violate the FCPA and the Travel Act.  The court rejected Bourke's challenge, finding sufficient evidence to uphold both theories presented by the government that Bourke both knew of the bribes and "consciously avoided" learning about them.  The court stated that a "rational juror could conclude that Bourke deliberately avoided confirming his suspicions" and that the same evidence "may also be used to infer that Bourke actually knew about the crimes."  The court also rejected Bourke's petition for a new trial.<br /><br />Bourke appealed a second time, asking for an en banc review of his conviction.  He remains on bail pending a decision on this appeal.  In the second appeal, Bourke's attorneys argue based on revelations by prosecutors during the first appeal, that they knew that Hans Bodmer's testimony (which helped convict Bourke) was false, but prosecutors neither disclosed the information to Bourke's trial attorneys, nor confronted Bodmer at the trial.  This prosecutorial misconduct, claims Bourke, tainted the jury's verdict.  Specifically, Bourke's conviction was based largely on Bodmer's assertions that Bourke knew of the Azeri bribery scheme, and that he (Bodmer)  told Bourke about the scheme during a walk taken by Bourke and Bodmer in Baku on 6 February 1998; knowledge of the scheme at this date would establish Bourke's awareness prior to his investment in the venture.  But flight records in the government's possession show that Bourke was not in Baku on that date. <br /><br />A hearing on Bourke's appeal took place on 6 November 2012.  On 28 November 2012, the three-judge panel for the U.S. Court of Appeals issued a ruling denying  Bourke's appeal on the grounds that the district court did not abuse its discretion in denying Bourke's motion to hold an evidentiary hearing, as there was no evidence that the government's witness committed perjury. <br /><br />On 25 October 2012, Bourke filed a petition for a writ of certiorari with the United States Supreme Court. On 15 April 2013, the Supreme Court denied the petition. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The vast majority of corporate defendants to FCPA charges opt to settle with the government rather than face trial.</li><li>Individual defendants, whose personal liberty is at stake, have a stronger incentive to plead not guilty and test their luck with a jury.</li><li>The high conviction rate by juries in FCPA cases demonstrates the big risk and difficult odds in going to trial, even if a defendant has a relatively strong case (as in Bourke).</li><li>We do not know whether the year-and-a-day sentence and the USD 1 million fine Bourke received were better than what the government offered in exchange for a guilty plea.  The penalties certainly could have been a lot higher.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=560">Indictment: U.S. v. Hans Bodmer (25 August 2003) </a></p><p><a href="file.asp?id=561">Indictment: U.S. v. Kozeny et al (Part 1) (12 May 2005) </a></p><p><a href="file.asp?id=562">Indictment: U.S. v. Kozeny et al (Part 2) (12 May 2005)</a></p><p><a href="file.asp?id=554">DOJ Press Release: "U.S. Announces Charges in Massive Scheme to Bribe Senior Government Officials in the Republic of Azerbaijan" (6 October 2005)</a></p><p><a href="file.asp?id=555">DOJ Press Release: "U.S. Announces Settlement with Hedge Fund Omega Advisors, Inc. in Connection with Omega's Investment in Privatization Program in Azerbaijan" (6 July 2007)</a></p><p>Dow Jone Newswire: "Prosecutors Drop Conspiracy Chgs Vs Ex-AIG Executive Pinkerton" (2 July 2008)</p><p><a href="file.asp?id=563">Jury Charge: U.S. v. Bourke </a></p><p><a href="file.asp?id=564">Protective Order: U.S. v. Kozeny et al (13 February 2009) </a></p><p><a href="file.asp?id=568">Rule 16 Motion: U.S. v. Kozeny et al (7 May 2009)</a></p><p><a href="file.asp?id=557">DOJ Press Release: "Connecticut Investor Found Guilty in Massive Scheme to Bribe Senior Government Officials in the Republic of Azerbaijan" (10 July 2009)</a></p><p><a href="file.asp?id=567">Rescheduling Order: U.S. v. Bourke (7 October 2009) </a></p><p><a href="file.asp?id=565">Opinion and Order: U.S. v. Kozeny et al (13 October 2009) </a></p><p><a href="file.asp?id=566">Reply Memorandum in Support of Defendant Frederic Bourke, Jr.'s Motion for Release Pending Appeal (16 October 2009) </a></p><p><a href="file.asp?id=556">DOJ Press Release: "Connecticut Investor Frederic Bourke Sentenced to Prison for Scheme to Bribe Government Officials in Azerbaijan" (11 November 2009)</a></p><p><a href="file.asp?id=1670">Bourke: Second Circuit Appeal (14 December 2011)</a></p><p><a href="file.asp?id=2053">Bourke: Denial of Appeal, Affirmation of Trial Verdict (28 November 2012)</a></p><p>Bloomberg News: "Swiss Laywer Sentenced to Time Served in Bribery Case" (7 March 2013)</p><p>Bloomberg News: "Ex-Omega Advisors Official Gets Time Served for Scheme" (4 April 2013)</p><p><a href="file.asp?id=2224">Bourke: Supreme Court's Denial of Writ of Certiorari (15 April 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

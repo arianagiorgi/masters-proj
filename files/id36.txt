@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170722m58co">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170722c48fv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - A.T. KEARNEY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(36)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707220c133" width="415" height="61" /></div>
+    
+        <h1>A.T. KEARNEY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Electronic Data Systems Corporation ("EDS")<br />A.T. Kearney Inc. (subsidiary of EDS)<br />A.T. Kearney Ltd.  India (Indian subsidiary of A.T. Kearney, Inc.) ("ATKI")  <br />Chandramowli Srinivasan (founder and President of ATKI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Management consulting services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plano, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 2001 and 2003, ATKI contracted with two partially state-owned energy companies in India to provide management consulting services.  The contracts with the two Indian companies generated over three-quarters of ATKI's revenues during that period.  In 2001, ATKI began having difficulty performing under the contracts and senior employees at the Indian companies threatened to terminate the agreements.  In order to retain the contracts, Chandramowli Srinivasan began making cash payments, as well as providing gifts and services, to senior employees at the Indian companies.  <br /><br />The payments continued through September 2003.  As a result of the payments, neither company cancelled its contracts with ATKI.  In fact, one of the companies awarded two additional contracts to ATKI.  Srinivasan made the payments by creating false invoices, which caused EDS to inaccurately record these payments in its books and records.  EDS terminated Srinivasan in January 2004 after discovering the improper payments. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Officials at State-Owned Indian Customers</strong></p>
+</td>
+<td width="50%">
+<p><strong>Revenue from Management Consulting Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 720,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 7.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In September 2003, EDS discovered that ATKI was making improper payments to senior employees at the two Indian companies.  EDS conducted an internal investigation and voluntarily disclosed the payments to the SEC in February 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 September 2007, without admitting or denying the SEC's allegations, Chandramowli Srinivasan consented to the entry of final judgment enjoining him from violating the anti-bribery and books and records provisions of the Exchange Act of 1934 and ordering him to pay a USD 70,000 civil penalty.  <br /><br />On the same date, without admitting or denying the SEC's allegations, EDS, ATKI's parent company at the time of the conduct, consented to the entry of a cease-and-desist order related to ATKI's violations of the issuer reporting and books and records provisions of the Exchange Act of 1934.  EDS was ordered to pay a total of USD 490,902 in civil penalties, including USD 358,800 in disgorgement and USD 132,102 in prejudgment interest. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments by a second-tier subsidiary can result in a books and records violation for the parent company.</li><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.</li><li>THE SEC can impose civil penalties on individuals who are responsible for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=7">SEC Litigation Release: "Former President of EDS's Indian Subsidiary Settles SEC Injunctive Action Relating to Violations of the Foreign Corrupt Practices Act" (25 September 2007)</a></p><p><a href="file.asp?id=8">Complaint: SEC v. Chandramowli Srinivasan (25 September 2007)</a></p><p><a href="file.asp?id=9">Cease-and-Desist Order: In the Matter of Electronic Data Systems Corporation (25 September 2007) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184231z51jc">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842311gfl2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - A.T. KEARNEY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(36)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184231l0l8p" width="415" height="61" /></div>
+    
+        <h1>A.T. KEARNEY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Electronic Data Systems Corporation ("EDS")<br />A.T. Kearney Inc. (subsidiary of EDS)<br />A.T. Kearney Ltd.  India (Indian subsidiary of A.T. Kearney, Inc.) ("ATKI")  <br />Chandramowli Srinivasan (founder and President of ATKI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Management consulting services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plano, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 2001 and 2003, ATKI contracted with two partially state-owned energy companies in India to provide management consulting services.  The contracts with the two Indian companies generated over three-quarters of ATKI's revenues during that period.  In 2001, ATKI began having difficulty performing under the contracts and senior employees at the Indian companies threatened to terminate the agreements.  In order to retain the contracts, Chandramowli Srinivasan began making cash payments, as well as providing gifts and services, to senior employees at the Indian companies.  <br /><br />The payments continued through September 2003.  As a result of the payments, neither company cancelled its contracts with ATKI.  In fact, one of the companies awarded two additional contracts to ATKI.  Srinivasan made the payments by creating false invoices, which caused EDS to inaccurately record these payments in its books and records.  EDS terminated Srinivasan in January 2004 after discovering the improper payments. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Officials at State-Owned Indian Customers</strong></p>
+</td>
+<td width="50%">
+<p><strong>Revenue from Management Consulting Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 720,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 7.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In September 2003, EDS discovered that ATKI was making improper payments to senior employees at the two Indian companies.  EDS conducted an internal investigation and voluntarily disclosed the payments to the SEC in February 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 September 2007, without admitting or denying the SEC's allegations, Chandramowli Srinivasan consented to the entry of final judgment enjoining him from violating the anti-bribery and books and records provisions of the Exchange Act of 1934 and ordering him to pay a USD 70,000 civil penalty.  <br /><br />On the same date, without admitting or denying the SEC's allegations, EDS, ATKI's parent company at the time of the conduct, consented to the entry of a cease-and-desist order related to ATKI's violations of the issuer reporting and books and records provisions of the Exchange Act of 1934.  EDS was ordered to pay a total of USD 490,902 in civil penalties, including USD 358,800 in disgorgement and USD 132,102 in prejudgment interest. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments by a second-tier subsidiary can result in a books and records violation for the parent company.</li><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.</li><li>THE SEC can impose civil penalties on individuals who are responsible for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=7">SEC Litigation Release: "Former President of EDS's Indian Subsidiary Settles SEC Injunctive Action Relating to Violations of the Foreign Corrupt Practices Act" (25 September 2007)</a></p><p><a href="file.asp?id=8">Complaint: SEC v. Chandramowli Srinivasan (25 September 2007)</a></p><p><a href="file.asp?id=9">Cease-and-Desist Order: In the Matter of Electronic Data Systems Corporation (25 September 2007) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192047l5f06">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192047l6496" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - A.T. KEARNEY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(36)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920476398x" width="415" height="61" /></div>
+    
+        <h1>A.T. KEARNEY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Electronic Data Systems Corporation ("EDS")<br />A.T. Kearney Inc. (subsidiary of EDS)<br />A.T. Kearney Ltd.  India (Indian subsidiary of A.T. Kearney, Inc.) ("ATKI")  <br />Chandramowli Srinivasan (founder and President of ATKI)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Management consulting services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Plano, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 2001 and 2003, ATKI contracted with two partially state-owned energy companies in India to provide management consulting services.  The contracts with the two Indian companies generated over three-quarters of ATKI's revenues during that period.  In 2001, ATKI began having difficulty performing under the contracts and senior employees at the Indian companies threatened to terminate the agreements.  In order to retain the contracts, Chandramowli Srinivasan began making cash payments, as well as providing gifts and services, to senior employees at the Indian companies.  <br /><br />The payments continued through September 2003.  As a result of the payments, neither company cancelled its contracts with ATKI.  In fact, one of the companies awarded two additional contracts to ATKI.  Srinivasan made the payments by creating false invoices, which caused EDS to inaccurately record these payments in its books and records.  EDS terminated Srinivasan in January 2004 after discovering the improper payments. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Officials at State-Owned Indian Customers</strong></p>
+</td>
+<td width="50%">
+<p><strong>Revenue from Management Consulting Contracts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 720,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 7.5 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In September 2003, EDS discovered that ATKI was making improper payments to senior employees at the two Indian companies.  EDS conducted an internal investigation and voluntarily disclosed the payments to the SEC in February 2004. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 25 September 2007, without admitting or denying the SEC's allegations, Chandramowli Srinivasan consented to the entry of final judgment enjoining him from violating the anti-bribery and books and records provisions of the Exchange Act of 1934 and ordering him to pay a USD 70,000 civil penalty.  <br /><br />On the same date, without admitting or denying the SEC's allegations, EDS, ATKI's parent company at the time of the conduct, consented to the entry of a cease-and-desist order related to ATKI's violations of the issuer reporting and books and records provisions of the Exchange Act of 1934.  EDS was ordered to pay a total of USD 490,902 in civil penalties, including USD 358,800 in disgorgement and USD 132,102 in prejudgment interest. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments by a second-tier subsidiary can result in a books and records violation for the parent company.</li><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.</li><li>THE SEC can impose civil penalties on individuals who are responsible for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=7">SEC Litigation Release: "Former President of EDS's Indian Subsidiary Settles SEC Injunctive Action Relating to Violations of the Foreign Corrupt Practices Act" (25 September 2007)</a></p><p><a href="file.asp?id=8">Complaint: SEC v. Chandramowli Srinivasan (25 September 2007)</a></p><p><a href="file.asp?id=9">Cease-and-Desist Order: In the Matter of Electronic Data Systems Corporation (25 September 2007) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

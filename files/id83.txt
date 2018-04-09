@@ -1,0 +1,234 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18431414c1f">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184314v63k1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - UNC / LEAR SERVICES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(83)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184314dodn7" width="415" height="61" /></div>
+    
+        <h1>UNC / LEAR SERVICES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        UNC/Lear Services, Inc. ("UNC/Lear")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supplier of defense-related parts and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kentucky, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On February 17, 2000, the DOJ charged UNC/Lear with mail fraud, false statement and FCPA books and records charges in connection with false statements made by the company to the U.S. Department of Defense that it had paid no foreign agents and no contingent fees on a sole source Financial Management Information System ("FMIS") contract.<br /><br />UNC/Lear was in the business of supplying military parts and services to foreign governments under commercial contracts.  The company was charged with falsely recording payments totaling $140,000 made to a Kentucky corporation for the benefit of a Saudi Arabian consultant.  The payments were recorded as fees for engineering services and were backed up by fictitious invoices from the consultant.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">&nbsp;Approximate Payments Falsely Recorded</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">&nbsp;Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;$140,000</td>
+<td style="text-align: center;">&nbsp;Contracts to supply military parts and services to the Saudi government, of unspecified value</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNC/Lear pleaded guilty to mail fraud, false statement, and FCPA books and records violations and agreed to pay a $75,000 fine, $768,000 in restitution and $132,000 in civil penalties.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC can bring FCPA books and records charges even in circumstances where the government would have trouble proving improper payments to foreign officials were made.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=650">Information: U.S. v. UNC/Lear Services, Inc. (February 17, 2000)</a></p><p><a href="file.asp?id=651">Judgment: U.S. v. UNC/Lear Services, Inc. (March 6, 2000)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192130qo242">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192130pkp2m" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - UNC / LEAR SERVICES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(83)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192130g365l" width="415" height="61" /></div>
+    
+        <h1>UNC / LEAR SERVICES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        UNC/Lear Services, Inc. ("UNC/Lear")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supplier of defense-related parts and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kentucky, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On February 17, 2000, the DOJ charged UNC/Lear with mail fraud, false statement and FCPA books and records charges in connection with false statements made by the company to the U.S. Department of Defense that it had paid no foreign agents and no contingent fees on a sole source Financial Management Information System ("FMIS") contract.<br /><br />UNC/Lear was in the business of supplying military parts and services to foreign governments under commercial contracts.  The company was charged with falsely recording payments totaling $140,000 made to a Kentucky corporation for the benefit of a Saudi Arabian consultant.  The payments were recorded as fees for engineering services and were backed up by fictitious invoices from the consultant.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">&nbsp;Approximate Payments Falsely Recorded</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">&nbsp;Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;$140,000</td>
+<td style="text-align: center;">&nbsp;Contracts to supply military parts and services to the Saudi government, of unspecified value</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNC/Lear pleaded guilty to mail fraud, false statement, and FCPA books and records violations and agreed to pay a $75,000 fine, $768,000 in restitution and $132,000 in civil penalties.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC can bring FCPA books and records charges even in circumstances where the government would have trouble proving improper payments to foreign officials were made.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=650">Information: U.S. v. UNC/Lear Services, Inc. (February 17, 2000)</a></p><p><a href="file.asp?id=651">Judgment: U.S. v. UNC/Lear Services, Inc. (March 6, 2000)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

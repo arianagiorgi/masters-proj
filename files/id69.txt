@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18430036mg0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843000tl1m" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TANNER MANAGEMENT CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(69)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184300h4aw5" width="415" height="61" /></div>
+    
+        <h1>TANNER MANAGEMENT CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tanner Management Corporation ("Tanner")<br />Herbert Tannenbaum (President of Tanner)<br />Cybernet USA (fictitious entity created by Tanner)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer and sale of garbage incinerators 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Long Island, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Herbert Tannenbaum, President of Tanner Management Corporation, with one count of conspiracy to violate the FCPA in connection with a scheme to bribe a supposed Argentine official in order to secure sales of garbage incinerators to the government of Argentina.  <br /><br />According to the criminal information, in October of 1997 Tannenbaum offered a bribe to an undercover FBI agent who was posing as a procurement officer of the Government of Argentina.  Tannenbaum helped incorporate a fictitious entity, Cybernet USA, and establish a bank account in the entity's name, in order to disguise the improper payment.  It appears that Tannenbaum made a payment of $16,000 to the undercover FBI agent, after which he was presumably arrested.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Supposed Argentine Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$16,000</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of garbage incinerators</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The FBI, the DOJ and the Government of Argentina cooperated in this investigation.  An undercover FBI agent posed as a foreign official from the Government of Argentina.  Tannenbaum's conduct was discovered as a result of his dealing with this undercover agent from 1996 through 1998.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 11, 1999, Tannenbaum pleaded guilty to one count of conspiring to violate the FCPA.  He was ordered to pay a $15,000 criminal fine and sentenced to a one-year prison term, to be followed by three years of supervisory release.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Conspiracy to violate the FCPA's anti-bribery provisions can include circumstances where the ostensible bribe-payer subjectively believes that the intended recipient is a foreign official, even if the recipient is not, in fact, a foreign official.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=275">DOJ Press Release: August 5, 1998 (Long Island Man Pleads Guilty to Violating Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=276">Criminal Information: U.S. v. Herbert Tannenbaum (July 23, 1998)</a></p><p><a href="file.asp?id=277">Judgment and Sentencing Documents</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192117o9h3t">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192117w91m6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TANNER MANAGEMENT CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(69)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19211736for" width="415" height="61" /></div>
+    
+        <h1>TANNER MANAGEMENT CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tanner Management Corporation ("Tanner")<br />Herbert Tannenbaum (President of Tanner)<br />Cybernet USA (fictitious entity created by Tanner)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer and sale of garbage incinerators 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Long Island, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Herbert Tannenbaum, President of Tanner Management Corporation, with one count of conspiracy to violate the FCPA in connection with a scheme to bribe a supposed Argentine official in order to secure sales of garbage incinerators to the government of Argentina.  <br /><br />According to the criminal information, in October of 1997 Tannenbaum offered a bribe to an undercover FBI agent who was posing as a procurement officer of the Government of Argentina.  Tannenbaum helped incorporate a fictitious entity, Cybernet USA, and establish a bank account in the entity's name, in order to disguise the improper payment.  It appears that Tannenbaum made a payment of $16,000 to the undercover FBI agent, after which he was presumably arrested.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Supposed Argentine Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$16,000</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of garbage incinerators</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The FBI, the DOJ and the Government of Argentina cooperated in this investigation.  An undercover FBI agent posed as a foreign official from the Government of Argentina.  Tannenbaum's conduct was discovered as a result of his dealing with this undercover agent from 1996 through 1998.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 11, 1999, Tannenbaum pleaded guilty to one count of conspiring to violate the FCPA.  He was ordered to pay a $15,000 criminal fine and sentenced to a one-year prison term, to be followed by three years of supervisory release.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Conspiracy to violate the FCPA's anti-bribery provisions can include circumstances where the ostensible bribe-payer subjectively believes that the intended recipient is a foreign official, even if the recipient is not, in fact, a foreign official.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=275">DOJ Press Release: August 5, 1998 (Long Island Man Pleads Guilty to Violating Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=276">Criminal Information: U.S. v. Herbert Tannenbaum (July 23, 1998)</a></p><p><a href="file.asp?id=277">Judgment and Sentencing Documents</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

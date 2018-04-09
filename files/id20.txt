@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170707g4tqa">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170707l3y9f" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NATURE'S SUNSHINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(20)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170707su2z4" width="415" height="61" /></div>
+    
+        <h1>NATURE'S SUNSHINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nature's Sunshine Products, Inc. ("NSP")<br />Nature's Sunshine Produtos Naturais Ltda. (NSP's wholly-owned subsidiary in Brazil) ("NSP Brazil")<br />Douglas Faggioli (president and chief executive officer of NSP)<br />Craig D. Huff (former chief financial officer of NSP) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Nutritional and personal care products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Provo, Utah, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged NSP with violating the FCPA's anti-bribery provisions and books and records and internal controls provisions in connection with improper payments made by NSP Brazil to Brazilian government officials in 2000 and 2001 in order to import unregistered products into the country.  <br /><br />According to the SEC's civil complaint, Brazilian regulatory changes resulted in the classification of many of NSP's products as medicines, which require registration.  In order to circumvent the new registration requirements for the importation and sale of certain NSP products, NSP Brazil made a series of undocumented cash payments, through Brazilian customs brokers, to Brazilian customs officials in order to import unregistered product into Brazil.  The payments were disguised in NSP Brazils records as importation advances or other legitimate importation expenses, at times with fictitious documentation.   The payments to Brazilian customs agents were not disclosed by NSP in its filings with the SEC.<br /><br />The SEC alleged that this conduct violated the FCPA and the antifraud, issuer reporting, books and records and internal controls provisions of the federal securities laws.  The complaint also alleged that, in connection with these Brazilian cash payments, Faggioli and Huff, in their capacities as control persons, violated the books and records and internal controls provisions of the FCPA .  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Customs Brokers, Some of Which Were Later Paid to Customs Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 1 million</p>
+</td>
+<td>
+<p style="text-align: center;">Illegal sales of unregistered NPS products in Brazil, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to NSP, in March 2006 the company made a voluntary disclosure to the DOJ and SEC based on an independent investigation conducted by the company's audit committee.  NSP stated that it fully cooperated with the government's investigation and that it expects no action by the DOJ in connection with this matter.<br /><br />In addition to hiring a new chief financial officer and a new general counsel and chief compliance officer, NSP also stated that it had conducted a vigorous review of its internal controls, implemented new controls, and undertaken numerous, additional remediation activities, including FCPA training for employees.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, without admitting or denying the SEC's allegations, NSP, Faggioli and Huff consented to the entry of final judgments enjoining each defendant from future violations of the FCPA's books and records and internal controls provisions and certain other provisions of the federal securities laws.  <br /><br />NSP agreed to pay a civil penalty of USD 600,000.  Faggioli and Huff each agreed to pay a civil penalty of USD 25,000.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC can bring FCPA record keeping charges against individual corporate officers in their capacity as control persons under Section 20A of the Exchange Act.</li><li>Depending on the facts in a case, the SEC may bring charges related to other violations of the federal securities laws, in addition to FCPA allegations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=207">SEC Litigation Release: July 31, 2009 (SEC Charges Nature's Sunshine Products, Inc. With Making Illegal Foreign Payments)</a></p><p><a href="file.asp?id=208">Complaint: SEC v. Nature's Sunshine Products, Inc., Douglas Faggioli, and Craig D. Huff (July 31, 2009)</a></p><p><a href="file.asp?id=209">Nature's Sunshine Products, Inc. Press Release (July 31, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842175524v">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184217349o2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NATURE'S SUNSHINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(20)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184217o82jg" width="415" height="61" /></div>
+    
+        <h1>NATURE'S SUNSHINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nature's Sunshine Products, Inc. ("NSP")<br />Nature's Sunshine Produtos Naturais Ltda. (NSP's wholly-owned subsidiary in Brazil) ("NSP Brazil")<br />Douglas Faggioli (president and chief executive officer of NSP)<br />Craig D. Huff (former chief financial officer of NSP) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Nutritional and personal care products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Provo, Utah, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged NSP with violating the FCPA's anti-bribery provisions and books and records and internal controls provisions in connection with improper payments made by NSP Brazil to Brazilian government officials in 2000 and 2001 in order to import unregistered products into the country.  <br /><br />According to the SEC's civil complaint, Brazilian regulatory changes resulted in the classification of many of NSP's products as medicines, which require registration.  In order to circumvent the new registration requirements for the importation and sale of certain NSP products, NSP Brazil made a series of undocumented cash payments, through Brazilian customs brokers, to Brazilian customs officials in order to import unregistered product into Brazil.  The payments were disguised in NSP Brazils records as importation advances or other legitimate importation expenses, at times with fictitious documentation.   The payments to Brazilian customs agents were not disclosed by NSP in its filings with the SEC.<br /><br />The SEC alleged that this conduct violated the FCPA and the antifraud, issuer reporting, books and records and internal controls provisions of the federal securities laws.  The complaint also alleged that, in connection with these Brazilian cash payments, Faggioli and Huff, in their capacities as control persons, violated the books and records and internal controls provisions of the FCPA .  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Customs Brokers, Some of Which Were Later Paid to Customs Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 1 million</p>
+</td>
+<td>
+<p style="text-align: center;">Illegal sales of unregistered NPS products in Brazil, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to NSP, in March 2006 the company made a voluntary disclosure to the DOJ and SEC based on an independent investigation conducted by the company's audit committee.  NSP stated that it fully cooperated with the government's investigation and that it expects no action by the DOJ in connection with this matter.<br /><br />In addition to hiring a new chief financial officer and a new general counsel and chief compliance officer, NSP also stated that it had conducted a vigorous review of its internal controls, implemented new controls, and undertaken numerous, additional remediation activities, including FCPA training for employees.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, without admitting or denying the SEC's allegations, NSP, Faggioli and Huff consented to the entry of final judgments enjoining each defendant from future violations of the FCPA's books and records and internal controls provisions and certain other provisions of the federal securities laws.  <br /><br />NSP agreed to pay a civil penalty of USD 600,000.  Faggioli and Huff each agreed to pay a civil penalty of USD 25,000.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC can bring FCPA record keeping charges against individual corporate officers in their capacity as control persons under Section 20A of the Exchange Act.</li><li>Depending on the facts in a case, the SEC may bring charges related to other violations of the federal securities laws, in addition to FCPA allegations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=207">SEC Litigation Release: July 31, 2009 (SEC Charges Nature's Sunshine Products, Inc. With Making Illegal Foreign Payments)</a></p><p><a href="file.asp?id=208">Complaint: SEC v. Nature's Sunshine Products, Inc., Douglas Faggioli, and Craig D. Huff (July 31, 2009)</a></p><p><a href="file.asp?id=209">Nature's Sunshine Products, Inc. Press Release (July 31, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920324ju46">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192032f7jy9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NATURE'S SUNSHINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(20)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19203207922" width="415" height="61" /></div>
+    
+        <h1>NATURE'S SUNSHINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nature's Sunshine Products, Inc. ("NSP")<br />Nature's Sunshine Produtos Naturais Ltda. (NSP's wholly-owned subsidiary in Brazil) ("NSP Brazil")<br />Douglas Faggioli (president and chief executive officer of NSP)<br />Craig D. Huff (former chief financial officer of NSP) <br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Nutritional and personal care products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Provo, Utah, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged NSP with violating the FCPA's anti-bribery provisions and books and records and internal controls provisions in connection with improper payments made by NSP Brazil to Brazilian government officials in 2000 and 2001 in order to import unregistered products into the country.  <br /><br />According to the SEC's civil complaint, Brazilian regulatory changes resulted in the classification of many of NSP's products as medicines, which require registration.  In order to circumvent the new registration requirements for the importation and sale of certain NSP products, NSP Brazil made a series of undocumented cash payments, through Brazilian customs brokers, to Brazilian customs officials in order to import unregistered product into Brazil.  The payments were disguised in NSP Brazils records as importation advances or other legitimate importation expenses, at times with fictitious documentation.   The payments to Brazilian customs agents were not disclosed by NSP in its filings with the SEC.<br /><br />The SEC alleged that this conduct violated the FCPA and the antifraud, issuer reporting, books and records and internal controls provisions of the federal securities laws.  The complaint also alleged that, in connection with these Brazilian cash payments, Faggioli and Huff, in their capacities as control persons, violated the books and records and internal controls provisions of the FCPA .  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Customs Brokers, Some of Which Were Later Paid to Customs Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 1 million</p>
+</td>
+<td>
+<p style="text-align: center;">Illegal sales of unregistered NPS products in Brazil, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to NSP, in March 2006 the company made a voluntary disclosure to the DOJ and SEC based on an independent investigation conducted by the company's audit committee.  NSP stated that it fully cooperated with the government's investigation and that it expects no action by the DOJ in connection with this matter.<br /><br />In addition to hiring a new chief financial officer and a new general counsel and chief compliance officer, NSP also stated that it had conducted a vigorous review of its internal controls, implemented new controls, and undertaken numerous, additional remediation activities, including FCPA training for employees.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, without admitting or denying the SEC's allegations, NSP, Faggioli and Huff consented to the entry of final judgments enjoining each defendant from future violations of the FCPA's books and records and internal controls provisions and certain other provisions of the federal securities laws.  <br /><br />NSP agreed to pay a civil penalty of USD 600,000.  Faggioli and Huff each agreed to pay a civil penalty of USD 25,000.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC can bring FCPA record keeping charges against individual corporate officers in their capacity as control persons under Section 20A of the Exchange Act.</li><li>Depending on the facts in a case, the SEC may bring charges related to other violations of the federal securities laws, in addition to FCPA allegations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=207">SEC Litigation Release: July 31, 2009 (SEC Charges Nature's Sunshine Products, Inc. With Making Illegal Foreign Payments)</a></p><p><a href="file.asp?id=208">Complaint: SEC v. Nature's Sunshine Products, Inc., Douglas Faggioli, and Craig D. Huff (July 31, 2009)</a></p><p><a href="file.asp?id=209">Nature's Sunshine Products, Inc. Press Release (July 31, 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

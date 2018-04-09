@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192646d46o1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926460bht5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OWENS-ILLINOIS, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(441)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192646vztmq" width="415" height="61" /></div>
+    
+        <h1>OWENS-ILLINOIS, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Owens-Illinois, Inc. ("O-I")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Glass manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Perrysburg, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Company first notified investors of an ongoing FCPA investigation in its SEC Form 10-Q filed on 25 October 2012:<br /><br />"The Company is conducting an internal investigation into conduct in certain of its overseas operations that may have violated the anti-bribery provisions of the United States Foreign Corrupt Practices Act (FCPA), the FCPA's books and records and internal controls provisions, the Company's own internal policies, and various local laws. In October 2012, the Company voluntarily disclosed these matters to the U.S. Department of Justice (DOJ) and the Securities and Exchange Commission (SEC). The Company intends to cooperate with any investigation by the DOJ and the SEC.<br /> <br />"The Company is presently unable to predict the duration, scope or result of its internal investigation, of any investigations by the DOJ or the SEC or whether either agency will commence any legal action....The Company also could be subject to investigation and sanctions outside the United States."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Not yet known.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its SEC Form 10-Q filed for the quarter ending 30 June 2013 the Company indicated that on July 18, 2013 it received a letter from the DOJ indicating that the DOJ presently did not intend to take any enforcement action and is closing its inquiry into the matter.  The Company said that it is not currently able to predict the duration, scope or result of any SEC investigation, which remains ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2024">Owens-Illinois - SEC Form 10-Q (25 October 2012)</a></p><p><a href="file.asp?id=2393">Owens-Illinois - SEC Form 10-Q (30 June 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

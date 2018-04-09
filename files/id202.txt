@@ -1,0 +1,184 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19231875tr2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192318bc4vy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - JOHNSON & JOHNSON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(202)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923182bep5" width="415" height="61" /></div>
+    
+        <h1>JOHNSON & JOHNSON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />China: People's Procuratorate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Johnson & Johnson ("J&J")<br />DePuy, Inc. (Warsaw, Indiana-based wholly-owned medical device subsidiary of J&J) ("DePuy")<br />DePuy International Limited (Leeds, UK-based orthopedic subsidiary of DePuy) ("DPI")<br />Robert John Dougall (former Director of Marketing at DPI)<br />DePuy Helles S.A. (DPI's distributor in Greece; formerly called "DePuy Medec S.A.") ("DePuy Helles")<br />Johnson & Johnson Poland Sp. z.o.o. (Poland-based wholly-owned medical device subsidiary of J&J) ("MD&D Poland")<br />Janssen-Cilag Eastern Europe (unincorporated organization within J&J that markets pharmaceutical products in southeastern Europe) ("JC-EE")<br />Johnson & Johnson d.o.o. (Slovenian limited liability company through which J&J sells pharmaceutical products in Romania) ("Pharma Romania")<br />Cilag AG International (wholly-owned pharmaceutical subsidiary of J&J in Switzerland; now known as Cilag GmbH International) ("Cilag")<br />Janssen Pharmaceutical N.V. (wholly-owned pharmaceutical subsidiary of J&J in Belgium) ("Janssen")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Diversified global provider of medical device, pharmaceutical and consumer health care products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New Brunswick, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Greece<br />Iraq<br />Poland<br />Romania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Johnson & Johnson (J&J) was charged with violating the FCPA's anti-bribery, books and records and internal controls provisions in connection with improper payments made by J&J subsidiaries between 1998 and 2007 to publicly-employed health care providers in Greece, Poland and Romania, as well as kickbacks paid to the former government of Iraq under the United Nations Oil-for-Food Program.  <br /><br />From at least 1998 and continuing to early 2006, J&J subsidiaries, employees and agents made improper payments to public doctors in Greece who selected J&J surgical implants for their patients.  From 2000 to 2006, J&J subsidiaries and agents made improper payments to public doctors and hospital administrators in Poland who awarded tenders to J&J.  From 2002 to 2007, J&J subsidiaries and agents made improper payments to public doctors and pharmacists in Romania to prescribe J&J pharmaceutical products.  From 2000 to 2003, J&J subsidiaries and agent paid kickbacks to the Iraqi government in order to obtain pharmaceutical contracts under the UN Oil-for-Food Program.<br /><br />Separately, according to press reports, Chinese authorities began investigating J&J's Shanghai office in June 2010 in connection with alleged bribes paid to Zhang Jingli, a former deputy chief of the Chinese State Food and Drug Administration (SFDA).
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Greek Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 7.37 million (GBP 4.5 million)</p>
+</td>
+<td>
+<p>Contracts to supply orthopedic products, resulting in USD 24,258,072 in profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Polish Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 775,000 in improper civil contract payments; USD 147,000 in false travel invoices; a portion of USD 7.6<br />million spent on travel sponsorships</p>
+</td>
+<td>
+<p>Hospital tenders for medical devices, resulting in USD 4,348,000 in profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Romanian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3-5% of the cost of the drugs prescribed, plus some travel benefits</p>
+</td>
+<td>
+<p>Prescriptions of pharmaceutical products, resulting in USD 3,515,500 in profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 857,387 in kickbacks</p>
+</td>
+<td>
+<p>Nine Oil-for-Food contracts for the sale of pharmaceutical products, resulting in USD 6,106,255 in profit</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        J&J described the (at the time ongoing) investigation as follows in its SEC Form 10-K filed on March 1, 2010:<br /><br />"In February 2006, the Company received a subpoena from the U.S. Securities & Exchange Commission (SEC) requesting documents relating to the participation by several Johnson & Johnson subsidiaries in the United Nations Iraq Oil for Food Program. The subsidiaries are cooperating with the SEC and U.S. Department of Justice (DOJ) in producing responsive documents.<br /><br />"In February 2007, the Company voluntarily disclosed to the DOJ and the SEC that subsidiaries outside the United States are believed to have made improper payments in connection with the sale of medical devices in two small-market countries, which payments may fall within the jurisdiction of the Foreign Corrupt Practices Act (FCPA). In the course of continuing dialogues with the agencies, other issues potentially rising to the level of FCPA violations in additional markets have been brought to the attention of the agencies by the Company. The Company has provided and will continue to provide additional information to the DOJ and SEC, and will cooperate with the agencies' reviews of these matters. Law enforcement agencies of a number of other countries are also pursuing investigations of matters voluntarily disclosed by the Company to the DOJ and SEC. Discussions are underway in an effort to resolve these matters, and the Iraq Oil for Food matter referenced above, but whether agreement can be reached and on what terms is uncertain."<br /><br />The case was referred to the UK Serious Fraud Office by the US DOJ in October 2007 and formally accepted by the SFO for investigation in March 2008.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 8, 2011, J&J entered into a deferred prosecution agreement with the DOJ, agreeing to pay a USD 21.4 million criminal fine.  The DOJ recognized the company's voluntary disclosure, thorough internal investigation, significant assistance to the government's industry-wide investigation, and extensive remedial efforts and compliance improvements.  J&J was not required to retain an independent corporate monitor; rather, the company must report to the DOJ on the implementation of its remediation and enhanced compliance efforts every six months for the duration of the agreement.   <br /><br />With regard to the OIl-for-Food violations, the DPA stated as follows:  "Between in or around December 2000 and in or around March 2003, Janssen and Cilag were awarded 18 contracts for the sale of pharmaceuticals to the Iraqi Ministry of Health State Company for Marketing Drugs and Medical Appliances ...with a total contract value of approximately $9.9 million, which generated approximately $6.1 million in profits. Janssen and Cilag secured these contracts through the payment of approximately $857,387 in kickbacks to the government of Iraq."<br /><br />On the same day, J&J also settled with the SEC.  Without admitting or denying the SEC's allegations, J&J consented to the entry of a court order permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  J&J agreed to pay USD 48.6 million in disgorgement of profits, including pre-judgment interest.<br /><br />Also on 8 April 2011, J&J's UK-based medical device subsidiary, DePuy International Limited (DPI), settled with the UK Serious Fraud Office in connection with improper payments made to Greek medical professionals in order to secure the sale of orthopedic products between 1999 and 2006.  In the High Court, the SFO obtained a Civil Recovery Order against DPI, under which the company will pay GBP 4.829 million (approx. USD 7.9 million), plus prosecution costs, in recognition of the unlawful conduct.  <br /><br />Previously, on 1 December 2009, the UK SFO issued a summons alleging that Robert John Dougall, former Director of Marketing at DPI, conspired to corrupt in violation of the Criminal Law Act 1977 in connection with improper payments and other inducements allegedly made to Greek health care professionals.  On 14 April 2010, in Southwark Crown Court, Dougall pleaded guilty to violating section 1 of the Prevention of Corruption Act 1906, admitting to his involvement in connection with GBP 4.5 million in corrupt payments made to Greek medical professionals.  Despite his cooperation with the SFO's investigation, the court sentenced Dougall to a 12-month prison term.  Justice Dean gave Dougall leave for appeal in recognition of important public interest issues raised in the case. On 1 May 2010, the Lord Chief Justice determined that the 12-month prison sentence was "manifestly excessive" and suspended it for two years. According to the SFO, Dougall was the first "co-operating defendant" in a major SFO corruption investigation.<br /><br />The Chinese domestic investigation appears to be ongoing. <br /><br />In the Company's SEC 10-Q report filed on 7 May 2012, on-going legal proceedings reported include shareholder derivative actions, filed in May and August 2011 in US District Court in New Jersey, and in New Jersey Superior Court, naming Johnson & Johnson and its current directors as defendants, and alleging breach of fiduciary duties related to the Company's compliance with the Foreign Corrupt Practices Act and participation in the United Nations Iraq Oil For Food Program, and failure to disclose the breaches. In January 2012, Johnson & Johnson moved to dismiss or stay the state lawsuits pending resolution of the federal lawsuit. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Most countries have public hospital and health care systems, which means that health care professionals in these countries are "government officials" for purposes of foreign bribery laws.</li><li>Voluntary disclosure, a thorough internal investigation, extensive remedial efforts, and significant cooperation with enforcement agencies may result in reduced penalties for a company found to have violated the FCPA, such as avoiding the imposition of a corporate monitor.</li><li>The John Dougall matter appears to have been the first case in the UK where an individual has received a prison sentence in connection with a foreign bribery violation.</li><li>An individual defendant in a UK foreign bribery enforcement action may be given full cooperation credit and still receive a prison sentence.  While the UK Serious Fraud Office may recommend a suspended prison term or other disposition, the judge may determine an alternative penalty.</li><li>The case represents the first Deferred Prosecution Agreement for the DOJ.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=816">J&J - SEC Form 10-K (2009)</a></p><p>BNET: "J&J's Other Headache: Foreign Bribery Probe Targets Shanghai Unit" (June 25, 2010)</p><p>AFP: "China expels drug safety official from party: report" (Jan. 6, 2011)</p><p><a href="file.asp?id=1400">J&J - SEC Form 10-K (25 Feb. 2011)</a></p><p><a href="file.asp?id=1430">DOJ Press Release: Johnson & Johnson Agrees to Pay $21.4 Million Criminal Penalty to Resolve Foreign Corrupt Practices Act and Oil for Food Investigations (8 April 2011)</a></p><p><a href="file.asp?id=1431">SEC Litigation Release: Johnson & Johnson to Pay More Than $70 Million in Settled FCPA Enforcement Action (8 April 2011)</a></p><p><a href="file.asp?id=1433">SFO Press Release: DePuy International Limited ordered to pay GBP 4.829 million in Civil Recovery Order (8 April 2011)</a></p><p><a href="file.asp?id=1432">J&J Press Release (8 April 2011)</a></p><p><a href="file.asp?id=1434">Complaint: SEC v. Johnson & Johnson (8 April 2011)</a></p><p><a href="file.asp?id=1435">SFO Press Release: Former Vice President of DePuy International Ltd charged with corruption (1 Dec. 2009)</a></p><p><a href="file.asp?id=1436">SFO Press Release: British executive jailed for part in Greek healthcare corruption (14 April 2010)</a></p><p><a href="file.asp?id=1437">Court of Appeal Decision: R v. Dougall (13 May 2010)</a></p><p><a href="file.asp?id=1444">Criminal Information: U.S. v. DePuy, Inc. (8 April 2011)</a></p><p><a href="file.asp?id=1445">Deferred Prosecution Agreement (8 April 2011)</a></p><p><a href="file.asp?id=1872">Johnson & Johnson - SEC Form 10-Q, Quarterly Report (7 May 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

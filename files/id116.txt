@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922001tz6h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192200b8w1e" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BASU / SENGUPTA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(116)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192200zn8kc" width="415" height="61" /></div>
+    
+        <h1>BASU / SENGUPTA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ramendra Basu (World Bank Trust Funds Manager)<br />Gautum Sengupta (World Bank Task Manager)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        World Bank funding for projects in Africa
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Washington, District of Columbia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 1997 and 2000 Ramendra Basu and Gautum Sengupta allegedly conspired with two Swedish consultants to award World Bank contracts in Kenya and Ethiopia to various Swedish companies in exchange for kickback payments totaling around USD 127,000.  In addition, they allegedly assisted the Swedish consultants with bribing a Kenyan official by wiring USD 50,000 into an account outside of the United States for the official's benefit. <br /><br />In September 1997, Basu left his job at the World Bank and began working for a Swedish consulting firm.  Basu was paid a 10% commission on the value of the contracts that he worked on.  In December 1997, Basu returned to the World Bank while continuing to receive "commissions" from the consulting firm.  Sengupta, Basu's co-conspirator, awarded three contracts to the consulting firm by January 1990.   
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Kenyan Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 50,000</p>
+</td>
+<td>
+<p style="text-align: center;">Approximately USD 127,000 in kickbacks from the consultants</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 17 December 2002, Basu pleaded guilty to conspiring to steer World Bank contracts to consultants and assisting a contractor with bribing foreign officials in violation of the FCPA.  He was sentenced on 15 April 2008 to 15 months in prison, two years of supervised release and 50 hours of community service. <br /><br />Sengupta pleaded guilty the same charges in February 2002 and was sentenced to two months in prison and required to pay a USD 6,000 fine. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will prosecute individuals for violating the FCPA. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=332">DOJ Press Release: April 25, 2008 (Former World Bank Employee Sentenced for Taking Kickbacks and Assisting in the Bribery of a Foreign Official) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Non-Profit</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

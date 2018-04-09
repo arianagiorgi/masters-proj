@@ -1,0 +1,132 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192303filki">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923035buy6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BIOMET, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(187)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192303u0z9s" width="415" height="61" /></div>
+    
+        <h1>BIOMET, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Biomet, Inc. ("Biomet")<br />Biomet Argentina SA ("Biomet Argentina"), a wholly owned Argentinian subsidiary of Biomet, through which Biomet conducts all of its sales in Argentina<br />Biomet China, a wholly owned Chinese subsidiary of Biomet, through which Biomet conducts most of its sales in China<br />Scandimed AB ("Scandimed"), a wholly owned Swedish subsidiary of Biomet, through which Biomet made sales to China and elsewhere<br />Biomet International Corporation ("Biomet International"), a Delaware corporation that is a wholly owned subsidiary of Biomet, through which Biomet conducts all of its sales in Brazil, using a Brazilian distributor
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical device manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Warsaw, Indiana, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Argentina<br />Brazil<br />China<br />Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ARGENTINA<br /><br />The Argentine tax law required that all payments made to doctors be reported.  In order to conceal Biomet's payment of about 15-20% of its sales of medical devices to publicly owned hospitals, the company used fake invoices from the doctors, charging for professional services which in fact were not rendered.  These payments were recorded as "consulting fees" or "commissions."  In 2000, the tax law changed, and no untaxed payments to doctors were allowed, so Biomet began recording the payments as "royalties" or "other sales and marketing."  Biomet executives and auditors allegedly were aware of this practice, and took no steps to check the transactions.   In February 2006, Biomet's Latin America Auditor sent an internal report to the Senior Vice President, the Operations Manager, and other executives and managers, stating that allegations concerning "fraudulent product registration certificates, bribery of customs officials" were being investigated by Biomet, and that it had been determined "that certificates were fraudulent and bribes were made."<br /><br />In November 2006, the Latin America Auditor recommended that payments to the doctors  that were labeled "commission expenses" on the company records should be changed to "royalties." And even after the Company received a letter from the SEC regarding payments in other jurisdictions, it continued to make improper payments to surgeons in Argentina and reflect the 15-20% commissions in its accounting records.  However, in August 2008 the Company distributed new compliance guidelines, and this precipitated a suspension of all sales in Argentina.<br /><br /><br />BRAZIL<br /><br />Biomet sold its devices in Brazil through Biomet International, which engaged a distributor ("Brazilian Distributor") to pay bribes to physicians employed by public hospitals, as an inducement for them to buy Biomet medical implants.  At least as early as 2001, Biomet allegedly knew of these payments.  In February 2002, for example, the Director of Internal Audit stated in a memorandum to Biomet's Senior Vice President and Operations Manager: "Brazilian Distributor makes payments to surgeons that may be considered as a kickback.  These payments are made in cash that allows the surgeon to receive income tax free . . . The accounting entry is to increase a prepaid expense account.  In the consolidated financials sent to Biomet, these payments were reclassified to expense in the income statement."  In April 2008, Biomet had accountants and outside counsel perform due diligence on Brazilian Distributor, in anticipation of Biomet's purchase of the latter.  The due diligence revealed "cash payments to doctors and debit card purchases on behalf of doctors that raised red flags of bribery."  Biomet terminated its relationship with Brazilian Distributor, and temporarily ceased selling its products on the Brazilian market.  The Company wrote off USD 4.2 million in accounts receivable owed to it by the distributor.<br /><br />According to a Form 8-K filed by Biomet on 17 March 2015, Biomet became aware of other alleged improprieties in it's Brazil operations in October 2013. <br /><br /><br />CHINA<br /><br />Biomet sold its medical devices in China through subsidiaries Biomet China and Scandimed.  They used the Chinese Distributor to pay bribes to doctors employed in publicly owned hospitals, beginning at least in 2001.  <br /><br />The Chinese Distributor called the bribe payments "rebates" of 10-15%.  In February 2001, Scandimed wrote to Biomet's president of International Operations in Indiana, as well as Biomet employees in the UK that "as we understand it, giving commission [sic] or gifts of various kinds to surgeons is common in China," eliciting a response about sales margins from the President of International Operations.  The benefits conferred upon doctors in China included travel, as evidenced in a May 2001 email from Chinese Distributor to Biomet's  Associate Regional Manager explaining how to overcome objections by a particular doctor "[Doctor] will become the most loyal customer of Biomet if we send him to Switzerland."  Another email mentioned that doctor was the head of a department in a public hospital in Shanghai, and that "many key surgeons in Shanghai are buddies of his…Dinner has been set for the evening of the 24th…But dinner aside, I've got to send him to Switzerland to visit his daughter."  Some emails contain clear explanations of how the commissions were paid, as in one from the Chinese Distributor to the Associate Regional Manager, dated 21 April 2002:  "When we say 'Surgeon Rebate included,' it means the invoice price includes a predetermined percentage for the surgeon.  For example, a vendor invoices the hospital for a set of plate & screws at RMB 3,000.00.  The vendor will have to deliver RMB 750.00 (25% in this case) in cash to the surgeon upon completion of surgery [sic]."  <br /><br />Emails from 2005 indicate that payments made to doctors in connection with clinical trials were recorded in the Company's books as "entertainment," and that doctors conducting clinical trials are paid a 10-15% "consulting fee." In 2006, Biomet elected to cut the Chinese Distributor out of its Chinese operations, and to use Biomet sales staff instead.  In October 2007, the Company paid for 20 Chinese surgeons to fly to Barcelona and Valencia for training, with "a substantial portion of the trip" devoted to sightseeing and entertainment.  In the same month, a product manager in Biomet China discussed ways to evade anti-corruption measures that had been taken by the Chinese government, noting "Obviously, China government [sic] doesn't have ability to forbid the corruption from hospitals & surgeons."  The product manager suggested falsifying invoices, among other methods.<br /><br /><br />MEXICO<br /><br />According to a Form 8-K filed by Biomet on 3 July 2014, Biomet became aware of alleged improprieties in it's Mexico operations in October 2013. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div style="text-align: center;"><span style="font-size: small;"> 
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Argentine Officials</strong></p>
+</td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained </strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 436,000</td>
+<td style="text-align: center;">At least 10 x USD 436,00 = USD 4,360,000 worth   of medical device sales</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%"><strong>Approximate Alleged Payments to Brazilian Officials</strong></td>
+<td><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 1.1 million</td>
+<td style="text-align: center;">Approximately 15 x USD 1.1 million = USD 16.5   million worth of sales</td>
+</tr>
+</tbody>
+</table>
+</span></div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        ARGENTINA, BRAZIL, CHINA<br /><br />On 26 March 2012, the SEC filed a complaint against Biomet, alleging that the company, along with four of its subsidiaries, paid bribes to public physicians employed by hospitals in Argentina, Brazil and China, between 2000 and 2008.  The complaint specifies that Biomet violated both Section 301 of the Securities Exchange Act of 1934 by making illicit payments to foreign government officials in order to obtain or retain business, as well as Sections 13(b)(2)(A) and (B)of the Act in that it failed to have an adequate internal control system to detect and prevent the payments, and that the company recorded the payments improperly in its accounting books and records. <br /><br />Biomet agreed to disgorge USD $ 5.4 million in the settlement of this complaint.<br /><br />On the same day, the Company entered into a three-year Deferred Prosecution Agreement with the U.S. Department of Justice ("DOJ"), agreeing to pay a USD 17.28 million criminal penalty, to implement rigorous internal controls, and retain a compliance monitor for 18 months.  In the DPA, it is noted that Biomet's fine was reduced by 20% below the lowest possible fine; the DPA attributes the reduction to "Biomet's extensive internal investigation, the nature and extent of Biomet's cooperation in this matter, Biomet's cooperation in the Department's investigation of other companies pursuant to 8C4.1, and Biomet's extraordinary remediation."  <br /><br />According to a Form 8-K filed by Biomet on 17 March 2015, the DOJ informed Biomet on 13 March 2015 that the DPA had been extended for one year, as had the appointment of the independent compliance monitor. The DOJ also informed Biomet that it is retaining its rights to bring an action against Biomet for the alleged improprieties in Brazil and Mexico.<br /><br /><br />BRAZIL<br /><br />According to a Form 8-K filed by Biomet on 17 March 2015, the DOJ's investigation is ongoing.<br /><br /><br />MEXICO<br /><br />According to a Form 8-K filed by Biomet on 17 March 2015, the DOJ's investigation is ongoing.<br />
+		<h2>COMPLIANCE MONITOR</h2>
+        Independent
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Cooperation in a DOJ investigation of other companies can contribute to a reduction in penalties.</li><li>A company may be credited with voluntary disclosure even though misconduct continued in some jurisdictions after the company received notice that it was under investigation.</li><li>The DOJ will extend a DPA and compliance monitor in the face of new allegations of possible FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=797">Biomet - SEC Form 10-Q (April 2010)</a></p><p><a href="file.asp?id=1390">Biomet - SEC Form 10-K (25 Aug. 2010)</a></p><p><a href="file.asp?id=1749">Biomet - SEC Press Release (26 March 2012), SEC Charges Medical Device Company Biomet with Foreign Bribery; 2012-50; March 26, 2012</a></p><p><a href="file.asp?id=1750">Biomet - DOJ Press Release (26 March 2012), Third Medical Device Company resolves Foreign Corrupt Practices Act Investigation</a></p><p><a href="file.asp?id=1751">Biomet - Complaint, SEC v. Biomet Inc. (26 March 2012)</a></p><p><a href="file.asp?id=1752">Biomet - Deferred Prosecution Agreement (26 March 2012)</a></p><p><a href="file.asp?id=1753">Biomet - Criminal Information (26 March 2012)</a></p><p><a href="file.asp?id=2643">Biomet: Form 8-K dated 17 March 2015</a></p><p><a href="file.asp?id=2644">Biomet: Form 8-K dated 3 July 2014</a></p><p>DW: "Greece indicts 13 Germans over Siemens bribery scandal" (9 March 2015)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

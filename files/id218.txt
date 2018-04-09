@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192333n13w4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192333i4y88" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RAE SYSTEMS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(218)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192333l58xp" width="415" height="61" /></div>
+    
+        <h1>RAE SYSTEMS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        RAE Systems, Inc. ("RAE")<br />RAE-KLH (Beijing) Co., Limited (one of RAE's joint venture entities in China) ("RAE-KLH")<br />RAE Coal Mine Safety Instruments (Fushun) Co., Ltd. (one of RAE's joint venture entities in China) ("RAE-Fushun")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global provider of rapidly deployable connected, intelligent chemical and radiation detection systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Jose, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        RAE is alleged to have made approximately USD 400,000 in improper payments from 2004 through 2008 to Chinese government officials through two joint venture entities: RAE-KLH (Beijing) Co., Limited ("RAE-KLH") and RAE Coal Mine Safety Instruments (Fushun) Co., Ltd. ("RAE-Fushun").  The payments, allegedly made primarily by Chinese sales employees at RAE-KLH and RAE-Fushun, yielded contracts worth approximately USD 3 million in revenue and USD 1,147,800 in profits.  RAE-KLH's and RAE Fushun's biggest customers included Chinese government departments and bureaus, as well as large state-owned agencies and instrumentalities such as fire departments, emergency response departments and entities under the supervision of the provincial environmental agency.<br /><br />THe DOJ and SEC alleged that the funds for the improper payments were typically obtained through cash advances from the joint venture entities' accounting personnel.  The accounting department improperly recorded the cash advances as "business fees" or "travel and entertainment" ("T&E") expenses, with the sales personnel providing inaccurate government-issued tax receipts, known as "fapiao", as documentation for their sales expenses.  RAE allegedly failed to respond to a series of "red flags" indicating that the improper conduct was occurring.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to&nbsp;Chinese Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 400,000</td>
+<td style="text-align: center;">Contracts worth USD 3 million in revenue and USD 1,147,800 in profits</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        RAE Systems described the ongoing investigation as follows in its 2009 SEC Form 10-K:<br /><br />"During fiscal year 2008, our internal audit department identified certain payments and gifts made by certain personnel in our China operations that may have violated the Foreign Corrupt Practices Act ('FCPA'). Following this discovery, the Audit Committee of our Board of Directors initiated an independent investigation. We have made a voluntary disclosure to the United States Department of Justice ('DOJ') and the SEC regarding the results of our investigation. We have also implemented additional policies and controls with respect to compliance with the FCPA. The FCPA and related statutes and regulations provide for potential monetary penalties, criminal sanctions and in some cases debarment from doing business with the U.S. federal government in connection with FCPA violations. We are cooperating with the DOJ and the SEC in connection with their review of the matter and are actively engaged in settlement discussions. Although no assurances can be given as to whether the matter will settle or the amount of any settlement, the Company recorded an accrual of $3.5 million in the third quarter of 2009 relating to the potential settlement of this matter. The timing and final outcome of this or any future government investigation cannot be predicted with certainty and any indictment, conviction or material fine, debarment or settlement arising out of these investigations could have a material adverse affect on our business, financial condition, results of operation and future prospects."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 10, 2010, without admitting or denying the charges, RAE consented to the entry of a court order permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  RAE agreed to pay USD 1,147,800 in disgorgement, plus USD 109,212 in prejudgment interest.  The company was ordered to comply with certain undertakings regarding its compliance program.<br /><br />On the same day, RAE also settled with the DOJ, entering into a non-prosecution agreement and agreeing to pay a USD 1.7 million criminal penalty.  On 13 January 2011, the Company announced the definitive sale of its 70% interest in the RAE Fushun joint venture.  Although RAE expected to receive compensation for products and services already provided to the joint venture by RAE, the Company did not anticipate receiving any direct compensation for sale of the venture to the Shenyang Research Institute of China Coal Research.<br /><br />On May 12, 2011, RAE disclosed in a SEC filing that it was under investigation again by the DOJ and SEC in connection with another possible FCPA violation in China.  The company described the matter as follows:<br /><br />"In the course of telephonic discussions between April 15 and 19, 2011, outside counsel for the Company was asked by the SEC whether RAE China had adopted a sales program whereby customers are awarded points based on the level of their purchases of RAE products and are then eligible to redeem those points at year-end for gifts such as iPads or cameras, and whether such a program complies with the Foreign Corrupt Practices Act ('FCPA'). We do not believe that any RAE China personnel have been engaging in such a practice. We are conducting a review in response to the SEC's inquiry, and intend to provide our conclusions to the SEC and Department of Justice."<br /><br />On 30 June 2011, the Company de-listed with the SEC.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies may be held liable for improper payments made by employees of joint venture entities.</li><li>Companies are expected to follow-up on due diligence red flags which indicate that improper conduct is occurring.</li><li>Voluntarily disclosing FCPA violations to the DOJ and SEC, conducting a thorough and credible internal investigation, cooperating with the agencies and undertaking significant corporate remedial measures may result in a more favorable disposition of the matter, such as a non-prosecution agreement and avoidance of a compliance monitor.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=833">RAE Systems: SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1244">SEC Litigation Release: 10 December 2010 (SEC Files Settled FCPA Case Against RAE Systems Inc.)</a></p><p><a href="file.asp?id=1245">Complaint: SEC v. RAE Systems Inc. (10 December 2010)</a></p><p><a href="file.asp?id=1246">DOJ Press Release: 10 December 10 2010 (RAE Systems Agrees to Pay $1.7 Million Criminal Penalty to Resolve Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=1247">RAE Systems - Non-Prosecution Agreement (10 December 2010)</a></p><p><a href="file.asp?id=1477">RAE Systems: Schedule 14A Information (12 May 2011)</a></p><p><a href="file.asp?id=1993">RAE Systems - Press Release (13 January 2011), RAE Signs Definitive Agreement to Sell Its Interest in Its RAE Fushun Joint Venture</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

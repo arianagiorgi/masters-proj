@@ -1,0 +1,330 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184249pp8hq">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842495l145" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - YORK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(57)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842493c3r2" width="415" height="61" /></div>
+    
+        <h1>YORK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        York International Corporation ("York")<br />York Air Conditioning and Refrigeration, Inc. ("YACR," wholly-owned Delaware subsidiary of York)<br />York Air Conditioning and Refrigeration FZE ("York FZE," wholly-owned Dubai subsidiary of YACR)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Air-conditioning, ventilation and refrigeration equipment and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        York, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bahrain<br />China<br />Egypt<br />India<br />Iraq<br />Nigeria<br />Turkey<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged York with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions in connection with the conduct of two of York's subsidiaries.  According to the criminal information, employees of YACR and FZE paid USD 647,110 in kickbacks (described as after-sales services fees ("ASSFs") to the Iraqi government between 2000 and 2003 in connection with contracts administered under the U.N. Oil for Food Program.  The subsidiaries inflated the prices of the contracts by 10% to cover the cost of the kickbacks and concealed this fact from the United Nations when submitting the contracts for approval.  The payments were made to Iraqi-controlled bank accounts in Jordan and elsewhere.   <br /><br />From 1999 through 2005, YACR and FZE also made and authorized hundreds of bribes and kickbacks to employees and contractors of government customers to obtain and retain contracts for government projects worth USD 42 million in Bahrain, Egypt, India, Turkey and the United Arab Emirates.  York discovered this additional misconduct during the course of its investigation into the Oil for Food matter.  <br /><br />The SEC charged York with violations of the anti-bribery, books and records and internal controls provisions of the FCPA in connection with the conduct.  In 2003 and 2004, York allegedly violated both the anti-bribery and books and records provisions of the FCPA through YACR's payment of approximately USD 522,500 to an intermediary while knowing that most of the money would be passed along to UAE officials in order to secure contracts for the construction of a government-owned luxury hotel called the Conference Palace.  A total of 13 improper payments were made in connection with this project, for a total of USD 550,000.  <br /><br />In addition, the SEC alleged that, from 2000 through 2006, various York subsidiaries made over USD 7.5 million in improper payments to secure certain commercial and government contracts in the Middle East, India, China, Nigeria and Europe.  These payments were referred to internally as consultancy payments even though no services were in fact rendered.  According to the SEC, a total of 854 improper consultancy payments were made on approximately 774 contracts, of which 302 projects involved government end-users, such as government-owned companies, public hospitals or schools.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 647,110</p>
+</td>
+<td>
+<p style="text-align: center;">Approximately USD 7 million worth of contracts with Iraqi ministries to provide air-conditioning, ventilation and refrigeration equipment and services</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Alleged Payments to UAE Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 550,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 3.7 million in sales revenue relating to orders for the Conference Palace project</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Employees of Private and Government Customers in Various Other Countries</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">At least USD 7.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts worth at least USD 42 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        York was acquired by Johnson Controls in 2005.  York and Johnson Controls jointly made a voluntary disclosure regarding the potential violations to the DOJ and SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 October 2007, York and the DOJ entered into a three-year deferred prosecution agreement under which York accepted responsibility for the conduct of YACR and FZE and agreed to pay a USD 10 million criminal penalty.  Under the agreement, York agreed to have its compliance program reviewed by an independent compliance monitor for three years and to cooperate fully with the DOJ's ongoing investigation into the U.N. Oil for Food Program.<br /><br />On the same day, without admitting or denying the SEC's allegations, York consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  York was ordered to disgorge USD 8,949,132 in profits, plus USD 1,083,748 in pre-judgment interest.  The company also agreed to pay a civil penalty of USD 2,000,000 and to retain an independent compliance monitor.<br /><br />Johnson Controls was not prosecuted in connection with the facts admitted by York.  
+		<h2>COMPLIANCE MONITOR</h2>
+        Danforth Newcomb
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li><li>Prompt remedial actions and self-disclosure to the DOJ and SEC, as well as cooperation with the agencies investigations, can result in reduced penalties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1106">Criminal Information: U.S. v. York International Corporation (October 1, 2007)</a></p><p><a href="file.asp?id=305">Deferred Prosecution Agreement: U.S. v. York International Corporation (October 1, 2007) </a></p><p><a href="file.asp?id=303">DOJ Press Release: October 1, 2007 (Justice Department Agrees to Defer Prosecution of York International Corporation in Connection with Payment of Kickbacks Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=306">SEC Complaint: SEC v. York International Corporation (October 1, 2007)</a></p><p><a href="file.asp?id=304">SEC Litigation Release: October 1, 2007 (SEC Files Settled Foreign Corrupt Practices Act Charges Against York International Corporation For Improper Payments to UAE Officials, to Iraq Under the U.N. Oil for Food Program, and to Others - - Company Agrees t</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921067t3mf">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192106c0s4d" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - YORK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(57)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192106qzh22" width="415" height="61" /></div>
+    
+        <h1>YORK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        York International Corporation ("York")<br />York Air Conditioning and Refrigeration, Inc. ("YACR," wholly-owned Delaware subsidiary of York)<br />York Air Conditioning and Refrigeration FZE ("York FZE," wholly-owned Dubai subsidiary of YACR)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Air-conditioning, ventilation and refrigeration equipment and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        York, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bahrain<br />China<br />Egypt<br />India<br />Iraq<br />Nigeria<br />Turkey<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged York with conspiracy to commit wire fraud and to violate the FCPA's books and records provisions in connection with the conduct of two of York's subsidiaries.  According to the criminal information, employees of YACR and FZE paid USD 647,110 in kickbacks (described as after-sales services fees ("ASSFs") to the Iraqi government between 2000 and 2003 in connection with contracts administered under the U.N. Oil for Food Program.  The subsidiaries inflated the prices of the contracts by 10% to cover the cost of the kickbacks and concealed this fact from the United Nations when submitting the contracts for approval.  The payments were made to Iraqi-controlled bank accounts in Jordan and elsewhere.   <br /><br />From 1999 through 2005, YACR and FZE also made and authorized hundreds of bribes and kickbacks to employees and contractors of government customers to obtain and retain contracts for government projects worth USD 42 million in Bahrain, Egypt, India, Turkey and the United Arab Emirates.  York discovered this additional misconduct during the course of its investigation into the Oil for Food matter.  <br /><br />The SEC charged York with violations of the anti-bribery, books and records and internal controls provisions of the FCPA in connection with the conduct.  In 2003 and 2004, York allegedly violated both the anti-bribery and books and records provisions of the FCPA through YACR's payment of approximately USD 522,500 to an intermediary while knowing that most of the money would be passed along to UAE officials in order to secure contracts for the construction of a government-owned luxury hotel called the Conference Palace.  A total of 13 improper payments were made in connection with this project, for a total of USD 550,000.  <br /><br />In addition, the SEC alleged that, from 2000 through 2006, various York subsidiaries made over USD 7.5 million in improper payments to secure certain commercial and government contracts in the Middle East, India, China, Nigeria and Europe.  These payments were referred to internally as consultancy payments even though no services were in fact rendered.  According to the SEC, a total of 854 improper consultancy payments were made on approximately 774 contracts, of which 302 projects involved government end-users, such as government-owned companies, public hospitals or schools.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 647,110</p>
+</td>
+<td>
+<p style="text-align: center;">Approximately USD 7 million worth of contracts with Iraqi ministries to provide air-conditioning, ventilation and refrigeration equipment and services</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Alleged Payments to UAE Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 550,000</p>
+</td>
+<td>
+<p style="text-align: center;">USD 3.7 million in sales revenue relating to orders for the Conference Palace project</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Employees of Private and Government Customers in Various Other Countries</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">At least USD 7.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts worth at least USD 42 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        York was acquired by Johnson Controls in 2005.  York and Johnson Controls jointly made a voluntary disclosure regarding the potential violations to the DOJ and SEC.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 October 2007, York and the DOJ entered into a three-year deferred prosecution agreement under which York accepted responsibility for the conduct of YACR and FZE and agreed to pay a USD 10 million criminal penalty.  Under the agreement, York agreed to have its compliance program reviewed by an independent compliance monitor for three years and to cooperate fully with the DOJ's ongoing investigation into the U.N. Oil for Food Program.<br /><br />On the same day, without admitting or denying the SEC's allegations, York consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  York was ordered to disgorge USD 8,949,132 in profits, plus USD 1,083,748 in pre-judgment interest.  The company also agreed to pay a civil penalty of USD 2,000,000 and to retain an independent compliance monitor.<br /><br />Johnson Controls was not prosecuted in connection with the facts admitted by York.  
+		<h2>COMPLIANCE MONITOR</h2>
+        Danforth Newcomb
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li><li>Prompt remedial actions and self-disclosure to the DOJ and SEC, as well as cooperation with the agencies investigations, can result in reduced penalties.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1106">Criminal Information: U.S. v. York International Corporation (October 1, 2007)</a></p><p><a href="file.asp?id=305">Deferred Prosecution Agreement: U.S. v. York International Corporation (October 1, 2007) </a></p><p><a href="file.asp?id=303">DOJ Press Release: October 1, 2007 (Justice Department Agrees to Defer Prosecution of York International Corporation in Connection with Payment of Kickbacks Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=306">SEC Complaint: SEC v. York International Corporation (October 1, 2007)</a></p><p><a href="file.asp?id=304">SEC Litigation Release: October 1, 2007 (SEC Files Settled Foreign Corrupt Practices Act Charges Against York International Corporation For Improper Payments to UAE Officials, to Iraq Under the U.N. Oil for Food Program, and to Others - - Company Agrees t</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

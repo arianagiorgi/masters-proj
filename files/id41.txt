@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170727b55o4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170727fcxg9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EL PASO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(41)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170727e004i" width="415" height="61" /></div>
+    
+        <h1>EL PASO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        El Paso Corporation ("El Paso")<br />The Coastal Corporation (El Paso's predecessor in-interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Petroleum and natural gas production, processing and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged El Paso with violating the books and records and internal controls provisions of the FCPA in connection with USD 5.5 million in illegal surcharges paid to the Iraqi government with the companys purchases of crude oil under the United Nations ("U.N.") Oil for Food Program between June 2001 and June 2002.  According to the SEC's complaint, 25 to 30 cents per barrel purchased by El Paso  and its predecessor in-interest, The Coastal Corporation,  was indirectly kicked back to the Iraqi government through third parties.  The kickbacks were not designated in the company's books and records but instead were included as part of the costs of goods sold. <br /><br />According to the SEC, El Paso knew, or was reckless in not knowing, that USD 5.5 million in kickbacks were made on these oil contracts and passed back to the company in premiums.  El Paso's oil traders allegedly factored the surcharge into their oil price and the SEC cited recorded conversations between the traders and company officials discussing the surcharges.  Although a provision was inserted in some of the company's third party contracts requiring the third party to represent that it had not paid any surcharges, El Paso failed to conduct due diligence to ensure that the surcharges were not paid.  Recorded conversations demonstrate that, in fact, the company knew that the provisions were ineffective.  <br /><br />The U.S. Attorney's Office for the Southern District of New York also brought criminal wire fraud charges against El Paso in connection with this conduct, as well as civil charges related to violations of the Office of Foreign Asset Control's sanctions regime for Iraq.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 5.5 million</p>
+</td>
+<td>
+<p>Net profits of USD 5.5 million from oil trading based on 21.4 million barrels of oil purchased from Iraq</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Over 2,200 companies, including oil and gas firms, were identified by the Independent Inquiry Committee into the U.N. Oil-for-Food Program as having paid kickbacks to the Iraqi government in connection with the program.   
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 February 2007, El Paso entered into a non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York under which El Paso was to forfeit USD 5,482,363 to the U.S. government, which would then seek to transfer the forfeited funds to the Development Fund of Iraq (established on 21 May 2003, by United Nations Security Council Resolution 1483) to be paid as restitution for the benefit of the people of Iraq.<br /><br />Also on 7 February 2007, without admitting or denying the SEC's allegations, El Paso consented to the entry of a cease-and-desist order.  El Paso was ordered to pay USD 5,482,363 in disgorgement of profits and a civil penalty of USD 2,250,000. The disgorgement obligation was to be satisfied by forfeiting USD 5,482,363 pursuant to the company's non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In circumstances where bribes are paid to a foreign government rather than to individual foreign officials (as in the Oil for Food scandal), the FCPA's anti-bribery provisions will not apply; nevertheless, the enforcement agencies may use the FCPA's books and records provisions and other laws, such as the mail and wire fraud statutes, to prosecute the conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=82">SEC Litigation Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program - - Company Agrees to Pay $7.7 Million)</a></p><p><a href="file.asp?id=83">SEC Press Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=84">Complaint: SEC v. El Paso Corporation </a></p><p><a href="file.asp?id=421">United States Attorney, Southern District of New York, Press Release: February 7, 2007 (U.S. Announces Oil-for-Food Settlement with El Paso Corporation)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184236247ew">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184236wf2tk" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EL PASO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(41)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842363uoku" width="415" height="61" /></div>
+    
+        <h1>EL PASO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        El Paso Corporation ("El Paso")<br />The Coastal Corporation (El Paso's predecessor in-interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Petroleum and natural gas production, processing and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged El Paso with violating the books and records and internal controls provisions of the FCPA in connection with USD 5.5 million in illegal surcharges paid to the Iraqi government with the companys purchases of crude oil under the United Nations ("U.N.") Oil for Food Program between June 2001 and June 2002.  According to the SEC's complaint, 25 to 30 cents per barrel purchased by El Paso  and its predecessor in-interest, The Coastal Corporation,  was indirectly kicked back to the Iraqi government through third parties.  The kickbacks were not designated in the company's books and records but instead were included as part of the costs of goods sold. <br /><br />According to the SEC, El Paso knew, or was reckless in not knowing, that USD 5.5 million in kickbacks were made on these oil contracts and passed back to the company in premiums.  El Paso's oil traders allegedly factored the surcharge into their oil price and the SEC cited recorded conversations between the traders and company officials discussing the surcharges.  Although a provision was inserted in some of the company's third party contracts requiring the third party to represent that it had not paid any surcharges, El Paso failed to conduct due diligence to ensure that the surcharges were not paid.  Recorded conversations demonstrate that, in fact, the company knew that the provisions were ineffective.  <br /><br />The U.S. Attorney's Office for the Southern District of New York also brought criminal wire fraud charges against El Paso in connection with this conduct, as well as civil charges related to violations of the Office of Foreign Asset Control's sanctions regime for Iraq.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 5.5 million</p>
+</td>
+<td>
+<p>Net profits of USD 5.5 million from oil trading based on 21.4 million barrels of oil purchased from Iraq</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Over 2,200 companies, including oil and gas firms, were identified by the Independent Inquiry Committee into the U.N. Oil-for-Food Program as having paid kickbacks to the Iraqi government in connection with the program.   
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 February 2007, El Paso entered into a non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York under which El Paso was to forfeit USD 5,482,363 to the U.S. government, which would then seek to transfer the forfeited funds to the Development Fund of Iraq (established on 21 May 2003, by United Nations Security Council Resolution 1483) to be paid as restitution for the benefit of the people of Iraq.<br /><br />Also on 7 February 2007, without admitting or denying the SEC's allegations, El Paso consented to the entry of a cease-and-desist order.  El Paso was ordered to pay USD 5,482,363 in disgorgement of profits and a civil penalty of USD 2,250,000. The disgorgement obligation was to be satisfied by forfeiting USD 5,482,363 pursuant to the company's non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In circumstances where bribes are paid to a foreign government rather than to individual foreign officials (as in the Oil for Food scandal), the FCPA's anti-bribery provisions will not apply; nevertheless, the enforcement agencies may use the FCPA's books and records provisions and other laws, such as the mail and wire fraud statutes, to prosecute the conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=82">SEC Litigation Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program - - Company Agrees to Pay $7.7 Million)</a></p><p><a href="file.asp?id=83">SEC Press Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=84">Complaint: SEC v. El Paso Corporation </a></p><p><a href="file.asp?id=421">United States Attorney, Southern District of New York, Press Release: February 7, 2007 (U.S. Announces Oil-for-Food Settlement with El Paso Corporation)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192052k7p27">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920520p7f9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EL PASO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(41)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920528c103" width="415" height="61" /></div>
+    
+        <h1>EL PASO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        El Paso Corporation ("El Paso")<br />The Coastal Corporation (El Paso's predecessor in-interest)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Petroleum and natural gas production, processing and marketing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC charged El Paso with violating the books and records and internal controls provisions of the FCPA in connection with USD 5.5 million in illegal surcharges paid to the Iraqi government with the companys purchases of crude oil under the United Nations ("U.N.") Oil for Food Program between June 2001 and June 2002.  According to the SEC's complaint, 25 to 30 cents per barrel purchased by El Paso  and its predecessor in-interest, The Coastal Corporation,  was indirectly kicked back to the Iraqi government through third parties.  The kickbacks were not designated in the company's books and records but instead were included as part of the costs of goods sold. <br /><br />According to the SEC, El Paso knew, or was reckless in not knowing, that USD 5.5 million in kickbacks were made on these oil contracts and passed back to the company in premiums.  El Paso's oil traders allegedly factored the surcharge into their oil price and the SEC cited recorded conversations between the traders and company officials discussing the surcharges.  Although a provision was inserted in some of the company's third party contracts requiring the third party to represent that it had not paid any surcharges, El Paso failed to conduct due diligence to ensure that the surcharges were not paid.  Recorded conversations demonstrate that, in fact, the company knew that the provisions were ineffective.  <br /><br />The U.S. Attorney's Office for the Southern District of New York also brought criminal wire fraud charges against El Paso in connection with this conduct, as well as civil charges related to violations of the Office of Foreign Asset Control's sanctions regime for Iraq.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 5.5 million</p>
+</td>
+<td>
+<p>Net profits of USD 5.5 million from oil trading based on 21.4 million barrels of oil purchased from Iraq</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Over 2,200 companies, including oil and gas firms, were identified by the Independent Inquiry Committee into the U.N. Oil-for-Food Program as having paid kickbacks to the Iraqi government in connection with the program.   
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 7 February 2007, El Paso entered into a non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York under which El Paso was to forfeit USD 5,482,363 to the U.S. government, which would then seek to transfer the forfeited funds to the Development Fund of Iraq (established on 21 May 2003, by United Nations Security Council Resolution 1483) to be paid as restitution for the benefit of the people of Iraq.<br /><br />Also on 7 February 2007, without admitting or denying the SEC's allegations, El Paso consented to the entry of a cease-and-desist order.  El Paso was ordered to pay USD 5,482,363 in disgorgement of profits and a civil penalty of USD 2,250,000. The disgorgement obligation was to be satisfied by forfeiting USD 5,482,363 pursuant to the company's non-prosecution agreement with the U.S. Attorney's Office for the Southern District of New York.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In circumstances where bribes are paid to a foreign government rather than to individual foreign officials (as in the Oil for Food scandal), the FCPA's anti-bribery provisions will not apply; nevertheless, the enforcement agencies may use the FCPA's books and records provisions and other laws, such as the mail and wire fraud statutes, to prosecute the conduct. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=82">SEC Litigation Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program - - Company Agrees to Pay $7.7 Million)</a></p><p><a href="file.asp?id=83">SEC Press Release: February 7, 2007 (SEC Files Settled Books and Records and Internal Controls Charges Against El Paso Corporation For Improper Payments to Iraq Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=84">Complaint: SEC v. El Paso Corporation </a></p><p><a href="file.asp?id=421">United States Attorney, Southern District of New York, Press Release: February 7, 2007 (U.S. Announces Oil-for-Food Settlement with El Paso Corporation)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192412g6mlv">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924125g6w9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RIO TINTO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(263)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19241251t79" width="415" height="61" /></div>
+    
+        <h1>RIO TINTO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        China: People's Procuratorate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rio Tinto Limited ("Rio Tinto")<br />Stern Hu (Rio Tinto's former General Manager in Shanghai)<br />Wang Yong, Ge Minqiang and Liu Caikui (Rio Tinto employees in Shanghai)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Mining operations 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Melbourne, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2009 Chinese authorities launched an investigation into Rio Tinto's alleged bribery of Chinese officials, as well the company's alleged stealing of state secrets from state-owned steel mills.  The bribery allegations included accusations by the Chinese government that the four employees had bribed executives from sixteen of China's major steel mills to obtain industry information.<br /><br />Four Rio Tinto employees in China were arrested and charged in connection with the matter - Stern Hu, the company former General Manager in Shanghai and an Australian citizen, and three Chinese colleagues.  At the time of their formal charging, the four employees were charged with paying bribes to Chinese steel mill officials, receiving bribes from Chinese steel mills, and stealing commercial trade secrets.  The charge related to making improper payments to Chinese officials appears to have been dropped during the course of the trial.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to&nbsp;Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 29, 2010, following a trial that was closed to the public, the Shanghai No. 1 Intermediate People’s Court found the four Rio Tinto employees guilty of accepting millions of dollars in bribes and stealing commercial secrets (there was no further mention of the initial charge that they paid bribes to Chinese officials).  The defendants were given sentences of between seven and fourteen years in prison and were ordered to pay hundreds of thousands of dollars in fines.  <br /><br />Stern Hu received seven years in prison for bribery and five years for stealing commercial secrets, which the court then reduced to a total of ten years.  <br /><br />Wang Yong, Ge Minqiang and Liu Caikui appealed their convictions; their appeal was rejected by the Higher People's Court of Shanghai on May 17, 2010.<br /><br />At the time of the conviction of the Rio Tinto employees, the Shanghai No. 1 Intermediate People’s Court stated that it also planned to charge at least two Chinese steel industry officials with passing trade secrets to the company.  <br /><br />Shortly following their convictions, the four employees were terminated by Rio Tinto.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In certain countries, governmental issues and political disputes may place foreign companies and their employees at risk of prosecution.  According to press reports, the arrests of the Rio Tinto employees came a month after Rio Tinto cancelled a more than USD 19 billion investment deal with China's state-owned Chinalco.   There was widespread speculation that the arrests constituted possible government retribution for the failed deal. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>CNN: "Rio Tinto bribery case advances in China" (11 Jan. 2010)</p><p>NY Times: "China Sentences Rio Tinto Employees in Bribe Case" (29 March 2010)</p><p>Steel Orbis: "Chinese court rejects appeal by sentenced former Rio Tinto employees" (17 May 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

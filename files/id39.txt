@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170725737n6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170725n48hy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMMUCOR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(39)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170725i19vh" width="415" height="61" /></div>
+    
+        <h1>IMMUCOR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Immucor, Inc. ("Immucor")<br />Immucor Italia S.p.A. (wholly-owned Italian subsidiary of Immucor) ("Immucor Italia")<br />Immucor Medizinische Diagnostik GmbH (wholly-owned German subsidiary of Immucor) ("Immucor Germany")<br />Gioacchino De Chirico (Chief Executive Officer of Immucor) (De Chirico)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Blood analysis equipment and supplies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Norcross, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Italy<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According the SEC's complaint, in April 2004, Immucor Italia paid EUR 13,500 to the director of a public hospital in Milan, Italy, in exchange for the director favoring Immucor in certain contracts for blood-testing equipment and supplies.   The payments were made through a local sales agent, who submitted a payment request describing the EUR 13,500 as the hospital director's overdue compensation for his participation in a conference at the request of Immucor Italia in October 2003.  The agents payment request also requested that the payment be made to a Swiss bank account for the benefit of the hospital director.<br /><br />Gioacchino De Chirico, Immucor's CEO, allegedly approved an invoice falsely describing the EUR 13,500 payment as a consulting fee for services in connection with business opportunities in Switzerland, services that De Chirico knew the hospital director never performed.  He authorized the payment to be made through Immucor Germany in order to assist the hospital director in avoiding Italian taxes.<br /><br />The SEC charged that Immucor violated and that Di Chirico violated and aided and abetted Immucor's violations of  the FCPA's books and records and internal controls provisions in connection with this conduct.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Italian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 13,500</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for blood analysis equipment and supplies, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 September 2007, without admitting or denying the allegations in the SEC's complaint, Immucor and De Chirico consented to the entry of a cease-and-desist order.  <br /><br />On 28 September 2007, without admitting or denying the SEC's allegations, De Chirico consented to the entry of a final judgment ordering him to pay a civil penalty of USD 30,000.  The final judgment was entered on 2 October 2007.  <br />	<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In most countries, hospitals are government-run entities and thus hospital directors and employees constitute foreign officials under the FCPA.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=121">SEC Litigation Release: September 28, 2007 (SEC Files Action Naming Officer of Immucor, Inc., for Violating, and Aiding and Abetting Violations of, Books and Records and Internal Control Provisions of the Securities Exchange Act of 1934)</a></p><p><a href="file.asp?id=122">Complaint: SEC v. Gioacchino De Chirico (September 28, 2007)</a></p><p><a href="file.asp?id=123">Cease and Desist Order: In the Matter of Immucor, Inc. and Gioacchino De Chirico (September 27, 2007)</a></p><p><a href="file.asp?id=124">SEC Litigation Release: October 16, 2007 (Final Judgment Entered Against Officer of Immucor, Inc.)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184234kbf3e">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184234q1boy" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMMUCOR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(39)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842349k01u" width="415" height="61" /></div>
+    
+        <h1>IMMUCOR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Immucor, Inc. ("Immucor")<br />Immucor Italia S.p.A. (wholly-owned Italian subsidiary of Immucor) ("Immucor Italia")<br />Immucor Medizinische Diagnostik GmbH (wholly-owned German subsidiary of Immucor) ("Immucor Germany")<br />Gioacchino De Chirico (Chief Executive Officer of Immucor) (De Chirico)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Blood analysis equipment and supplies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Norcross, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Italy<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According the SEC's complaint, in April 2004, Immucor Italia paid EUR 13,500 to the director of a public hospital in Milan, Italy, in exchange for the director favoring Immucor in certain contracts for blood-testing equipment and supplies.   The payments were made through a local sales agent, who submitted a payment request describing the EUR 13,500 as the hospital director's overdue compensation for his participation in a conference at the request of Immucor Italia in October 2003.  The agents payment request also requested that the payment be made to a Swiss bank account for the benefit of the hospital director.<br /><br />Gioacchino De Chirico, Immucor's CEO, allegedly approved an invoice falsely describing the EUR 13,500 payment as a consulting fee for services in connection with business opportunities in Switzerland, services that De Chirico knew the hospital director never performed.  He authorized the payment to be made through Immucor Germany in order to assist the hospital director in avoiding Italian taxes.<br /><br />The SEC charged that Immucor violated and that Di Chirico violated and aided and abetted Immucor's violations of  the FCPA's books and records and internal controls provisions in connection with this conduct.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Italian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 13,500</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for blood analysis equipment and supplies, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 September 2007, without admitting or denying the allegations in the SEC's complaint, Immucor and De Chirico consented to the entry of a cease-and-desist order.  <br /><br />On 28 September 2007, without admitting or denying the SEC's allegations, De Chirico consented to the entry of a final judgment ordering him to pay a civil penalty of USD 30,000.  The final judgment was entered on 2 October 2007.  <br />	<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In most countries, hospitals are government-run entities and thus hospital directors and employees constitute foreign officials under the FCPA.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=121">SEC Litigation Release: September 28, 2007 (SEC Files Action Naming Officer of Immucor, Inc., for Violating, and Aiding and Abetting Violations of, Books and Records and Internal Control Provisions of the Securities Exchange Act of 1934)</a></p><p><a href="file.asp?id=122">Complaint: SEC v. Gioacchino De Chirico (September 28, 2007)</a></p><p><a href="file.asp?id=123">Cease and Desist Order: In the Matter of Immucor, Inc. and Gioacchino De Chirico (September 27, 2007)</a></p><p><a href="file.asp?id=124">SEC Litigation Release: October 16, 2007 (Final Judgment Entered Against Officer of Immucor, Inc.)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920504dv02">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920504pxew" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMMUCOR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(39)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192050ste26" width="415" height="61" /></div>
+    
+        <h1>IMMUCOR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Immucor, Inc. ("Immucor")<br />Immucor Italia S.p.A. (wholly-owned Italian subsidiary of Immucor) ("Immucor Italia")<br />Immucor Medizinische Diagnostik GmbH (wholly-owned German subsidiary of Immucor) ("Immucor Germany")<br />Gioacchino De Chirico (Chief Executive Officer of Immucor) (De Chirico)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Blood analysis equipment and supplies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Norcross, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Italy<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According the SEC's complaint, in April 2004, Immucor Italia paid EUR 13,500 to the director of a public hospital in Milan, Italy, in exchange for the director favoring Immucor in certain contracts for blood-testing equipment and supplies.   The payments were made through a local sales agent, who submitted a payment request describing the EUR 13,500 as the hospital director's overdue compensation for his participation in a conference at the request of Immucor Italia in October 2003.  The agents payment request also requested that the payment be made to a Swiss bank account for the benefit of the hospital director.<br /><br />Gioacchino De Chirico, Immucor's CEO, allegedly approved an invoice falsely describing the EUR 13,500 payment as a consulting fee for services in connection with business opportunities in Switzerland, services that De Chirico knew the hospital director never performed.  He authorized the payment to be made through Immucor Germany in order to assist the hospital director in avoiding Italian taxes.<br /><br />The SEC charged that Immucor violated and that Di Chirico violated and aided and abetted Immucor's violations of  the FCPA's books and records and internal controls provisions in connection with this conduct.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Italian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 13,500</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for blood analysis equipment and supplies, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 September 2007, without admitting or denying the allegations in the SEC's complaint, Immucor and De Chirico consented to the entry of a cease-and-desist order.  <br /><br />On 28 September 2007, without admitting or denying the SEC's allegations, De Chirico consented to the entry of a final judgment ordering him to pay a civil penalty of USD 30,000.  The final judgment was entered on 2 October 2007.  <br />	<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In most countries, hospitals are government-run entities and thus hospital directors and employees constitute foreign officials under the FCPA.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=121">SEC Litigation Release: September 28, 2007 (SEC Files Action Naming Officer of Immucor, Inc., for Violating, and Aiding and Abetting Violations of, Books and Records and Internal Control Provisions of the Securities Exchange Act of 1934)</a></p><p><a href="file.asp?id=122">Complaint: SEC v. Gioacchino De Chirico (September 28, 2007)</a></p><p><a href="file.asp?id=123">Cease and Desist Order: In the Matter of Immucor, Inc. and Gioacchino De Chirico (September 27, 2007)</a></p><p><a href="file.asp?id=124">SEC Litigation Release: October 16, 2007 (Final Judgment Entered Against Officer of Immucor, Inc.)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

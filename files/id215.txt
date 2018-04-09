@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19233079o0x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192330xqwgi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROMANIAN OIL-FOR-FOOD ACTIONS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(215)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19233063t73" width="415" height="61" /></div>
+    
+        <h1>ROMANIAN OIL-FOR-FOOD ACTIONS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Romania: Prosecutor's Office, High Court of Cassation and Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rompetrol SA<br />Bulf Drilling and Oil Servicii<br />Romanian Workers' Party 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Various
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Romania
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, the Prosecutor's Office attached to Romania's High Court of Cassation and Justice has been investigating whether criminal acts were committed in Romania in connection with breaches of the United Nations sanctions against Iraq.  Codrut Seres, the Minister of Economy and Commerce, announced that his Ministry would also look into whether state-owned companies participating in the Oil-for-Food programme had been involved in illegal payments made to the former Iraqi regime.<br /><br />One of the main issues in connection with the investigation is whether the Romanian companies involved were privately owned at the time of the alleged wrongdoing.  Romanian companies were among those named in the U.N. Independent Inquiry Report, including Rompetrol, Bulf Drilling and Oil Servicii.  <br /><br />According to press reports, the Romanian Intelligence Service ("SRI") claims that in 2003 the U.N. notified it that the Romanian Workers' Party was implicated as an intermediary in the Oil for Food scandal, the entity having acted as an intermediary for the purchase of oil for a Swiss company.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Improper Payments</td>
+<td style="text-align: center;" width="50%">Alleged Business Advantage Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Over 2,200 companies, including oil and gas firms, were identified by the Independent Inquiry Committee into the U.N. Oil-for-Food Program as having paid kickbacks to the Iraqi government in connection with the program.   
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation appears to be ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>See www.ziaruldeiasi.ro/ for articles related to this matter.</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192433rw96b">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924332i919" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CARBON HARVESTING CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(288)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924335y6z5" width="415" height="61" /></div>
+    
+        <h1>CARBON HARVESTING CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />Liberia: Presidential Committee<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Carbon Harvesting Corporation ("CHC")<br />Mike Foster (Director of CHC)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Carbon emission trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Merseyside, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Liberia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, on 3 June 2010, the City of London Police's Overseas Anti-Corruption Unit arrested Mike Foster, the Director of Carbon Harvesting Corporation ("CHC"), in connection with an investigation into CHC's alleged plan to bribe Liberian officials in order to secure land concessions in Liberian forest.  CHC allegedly paid or planned to pay USD 2.5 million (GBP 1.7 million) in bribes to Liberian officials in exchange for land concessions from which the company hoped to earn USD 2.2 billion from selling carbon credits to its European clients.  The alleged deal would involve CHC paying USD 1 million in rent per year to the Liberan government in exchange for for a 400,000-hectare forest carbon concession.  If CHC did not reach its anticipated USD 2.2 billion earnings figure, the Liberian government would allegedly have to make up the shortfall. <br /><br />According to CHC, the allegations stem from an anticompetitive attack on the company by various governmental and non-governmental entities seeking to disparage its efforts and stifle CHC's head-start in this potentially lucrative market (see company media statement referenced below for more details).<br /><br />Current global efforts to protect forests and combat climate change involving providing carbon credits to forested countries, who can then sell the credits to companies subject to the European Union's carbon dioxide emissions cap.  Awarding carbon credits to forestry projects has been controversial because of the risk of fraud and difficulty in measuring carbon savings.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Offers and Payments to Liberian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 2.5 million</td>
+<td style="text-align: center;">&nbsp;Land concessions reportedly worth USD 2.2 billion in carbon credits</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        An two-year investigation by Global Witness prompted the City of London Police's Overseas Anti-Corruption Unit's investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The UK investigation appears to be ongoing. <br /><br />Liberian President  Ellen Johnson-Sirleaf  named a three-person committee to investigate the matter.  On 20 October 2013, the Committee concluded that the CHC contract was a product of fraud and corruption.  The Committee found that several persons were involved in the scheme of bribery and corruption regarding the CHC contract, but most of them carefully concealed their activities that direct evidence is hard to obtain against them.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Financial Times: "Probe as carbon deal hit by bribe accusations" (4 June 2010)</p><p>Global Witness Press Release: "Global Witness investigation leads to UK arrest over carbon deal in Liberia (4 June 2010)</p><p>Daily Observer: "Amidst Reports of Bribery, Ellen Orders FDA, CHC Probed" (8 June 2010)</p><p>Carbon Harvesting Corporation - Media Statement (12 Aug. 2010)</p><p>The New Dawn: "Lookin' Inside From Outside - The Carbon Harvesting Corporation Investigation" (20 Oct. 2010)</p><p><a href="file.asp?id=2438">CHC Final Commission Report</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

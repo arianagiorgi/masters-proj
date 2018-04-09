@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19214960tq0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19214971b7n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HARRIS (COLOMBIA)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(103)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192149rme3u" width="415" height="61" /></div>
+    
+        <h1>HARRIS (COLOMBIA)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Harris Corporation ("Harris")<br />DTS (Digital Telephone Systems Division of Harris, located in Novato, CA)<br />John D. Iacobucci (Vice President of DTS, a division of Harris)<br />Ronald L. Schultz (Director of Human Resources  and  facilities at DTS)<br />Polo Associates, Inc. ("Polo")<br />Robert D. O'Hara (unindicted co-conspirator, President /sole shareholder of Polo)<br />Empresa Nacional de Telecomunicaciones de Colombia ("ENT")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International communications and information technology company serving governments and commercial enterprises in 125 countries
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Melbourne, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Colombia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In October 1990, the United States indicted Harris Corporation, Schultz and Iacobucci for conspiracy to violate the FCPA.  The indictment alleged that the two individual defendants working for DTS conspired to pay commissions to O'Hara and his company, Polo, knowingly and with the intention that a portion of the commission payments be paid to foreign officials in Colombia.  Specifically, the indictment alleged that payments were made to a member of the Colombian Cámara de Representates ("CDR") in order that telecommunications contracts be awarded to Harris in Columbia.  In addition, payments are alleged to have been made to a company owned by a member of the CDR.   In one instance, it is alleged that a payment of  USD 22,845 was made to Polo with the intention that a portion would be paid to officials.  In another instance, it is alleged that bribe payments were explicitly discussed among the defendants in New York, and Iacobucci declared that he would not travel to Colombia without USD 5,500 in cash.  On a number of occasions, USD 3,000 were requested for "incidental fees" which the indictment alleges were for the purpose of bribes. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Colombian Officials</strong> <br /></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unknown
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The books and records, bribery and conspiracy trial against the two individual and one corporate defendant began on 4 March 1991, and was dismissed on 18 March by the judge without any presentation of a defense.  The judge ruled that there was insufficient evidence for any jury to convict the defendants on any of the five charges.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Not all FCPA investigations lead to convictions of individuals or corporations. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1952">Harris: Indictment, Harris Corporation, John D. Iacobucci, Ronald L. Schultz (October 1990)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

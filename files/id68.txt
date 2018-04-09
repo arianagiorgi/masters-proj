@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842592567n">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842593577u" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NAAMAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(68)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184259u9134" width="415" height="61" /></div>
+    
+        <h1>NAAMAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ousama M. Naaman (Lebanese and Canadian citizen; agent for Innospec in Iraq)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Chemical additives for oil refineries 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 7 August 2008, Ousama M. Naaman, a Lebanese and Canadian citizen, was indicted in the U.S. District Court for the District of Columbia in connection with his alleged role in an eight-year conspiracy to defraud the United Nations ("U.N.") Oil for Food Program and to bribe Iraqi government officials in order to secure sales of a chemical additive used in refining leaded fuel (known as tetraethyl lead). The indictment charged Naaman with one count of conspiracy to commit wire fraud and violate the FCPA and two counts of violating the FCPA's anti-bribery provisions.  <br /><br />According to the indictment, from 2001 to 2003, while acting on behalf of a publicly-traded U.S. chemical company with executive offices in the United Kingdom - understood to be Innospec Inc. - and its Swiss subsidiary, Naaman offered and paid 10% kickbacks to the Iraqi government in order to obtain five contracts under the Oil for Food Program.  In exchange for negotiating and handling the kickbacks, Naaman allegedly received a 2% commission for securing the contract as well as 2% of the contracts value.  The contracts submitted to the U.N. were allegedly inflated by the Innospec in order to cover the cost of the kickbacks.  <br /><br />According to the indictment, Naaman also paid USD 150,000 in bribes to Iraqi Ministry of Oil officials in 2006 on behalf of Innospec to ensure that a competitors product failed a field test and stayed out of the Iraqi market.  Naaman was allegedly reimbursed by Innospec for these improper payments after submitting false invoices. <br /><br />On 24 June 2010, a superseding criminal information replaced the initial indictment.  The new information charged Naaman with orchestrating the arrangement whereby Innospec paid a 10% kickback to the Iraqi government between 2001 and 2003 to obtain five contracts under the Oil-for-Food program to supply tetraethyl lead to Iraq's oil refineries.  Naaman was also charged with paying or promising to pay over USD 3 million in bribes (in the form of cash, travel, gifts and entertainment) between 2004 and 2008 to officials of the Iraqi Ministry of Oil and the Trade Bank of Iraq on Innospec's behalf in order to secure sales of tetraethyl lead and to secure more favorable exchange rates, respectively. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Allegedly Made to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract value</p>
+</td>
+<td>
+<p style="text-align: center;">Five contracts for the sale of tetraethyl lead for use in Iraq's oil refineries, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Allegedly Made to Iraqi Officials at the Ministry of Oil and Trade Bank of Iraq</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 3 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of tetraethyl lead; more favorable exchange rates</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        A criminal indictment was filed against Naaman on 7 August 2008.  He was arrested in Frankfurt, Germany on 30 July 2009 and later extradited to the U.S.<br /><br />On 3 May 2010, he initially pleaded not guilty to conspiracy to commit wire fraud and to violate the FCPA in U.S. District Court in Washington, D.C.<br /><br />On 25 June 2010, Naaman pleaded guilty in U.S. District Court for the District of Columbia to a two-count superseding information charging him with one count of conspiracy to commit wire fraud, violate the FCPA and falsify the books and records of a U.S. issuer; and one count of violating the FCPA.  <br /><br />On 5 August 2010, Naaman and Innospec's former business director of its TEL group, David Turner, settled civil charges with the SEC. Naaman and Turner consented to the entry of final judgments permanently enjoining them from violating securities laws. In addition, Naaman agreed to disgorge USD 810,076 and pay pre-judgment interest of USD 67,030. He also agreed to a USD 438,038 civil penalty, which will be offset by any criminal fines he receives. Turner agreed to disgorge USD 40,000 to the SEC. <br /><br />On 22 December 2011, Naaman was sentenced to 30 months in prison and ordered to pay a USD 250,000 fine for his participation in a conspiracy to defraud the United Nations Oil for Food Program (OFFP) and in bribing former Iraqi government officials.  He received his sentence in U.S. District Court for the District of Columbia.  <br />So far, Namaan is the only individual to be prosecuted in the United States for Innospec's bribery<br /><br />[Please see a separate Compendium entry titled "Innospec" for information regarding the company's settlement with enforcement authorities in the U.S. and United Kingdom.]
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li><li>The DOJ will utilize prosecutions of corporate entities to assist in establishing cases against individual wrongdoers, as well as prosecutions of individuals to assist in establishing cases against corporate entities.</li><li>The DOJ has made the prosecution of individual wrongdoers an FCPA enforcement priority, including the prosecution of those who serve as the middlemen or intermediaries through which companies make improper payments to foreign officials.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=205">DOJ Press Release: July 31, 2009 (Canadian National Charged with Foreign Bribery and Paying Kickbacks Under the Oil for Food Program)</a></p><p><a href="file.asp?id=206">Indictment: U.S. v. Ousama M. Naaman (August 7, 2008)</a></p><p><a href="file.asp?id=1006">DOJ Press Release: June 25, 2010 (Innospec Agent Pleads Guilty to Bribing Iraqi Officials and Paying Kickbacks Under the Oil for Food Program)</a></p><p><a href="file.asp?id=1008">Superseding Information: U.S. v. Ousama M. Naaman (June 24, 2010)</a></p><p><a href="file.asp?id=1066">SEC Complaint: US v. David P. Turner and Ousama M. Naaman (August 5, 2010)</a></p><p><a href="file.asp?id=1067">SEC Litigation Release No. 21615 (August 5, 2010) in SEC v. David P. Turner and Ousama M. Naaman</a></p><p><a href="file.asp?id=1322">Naaman's Memorandum in Aid of Sentencing (January 13, 2011)</a></p><p><a href="file.asp?id=1323">Government's Sentencing Memorandum (January 22, 2011)</a></p><p><a href="file.asp?id=1553">Joint Motion for Continuance of Sentencing Hearing (July 14, 2011)</a></p><p><a href="file.asp?id=1674">Naaman - DOJ Press Release (22 Dec 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19211649482">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192116fu40y" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NAAMAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(68)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192116w139o" width="415" height="61" /></div>
+    
+        <h1>NAAMAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ousama M. Naaman (Lebanese and Canadian citizen; agent for Innospec in Iraq)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Chemical additives for oil refineries 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 7 August 2008, Ousama M. Naaman, a Lebanese and Canadian citizen, was indicted in the U.S. District Court for the District of Columbia in connection with his alleged role in an eight-year conspiracy to defraud the United Nations ("U.N.") Oil for Food Program and to bribe Iraqi government officials in order to secure sales of a chemical additive used in refining leaded fuel (known as tetraethyl lead). The indictment charged Naaman with one count of conspiracy to commit wire fraud and violate the FCPA and two counts of violating the FCPA's anti-bribery provisions.  <br /><br />According to the indictment, from 2001 to 2003, while acting on behalf of a publicly-traded U.S. chemical company with executive offices in the United Kingdom - understood to be Innospec Inc. - and its Swiss subsidiary, Naaman offered and paid 10% kickbacks to the Iraqi government in order to obtain five contracts under the Oil for Food Program.  In exchange for negotiating and handling the kickbacks, Naaman allegedly received a 2% commission for securing the contract as well as 2% of the contracts value.  The contracts submitted to the U.N. were allegedly inflated by the Innospec in order to cover the cost of the kickbacks.  <br /><br />According to the indictment, Naaman also paid USD 150,000 in bribes to Iraqi Ministry of Oil officials in 2006 on behalf of Innospec to ensure that a competitors product failed a field test and stayed out of the Iraqi market.  Naaman was allegedly reimbursed by Innospec for these improper payments after submitting false invoices. <br /><br />On 24 June 2010, a superseding criminal information replaced the initial indictment.  The new information charged Naaman with orchestrating the arrangement whereby Innospec paid a 10% kickback to the Iraqi government between 2001 and 2003 to obtain five contracts under the Oil-for-Food program to supply tetraethyl lead to Iraq's oil refineries.  Naaman was also charged with paying or promising to pay over USD 3 million in bribes (in the form of cash, travel, gifts and entertainment) between 2004 and 2008 to officials of the Iraqi Ministry of Oil and the Trade Bank of Iraq on Innospec's behalf in order to secure sales of tetraethyl lead and to secure more favorable exchange rates, respectively. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Allegedly Made to Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">10% of contract value</p>
+</td>
+<td>
+<p style="text-align: center;">Five contracts for the sale of tetraethyl lead for use in Iraq's oil refineries, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Allegedly Made to Iraqi Officials at the Ministry of Oil and Trade Bank of Iraq</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 3 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of tetraethyl lead; more favorable exchange rates</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        A criminal indictment was filed against Naaman on 7 August 2008.  He was arrested in Frankfurt, Germany on 30 July 2009 and later extradited to the U.S.<br /><br />On 3 May 2010, he initially pleaded not guilty to conspiracy to commit wire fraud and to violate the FCPA in U.S. District Court in Washington, D.C.<br /><br />On 25 June 2010, Naaman pleaded guilty in U.S. District Court for the District of Columbia to a two-count superseding information charging him with one count of conspiracy to commit wire fraud, violate the FCPA and falsify the books and records of a U.S. issuer; and one count of violating the FCPA.  <br /><br />On 5 August 2010, Naaman and Innospec's former business director of its TEL group, David Turner, settled civil charges with the SEC. Naaman and Turner consented to the entry of final judgments permanently enjoining them from violating securities laws. In addition, Naaman agreed to disgorge USD 810,076 and pay pre-judgment interest of USD 67,030. He also agreed to a USD 438,038 civil penalty, which will be offset by any criminal fines he receives. Turner agreed to disgorge USD 40,000 to the SEC. <br /><br />On 22 December 2011, Naaman was sentenced to 30 months in prison and ordered to pay a USD 250,000 fine for his participation in a conspiracy to defraud the United Nations Oil for Food Program (OFFP) and in bribing former Iraqi government officials.  He received his sentence in U.S. District Court for the District of Columbia.  <br />So far, Namaan is the only individual to be prosecuted in the United States for Innospec's bribery<br /><br />[Please see a separate Compendium entry titled "Innospec" for information regarding the company's settlement with enforcement authorities in the U.S. and United Kingdom.]
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.</li><li>The DOJ will utilize prosecutions of corporate entities to assist in establishing cases against individual wrongdoers, as well as prosecutions of individuals to assist in establishing cases against corporate entities.</li><li>The DOJ has made the prosecution of individual wrongdoers an FCPA enforcement priority, including the prosecution of those who serve as the middlemen or intermediaries through which companies make improper payments to foreign officials.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=205">DOJ Press Release: July 31, 2009 (Canadian National Charged with Foreign Bribery and Paying Kickbacks Under the Oil for Food Program)</a></p><p><a href="file.asp?id=206">Indictment: U.S. v. Ousama M. Naaman (August 7, 2008)</a></p><p><a href="file.asp?id=1006">DOJ Press Release: June 25, 2010 (Innospec Agent Pleads Guilty to Bribing Iraqi Officials and Paying Kickbacks Under the Oil for Food Program)</a></p><p><a href="file.asp?id=1008">Superseding Information: U.S. v. Ousama M. Naaman (June 24, 2010)</a></p><p><a href="file.asp?id=1066">SEC Complaint: US v. David P. Turner and Ousama M. Naaman (August 5, 2010)</a></p><p><a href="file.asp?id=1067">SEC Litigation Release No. 21615 (August 5, 2010) in SEC v. David P. Turner and Ousama M. Naaman</a></p><p><a href="file.asp?id=1322">Naaman's Memorandum in Aid of Sentencing (January 13, 2011)</a></p><p><a href="file.asp?id=1323">Government's Sentencing Memorandum (January 22, 2011)</a></p><p><a href="file.asp?id=1553">Joint Motion for Continuance of Sentencing Hearing (July 14, 2011)</a></p><p><a href="file.asp?id=1674">Naaman - DOJ Press Release (22 Dec 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

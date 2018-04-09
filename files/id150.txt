@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922307dji5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922309m506" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NORCONSULT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(150)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192230ck758" width="415" height="61" /></div>
+    
+        <h1>NORCONSULT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Norway: National Authority for Investigation and Prosecution of Economic and Environmental Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Norconsult AS ("Norconsult")<br />Norconsult Tanzania Ltd. (partially-owned subsidiary of Norconsult in Tanzania) ("NTZ")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering and development consulting
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Sandvika, Norway
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Tanzania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crime ("Okokrim") is investigating Norconsult and certain employees regarding over NOK 1 million in allegedly improper payments made to Tanzanian government officials between 2003 and 2006 in order to secure construction management contracts for the Dar Es Salaam Water and Sewerage Authority ("DAWASA") in Tanzania.  The payments were allegedly made through a joint venture that Norsconsult's Tanzanian subsidiary participated in.<br /><br />On November 20, 2009, Okokrim charged three former Norconsult employees with bribery in connection with the conduct.<br /><br />The company itself is also under investigation by Okokrim in connection with the conduct.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Tanzanian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over NOK 1 million</p>
+</td>
+<td>
+<p style="text-align: center;">Construction management contract,&nbsp;of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Norconsult discovered the conduct in 2006 and subsequently withdrew from the Tanzanian market in 2008.  The company hired PricewaterhouseCoopers ("PWC") to conduct an internal investigation into the matter.  Norconsult then self-reported to Økokrim its findings that the project office in Tanzania had paid a total of US $146,500 in 2006 with only handwritten receipts as documentation in the accounts.<br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Norconsult was "offered", as an employer, a settlement deal under which it would pay a penalty of NOK 4 million.  On November 20, 2009, the company declined the settlement and has stated that it will contest the charges.  <br /><br />The trial started in May 2011.  In a press release on May 9, 2011, Norconsult reiterated its denial of any wrongdoing. In the township court, Norconsult was acquitted, but on appeal, the court found Norconsult guilty of corruption and bribery in 2012.<br /><br />In the appeal court, one of the employees was acquitted, and the fine upheld for the company. The appeal court rated the legal circumstances different from the town court. They considered the corruptive actions to be considerable, and found without reasonable doubt that one or more employees had participated in illegal payments for about 100 000 USD on behalf of Norconsult. The main reasons for the appeal court to convict Norconsult for grand corruption was the following: <br /> <br />It was documented an organized bribery system in a poor country and by that general deterrence considerations was relevant. <br /><br />There was lack of preventive measures related to anti-corruption in Norconsult. There was no specific anticorruption policy or guidelines for the employees in order to deal with corruptive issues.  The project was documented to be important for Norconsult, even if there was a deficit in the project. <br /><br />Norconsult did not allow internal and external investigation reports to be documented for the authorities, and there was an internal struggle in order to report the matter to the authorities. If the top management not was informed of the illegal payments, this was not of major significance due to lack of reporting. <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=590">Norconsult Press Release: 20 November 2009 (Norconsult does not agree with Okokrim's corporate fine)</a></p><p>Norconsult Press Release: 9 May 2011 (Norconsult does not agree with charges on financial malpractice in Tanzania)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

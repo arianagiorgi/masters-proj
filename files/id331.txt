@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192510frtjf">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19251040crp" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - 3M</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(331)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192510aft0h" width="415" height="61" /></div>
+    
+        <h1>3M</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        3M Company ("3M")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Diversified technology company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        St. Paul, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Turkey<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        3M described its investigation of the allegations in the Company's Forms 10-K released on 16 February 2011 and 16 February 2012, in substantially similar statements (below from 2012):  <br /><br />"On November 12, 2009, the Company contacted the Department of Justice (DOJ) and Securities and Exchange Commission (SEC) to voluntarily disclose that the Company was conducting an internal investigation as a result of reports it received about its subsidiary in Turkey, alleging bid rigging and bribery and other inappropriate conduct in connection with the supply of certain reflective and other materials and related services to Turkish government entities. The Company also contacted certain affected government agencies in Turkey. The Company retained outside counsel to conduct an assessment of its policies, practices, and controls and to evaluate its overall compliance with the Foreign Corrupt Practices Act, including an ongoing review of our practices in certain other countries and acquired entities. As part of its ongoing review, the Company has also reported to the DOJ and SEC issues arising from transactions in other countries. The Company continues to cooperate with the DOJ and SEC and government agencies in Turkey in the Company’s ongoing investigation of this matter. The Company cannot predict at this time the outcome of its investigation or what regulatory actions may be taken or what other consequences may result."<br /><br />The statement was repeated without further information in the Company's Form 10-Q filed on 3 May 2012.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        3M's 10-K Forms from 2011, 2012, and 2013 mention that the Company initiated its internal investigation "as a result of reports it received about its subsidiary in Turkey." The source of the reports is not given.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In the Form 10-K it submitted to the SEC on 14 February 2013, 3M said that both the DOJ and SEC told the Company in January 2013 that they are terminating their investigations of the FCPA allegations. The agencies said that they would bring no action against 3M and that the Company would not be liable for any fines. According to 3M, the DOJ said that some of the reasons for its decision were "the Company’s voluntary disclosure and cooperation, the Company’s thorough investigation, and the steps the Company has taken to enhance its anti-corruption compliance program."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Voluntary disclosure and cooperation, a thorough internal investigation, and enhancements to an anti-corruption compliance program can be significant factors in the DOJ's decision to terminate an investigation without taking any action or imposing fines.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1347">3M: SEC Form 10-K (16 February 2011)</a></p><p><a href="file.asp?id=1759">3M: SEC Form 10-K (16 February 2012)</a></p><p><a href="file.asp?id=2139">3M: SEC Form 10-K (14 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

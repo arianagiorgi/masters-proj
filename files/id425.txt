@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192631741ku">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19263187s46" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OXFORD UNIVERSITY PRESS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(425)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192631ncu70" width="415" height="61" /></div>
+    
+        <h1>OXFORD UNIVERSITY PRESS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />World Bank: Integrity Vice Presidency<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Oxford University Press ("OUP")<br />Oxford Publishing Ltd ("OPL")<br />Oxford University Press East Africa ("OUPEA")<br />Oxford University Press Tanzania ("OUPT")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Publishing books 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Oxford, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />Tanzania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 3 July 2012, the UK Serious Fraud Office and the World Bank announced that a settlement had been reached with Oxford Publishing Ltd ("OPL"), a wholly owned subsidiary of Oxford University Press ("OUP").  Oxford University Press, owned by Oxford University, is the largest university press in the world, with sales of GBP 649 million in 2011.<br /><br />In a press statement, the SFO described the allegations against the subsidiary.  OPL, part of the publisher's International Division, produces text books and dictionaries, and participates in public tenders to supply governments with text books and educational materials for use in schools.  The subsidiary's work in East Africa is performed by two entities, Oxford University Press East Africa ("OUPEA"), based in Kenya, and Oxford University Press Tanzania ("OUPT").  Some of the contracts awarded pursuant to the government educational materials tenders are supported by various development banks within the World Bank Group.<br /><br />A press statement released by the World Bank on 3 July 2012 reveals that "in May 2011, investigators from the World Bank's Integrity Vice Presidency (INT) approached OUP about potential misconduct in Africa.  Following this, OUP conducted an internal investigation into its operations and reported its findings to INT."<br /><br />The SFO does not attribute knowledge of the problem to information from the INT, noting only that at some point in 2011, OUP became aware of possible irregularities in the tendering process.  OUP engaged independent attorneys and accountants to conduct an internal investigation, and voluntarily reported the results to the SFO in November 2011.  During the course of the ensuing investigation, OUP and its subsidiaries cooperated fully with the authorities, following guidance published in the SFO's protocol entitled "The Serious Fraud Office's Approach to Dealing with Overseas Corruption."<br /><br />Conclusions drawn from the investigation are described thus in the SFO press release, "The product of that work led the SFO and the World Bank to believe that OUPEA and OUPT had offered and made payments, directly and through agents, intended to induce the recipients to award competitive tenders and/or publishing contracts for schoolbooks to OUPEA and OUPT. As wholly owned subsidiaries, OUPEA and OUPT pay dividends and certain fees to OPL.  Accordingly, OPL has and would receive revenue that had been derived from unlawful conduct; namely bribery and/or corruption."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Undisclosed
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Resolutions with both the World Bank Group and the SFO were announced in separate press releases by OUP, WB and the SFO on 3 July 2012.  <br /><br />The WB's Negotiated Resolution Agreement involved three components:  (1) debarment of OUPEA and OUPT for a period of three years – also involving cross-debarment by other development banks -- with OUP receiving a conditional non-debarment; (2) payment by OUP of USD 500,000 to the WB, "in order to remedy part of the harm done by the misconduct"; (3) a commitment by all three entities to cooperate with the World Bank's Integrity Vice Presidency and continue to improve their internal compliance programs. <br /><br />The Civil Recovery Order issued by the High Court to settle the complaint filed by the SFO against OPL mandates the payment of £1,895,435 plus the costs of pursuing the order, £12,500, and imposes an independent monitor.  The monitor must be independent of OUP and its subsidiaries, must be appointed within 120 days, and must submit a report within 12 months.  If after receipt of the monitor's report and resolution of any issues raised therein, the SFO is satisfied that the "Internal corporate policies, procedures and controls considered by the Independent Monitor meet the standards required by applicable English law and principles of good corporate governance in relation to a corporation operating in the UK," then the independent monitor will be discharged, and the trustee appointed by the court for oversight of the process shall also be discharged.<br /><br />The SFO's statement provides an explanation of how the penalty was calculated, and why the SFO elected to pursue a civil recovery order rather than a criminal penalty.  These reasons include:  lack of admissible evidence for a criminal process; the high cost and difficulty of conducting a criminal investigation abroad; the unlikelihood that cooperation by some of the foreign persons involved would be forthcoming; and finally, that "a civil recovery disposal allows a better strategic deployment of resources to other investigations which have a higher probability of leading to a criminal prosecution."  The SFO also credited OUP with good conduct in self-reporting, and noted both that "there is no evidence of Board level (or the equivalent) knowledge or connivance within OUP in relation to the business practices which led to the case being referred to the SFO" and that "the products supplied were of a good standard and provided at 'open market' values.  This means that the jurisdictions involved have not been victims as a result of overpaying for the goods or as a result being supplied goods which were unsuitable or not required."  The SFO concludes that the terms of the settlement "ensure all gross profit from any tainted contract will be disgorged."<br /><br />OUP offered to contribute £2,000,000 to non-profit educational institutions in sub-Saharan Africa as part of the settlement with the SFO.  But the SFO declined to include the offer in the terms of the civil recovery order, on the grounds that it is not the function of the SFO "to become involved in voluntary payments of this kind."<br /><br />In its own press release also dated 3 July 2012, OUP announced its voluntary contribution of £2 million to not-for-profit organizations for teacher training and other educational purposes in sub-Saharan Africa.   The Chief Executive of OUP noted that the contribution "is in part a recognition that the conduct of our two subsidiaries in East Africa fell well below the standards we expect within our organisation. At the same time it is a direct and effective way of improving educational opportunities for children in sub-Saharan Africa, in a way which is true to our core values."
+		<h2>COMPLIANCE MONITOR</h2>
+        12 months
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In deciding whether to pursue criminal prosecution or civil recovery, the SFO may conduct a cost-benefit analysis, and take into consideration the voluntary disclosure and cooperation by the defendant and the severity of the damage done to victims of the bribery.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1876">Oxford press - SFO Application to High Court (2 July 2012)</a></p><p><a href="file.asp?id=1877">Oxford press - Claim Form (2 July 2012), Director of the SFO v. Oxford Publishing Limited</a></p><p><a href="file.asp?id=1879">Oxford press - Consent Order (2 July 2012), Order for disposal by consent in the matter between the SFO and Oxford publishing Limited</a></p><p><a href="file.asp?id=1880">Oxford Press - World Bank press release (3 July 2012), World Bank Sanctions Oxford University Press for Corrupt Practices Impacting Education Projects in East Africa</a></p><p><a href="file.asp?id=1881">Oxford Press - Oxford University Press release (3 July 2012), Oxford University Press reaches agreed resolutions with the World Bank and the Serious Fraud Office</a></p><p><a href="file.asp?id=1882">Oxford Press - SFO Press Release (3 July 2012), Oxford Publishing Ltd to pay almost Â£1 as settlement after admitting unlawful conduct</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #669966;">Education/Publishing</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

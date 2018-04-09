@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922142f7og">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922149w619" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NIKO RESOURCES LTD.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(131)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192214sfs67" width="415" height="61" /></div>
+    
+        <h1>NIKO RESOURCES LTD.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Canada: Royal Canadian Mounted Police<br />Bangladesh: Anti Corruption Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Niko Resources Ltd. ("Niko")<br />Mosharraf Hossain, former state minister for energy<br />Kashem Sharif, former vice president of Niko Resources Ltd.<br />Khaleda Zia, former premier
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Development of gas fields
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Calgary, Alberta, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bangladesh<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2003, Niko entered into a joint venture with Bangladesh Petroleum Exploration and Production Company ("BAPEX"), a state owned gas company.  The agreement led to Niko acquiring the rights in two lucrative gas fields, including Tengratila.<br /><br />In January 2005, Niko was drilling a gas well at Tengratila and accidentally set off an explosion that blew up the field.  No one was killed, but the resulting fire destroyed billions of cubic feet of gas and forced thousands to evacuate. <br /><br />In June 2005, when Niko attempted to contain the damage of the January explosion, it set off a second explosion that led to protests around the country. <br /><br />After the second incident, Niko allegedly gave an SUV worth CAD 190,984 to the junior energy minister in charge of overseeing the compensation claims of the victims.  Niko also allegedly covered CAD 5,000 in travel expenses for the minister to attend an energy expo in Calgary and a subsequent personal trip to New York.<br /><br />On 12 February 2012, a case was filed against Mosharraf Hossain and Kashem Sharif in the Shahbagh Police Station, accusing the men of violating the Corruption Prevention Act as well as provisions in the penal code.  Mosharraf is accused of accepting the gift of a Land Cruiser Jeep worth BDT 955,800,000 (Bangladeshi takas; equivalent to about USD 115,000) in 2005, as well as CAD 5,000 in cash from Niko.  The objective of the payment and gift was to secure a government contract allowing Niko to sell gas from the Feni Gas Field at an inflated price.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Bangladeshi Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">SUV valued at CAD 190,984; Travel expenses worth CAD 5,000</p>
+</td>
+<td>
+<p style="text-align: center;"><span style="line-height: 115%; font-family: 'Calibri','sans-serif'; font-size: 11pt;">Maintaining control over lucrative gas fields valued at approximately CAD 750 million</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The press in Bangladesh reported the Land Rover gift that Niko presented to BAPEX, causing outrage among the general public.<br /><br />It is likely that the press reports and subsequent government investigations in Bangladesh prompted the Canadian government to initiate its own investigation into Niko.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Civil Suit<br /><br />As part of the settlement of a civil case in Bangladesh relating to the explosions in June 2005, Niko paid a total of CAD 625,000 to the families of those affected by the disaster and to replant trees.  <br /><br />The Bangladeshi government has also sued Niko seeking CAD 100 Million in compensation for lost gas and environmental damage. <br /><br />Bangladesh Investigation<br /><br />In 2007, the Bangladesh Anticorruption Commission ("ACC") was given special powers to investigate, indict and arrest.  That year, the ACC opened a case against Niko.  In April 2008, approximately 20 people, including two former prime ministers, were charged in connection with corrupt Niko deals with the government.  Niko was allegedly “very inefficient” in different respects, including technical know-how for oil explorations, and the deal was allegedly approved in violation of proper procedures.  No Canadian executives or officers were charged in this investigation.<br /><br />On 12 February 2012, a case was filed in criminal court in Bangladesh against Mosharraf Hossain and Kashem Shari, alleging  violations of the Corruption Prevention Act as well as provisions in the penal code.  On 3 August 2012, the prosecutor (called the Investigation officer ("IO") in Bangladesh), along with ACC Assistant Director Shahidur Rahman, submitted the charge sheet to the Chief Metropolitan Magistrate's court of Dhaka, naming 15 prosecution witnesses.  The charge sheet claims that Kashem is a fugitive., and the IO requested that the court issue an arrest warrant against Kashem.<br /><br />During the previous caretaker government, a criminal complaint was also filed against former prime minister Khaleda Zia for graft in the redeveloped the Feni Gas Field in 2004, for which a joint venture with Niko and Bangladesh Petroleum Exploration and Production Company Limited ("Bapex") was formed.  The status of this case, and the case against nine other individuals, is not clear. <br /><br />Canada Investigation<br /><br />In early 2009, the Royal Canadian Mounted Police began their own investigation into possible violations by Niko of the Corruption of Foreign Public Officials Act ("CFPOA").  On June 24, 2011, Niko reached a settlement with the RCMP, pleading guilty to one count of violating the CFPOA in connection with the two incidents in 2005 and agreeing to pay CAD 9,499,000 in penalties and a probation order requiring compliance audits for a three-year period.  The Canadian authorities made note of the expenses of the investigation:  the RCMP spent CAD 870,000 and worked in cooperation with the Bangladesh Anti-Corruption Commission, the DOJ's Justice Fraud Section, the U.S. FBI International Corruption Unit, and law enforcement in Japan, the United Kingdom, Switzerland and Barbados. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This is the first plea agreement reached between the RCMP and a company for violations of the CFPOA.</li><li>Countries will prosecute their own officials for receiving bribes from foreign companies, based on the criminal as well as the civil law.</li><li>Cooperation between enforcement agencies in different countries plays an important role in bribery investigations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Trade Lawyer's Blog: Canada's Anti Corruption Investigation - Niko Resources (Jan. 18, 2009)</p><p>News Release: BBC Monitoring South Asia "Bangladesh anti-graft body clears PM Hasina of Corruption Charges" (Oct. 19, 2009)</p><p>The Financial Express: Bangladesh: The Blowback of Corruption <online: http:www.thefinancialexpress-bd.com/print_view.php?news_id=78201> (Accessed on October 28, 2009)</p><p>News Release: Anti-Corruption Commission "ACC approves charges against Khaleda and Hasina in Niko Case" (April 30, 2008)</p><p>News Release: The Canadian Press "Niko Resources says Bangladeshi probe into money owed to wrap up soon" (Sept. 10, 2009)</p><p>News Release: The Financial Post "RCMP probes Niko project in Bangladesh; 'No Wrongdoing'" (Jan. 16, 2009)</p><p><a href="file.asp?id=1379">Niko Resources - 3rd Quarter Results (31 Dec. 2010)</a></p><p><a href="file.asp?id=1512">Niko Resources Press Release (23 June 2011)</a></p><p><a href="file.asp?id=1513">Niko Resources Press Release (24 June 2011)</a></p><p>Calgary Herald: "Niko bribery an 'embarrassment,' says judge; company fined $9.5 million" (25 June 2011)</p><p><a href="file.asp?id=1696">Niko - ACC sues ex-state minister for energy Mosharraf for taking bribe, The Bangladesh Chronicle, 12 Feb. 2012</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19265597vo2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192655tk461" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NET 1 </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(451)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19265577ho2" width="415" height="61" /></div>
+    
+        <h1>NET 1 </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        NET 1 UEPS Technologies, Inc. ("Net 1," a U.S. corporation headquartered in South Africa)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of alternative electronic  payment systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Johannesburg, South Africa
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 30 November 2012, Net 1 received letters from the U.S. Department of Justice ("DOJ") and U.S. Securities & Exchange Commission ("SEC") stating that the agencies are investigating potential FCPA violations. The agencies are investigating whether the Company or any subsidiary or agent engaged in a scheme to make corrupt payments to officials of the Government of South Africa in order to secure a contract with the South African Social Security Agency to provide social welfare and benefits payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to South African Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unknown</td>
+<td style="text-align: center;">Contract for social welfare and benefits payments in South Africa<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In January 2012, Net 1 was awarded a contract by the South African Social Security Administration ("SASSA").  A company called AllPay Consolidated Investment Holdings (Pty) Limited filed a lawsuit in the North Gauteng High Court in Pretoria in February 2012 to set aside the tender award to Net 1, on the grounds that corruption was involved in the award of the tender.   In August 2012, the court declined to set aside the contract but ruled that the process followed by SASSA was illegal.  Appeals were filed in the case.<br /><br />Details of this lawsuit were disclosed in the Company's SEC filings.  In August 2012, the court declined to set aside the contract but ruled that the process followed by SASSA was illegal.  Appeals were filed in the case.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In an SEC Form 8-K filed on 4 December 2012, the Company announced that on 30 November 2012, it had received letters from the DOJ and SEC informing the company that these agencies, along with the FBI, had begun an investigation into whether Net 1 UEPS Technologies, Inc. and its subsidiaries, including their officers, directors, employees, and agents had violated the FCPA. The SEC's letter states that the investigation is a non-public, fact-finding inquiry. The Company stated that it intended to cooperate fully with the DOJ and the SEC. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2063">Net 1 Press Release: "Net 1 Makes Further Statement Regarding U.S. Government Investigation" (5 December 2012)</a></p><p><a href="file.asp?id=2064">Net 1: SEC Form 8-K (5 December 2012)</a></p><p><a href="file.asp?id=2065">Net1: SEC Form 8-K (4 December 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

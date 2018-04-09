@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19225916fy1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192259n32q8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BALL CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(182)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192259408p0" width="415" height="61" /></div>
+    
+        <h1>BALL CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Ball Corporation ("Ball")<br />Formametal, S.A. (Ball's subsidiary in Argentina)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Metal packaging for food, beverage and household goods
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Broomfield, Colorado, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Securities and Exchange Commission (“SEC”) alleged that Ball violated the FCPA's books and records and internal controls provisions in connection with the activities of the company's Argentine subsidiary, Formametal, S.A., between July 2006 through October 2007.  Formametal allegedly made USD 106,749 in improper payments to Argentine customs officials in order to import prohibited used machinery and export raw materials at reduced tariffs.  Some of the payments were made through Formametal's customs agent. <br /><br />According to the SEC, certain accounting personnel at Ball had learned soon after Ball acquired Formametal in March 2006 that Formametal employees may have made questionable payments and caused other compliance problems before the acquisition.  Ball allegedly failed to sufficiently address the issues after it took over the company and, within months of the acquisition, two Formametal executives (the then-Formametal President and then-Formametal Vice President of Institutional Affairs) authorized improper payments to Argentine officials. The payments, which went undetected for over a year, were disguised as ordinary business expenses on Formametal's books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Argentine Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>USD 106,749</td>
+<td>
+<p>Importation of&nbsp;prohibited used machinery and exportation of&nbsp;raw materials at reduced tariffs</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Ball described the (at the time ongoing) investigation as follows in its 2009 SEC Form 10-K:<br /><br />"As previously reported, the company is investigating potential violations of the Foreign Corrupt Practices Act in Argentina, which came to our attention on or about October 15, 2007. The Department of Justice and the SEC were also made aware of this matter, on or about the same date. The Department of Justice has informed us that it has completed its investigation and will not bring charges; the SEC's investigation continues. Based on our investigation to date, we do not believe this matter involved senior management or management or other employees who have significant roles in internal control over financial reporting."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 24 March 2011, without admitting or denying the SEC's allegations, Ball consented to the entry of a cease-and-desist order and agreed to pay a USD 300,000 civil penalty.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Where compliance failures implicate the FCPA's books and records and internal controls provisions but not the FCPA's anti-bribery provisions, it is possible that the DOJ will not take action against the company, deferring instead to the SEC. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=791">Ball - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1380">SEC Cease and Desist Order: In the Matter of Ball Corporation (24 March 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

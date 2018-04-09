@@ -1,0 +1,289 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19234484zio">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192344bnq40" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TYCO INTERNATIONAL / TYCO ELECTRONICS / COVIDIEN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(231)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192344y79z2" width="415" height="61" /></div>
+    
+        <h1>TYCO INTERNATIONAL / TYCO ELECTRONICS / COVIDIEN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Italy: Milan Public Prosecutor's Office<br />Germany: Stuttgart Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tyco International Ltd. ("Tyco")<br />Tyco Electronics Ltd. ("TE Ltd.") (Schaffhausen, Switzerland-based supplier of passive electronic components; previously part of the Tyco family before its separation in 2007)<br />Covidien plc  ("Covidien") (a Dublin, Ireland-based medical supplies company; previously "Tyco Healthcare" before its separation in 2007)<br />Tyco Valves & Controls Middle East Inc. ("TVC-ME") (subsidiary of Tyco headquartered in Jebel Ali, Dubai (UAE) and incorporated in Delaware)<br />Tyco Flow Control ("TFC") (parent company to TVC-ME)<br />Tyco Valves & Controls ("TVC") (subsidiary of TFC)<br />TE MlA-COM, Inc. (formerly a US subsidiary of Tyco)<br />Saudi Aramco (an oil and gas company owned by the government of Saudi Arabia<br />Emirates National Oil Company ("ENOC"), a UAE state-owned oil company)<br />Vopak Horizon Fujairah (a state-owned subsidiary of ENOC)<br />National Iranian Gas Company ("NIGC") (a state-owned oil and gas company in Iran)<br /><br />The following wholly owned subsidiaries of Tyco incorporated in their respective locations:<br /><br />Tyco Thermal Controls (Huzhou) Co., Ltd. ("TTC Huzhou")—China<br />Tyco Thermal Controls (Shanghai) Co., Ltd. ("TIC Shanghai")—China<br />Tyco Waterworks Deutschland GmBH ("TWW Germany")—Germany<br />Tyco Fire &  Integrated Solutions France (''TFIS France")—France<br />Tyco Flow Control Hong Kong Limited ("TFC HK")—Hong Kong  <br />Beijing Valve Co. Ltd. ("Keystone")—China<br />ADT Sensormatic Thailand Ltd. ("ADT Thailand")—Thailand<br />Tyco Fire, Security &  Services Malaysia SDN BHD ("TFS Malaysia")—Malaysia<br />Tyco Fire & Integrated Solutions (UK) Ltd. ("TFIS UK")—UK<br />Tyco Healthcare International Trading (Shanghai) Co., Ltd. ("THC China")—China<br />Tyco Healthcare Saudi Arabia ("THC Saudi Arabia")—Saudi Arabia<br />Tyco Healthcare Polska Sp.z.o.o. ("THC Polska")—Poland
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Diversified global manufacturing and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Schaffhausen, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />Iran<br />Madagascar<br />Niger<br />Syria<br />Serbia<br />Democratic Republic of the Congo<br />China<br />Egypt<br />Germany<br />Hong Kong<br />India<br />Italy<br />Libya<br />Malaysia<br />Poland<br />Saudi Arabia<br />Thailand<br />Turkey<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Tyco International described the ongoing investigation as follows in its SEC Form 10-K filed on 12 November 2010:<br /><br />"As previously reported in the Company's periodic filings, the Company has received and responded to various allegations and other information that certain improper payments were made by the Company's subsidiaries and agents in recent years. For example, two subsidiaries in the Company's Flow Control business in Italy have been charged, along with numerous other parties, in connection with the Milan public prosecutor's investigation into allegedly improper payments made to certain Italian entities, and the Company has reported to German authorities potentially improper conduct involving agents retained by the Company's EMEA water business. The Company has since resolved this matter with German authorities while the Italian matter remains outstanding. The Company reported to the U.S. Department of Justice ("DOJ") and the SEC the investigative steps and remedial measures that it has taken in response to these and other allegations and its internal investigations.<br /><br />"In 2005, the Company informed the DOJ and the SEC that it retained outside counsel to perform a Company-wide baseline review of its policies, controls and practices with respect to compliance with the Foreign Corrupt Practices Act ('FCPA'). . . . The baseline review, which has been completed, has revealed that some business practices may not comply with Tyco and FCPA requirements, and in February 2010, the Company initiated discussions with the DOJ and SEC aimed at resolving these matters."<br /><br />The filing further noted that Covidien and Tyco Electronics have a liability-sharing agreement regarding possible FCPA investigations. <br /><br />Covidien made nearly identical disclosures in its SEC Form 10-K filed on 22 November 2010. <br /><br />On 24 September 2012, Tyco and its subsidiaries settled criminal charges brought by the DOJ and a civil complaint brought by the SEC.  The SEC claimed that Tyco subsidiaries engaged in 12 bribery schemes between 2006 and 2009, and that payments made under these schemes were recorded in Tyco's books as commissions when in fact they were bribes. <br /><br />Allegations contained in the SEC complaint are described below, by jurisdiction (see thereafter for allegations in the DOJ Criminal Information):<br /><br />Chinese Subsidiaries (TTC Huzhou, THC HK, Keystone)<br /><br />Tyco's China subsidiary TTC Huzhou was awarded a contract by the Chinese Ministry of Public Security for USD 770,000, and payed a fee of USD 3,700 to the so-called site project team of a state-owned corporation.  The benefit derived by the Company from this transaction was USD 192,500.<br /><br />THC HK and Keystone paid approximately USD 246,000 to an agent in 2005 and 2006 in connection with sales to a Chinese government-owned petrochemical company, without any evidence of services rendered in return.  Likewise, these two subsidiaries paid approximately USD 137,000 to agencies owned by Keystone sales employees, who used the money to buy gifts and give cash to government officials in China.  Tyco's benefit as a result of these illicit payments was about USD 181,504 and USD 196,584 respectively.<br /><br />Between 2004 and 2007, employees of THC China submitted approximately 33 expense claims for the entertainment of health care professionals employed in the Chinese public health system.  Some of these involved forged receipts and fictitious companies, created for the purpose of evading Tyco's internal regulations.  Additionally, THC China employees submitted false itineraries and other documentation for trips by Chinese government doctors.  Tyco's benefit as a result of these illicit payments was about USD 353,800.<br /><br />Polish Subsidiary (THC Polska)<br /><br />Between 2005 and 2007, THC Polska employed "service contracts" to pay health professionals to attend training sessions, perform clinical studies and distribute marketing materials.  Some of the service contracts were false and many were inaccurate.  The recipients were employees of the Polish government-run health service and some of their family members.  Tyco benefited by approximately USD 14,673 from these transactions. <br /><br />French Subsidiary (TFIS France)<br /><br />Between 2005 and 2009, TFIS made payments to a security officer at a government-owned mining company in Mauritania, which he deposited into a personal account in France.  In addition, TFIS and its agents paid sham commissions to twelve intermediaries in Mauritania, Congo, Niger and Madagascar.  Tyco's benefit as a result of these improper payments was  USD 1,256,389.<br /><br />Thai Subsidiary (ADT Thailand)<br /><br />Tyco's Thai subsidiary ADT paid over USD 50,000 to a consultant for "renovation work" in connection with the installation of a closed circuit television system in building of the Thai Parliament, but the Company has no proof that any work was performed.  The benefit accruing to Tyco from this transaction is USD 104,117.<br /><br />Turkish Subsidiary<br /><br />A New York agent made illegal payments in 2006 to an entity controlled by the Turkish government, in connection with a microwave equipment contract, for which Tyco benefited by USD 44,513.  Emails between employees of the Turkish subsidiary manifest knowledge that the payments were intended as bribes.  For example, an employee wrote that "everyone knows you have to bribe somebody to do business in Turkey," but added that he would "play it dumb." <br /><br />German Subsidiary (TWW Germany)<br /><br />TWW Germany and its agents paid third parties in order to secure contracts and to avoid penalties in China, Croatia, India, Libya, Saudi Arabia, Serbia, Syria, and the United Arab Emirates.  The payments,which were made between 2004 and 2009, were recorded as commissions but were used as bribes to employees of government customers.  Tyco benefited from these payments by USD 4,684,966. <br /><br />Malaysian Subsidiary (TFS Malaysia)<br /><br />Until 2007, TFS used intermediaries to pay 26 employees of its various customers, including at least one employee of a government=controlled entity.  Tyco benefited from these payments by USD 45,972. <br /><br />UK Subsidiary (TFIS UK)<br /><br />Up to 2008, an Egyptian agent of TFIS UK transferred approximately USD 282,022 to a former employee's personal bank account with the intention that the money would be used for travel entertainment expenses of officials of an entity owned by the Egyptian government.  Tyco's benefit as a result of these illicit payments was USD 1,589,374. <br /><br />Saudi Arabian Subsidiary (THC Saudi Arabia)<br /><br />THC Saudi Arabia's distributor used a "control account" to make payments to medical professionals employed by government-owned hospitals in Saudi Arabia, between 2000 and 2006. Some of these were improperly recorded as "promotional" and "sales development" expenses.  Tyco's benefit from these transactions was approximately USD 1,900,600.<br /><br />Allegations contained in the DOJ's Criminal Information<br /><br />In addition to the entities enumerated above, Local Sponsor was a Saudi Arabian company acting as a distributor for TVC-ME in Saudi Arabia; it shared offices with TVC-ME employees in Saudi Arabia.<br /><br />In the criminal information issued in September 2012, the government claims that TVC-ME conspired with Aramco, ENOC, Vopak and NIGC, to pay bribes to employees of the latter by means of the "local sponsor."  The local sponsor is alleged to have provided TVC-ME with fictitious invoices for consultancy expenses, fictitious commissions, and "unanticipated equipment costs."  The purpose of some of these bribes was to remove TVC manufacturing plants from Aramco blacklists, to win bids or to obtain product approval.  TVC-ME is alleged to have earned USD 1,153,500 by this means.<br /><br />Examples of acts given to further the alleged conspiracy include emails from 2003 in which TVC-ME employees agreed "to cover the approx. $120k services charges" to remove TVC from Aramco's blacklist, followed by a fictitious invoice submitted by the local sponsor for that amount; wire transfers to a TVC-ME employee's personal bank account in the U.S. and to the account of a sales manager of the local sponsor in Saudi Arabia; checks written and cashed in November 2003 in order to pay a bribe to an ENOC employee; and an email in March 2004 regarding an Aramco project stating that the "additional cost is the consultancy which is 100k for which an invoice will be provided."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained </strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>At least USD 140,700</p>
+</td>
+<td>
+<p>USD 924,388</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Polish Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 14,673</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Officials in Mauritania, the Democratic Republic of the Congo, Niger and Madagascar<br /></strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 1,256,389</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 50,000</p>
+</td>
+<td>
+<p>USD 104,117</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Turkish Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 44,513</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Officials in China, Croatia, India, Libya, Saudi Arabia, Serbia, Syria and the United Arab Emirates (by German Subsidiary)<br /></strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 4,684,966</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Malaysian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 45,972</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 282,022</p>
+</td>
+<td>
+<p>USD 1,589,374</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Saudi Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>USD 1,900,600</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Following the entry of a civil judgment in an FCPA action in 2006, the Company undertook an FCPA review of all of its operating entities, including 454 companies in 50 countries.  This investigation uncovered the violations alleged in the 2012 complaint.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />In April 2006, an FCPA action was filed against Tyco by the SEC.  Tyco consented to the entry of a final judgment enjoining it from violations of the FCPA and other securities laws.  The judgment was entered on 1 May 2006, and the Company paid USD 1 in disgorgement and USD 50 million in civil penalties.  The 2012 settlement involves violations that occurred following the entry of the 2006 injunction.<br /><br />On 24 September 2012, Tyco and its subsidiary, TVC-ME pleaded guilty to conspiracy to violate the FCPA, and agreed to pay USD 26 million to resolve the SEC's and DOJ's charges.  USD 13.68 million of the penalty is attributable to the Company's falsification of books and records in connection with bribe payments by the Company's subsidiaries to government officials in Saudi Arabia (TVC-ME will contribute USD 2.1 million of this penalty).  The DOJ entered a non-prosecution agreement with Tyco as part of the settlement.<br /><br />Specifically, in exchange for a guilty plea by TVC-ME in a plea agreement dated 20 September 2012, the government agreed not to file additional criminal charges against Tyco and its subsidiaries and affiliates based on the conduct detailed in the statement of facts or any information disclosed by the Company prior to the date of the plea agreement.  The DOJ agreed to the imposition of the lowest fine within the federal guidelines:  USD 2,100,000 plus the mandatory special assessment of USD 400 per count.  Also on 20 September 2012, the DOJ and Tyco signed a three year Deferred Prosecution Agreement, and the latter agreed to pay a penalty of USD 13,680,000.<br /><br />Also on 24 September 2012, Tyco consented to the SEC's proposed final judgment, and agreed to pay USD 10,564,992 in disgorgement and USD 2,566,517 in prejudgment interest.<br /><br />In its press statement announcing the settlement, the DOJ  acknowledged the Company's "timely, voluntary and complete disclosure, its cooperation – including a global internal investigation concerning bribery and related misconduct – and its extensive remediation.  That remediation includes the implementation of an enhanced compliance program, the termination of employees responsible for the improper payments and falsification of books and records, the severing of contracts with the responsible third-party agents and the closing of subsidiaries due to compliance failures."  In fact, at least 90 employees, including supervisors, were terminated as a result of FCPA compliance concerns.<br /><br />At a docketed hearing date on 31 January 2013, U.S. District Judge Richard Leon for the District of Columbia had yet to officially agree to the civil settlement between the SEC and the company.  It was unknown why the agreement was not officially entered, however, as hearings between the SEC and the company have been held in private, away from reporters, in Judge Leon's chambers.  <br /><br />Bloomberg News reported that Judge Leon approved the civil settlement on 17 June 2013.<br /><br />Germany<br /><br />The action against Tyco brought by the German prosecutor's office has been resolved.  In the company's Form 10-K submitted to the SEC for the fiscal year ending 24 September 2010, it revealed that it had "reported to German authorities potentially improper conduct involving agents retained by the Company's [Europe, Middle East, and Africa] water business.  The company has since resolved this matter with German authorities. . .."  In addition, in the company's Form 10-Q filed on 31 January 2012, the company also reported that "in early 2007 certain former subsidiaries in the Company's Flow Control business were charged, prior to their divestiture, by the German Federal Cartel Office ('FCO') with engaging in anti-competitive practices, in particular with regard to its hydrant, valve, street box and fitting business. . . The Company cooperated with the FCO in its investigation and settled the matter during the first fiscal quarter of 2012."<br /><br />Italy <br /><br />This investigation is finished, according to Tyco's 10-K SEC report for the fiscal year ending on 9 September 2011.  The report reads as follows: "two subsidiaries in the Company's Flow Control business in Italy have been charged, along with numerous other parties, in connection with the Milan public prosecutor's investigation into allegedly improper payments made to certain Italian entities.  During the fourth quarter of 2011, the Company's subsidiaries were acquitted of these charges."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>When, despite proven compliance and remediation measures, a company violates the terms of an FCPA injunction, civil and criminal penalties may be imposed.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=846">Tyco International: Annual Report (2009)</a></p><p><a href="file.asp?id=847">Covidien: SEC Form 10-Q (26 January 2010)</a></p><p><a href="file.asp?id=2119">Tyco International: SEC Form 10-K (16 November 2011)</a></p><p><a href="file.asp?id=1991">U.S. v. Tyco Valves and Controls: Plea Agreement (20 September 2012)</a></p><p><a href="file.asp?id=1992">U.S. v. Tyco International: Non Prosecution Agreement (20 September 2012)</a></p><p><a href="file.asp?id=1964">DOJ Press Release: "Subsidiary of Tyco International Ltd. Pleads Guilty, Is Sentenced for Conspiracy to Violate Foreign Corrupt Practices Act" (24 September 2012)</a></p><p><a href="file.asp?id=1966">SEC Press Release: "SEC Charges Tyco for Illicit Payments to Foreign Officials" (24 September 2012)</a></p><p><a href="file.asp?id=1965">SEC v. Tyco International: Complaint (24 September 2012)</a></p><p><a href="file.asp?id=1990">U.S. v. Tyco Valves and Controls: Criminal Information (24 September 2012)</a></p><p>Bloomberg: "Tyco $13.1 Million SEC Settlement Approved by U.S. Judge" (17 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19255259s4i">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192552g69ab" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NG</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(380)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925520923v" width="415" height="61" /></div>
+    
+        <h1>NG</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        China: People's Procuratorate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Matthew Ng<br />ET-China<br />Zheng Hong<br />Kitty Yang<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Travel and Tourism
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Australian businessman Matthew Ng was originally detained by police in the southern Chinese city of Guangzhou on November 16, 2010. Ng was formally charged with embezzlement on Nov. 30, 2010 and held on the suspicion of "misappropriation of company assets."  Chinese prosecutors later accused Ng of illegally transferring money between Et-China and a subsidiary, and bribing Guangzhou Officials.<br /><br />Ng was detained amid a dispute between the travel company he founded, ET-China, and Chinese buyers led by Lingnan Group, a hotel and travel conglomerate which is the largest company owned by the Guangzhou municipal government.  Ng's attorney called the bribery charge "ridiculous," and noted that the payment in question was both publicly reported and taxed.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified <br /></td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Ng received a prison sentence of eight years for embezzlement, two years for corruption, two and half years for a false capital declaration, and two years for bribery.  The sentence totaled 14.5 years, but was commuted down to 13 years by the court.  Ng's lawyers and Australian diplomatic officials say he will appeal the sentence.	<br /><br />Zheng Hong, ET-China Chairman, was sentenced to 16 years in jail on related embezzlement and corporate charges.<br /><br />Kitty Yang, ET-China CFO, received 3.5 years also on related embezzlement and corporate charges.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prosecutions and trials involving improper payments to foreign government officials can complicate local business dealings and vice versa, especially when business negotiations involve a state-owned enterprise.</li><li>Case demonstrates trend of increasingly harsh sentences foreign businessmen risk facing when involved in commercial crimes in China.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The New York Times: "In Surprise Move, China Jails Australian for 13 Years" (December 6, 2011)</p><p>The Sydney Morning Herald: "I was a sacrifice, says jailed businessman" (December 7, 2011) </p><p>The Australian: "Australian businessman Matthew Ng to spend 13 more years in China jail" (December 6, 2011) </p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

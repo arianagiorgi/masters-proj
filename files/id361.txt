@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192535i84lf">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192535hklz2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PARAMETRIC TECHNOLOGY CORPORATION </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(361)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192535n7u56" width="415" height="61" /></div>
+    
+        <h1>PARAMETRIC TECHNOLOGY CORPORATION </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Parametric Technology Corporation ("PTC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Product lifecycle management software solutions
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Needham, MA, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        PTC first disclosed its investigation in its Form 10-Q filed on 10 August 2011 with the U.S. Securities and Exchange Commission ("SEC"), announcing that it was conducting an internal investigation into payments by business partners in China may have violated the FCPA.  The company identified the questionable payments and voluntarily disclosed them to the U.S. Department of Justice ("DOJ") and the SEC. Later in 2011, PTC terminated certain employees and business partners in China in connection with its internal investigation.<br /><br />On 4 February 2014, PTC disclosed that the DOJ and SEC were investigating "payments and expenses" by China business partners and employees that raised FCPA compliance concerns.  In its SEC filing, PTC claimed that it had started settlement talks with the DOJ and SEC but the agencies are now requesting more information.  In its Form 10-Q on 6 May 2014, the company confirmed that the investigations by the SEC and DOJ were ongoing, and disclosed that the SEC previously sent a subpoena to PTC.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Chinese Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        PTC voluntarily disclosed suspicious payments to the SEC and DOJ.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In its SEC Form 8-K filed on 24 April 2013, PTC said that the U.S. Securities & Exchange Commission has informed the Company that its investigation of FCPA allegations is "substantially complete." PTC noted that it has received no indication from the U.S. Department of Justice regarding the status of its investigation of FCPA allegations.<br /><br />In its SEC Form 10-Q filed on 6 May 2014, PTC confirmed that the SEC and DOJ investigations are still ongoing, and both offices continue to request information from the company.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1568">PTC: SEC Form 10-Q (10 August 2011)</a></p><p><a href="file.asp?id=1788">PTC: SEC Form 10-K (17 November 2011)</a></p><p><a href="file.asp?id=1789">PTC: "Q1 Fiscal 2012 Prepared Remarks" (2012)</a></p><p><a href="file.asp?id=1817">PTC: SEC Form 10-Q (9 May 2012)</a></p><p><a href="file.asp?id=2251">PTC: SEC Form 8-K (24 April 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

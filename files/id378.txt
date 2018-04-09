@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19255091b9x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925509xd9o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - EMBRAER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(378)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19255026r16" width="415" height="61" /></div>
+    
+        <h1>EMBRAER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Brazil: Public Ministry<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Embraer S.A. ("Embraer")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aircraft manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        São José dos Campos, São Paulo, Brazil
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Dominican Republic<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Embraer SA is under investigation by U.S. and Brazilian authorities amid allegations that it made improper payments to a government official in the Dominican Republic.  The company received a subpoena from the SEC in September 2010.<br /><br />Embraer is being probed over allegations that its executives made bribery payments to officials in the Dominican Republic in exchange for a USD $90 million contract to furnish the country's armed forces with military planes, according to documents obtained by The Wall Street Journal.<br /><br />Prosecutors claim that Embraer executives approved a USD $3.4 million bribe to Carlos Piccini, the former director of special projects for the country's armed forces, in exchange for the sale of eight military planes to be used to combat drug trafficking and run border patrol missions in the Dominican Republic.  The bribery payments allegedly were routed through bank accounts maintained by three shell companies. Embraer executives allegedly attempted to conceal the payments by booking them as fees in a fake deal to sell aircraft to the Kingdom of Jordan.<br /><br />The Securities and Exchange Commission issued a subpoena to Embraer over possible violations of the Foreign Corrupt Practices Act, according to a Nov. 3, 2011 regulatory filing. In response, the company said it retained law firm Baker & McKenzie “to conduct an internal investigation into transactions in three specific countries” but did not identify the names of those specific countries.<br /><br />Embraer said its outside counsel has been in regular conduct with both the SEC and Department of Justice, and has provided both agencies with relevant documents and other information.<br /><br />Embraer described the ongoing investigation as follows in its SEC Form 6-K filed on 3 November 2011:<br /><br />"In response to a subpoena issued in an investigation by the U.S. Securities and Exchange Commission ('SEC') relating to possible violations of the U.S. Foreign Corrupt Practices Act, the Company retained outside counsel to conduct an internal investigation into transactions in three specific countries. That internal investigation is ongoing, and the Company is fully cooperating with the SEC and the U.S. Department of Justice ('DOJ'). The Company's outside counsel has been in regular contact with the SEC and the DOJ and has provided both agencies with documents and other information. The Company's outside counsel recently met with both agencies to brief them on the status of its investigation. The Company and its outside counsel expect to continue to have discussions with the SEC and the DOJ. The Company is unable to predict duration, scope or results of the investigation."<br /><br />The Company's SEC Form 6-K filed on 23 October 2012 confirmed the ongoing investigation and the Company's inability to estimate the duration, scope or results of the investigations at this juncture.<br /><br />The Company's Form 6-K submitted to the SEC on 12 March 2013 said that the Company has expanded its internal investigation to include two additional unspecified countries. <br /><br />As of May 2014, Embraer's four-year investigations by the DOJ, SEC and Brazilian authorities continue to be ongoing according to its Form 10-Q filed with the SEC.<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Brazil<br /><br />On 23 September 2014, authorities in Brazil filed a criminal action against eight Embraer SA employees for an alleged USD $3.5 million bribe to an official in the Dominican Republic in return for a USD $92 million contract for attack planes.  The Wall Street Journal said that the criminal complaint, "marks one of the first known efforts by Brazil to prosecute its citizens for allegedly paying bribes abroad [. . .]."<br /><br />U.S.<br />The investigation is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1640">Embraer: SEC Form 6-K (3 November 2011)</a></p><p><a href="file.asp?id=2019">Embraer: SEC Form 6-K (23 October 2012)</a></p><p><a href="file.asp?id=2169">Embraer: SEC Form 6-K (12 March 2013)</a></p><p>Wall Street Journal - Brazil Files Bribery Charges in Embraer Aircraft Sale to Dominican Republic</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

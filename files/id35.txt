@@ -1,0 +1,495 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707210197y">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17072108bkd" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INVISION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(35)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170721l350q" width="415" height="61" /></div>
+    
+        <h1>INVISION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        InVision Technologies, Inc. ("InVision")<br />David M. Pillor (Former Senior Vice President for Sales and Marketing and member of the Board of Directors at InVision)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Airport security screening products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newark, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Philippines<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that InVision violated the FCPA in connection with improper conduct by InVision employees, agents and distributors in the pursuit of transactions to sell explosive detection machines to airports in China, the Philippines and Thailand between June 2002 and June 2004.  <br /><br />According to the DOJ and SEC, InVision, through the conduct of certain employees including David Pillor, InVision's Senior Vice President for Sales and Marketing, was aware of a high probability that its agents or distributors had paid or offered to make payments to foreign officials or political parties in connection with transactions for the sale of InVision security screening machines to government-owned and controlled airports in the three countries.  InVision permitted the agents or distributors to proceed on its behalf, in violation of the FCPA, despite this alleged knowledge.<br /><br />In China, InVision provided USD 95,000 in financial compensation to its distributor for costs incurred as a result of a delay in shipment, the payment having been approved by Pillor.  Pillor and InVision's Regional Sales Manager were allegedly aware of a high probability that some of the funds were to be used to pay for foreign travel and other benefits for airport officials. <br /><br />In the Philippines, Pillor approved a USD 108,000 commission payment to the company's sales agent while he and the Regional Sales Manager were allegedly aware of a high probability that the sales agent intended to use part of the commission to make gifts or pay cash to influence Philippine government officials to purchase InVision products.<br /><br />In Thailand, InVision retained a local distributor to lobby the government-controlled airport corporation and the Thai government on InVision's behalf in connection with the company's effort to secure the right to supply the explosives detection machines to Bangkok's new international airport under construction at the time.  The distributor was InVision's primary representative before the airport and associated governmental agencies.  Under the arrangement, the distributor would purchase the machines from InVision and then make its profit by reselling them at a higher price for use by the airport.  Pillor and the Regional Sales Manager were aware of a high probability that the distributor intended to make gifts or payments to government officials in order to influence the award of the contract, funding any such gifts or payments from the distributor's margin.  In April 2004, the airport corporation, through its general contractor, agreed to purchase 26 of InVision's machines from the InVision distributor, in a sale InVision valued at USD 35.8 million.  The transaction was halted, however, after InVision learned of possible FCPA violations, and was never consummated as originally designed.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 95,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 108,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of distributor's margin</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of 26 explosive detection machines, valued at USD 35.8 million (never consummated)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2004, GE announced its intention to acquire InVision.  The potential FCPA violations were discovered during GE's routine pre-acquisition due diligence.  In July 2004, GE and InVision voluntary disclosed the potential violations to the DOJ and SEC.  GE delayed its acquisition of InVision pending the DOJ and SEC's investigations.  Immediately following the companies settlement with the DOJ on 6 December 2004, GE completed its USD 900 million acquisition of InVision.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 December 2004, InVision entered into a two-year non-prosecution agreement with the DOJ under which InVision accepted responsibility for the misconduct, agreed to pay a USD 800,000 criminal fine and continue to cooperate with the DOJ and SEC's investigations.  At the same time, GE entered into a one-year agreement with the DOJ governing GE's obligations with respect to its InVision business.  GE agreed to integrate InVision into GE's FCPA compliance program, to retain an independent consultant to evaluate GE's efficacy in that effort, to accept the terms of InVision's non-prosecution agreement and cause InVision performance of the agreement, and to cooperate with the DOJ and SEC's ongoing investigations.  <br /><br />On 14 February 2006, without admitting or denying the SEC's allegations, InVision agreed to the entry of a cease-and-desist order finding that the company violated the anti-bribery, books and records and internal controls provisions of the FCPA.  InVision agreed to pay disgorgement of USD 589,000 plus prejudgment interest of USD 28,703.57 and to retain in independent consultant to evaluate the efficacy of GE's integration of InVision into its compliance program.  On the same day, the SEC also filed a settled civil action under which InVision agreed to pay a USD 500,000 civil penalty.  <br /><br />On 15 August 2006, the SEC filed a settled civil action against David Pillor alleging that he aided and abetted InVision's internal controls violations and that he indirectly caused the falsification of InVision's books and records.  Without admitting or denying the SEC's allegations, Pillor consented to pay a USD 65,000 civil penalty and to the entry of a permanent civil injunction against future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        William Pendergast
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC expect a company's internal controls to include due diligence and training for foreign sales agents and distributors.</li><li>In the M&A context, the acquiring company will inherit the risks associated with potential FCPA violations committed by the target company, through the concept known as successor liability.</li><li>Cooperation with the DOJ and SEC may result in a mitigation of penalties related to FCPA violations.</li><li>Individual employees can be charged with violations related to the FCPA's books and records and internal controls provisions, in addition to the anti-bribery provisions.</li><li>The risks related to FCPA liability include significant reputational harm.  GE consumer products suffered from a boycott in Thailand following the InVision bribery scandal, despite the fact that GE had no role in the misconduct and the activities were connected to a wholly separate line of business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1128">Non-Prosecution Agreement: U.S. v. General Electric Company (December 3, 2004)</a></p><p><a href="file.asp?id=1129">Non-Prosecution Agreement: U.S. v. InVision Technologies, Inc. (December 3, 2004)</a></p><p><a href="file.asp?id=133">DOJ Press Release: December 6, 2004 (InVision Technologies, Inc. Enters into Agreement with the United States) </a></p><p><a href="file.asp?id=135">Complaint: SEC v. GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=518">Cease-and-Desist Order: In the Matter of GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=134">SEC Litigation Release: February 14, 2005 (SEC Settles Charges Against InVision Technologies for $1.1 Million for Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=137">Complaint: SEC v. David M. Pillor (August 15, 2006)</a></p><p><a href="file.asp?id=514">SEC Litigation Release: August 15, 2006 (SEC Settles Charges Against Former InVision Technologies Senior Vice President for Sales and Marketing)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18423084iw6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842304b50q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INVISION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(35)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842309n63m" width="415" height="61" /></div>
+    
+        <h1>INVISION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        InVision Technologies, Inc. ("InVision")<br />David M. Pillor (Former Senior Vice President for Sales and Marketing and member of the Board of Directors at InVision)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Airport security screening products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newark, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Philippines<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that InVision violated the FCPA in connection with improper conduct by InVision employees, agents and distributors in the pursuit of transactions to sell explosive detection machines to airports in China, the Philippines and Thailand between June 2002 and June 2004.  <br /><br />According to the DOJ and SEC, InVision, through the conduct of certain employees including David Pillor, InVision's Senior Vice President for Sales and Marketing, was aware of a high probability that its agents or distributors had paid or offered to make payments to foreign officials or political parties in connection with transactions for the sale of InVision security screening machines to government-owned and controlled airports in the three countries.  InVision permitted the agents or distributors to proceed on its behalf, in violation of the FCPA, despite this alleged knowledge.<br /><br />In China, InVision provided USD 95,000 in financial compensation to its distributor for costs incurred as a result of a delay in shipment, the payment having been approved by Pillor.  Pillor and InVision's Regional Sales Manager were allegedly aware of a high probability that some of the funds were to be used to pay for foreign travel and other benefits for airport officials. <br /><br />In the Philippines, Pillor approved a USD 108,000 commission payment to the company's sales agent while he and the Regional Sales Manager were allegedly aware of a high probability that the sales agent intended to use part of the commission to make gifts or pay cash to influence Philippine government officials to purchase InVision products.<br /><br />In Thailand, InVision retained a local distributor to lobby the government-controlled airport corporation and the Thai government on InVision's behalf in connection with the company's effort to secure the right to supply the explosives detection machines to Bangkok's new international airport under construction at the time.  The distributor was InVision's primary representative before the airport and associated governmental agencies.  Under the arrangement, the distributor would purchase the machines from InVision and then make its profit by reselling them at a higher price for use by the airport.  Pillor and the Regional Sales Manager were aware of a high probability that the distributor intended to make gifts or payments to government officials in order to influence the award of the contract, funding any such gifts or payments from the distributor's margin.  In April 2004, the airport corporation, through its general contractor, agreed to purchase 26 of InVision's machines from the InVision distributor, in a sale InVision valued at USD 35.8 million.  The transaction was halted, however, after InVision learned of possible FCPA violations, and was never consummated as originally designed.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 95,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 108,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of distributor's margin</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of 26 explosive detection machines, valued at USD 35.8 million (never consummated)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2004, GE announced its intention to acquire InVision.  The potential FCPA violations were discovered during GE's routine pre-acquisition due diligence.  In July 2004, GE and InVision voluntary disclosed the potential violations to the DOJ and SEC.  GE delayed its acquisition of InVision pending the DOJ and SEC's investigations.  Immediately following the companies settlement with the DOJ on 6 December 2004, GE completed its USD 900 million acquisition of InVision.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 December 2004, InVision entered into a two-year non-prosecution agreement with the DOJ under which InVision accepted responsibility for the misconduct, agreed to pay a USD 800,000 criminal fine and continue to cooperate with the DOJ and SEC's investigations.  At the same time, GE entered into a one-year agreement with the DOJ governing GE's obligations with respect to its InVision business.  GE agreed to integrate InVision into GE's FCPA compliance program, to retain an independent consultant to evaluate GE's efficacy in that effort, to accept the terms of InVision's non-prosecution agreement and cause InVision performance of the agreement, and to cooperate with the DOJ and SEC's ongoing investigations.  <br /><br />On 14 February 2006, without admitting or denying the SEC's allegations, InVision agreed to the entry of a cease-and-desist order finding that the company violated the anti-bribery, books and records and internal controls provisions of the FCPA.  InVision agreed to pay disgorgement of USD 589,000 plus prejudgment interest of USD 28,703.57 and to retain in independent consultant to evaluate the efficacy of GE's integration of InVision into its compliance program.  On the same day, the SEC also filed a settled civil action under which InVision agreed to pay a USD 500,000 civil penalty.  <br /><br />On 15 August 2006, the SEC filed a settled civil action against David Pillor alleging that he aided and abetted InVision's internal controls violations and that he indirectly caused the falsification of InVision's books and records.  Without admitting or denying the SEC's allegations, Pillor consented to pay a USD 65,000 civil penalty and to the entry of a permanent civil injunction against future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        William Pendergast
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC expect a company's internal controls to include due diligence and training for foreign sales agents and distributors.</li><li>In the M&A context, the acquiring company will inherit the risks associated with potential FCPA violations committed by the target company, through the concept known as successor liability.</li><li>Cooperation with the DOJ and SEC may result in a mitigation of penalties related to FCPA violations.</li><li>Individual employees can be charged with violations related to the FCPA's books and records and internal controls provisions, in addition to the anti-bribery provisions.</li><li>The risks related to FCPA liability include significant reputational harm.  GE consumer products suffered from a boycott in Thailand following the InVision bribery scandal, despite the fact that GE had no role in the misconduct and the activities were connected to a wholly separate line of business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1128">Non-Prosecution Agreement: U.S. v. General Electric Company (December 3, 2004)</a></p><p><a href="file.asp?id=1129">Non-Prosecution Agreement: U.S. v. InVision Technologies, Inc. (December 3, 2004)</a></p><p><a href="file.asp?id=133">DOJ Press Release: December 6, 2004 (InVision Technologies, Inc. Enters into Agreement with the United States) </a></p><p><a href="file.asp?id=135">Complaint: SEC v. GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=518">Cease-and-Desist Order: In the Matter of GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=134">SEC Litigation Release: February 14, 2005 (SEC Settles Charges Against InVision Technologies for $1.1 Million for Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=137">Complaint: SEC v. David M. Pillor (August 15, 2006)</a></p><p><a href="file.asp?id=514">SEC Litigation Release: August 15, 2006 (SEC Settles Charges Against Former InVision Technologies Senior Vice President for Sales and Marketing)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920469th48">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192046rdo9c" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INVISION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(35)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920465ezk5" width="415" height="61" /></div>
+    
+        <h1>INVISION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        InVision Technologies, Inc. ("InVision")<br />David M. Pillor (Former Senior Vice President for Sales and Marketing and member of the Board of Directors at InVision)<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Airport security screening products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newark, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Philippines<br />Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ and SEC alleged that InVision violated the FCPA in connection with improper conduct by InVision employees, agents and distributors in the pursuit of transactions to sell explosive detection machines to airports in China, the Philippines and Thailand between June 2002 and June 2004.  <br /><br />According to the DOJ and SEC, InVision, through the conduct of certain employees including David Pillor, InVision's Senior Vice President for Sales and Marketing, was aware of a high probability that its agents or distributors had paid or offered to make payments to foreign officials or political parties in connection with transactions for the sale of InVision security screening machines to government-owned and controlled airports in the three countries.  InVision permitted the agents or distributors to proceed on its behalf, in violation of the FCPA, despite this alleged knowledge.<br /><br />In China, InVision provided USD 95,000 in financial compensation to its distributor for costs incurred as a result of a delay in shipment, the payment having been approved by Pillor.  Pillor and InVision's Regional Sales Manager were allegedly aware of a high probability that some of the funds were to be used to pay for foreign travel and other benefits for airport officials. <br /><br />In the Philippines, Pillor approved a USD 108,000 commission payment to the company's sales agent while he and the Regional Sales Manager were allegedly aware of a high probability that the sales agent intended to use part of the commission to make gifts or pay cash to influence Philippine government officials to purchase InVision products.<br /><br />In Thailand, InVision retained a local distributor to lobby the government-controlled airport corporation and the Thai government on InVision's behalf in connection with the company's effort to secure the right to supply the explosives detection machines to Bangkok's new international airport under construction at the time.  The distributor was InVision's primary representative before the airport and associated governmental agencies.  Under the arrangement, the distributor would purchase the machines from InVision and then make its profit by reselling them at a higher price for use by the airport.  Pillor and the Regional Sales Manager were aware of a high probability that the distributor intended to make gifts or payments to government officials in order to influence the award of the contract, funding any such gifts or payments from the distributor's margin.  In April 2004, the airport corporation, through its general contractor, agreed to purchase 26 of InVision's machines from the InVision distributor, in a sale InVision valued at USD 35.8 million.  The transaction was halted, however, after InVision learned of possible FCPA violations, and was never consummated as originally designed.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 95,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Philippine Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of USD 108,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of distributor's margin</p>
+</td>
+<td>
+<p style="text-align: center;">Sale of 26 explosive detection machines, valued at USD 35.8 million (never consummated)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2004, GE announced its intention to acquire InVision.  The potential FCPA violations were discovered during GE's routine pre-acquisition due diligence.  In July 2004, GE and InVision voluntary disclosed the potential violations to the DOJ and SEC.  GE delayed its acquisition of InVision pending the DOJ and SEC's investigations.  Immediately following the companies settlement with the DOJ on 6 December 2004, GE completed its USD 900 million acquisition of InVision.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 December 2004, InVision entered into a two-year non-prosecution agreement with the DOJ under which InVision accepted responsibility for the misconduct, agreed to pay a USD 800,000 criminal fine and continue to cooperate with the DOJ and SEC's investigations.  At the same time, GE entered into a one-year agreement with the DOJ governing GE's obligations with respect to its InVision business.  GE agreed to integrate InVision into GE's FCPA compliance program, to retain an independent consultant to evaluate GE's efficacy in that effort, to accept the terms of InVision's non-prosecution agreement and cause InVision performance of the agreement, and to cooperate with the DOJ and SEC's ongoing investigations.  <br /><br />On 14 February 2006, without admitting or denying the SEC's allegations, InVision agreed to the entry of a cease-and-desist order finding that the company violated the anti-bribery, books and records and internal controls provisions of the FCPA.  InVision agreed to pay disgorgement of USD 589,000 plus prejudgment interest of USD 28,703.57 and to retain in independent consultant to evaluate the efficacy of GE's integration of InVision into its compliance program.  On the same day, the SEC also filed a settled civil action under which InVision agreed to pay a USD 500,000 civil penalty.  <br /><br />On 15 August 2006, the SEC filed a settled civil action against David Pillor alleging that he aided and abetted InVision's internal controls violations and that he indirectly caused the falsification of InVision's books and records.  Without admitting or denying the SEC's allegations, Pillor consented to pay a USD 65,000 civil penalty and to the entry of a permanent civil injunction against future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        William Pendergast
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC expect a company's internal controls to include due diligence and training for foreign sales agents and distributors.</li><li>In the M&A context, the acquiring company will inherit the risks associated with potential FCPA violations committed by the target company, through the concept known as successor liability.</li><li>Cooperation with the DOJ and SEC may result in a mitigation of penalties related to FCPA violations.</li><li>Individual employees can be charged with violations related to the FCPA's books and records and internal controls provisions, in addition to the anti-bribery provisions.</li><li>The risks related to FCPA liability include significant reputational harm.  GE consumer products suffered from a boycott in Thailand following the InVision bribery scandal, despite the fact that GE had no role in the misconduct and the activities were connected to a wholly separate line of business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1128">Non-Prosecution Agreement: U.S. v. General Electric Company (December 3, 2004)</a></p><p><a href="file.asp?id=1129">Non-Prosecution Agreement: U.S. v. InVision Technologies, Inc. (December 3, 2004)</a></p><p><a href="file.asp?id=133">DOJ Press Release: December 6, 2004 (InVision Technologies, Inc. Enters into Agreement with the United States) </a></p><p><a href="file.asp?id=135">Complaint: SEC v. GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=518">Cease-and-Desist Order: In the Matter of GE InVision, Inc. (formerly known as InVision Technologies, Inc.) (February 14, 2005)</a></p><p><a href="file.asp?id=134">SEC Litigation Release: February 14, 2005 (SEC Settles Charges Against InVision Technologies for $1.1 Million for Violations of the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=137">Complaint: SEC v. David M. Pillor (August 15, 2006)</a></p><p><a href="file.asp?id=514">SEC Litigation Release: August 15, 2006 (SEC Settles Charges Against Former InVision Technologies Senior Vice President for Sales and Marketing)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

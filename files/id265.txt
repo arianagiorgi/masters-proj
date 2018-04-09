@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192414glo86">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192414hyy88" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NUCTECH </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(265)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924147juyn" width="415" height="61" /></div>
+    
+        <h1>NUCTECH </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Namibia: Prosecutor-General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nuctech Company Limited ("Nuctech")<br />Yang Fan 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security scanning technology
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Beijing, China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Namibia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2009 Namibian authorities began investigating whether Nuctech, a Chinese company that makes security scanning equipment for airports, customs warehouses and other traffic points, had paid bribes to Namibian officials in order to win business in 2008.  Nuctech's Africa representative, Yang Fan, and two Namibian officials have been accused of bribery in connection with a USD 55.3 million contract to install Nuctech scanners at customs inspection points in Namibia.<br /><br />Nuctech was, until recently, headed by Hu Haifeng, the son of China's president Hu Jintao.  Nuctech is owned by China's Tsinghua University.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Namibian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Contract to install Nuctech scanners, valued at USD 55.3 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter is ongoing.  According to press reports in March 2011, Yang Fan and two Namibian officials involved in the case have raised a constitutional challenge to Namibia's Prevention of Organised Crime Act.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>NY Times: "Graft Inquiry in Namibia Finds Clues in China" (21 July 2009)</p><p>MopaneTree: "Nuctech Probe In Namibia Still Underway" (2 Nov. 2009)</p><p>The Namibian: "Corruption laws challenged" (18 March 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

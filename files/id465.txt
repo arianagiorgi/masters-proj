@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1927072kctk">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192707n8x3g" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BROOKFIELD ASSET MANAGEMENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(465)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192707y9xvg" width="415" height="61" /></div>
+    
+        <h1>BROOKFIELD ASSET MANAGEMENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />Brazil: Public Ministry<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Brookfield Asset Management ("Brookfield")<br />Brookfield Incorporacoes SA ("BISA") (subsidiary of Brookfield)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        A global alternative asset manager with a focus on property, renewable power, infrastructure and private equity.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Toronto, Ontario, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 5 February 2013, the Wall Street Journal published an article stating that it had been contacted by São Paulo state prosecutor Marcelo Camargo Milani regarding civil bribery charges that were filed in a São Paulo state court against Brookfield Brazil.  Charges were also allegedly filed against nine other defendants, including two of its top executives and a former employee.<br /><br />According to the company's website, "Brookfield's history in Brazil spans over 100 years of successful operations in various high-quality property, power and infrastructure assets that generate long-term, sustainable cash flow growth."  <br /><br />The Wall Street Journal article goes on to say that the action is related to permits Brookfield received to renovate one of its properties in São Paulo and that "the  charges are part of a broader case that involves São Paulo municipal officials, [including] a public official, a former public official and vendors who allegedly overstated invoices at Brookfield's request to give the extra money to public officials[.]"<br /><br />On 19 November 2013, Brazilian authorities reported that they had begun questioning a company controlled by Brookfield, Brookfield Incorporacoes SA ("BISA").  According to the Wall Street Journal, BISA executives told a São Paulo prosecutor that they were forced by city officials to make $1.7 million in payments to open several new residential projects.  BISA is 45% owned by Brookfield, which also has three directors on the nine-member board.  The lawyer for BISA said the company has paid its taxes in full and that BISA doesn't expect to be charged with any wrongdoing. The lawyer confirmed that BISA made the payments to city officials, but the BISA employee who allegedly made the payments is no longer with the company.<br /><br />According to reports, the total amount paid to the officials was BRL 1.27 million  (approximately USD 644,000).  The prosecutor is purportedly seeking a total of BRL 30 million (approximately USD 15 million) in fines from all defendants.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Brazilian Officials</strong></td>
+<td width="50%"><strong>B<span style="white-space: pre;">usiness Advantage Allegedly Obtained</span></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">BRL 1.27 million (approximately USD 644,000)</td>
+<td style="text-align: center;">Permits Brookfield received to renovate one of its properties in S&atilde;o Paulo&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to the Wall Street Journal, a Brookfield spokesman "said the bribery allegations came from a disgruntled former employee, the Brazil's subsidiary's chief financial who was fired in 2010."  The Wall Street Journal goes on to say that the former chief financial officer, Daniela Gonzalez, said she was fired after she refused to participate in a scheme to bribe officials. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Wall Street Journal reported on 8 March 2013 that the U.S. Securities & Exchange Commission ("SEC") initiated an investigation into the allegations. The Wall Street Journal also said that a member of the SEC's staff arranged to meet with Daniela Gonzalez, Brookfield Brazil's former chief financial officer and the source of the bribery allegations.<br /><br />On 19 November 2013, Brazilian prosecutors reported its investigation into Brookfield and its subsidiary, BISA.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Wall Street Journal: "Brookfield Faces Bribery Charges in Brazil" (5 February 2013)</p><p>Wall Street Journal: "Brookfield Brazil Unit Draws SEC Scrutiny" (8 March 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

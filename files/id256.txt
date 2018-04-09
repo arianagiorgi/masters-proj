@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192406lu84u">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924065msfi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INDIAN IT COMPANY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(256)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924066r67y" width="415" height="61" /></div>
+    
+        <h1>INDIAN IT COMPANY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Chile: Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Employees of the Chilean subsidiary of a multinational information technology ("IT") company headquartered in India
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of IT services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        India
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Chile<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In January 2009, Chilean prosecutors brought charges of bribery and fraud against four employees working for the Chilean subsidiary of a multinational IT company headquartered in India, as well as the head of the Chilean Civil Registry Office, in connection with a USD 80 million IT contract issued by the Civil Registry Office to the company.  An advisor to the Civil Registry Office allegedly provided confidential information to the company regarding the tender.  The contract was later annulled because of the corruption allegations.<br /><br />An investigation is also underway into whether employees of the company paid bribes to a Chilean police officer who destroyed evidence related to the Civil Registry Office case.<br /><br />No allegations or charges have been made against the company itself.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chilean Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>IT service contract valued at USD 80 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Chilean prosecutor Alejandra Godoy launched the investigation following the identification of irregularities in the tender process.   The scandal prompted President Michelle Bachelet to demand the removal of certain staff at the Civil Registry Office, while the Comptroller's Office ordered the cancellation of the contract.<br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter appears to be ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Hindu Business Line: "Chile cancels $70-m TCS contract" (21 April 2008)</p><p>Blanco y Negro: "Multinacional india es investigada por corrupcion en Chile" (28 April 2008)</p><p>Wine Times of Chile: "Corruption Scandal Rocks Chile's Investigation Police" (28 Jan. 2009)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170733ax9tu">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17073394qlf" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRIDGESTONE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(48)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170733ynk87" width="415" height="61" /></div>
+    
+        <h1>BRIDGESTONE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Japan: Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bridgestone Corporation ("Bridgestone")<br />Misao Hioki (former General Manager of Bridgestones International Engineering Products Division)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of marine hose and other related rubber and industrial products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 15 September 2011, the DOJ filed a two-count criminal information charging Bridgestone with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Between January 1999 and May 2007, Bridgestone allegedly (i) conspired to rig bids, fix prices and allocate market shares of marine hose in the United States and elsewhere and (ii) conspired to make corrupt payments to government officials in various Latin American countries to obtain and retain business.  <br /><br />Under the antitrust charge, Bridgestone and its co-conspirators allegedly agreed to allocate shares of the marine hose market and to use a price list for marine hose in order to implement the conspiracy, affecting prices for hundreds of millions of dollars worth of marine hose and related products sold worldwide.   <br /><br />Under the FCPA charge, Bridgestone allegedly authorized and approved improper payments to foreign government officials employed at state-owned entities in order to secure sales of marine hose in Latin America.  The company's local sales agents were paid commissions, from which they then paid the SOE officials a percentage of the total value of proposed sales. <br /><br />Separately, in December 2008, the DOJ in the United States brought charges against Misao Hioki, the former General Manager of Bridgestone's International Engineering Products Division, in connection with the international marine hose cartel and Hioki's involvement in a conspiracy make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  [See TRACE Compendium entry titled "Hioki".]
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of marine hose and other products, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to Bridgestone's press release dated 12 February 2008, the company initiated an internal inquiry conducted by external counsel into allegations regarding an international marine hose cartel, a matter being investigated by the U.S. Department of Justice, the European Commission, the Fair Trade Commission of Japan and other authorities.  During the course of this internal inquiry, Bridgestone discovered the potentially improper payments to foreign agents, some or all of which may have been passed on to foreign governmental officials.  Bridgestone reported the results of this investigation to the DOJ in the U.S. and the PPO in Japan.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 September 2011, Bridgestone agreed to plead guilty to a two-count criminal information charging the company with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Bridgstone agreed to pay a USD 28 million fine.   The plea agreement acknowledges the company's internal investigation, its ongoing cooperation with the DOJ and its extensive remediation efforts. <br /><br />Previously, in December 2008, Misao Hioki pleaded guilty in U.S. court to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. [See TRACE Compendium entry titled Hioki.]<br /><br />In the related antitrust matter, on 28 January 2008, the European Commission imposed a total fine of EUR 58,500,000 (USD 87,750,000) on Bridgestone and its British subsidiary, Bridgestone Industrial, Ltd.  On February 22, 2008, the Japan Fair Trade Commission issued a cease-and-desist order against Bridgestone and other entrepreneurs and imposed a surcharge of JPY 2,380,000 (USD 19,420) against Bridgestone. <br /><br />It is unclear whether Japan's Public Prosecutor Office may still bring bribery charges against the company. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper monetary payments to a foreign agent may constitute a violation of the UCPLJ if all or a part of such payments are then provided to a foreign governmental official.</li><li>Investigations into violations of other legal regimes, such as antitrust or competition law, can be a source of government enforcement actions under the applicable foreign bribery statute.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=38">Bridgestone Press Release: February 12, 2008  </a></p><p><a href="file.asp?id=39">Bridgestone Press Release: May 23, 2008  </a></p><p><a href="file.asp?id=40">Guidelines to Prevent Bribery of Foreign Public Officials (2007) published by the Ministry of Economy, Trade and Industry of Japan </a></p><p><a href="file.asp?id=41">European Commission Press Release: January 28, 2008 (Antitrust: Commission fines marine hose producers €131 million for market sharing and price-fixing cartel) </a></p><p><a href="file.asp?id=42">Japan Fair Trade Commission Press Release: February 22, 2008 (Cease and Desist Order and Surcharge Payment Order against Marine Hose Manufacturers) </a></p><p><a href="file.asp?id=776">Bridgestone: Annual Report (2009)</a></p><p><a href="file.asp?id=1587">DOJ Press Release: 15 Sept. 2011 (Bridgestone Corporation Agrees to Plead Guilty to Participating in Conspiracies to Rig Bids and Bribe Foreign Government Officials)</a></p><p><a href="file.asp?id=1588">Bridgestone: Press Release (15 Sept. 2011)</a></p><p><a href="file.asp?id=1849">Bridgestone - Plea Agreement (5 October 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184242n2fv3">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184242ax33u" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRIDGESTONE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(48)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184242np41g" width="415" height="61" /></div>
+    
+        <h1>BRIDGESTONE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Japan: Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bridgestone Corporation ("Bridgestone")<br />Misao Hioki (former General Manager of Bridgestones International Engineering Products Division)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of marine hose and other related rubber and industrial products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 15 September 2011, the DOJ filed a two-count criminal information charging Bridgestone with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Between January 1999 and May 2007, Bridgestone allegedly (i) conspired to rig bids, fix prices and allocate market shares of marine hose in the United States and elsewhere and (ii) conspired to make corrupt payments to government officials in various Latin American countries to obtain and retain business.  <br /><br />Under the antitrust charge, Bridgestone and its co-conspirators allegedly agreed to allocate shares of the marine hose market and to use a price list for marine hose in order to implement the conspiracy, affecting prices for hundreds of millions of dollars worth of marine hose and related products sold worldwide.   <br /><br />Under the FCPA charge, Bridgestone allegedly authorized and approved improper payments to foreign government officials employed at state-owned entities in order to secure sales of marine hose in Latin America.  The company's local sales agents were paid commissions, from which they then paid the SOE officials a percentage of the total value of proposed sales. <br /><br />Separately, in December 2008, the DOJ in the United States brought charges against Misao Hioki, the former General Manager of Bridgestone's International Engineering Products Division, in connection with the international marine hose cartel and Hioki's involvement in a conspiracy make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  [See TRACE Compendium entry titled "Hioki".]
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of marine hose and other products, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to Bridgestone's press release dated 12 February 2008, the company initiated an internal inquiry conducted by external counsel into allegations regarding an international marine hose cartel, a matter being investigated by the U.S. Department of Justice, the European Commission, the Fair Trade Commission of Japan and other authorities.  During the course of this internal inquiry, Bridgestone discovered the potentially improper payments to foreign agents, some or all of which may have been passed on to foreign governmental officials.  Bridgestone reported the results of this investigation to the DOJ in the U.S. and the PPO in Japan.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 September 2011, Bridgestone agreed to plead guilty to a two-count criminal information charging the company with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Bridgstone agreed to pay a USD 28 million fine.   The plea agreement acknowledges the company's internal investigation, its ongoing cooperation with the DOJ and its extensive remediation efforts. <br /><br />Previously, in December 2008, Misao Hioki pleaded guilty in U.S. court to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. [See TRACE Compendium entry titled Hioki.]<br /><br />In the related antitrust matter, on 28 January 2008, the European Commission imposed a total fine of EUR 58,500,000 (USD 87,750,000) on Bridgestone and its British subsidiary, Bridgestone Industrial, Ltd.  On February 22, 2008, the Japan Fair Trade Commission issued a cease-and-desist order against Bridgestone and other entrepreneurs and imposed a surcharge of JPY 2,380,000 (USD 19,420) against Bridgestone. <br /><br />It is unclear whether Japan's Public Prosecutor Office may still bring bribery charges against the company. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper monetary payments to a foreign agent may constitute a violation of the UCPLJ if all or a part of such payments are then provided to a foreign governmental official.</li><li>Investigations into violations of other legal regimes, such as antitrust or competition law, can be a source of government enforcement actions under the applicable foreign bribery statute.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=38">Bridgestone Press Release: February 12, 2008  </a></p><p><a href="file.asp?id=39">Bridgestone Press Release: May 23, 2008  </a></p><p><a href="file.asp?id=40">Guidelines to Prevent Bribery of Foreign Public Officials (2007) published by the Ministry of Economy, Trade and Industry of Japan </a></p><p><a href="file.asp?id=41">European Commission Press Release: January 28, 2008 (Antitrust: Commission fines marine hose producers €131 million for market sharing and price-fixing cartel) </a></p><p><a href="file.asp?id=42">Japan Fair Trade Commission Press Release: February 22, 2008 (Cease and Desist Order and Surcharge Payment Order against Marine Hose Manufacturers) </a></p><p><a href="file.asp?id=776">Bridgestone: Annual Report (2009)</a></p><p><a href="file.asp?id=1587">DOJ Press Release: 15 Sept. 2011 (Bridgestone Corporation Agrees to Plead Guilty to Participating in Conspiracies to Rig Bids and Bribe Foreign Government Officials)</a></p><p><a href="file.asp?id=1588">Bridgestone: Press Release (15 Sept. 2011)</a></p><p><a href="file.asp?id=1849">Bridgestone - Plea Agreement (5 October 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19205866h90">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192058s34q2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRIDGESTONE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(48)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192058buwht" width="415" height="61" /></div>
+    
+        <h1>BRIDGESTONE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Japan: Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bridgestone Corporation ("Bridgestone")<br />Misao Hioki (former General Manager of Bridgestones International Engineering Products Division)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of marine hose and other related rubber and industrial products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 15 September 2011, the DOJ filed a two-count criminal information charging Bridgestone with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Between January 1999 and May 2007, Bridgestone allegedly (i) conspired to rig bids, fix prices and allocate market shares of marine hose in the United States and elsewhere and (ii) conspired to make corrupt payments to government officials in various Latin American countries to obtain and retain business.  <br /><br />Under the antitrust charge, Bridgestone and its co-conspirators allegedly agreed to allocate shares of the marine hose market and to use a price list for marine hose in order to implement the conspiracy, affecting prices for hundreds of millions of dollars worth of marine hose and related products sold worldwide.   <br /><br />Under the FCPA charge, Bridgestone allegedly authorized and approved improper payments to foreign government officials employed at state-owned entities in order to secure sales of marine hose in Latin America.  The company's local sales agents were paid commissions, from which they then paid the SOE officials a percentage of the total value of proposed sales. <br /><br />Separately, in December 2008, the DOJ in the United States brought charges against Misao Hioki, the former General Manager of Bridgestone's International Engineering Products Division, in connection with the international marine hose cartel and Hioki's involvement in a conspiracy make improper payments to employees of government-owned entities in Latin America, including in Argentina, Brazil, Ecuador, Mexico, and Venezuela.  [See TRACE Compendium entry titled "Hioki".]
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of marine hose and other products, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to Bridgestone's press release dated 12 February 2008, the company initiated an internal inquiry conducted by external counsel into allegations regarding an international marine hose cartel, a matter being investigated by the U.S. Department of Justice, the European Commission, the Fair Trade Commission of Japan and other authorities.  During the course of this internal inquiry, Bridgestone discovered the potentially improper payments to foreign agents, some or all of which may have been passed on to foreign governmental officials.  Bridgestone reported the results of this investigation to the DOJ in the U.S. and the PPO in Japan.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 September 2011, Bridgestone agreed to plead guilty to a two-count criminal information charging the company with conspiracy to violate the Sherman Antitrust Act and conspiracy to violate the FCPA.  Bridgstone agreed to pay a USD 28 million fine.   The plea agreement acknowledges the company's internal investigation, its ongoing cooperation with the DOJ and its extensive remediation efforts. <br /><br />Previously, in December 2008, Misao Hioki pleaded guilty in U.S. court to two felony counts: conspiracy to violate the Sherman Act and conspiracy to violate the FCPA.  Hioki was sentenced to two years in jail and fined USD 80,000. [See TRACE Compendium entry titled Hioki.]<br /><br />In the related antitrust matter, on 28 January 2008, the European Commission imposed a total fine of EUR 58,500,000 (USD 87,750,000) on Bridgestone and its British subsidiary, Bridgestone Industrial, Ltd.  On February 22, 2008, the Japan Fair Trade Commission issued a cease-and-desist order against Bridgestone and other entrepreneurs and imposed a surcharge of JPY 2,380,000 (USD 19,420) against Bridgestone. <br /><br />It is unclear whether Japan's Public Prosecutor Office may still bring bribery charges against the company. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper monetary payments to a foreign agent may constitute a violation of the UCPLJ if all or a part of such payments are then provided to a foreign governmental official.</li><li>Investigations into violations of other legal regimes, such as antitrust or competition law, can be a source of government enforcement actions under the applicable foreign bribery statute.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=38">Bridgestone Press Release: February 12, 2008  </a></p><p><a href="file.asp?id=39">Bridgestone Press Release: May 23, 2008  </a></p><p><a href="file.asp?id=40">Guidelines to Prevent Bribery of Foreign Public Officials (2007) published by the Ministry of Economy, Trade and Industry of Japan </a></p><p><a href="file.asp?id=41">European Commission Press Release: January 28, 2008 (Antitrust: Commission fines marine hose producers €131 million for market sharing and price-fixing cartel) </a></p><p><a href="file.asp?id=42">Japan Fair Trade Commission Press Release: February 22, 2008 (Cease and Desist Order and Surcharge Payment Order against Marine Hose Manufacturers) </a></p><p><a href="file.asp?id=776">Bridgestone: Annual Report (2009)</a></p><p><a href="file.asp?id=1587">DOJ Press Release: 15 Sept. 2011 (Bridgestone Corporation Agrees to Plead Guilty to Participating in Conspiracies to Rig Bids and Bribe Foreign Government Officials)</a></p><p><a href="file.asp?id=1588">Bridgestone: Press Release (15 Sept. 2011)</a></p><p><a href="file.asp?id=1849">Bridgestone - Plea Agreement (5 October 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

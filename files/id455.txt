@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192658q2101">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192658eln32" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ONAMBA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(455)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19265871xjj" width="415" height="61" /></div>
+    
+        <h1>ONAMBA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Indonesia: Corruption Eradication Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Onamba Co., Ltd. ("Onamba")<br />PT Onamba Indonesia ("Onamba Indonesia," Onamba's Indonesian affiliate)<br />Shiokawa Toshio (president of Onamba Indonesia)<br />Odi Juanda (human resources manager of Onamba Indonesia)<br />Imas Dianasari (judge on the Bandung Industrial Relations Court)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture, sale and distribution of electrical wire and communications cables
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Osaka, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the Jakarta Globe's 4 December 2012 report, Shiokawa Toshio, president of Onamba Indonesia, was found guilty of paying a bribe to a judge on the Bandung Industrial Relations Court through Onamba Indonesia's human resources manager Odi Juanda. According to the article, the bribe amount was IDR 200 million (USD 20,800). The article also says that the bribe was paid shortly after the labor court judge ruled in favor of Onamba Indonesia in a labor dispute, permitting the company to fire workers who had joined a strike.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indonesian Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">IDR 200 million (USD 20,800)<br /></td>
+<td style="text-align: center;">Favorable ruling in a labor dispute<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Jakarta Globe reported on 4 December 2012 that Shiokawa Toshio was found guilty of bribing Imas Dianasari and sentenced to three years in prison. Toshio was also required to pay a fine of IDR 200 million (approximately USD 20,800) or spend six additional months in prison. According to the Jakarta Globe story, Toshio (who is a Japanese national) is "Indonesia's first foreign graft convict." The Jakarta Globe also reported that Imas Dianasari (the judge who accepted the bribe) and Odi Juanda (the human resources manager who paid the bribe) were sentenced to six years and four years in prison, respectively.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The fact that a defendant paid a bribe through another person will not relieve him of criminal liability.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Jakarta Globe: "Japanese Man Gets Three Years for Bribing Indonesian Judge" (4 December 2012)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

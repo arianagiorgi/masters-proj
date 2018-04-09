@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18430271rud">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843029t97g" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PITCHFORD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(71)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184302bigx3" width="415" height="61" /></div>
+    
+        <h1>PITCHFORD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Central Asia American Enterprise Fund (Congressionally-funded not-for-profit corporation responsible for promoting private sector development in Central Asia) ("CAAEF")<br />Richard G. Pitchford (former Vice President of CAAEF and Country Manager for Turkmenistan)<br />Patrick M. Dickey (former Vice President of CAAEF and Country Manager for Uzbekistan)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Promotion of private sector development in Central Asia 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Washington, District of Columbia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Criminal charges were brought against two former vice presidents and country managers for the Central Asia American Enterprise Fund, a not-for-profit corporation funded by the U.S. Congress to promote private sector development in Central Asia, in connection with a series of schemes to secure kickbacks on contracts they arranged on behalf of CAAEF between 1996 and 1998.  <br /><br />The DOJ charged Pitchford, CAAEF Vice President and Country Manager for Turkmenistan, with violating the anti-bribery provisions of the FCPA and theft from a government program, as well as conspiracy to commit both acts.  The DOJ charged Patrick M. Dickey, CAAEF Vice President and Country Manager for Uzbekistan, with theft from a government program, wire fraud and conspiracy to commit fraud. <br /> <br />In the first scheme, beginning in 1996, Pitchford and Dickey conspired with a Pakistani consulting living in Uzbekistan ("CAAEF Consultant") to induce CAAEF to invest $5.7 million in two textile joint venture projects in Turkmenistan: Premier Spinning Company and Classic Clothing Company.  Pitchford and Dickey arranged for the purchase price of equipment for the projects to be inflated, enabling the CAAEF Consultant to transfer $600,000 in kickbacks to a Cayman Islands bank account held by a shell company created by the two men.    <br /><br />The second scheme began in or around September 2007 in connection with a CAAEF project to establish and equip an edible oil manufacturing facility in Turkmenistan.  Pitchford and an official in the United Kingdom Department of Trade and Industry (with responsibility for promoting British economic interests in the Central Asian region) entered into an agreement whereby a British company (unnamed) would bid on the CAAEF Turkmenistan project at a price inflated by 15%, or $200,000, and Pitchford would then ensure that the company won the contract.  Pitchford provided the official with confidential information about competing bids so that the British company could tailor its bid to include the extra $200,000 but still come in as the lowest bid.  CAAEF approved the contract with the British company, valued at approximately $1.5 million.  The British company transferred the $200,000 kickback as a commission to a Swiss shell corporation, set up by the official.<br /><br />In the third scheme, which began in or around January 2008, Pitchford caused CAAEF to enter into a contract to purchase a cotton gin for $347,000, purportedly from a company called BYH International.  Pitchford then diverted some of the purchasing funds to a bank account in Pakistan controlled by the CAAEF Consultant.  The CAAEF Consultant then transferred $100,000 to the bank account of the Swiss shell company for the benefit of Pitchford.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to UK Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of $200,000</p>
+</td>
+<td>
+<p style="text-align: center;">A portion of $200,000 in kickbacks</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The U.S. Agency for International Development ("USAID") Office of Inspector General and the U.S. Federal Bureau of Investigation ("FBI") conduct a joint investigation into the matter.  <br /><br />Upon being questioned about the British company contract and the BYH International cotton gin contract, Pitchford provided all information regarding these activities, including all self-incriminating evidence.  He additionally volunteered his knowledge of, and involvement in, the two textile contracts, of which the government had no prior knowledge.<br /><br />Pitchford provided additional assistance to federal agents by forfeiting all funds under his control and by  providing information regarding other individuals involved, relevant bank accounts and assets purchased (including a yacht owned by Dickey, which was purchased with funds from the kickbacks).
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 13, 2002, Pitchford pleaded guilty to three counts: (i) conspiracy to commit theft from a government program and to bribe a foreign official in violation of the FCPA; (ii) theft from a government program; and (iii) bribery in violation of the FCPA.  <br /><br />On November 22, 2002, Pitchford was sentenced to a prison term of twelve months and one day, to be followed by three years of supervised release.  Pitchford was ordered to pay $400,000 in restitution to the U.S. government.  The DOJ had submitted a motion arguing for a four-level downward departure from the Federal Sentencing Guidelines in recognition of Pitchford's substantial assistance and commitment to cooperate with the DOJ's ongoing investigations.<br /><br />Also on September 13, 2002, Dickey pleaded guilty to one count of government program fraud, one count of wire fraud and one count of conspiracy to commit fraud.  On November 22, 2002, Dickey was sentenced to an 18-month prison term, to be followed by three years of supervised release.  He was ordered to pay $300,000 in restitution to the U.S. government.  <br /><br />Both men were also ordered to serve 200 hours of community service.<br /><br />Pitchford and Dickey were held jointly and severally liable for $300,000 in restitution owed to the U.S. government.   Proceeds from the sale of a yacht and cash obtained from a brokerage account, both seized by the FBI during the course of its investigation, will be applied toward the restitution. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Compensating a foreign government official for serving as an intermediary in a transaction, where the official abuses his/her official authority, falls under the conduct prohibited by the FCPA's anti-bribery provisions.</li><li>Providing substantial assistance to the DOJ can earn an individual a departure from the applicable Federal Sentencing Guidelines range.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=240">Criminal Information: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=241">Plea Agreement : U.S. v. Richard G. Pitchford </a></p><p><a href="file.asp?id=242">Defendant’s Memorandum In Aid of Sentencing: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=243">Government’s Motion for Departure from Sentencing Guidelines: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=244">Sentencing Documents: US v. Richard G. Pitchford</a></p><p><a href="file.asp?id=245">USAID Press Release: November 27, 2002 (Investigation of International Fraudulent Conspiracy Results in Incarceration for Two Co-Conspirators)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Non-Profit</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192119put9k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921198145n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PITCHFORD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(71)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192119ws97l" width="415" height="61" /></div>
+    
+        <h1>PITCHFORD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Central Asia American Enterprise Fund (Congressionally-funded not-for-profit corporation responsible for promoting private sector development in Central Asia) ("CAAEF")<br />Richard G. Pitchford (former Vice President of CAAEF and Country Manager for Turkmenistan)<br />Patrick M. Dickey (former Vice President of CAAEF and Country Manager for Uzbekistan)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Promotion of private sector development in Central Asia 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Washington, District of Columbia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United Kingdom<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Criminal charges were brought against two former vice presidents and country managers for the Central Asia American Enterprise Fund, a not-for-profit corporation funded by the U.S. Congress to promote private sector development in Central Asia, in connection with a series of schemes to secure kickbacks on contracts they arranged on behalf of CAAEF between 1996 and 1998.  <br /><br />The DOJ charged Pitchford, CAAEF Vice President and Country Manager for Turkmenistan, with violating the anti-bribery provisions of the FCPA and theft from a government program, as well as conspiracy to commit both acts.  The DOJ charged Patrick M. Dickey, CAAEF Vice President and Country Manager for Uzbekistan, with theft from a government program, wire fraud and conspiracy to commit fraud. <br /> <br />In the first scheme, beginning in 1996, Pitchford and Dickey conspired with a Pakistani consulting living in Uzbekistan ("CAAEF Consultant") to induce CAAEF to invest $5.7 million in two textile joint venture projects in Turkmenistan: Premier Spinning Company and Classic Clothing Company.  Pitchford and Dickey arranged for the purchase price of equipment for the projects to be inflated, enabling the CAAEF Consultant to transfer $600,000 in kickbacks to a Cayman Islands bank account held by a shell company created by the two men.    <br /><br />The second scheme began in or around September 2007 in connection with a CAAEF project to establish and equip an edible oil manufacturing facility in Turkmenistan.  Pitchford and an official in the United Kingdom Department of Trade and Industry (with responsibility for promoting British economic interests in the Central Asian region) entered into an agreement whereby a British company (unnamed) would bid on the CAAEF Turkmenistan project at a price inflated by 15%, or $200,000, and Pitchford would then ensure that the company won the contract.  Pitchford provided the official with confidential information about competing bids so that the British company could tailor its bid to include the extra $200,000 but still come in as the lowest bid.  CAAEF approved the contract with the British company, valued at approximately $1.5 million.  The British company transferred the $200,000 kickback as a commission to a Swiss shell corporation, set up by the official.<br /><br />In the third scheme, which began in or around January 2008, Pitchford caused CAAEF to enter into a contract to purchase a cotton gin for $347,000, purportedly from a company called BYH International.  Pitchford then diverted some of the purchasing funds to a bank account in Pakistan controlled by the CAAEF Consultant.  The CAAEF Consultant then transferred $100,000 to the bank account of the Swiss shell company for the benefit of Pitchford.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to UK Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">A portion of $200,000</p>
+</td>
+<td>
+<p style="text-align: center;">A portion of $200,000 in kickbacks</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The U.S. Agency for International Development ("USAID") Office of Inspector General and the U.S. Federal Bureau of Investigation ("FBI") conduct a joint investigation into the matter.  <br /><br />Upon being questioned about the British company contract and the BYH International cotton gin contract, Pitchford provided all information regarding these activities, including all self-incriminating evidence.  He additionally volunteered his knowledge of, and involvement in, the two textile contracts, of which the government had no prior knowledge.<br /><br />Pitchford provided additional assistance to federal agents by forfeiting all funds under his control and by  providing information regarding other individuals involved, relevant bank accounts and assets purchased (including a yacht owned by Dickey, which was purchased with funds from the kickbacks).
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 13, 2002, Pitchford pleaded guilty to three counts: (i) conspiracy to commit theft from a government program and to bribe a foreign official in violation of the FCPA; (ii) theft from a government program; and (iii) bribery in violation of the FCPA.  <br /><br />On November 22, 2002, Pitchford was sentenced to a prison term of twelve months and one day, to be followed by three years of supervised release.  Pitchford was ordered to pay $400,000 in restitution to the U.S. government.  The DOJ had submitted a motion arguing for a four-level downward departure from the Federal Sentencing Guidelines in recognition of Pitchford's substantial assistance and commitment to cooperate with the DOJ's ongoing investigations.<br /><br />Also on September 13, 2002, Dickey pleaded guilty to one count of government program fraud, one count of wire fraud and one count of conspiracy to commit fraud.  On November 22, 2002, Dickey was sentenced to an 18-month prison term, to be followed by three years of supervised release.  He was ordered to pay $300,000 in restitution to the U.S. government.  <br /><br />Both men were also ordered to serve 200 hours of community service.<br /><br />Pitchford and Dickey were held jointly and severally liable for $300,000 in restitution owed to the U.S. government.   Proceeds from the sale of a yacht and cash obtained from a brokerage account, both seized by the FBI during the course of its investigation, will be applied toward the restitution. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Compensating a foreign government official for serving as an intermediary in a transaction, where the official abuses his/her official authority, falls under the conduct prohibited by the FCPA's anti-bribery provisions.</li><li>Providing substantial assistance to the DOJ can earn an individual a departure from the applicable Federal Sentencing Guidelines range.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=240">Criminal Information: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=241">Plea Agreement : U.S. v. Richard G. Pitchford </a></p><p><a href="file.asp?id=242">Defendant’s Memorandum In Aid of Sentencing: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=243">Government’s Motion for Departure from Sentencing Guidelines: U.S. v. Richard G. Pitchford</a></p><p><a href="file.asp?id=244">Sentencing Documents: US v. Richard G. Pitchford</a></p><p><a href="file.asp?id=245">USAID Press Release: November 27, 2002 (Investigation of International Fraudulent Conspiracy Results in Incarceration for Two Co-Conspirators)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Non-Profit</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

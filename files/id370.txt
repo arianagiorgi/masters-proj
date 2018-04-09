@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19254326ykf">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192543dm69r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TOGNUM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(370)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925432dq5m" width="415" height="61" /></div>
+    
+        <h1>TOGNUM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Germany: Ravensburg Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tognum AG ("Tognum") (97% owned by Rolls-Royce and Daimler joint venture)<br />Tognum Asia Pte Ltd. (Tognum subsidiary representing MTU brand in Asia) ("MTU Asia")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global manufacturer of high-speed diesel engines and related equipment for the marine, energy and defense industries
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Friedrichshafen, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On October 17, 2011, Tognum disclosed that it had retained Ernst & Young to conduct an internal investigation into possible bribery involving the agents and sales partners of Tognum's MTU Asia business.<br /><br />According to press reports, the investigation is focusing on USD 37 million in commissions paid to sales agents in South Korea between 2000 and 2011 in connection with sales of defense-related products to government customers.  The probe also involves allegedly direct payments and improper corporate hospitality provided to South Korean army staff.<br /><br />The company reportedly disclosed the investigation to the Ravensburg Public Prosecutor's Office in Germany, which is awaiting receipt of the Ernst & Young report.  According to press reports, on October 26, 2011 the Ravensburg Public Prosecutor's Office confirmed that it had opened an investigation into the company, which is focusing on payments to sales agents in South Korea and hospitality provided to South Korean army staff.<br /><br />On October 28, 2011, Tognum issued a news release that executive board member and former manager of MTU Asia, Peter Kneipp, had resigned.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, Tognum retained Ernst & Young after being contacted in early 2011 by German magazine Der Spiegel asking about payments made in connection with a submarine deal in South Korea in 2008. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The matter is ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1615">Tognum Press Release (17 Oct. 2011)</a></p><p>Wall Street Journal: "Tognum CEO Admits Compliance Rules Have Apparently Been Breached" (20 Oct. 2011)</p><p>Bloomberg: "Tognum Probes $32 Million Paid to South Korean Sales Agent" (18 Oct. 2011)</p><p>Wall Street Journal: "Prosecutors Probe Tognum" (26 Oct. 2011)</p><p><a href="file.asp?id=1630">Tognum Press Release (28 Oct. 2011)</a></p><p>Wall Street Journal: "Tognum Board Member Resigns In Wake Of Bribery Probe" (28 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,357 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170701hdu2a">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170701it2ey" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GREENS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(14)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707011rp66" width="415" height="61" /></div>
+    
+        <h1>GREENS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Gerald Green <br />Patricia Green<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International film festival
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Gerald and Patricia Green, Los Angeles-area film executives, were charged with, and found guilty of, conspiracy and substantive violations of the FCPA and money laundering laws in connection with a bribery scheme through which the defendants secured a series of Thai government contracts, including valuable contracts to manage and operate the country's annual film festival.  <br /><br />In the second superseding indictment filed on 11 March 2009, the Greens were charged with paying kickbacks to the former governor of the Tourism Authority of Thailand ("TAT") - Juthamas Siriwan- in exchange for contracts to manage and operate the annual Bangkok International Film Festival, as well as contracts to supply an elite tourism privilege card that was marketed to wealthy foreigners.  Between 2002 and 2007, the Greens allegedly paid approximately USD 1.8 million in bribes to former governor Siriwan through numerous bank accounts in Singapore, the UK and the Isle of Jersey that were held in the name of Siriwan's daughter (Jittisopa Siriwan) and Siriwan's friend.  The Green's businesses earned over USD 13.5 million in revenue as a result of the contracts obtained.<br /><br />According to evidence presented at trial, the Greens, in furtherance of the conspiracy, utilized a variety of business entities, some of which had dummy business addresses and telephone numbers, in their communications with TAT in an effort to conceal the large amount of money that was being paid under the contracts.  The evidence also demonstrated that the Greens disguised the bribes, which were made through the intermediaries' foreign bank accounts for the benefit of former governor Siriwan, as sales commission payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.8 million</p>
+</td>
+<td style="text-align: center;">&nbsp; USD 13.5 million in revenue from film festival and tourism card contracts<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Greens were arrested on 18 December 2007 on charges of conspiring to pay more than USD 1.7 million in bribes to former TAT governor Siriwan in return for the contracts to administer the annual Bangkok International Film Festival.  On 1 October 2008, the grand jury returned a superseding indictment adding new charges alleging bribery of Siriwan in exchange for the elite privilege card contracts, as well as money laundering charges and allegations that Mrs. Green knowingly subscribed two false U.S. corporate income tax returns.  <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 September 2009, following a two-and-a-half week trial in the U.S. District Court for the Central District of California, a federal jury found Gerald and Patricia Green guilty of conspiracy and substantive violations of the FCPA and money laundering laws.  Patricia Green was also found guilty of falsely subscribing U.S. income tax returns in connection with the same set of conduct.  <br /><br />The conspiracy and substantive FCPA charges each carry a maximum penalty of five years in prison, while each of the money laundering charges carry a maximum penalty of up to twenty years in prison.  The false subscription of a U.S. income tax return charge carries a three-year maximum penalty and a fine not greater than USD 100,000.  In its 14 December 2009 response to the pre-sentence report for Gerald Green, the government argued that his sentencing range should be life in prison.  <br /><br />On 12 August 2010, the Greens were each sentenced to six months in prison followed by six months of home confinement and were each ordered to pay USD 250,000 in restitution.  After serving their six month terms, they were released from federal custody in May 2011.  The government initially appealed the short sentences but then withdrew the appeal on 23 August 2011.  The government did win a forfeiture count, leaving the Greens indigent.  The Greens appealed the restitution order of USD 250,000 to the U.S. Court of Appeals for the Ninth Circuit,  and the Ninth Circuit affirmed the District Court ruling on 11 July 2013. <br /><br />On 19 January 2010, an indictment against former TAT governor Juthamas Siriwan and her daughter, Jittisopa Siriwan, was unsealed in U.S. District Court in Los Angeles.  The indictment charges the Siriwans with conspiracy to commit money laundering, transporting funds to promote unlawful activity (bribery of a foreign official), and aiding and abetting.  If convicted, they each face up to twenty years in prison.  Juthamas Siriwan also faces prosecution in Thailand. <br /><br />On 11 January 2013, prosecutors in the U.S. filed a supplemental brief asking that the charges against Siriwan and her daughter, Jittsopa Siriwan, remain open pending the unfreezing of extradition proceedings in Thailand.  The extradition process was put on hold while Thai authorities prepare their own case against the Siriwans.  In their court filing, U.S. prosecutors noted that they had received a diplomatic note on 14 December explaining that the Anti-Corruption Commission of Thailand was planning to file criminal charges against Juthamas Siriwan.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will bring criminal charges against individual executives for FCPA violations, independent of separate corporate accountability.</li><li>The DOJ may bring charges related to other criminal violations uncovered in the course of an FCPA investigation.</li><li>The DOJ can utilize the breadth of DOJ and FBI resources  both in the U.S. and abroad  when conducting international investigations of corruption.</li><li>While district court judges typically approve the settlement agreements reached between the DOJ and defendants facing FCPA charges, some judges will push back on the amount of fines or lengths of sentences requested, resulting in less onerous outcomes for defendants.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=108">FBI Affidavit (7 December 2007)</a></p><p><a href="file.asp?id=106">First Superseding Indictment (1 October 2008)</a></p><p><a href="file.asp?id=107">Post-Indictment Restraining Order (6 November 2008)</a></p><p><a href="file.asp?id=105">Parties' Joint Status Memo (15 December 2008)</a></p><p><a href="file.asp?id=679">Indictment: U.S. v. Juthamas Siriwan, aka "the Governor," and Jittisopa Siriwan, aka "Jib" (28 January 2009)</a></p><p><a href="file.asp?id=104">Second Superseding Indictment (11 March 2009)</a></p><p><a href="file.asp?id=103">Government's Supplemental Notice of Intent to Raise Issues of Foreign Law (29 July 2009)</a></p><p><a href="file.asp?id=102">Jury Instructions (11 September 2009)</a></p><p><a href="file.asp?id=101">DOJ Press Release: "Film Executive and Spouse Found Guilty of Paying Bribes to a Senior Thai Tourism Official to Obtain Lucrative Contracts" (14 September 2009)</a></p><p><a href="file.asp?id=643">Government Response to Gerald Green Pre-Sentence Report (14 December 2009)</a></p><p><a href="file.asp?id=1165">Notice of Appeal: U.S. v. Green (8 October 2010)</a></p><p><a href="file.asp?id=2380">Opinion (9th Circuit): U.S. v. Green (11 July 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Entertainment/Film </span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184211vxb2d">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18421194036" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GREENS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(14)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842118ttlw" width="415" height="61" /></div>
+    
+        <h1>GREENS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Gerald Green <br />Patricia Green<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International film festival
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Gerald and Patricia Green, Los Angeles-area film executives, were charged with, and found guilty of, conspiracy and substantive violations of the FCPA and money laundering laws in connection with a bribery scheme through which the defendants secured a series of Thai government contracts, including valuable contracts to manage and operate the country's annual film festival.  <br /><br />In the second superseding indictment filed on 11 March 2009, the Greens were charged with paying kickbacks to the former governor of the Tourism Authority of Thailand ("TAT") - Juthamas Siriwan- in exchange for contracts to manage and operate the annual Bangkok International Film Festival, as well as contracts to supply an elite tourism privilege card that was marketed to wealthy foreigners.  Between 2002 and 2007, the Greens allegedly paid approximately USD 1.8 million in bribes to former governor Siriwan through numerous bank accounts in Singapore, the UK and the Isle of Jersey that were held in the name of Siriwan's daughter (Jittisopa Siriwan) and Siriwan's friend.  The Green's businesses earned over USD 13.5 million in revenue as a result of the contracts obtained.<br /><br />According to evidence presented at trial, the Greens, in furtherance of the conspiracy, utilized a variety of business entities, some of which had dummy business addresses and telephone numbers, in their communications with TAT in an effort to conceal the large amount of money that was being paid under the contracts.  The evidence also demonstrated that the Greens disguised the bribes, which were made through the intermediaries' foreign bank accounts for the benefit of former governor Siriwan, as sales commission payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.8 million</p>
+</td>
+<td style="text-align: center;">&nbsp; USD 13.5 million in revenue from film festival and tourism card contracts<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Greens were arrested on 18 December 2007 on charges of conspiring to pay more than USD 1.7 million in bribes to former TAT governor Siriwan in return for the contracts to administer the annual Bangkok International Film Festival.  On 1 October 2008, the grand jury returned a superseding indictment adding new charges alleging bribery of Siriwan in exchange for the elite privilege card contracts, as well as money laundering charges and allegations that Mrs. Green knowingly subscribed two false U.S. corporate income tax returns.  <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 September 2009, following a two-and-a-half week trial in the U.S. District Court for the Central District of California, a federal jury found Gerald and Patricia Green guilty of conspiracy and substantive violations of the FCPA and money laundering laws.  Patricia Green was also found guilty of falsely subscribing U.S. income tax returns in connection with the same set of conduct.  <br /><br />The conspiracy and substantive FCPA charges each carry a maximum penalty of five years in prison, while each of the money laundering charges carry a maximum penalty of up to twenty years in prison.  The false subscription of a U.S. income tax return charge carries a three-year maximum penalty and a fine not greater than USD 100,000.  In its 14 December 2009 response to the pre-sentence report for Gerald Green, the government argued that his sentencing range should be life in prison.  <br /><br />On 12 August 2010, the Greens were each sentenced to six months in prison followed by six months of home confinement and were each ordered to pay USD 250,000 in restitution.  After serving their six month terms, they were released from federal custody in May 2011.  The government initially appealed the short sentences but then withdrew the appeal on 23 August 2011.  The government did win a forfeiture count, leaving the Greens indigent.  The Greens appealed the restitution order of USD 250,000 to the U.S. Court of Appeals for the Ninth Circuit,  and the Ninth Circuit affirmed the District Court ruling on 11 July 2013. <br /><br />On 19 January 2010, an indictment against former TAT governor Juthamas Siriwan and her daughter, Jittisopa Siriwan, was unsealed in U.S. District Court in Los Angeles.  The indictment charges the Siriwans with conspiracy to commit money laundering, transporting funds to promote unlawful activity (bribery of a foreign official), and aiding and abetting.  If convicted, they each face up to twenty years in prison.  Juthamas Siriwan also faces prosecution in Thailand. <br /><br />On 11 January 2013, prosecutors in the U.S. filed a supplemental brief asking that the charges against Siriwan and her daughter, Jittsopa Siriwan, remain open pending the unfreezing of extradition proceedings in Thailand.  The extradition process was put on hold while Thai authorities prepare their own case against the Siriwans.  In their court filing, U.S. prosecutors noted that they had received a diplomatic note on 14 December explaining that the Anti-Corruption Commission of Thailand was planning to file criminal charges against Juthamas Siriwan.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will bring criminal charges against individual executives for FCPA violations, independent of separate corporate accountability.</li><li>The DOJ may bring charges related to other criminal violations uncovered in the course of an FCPA investigation.</li><li>The DOJ can utilize the breadth of DOJ and FBI resources  both in the U.S. and abroad  when conducting international investigations of corruption.</li><li>While district court judges typically approve the settlement agreements reached between the DOJ and defendants facing FCPA charges, some judges will push back on the amount of fines or lengths of sentences requested, resulting in less onerous outcomes for defendants.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=108">FBI Affidavit (7 December 2007)</a></p><p><a href="file.asp?id=106">First Superseding Indictment (1 October 2008)</a></p><p><a href="file.asp?id=107">Post-Indictment Restraining Order (6 November 2008)</a></p><p><a href="file.asp?id=105">Parties' Joint Status Memo (15 December 2008)</a></p><p><a href="file.asp?id=679">Indictment: U.S. v. Juthamas Siriwan, aka "the Governor," and Jittisopa Siriwan, aka "Jib" (28 January 2009)</a></p><p><a href="file.asp?id=104">Second Superseding Indictment (11 March 2009)</a></p><p><a href="file.asp?id=103">Government's Supplemental Notice of Intent to Raise Issues of Foreign Law (29 July 2009)</a></p><p><a href="file.asp?id=102">Jury Instructions (11 September 2009)</a></p><p><a href="file.asp?id=101">DOJ Press Release: "Film Executive and Spouse Found Guilty of Paying Bribes to a Senior Thai Tourism Official to Obtain Lucrative Contracts" (14 September 2009)</a></p><p><a href="file.asp?id=643">Government Response to Gerald Green Pre-Sentence Report (14 December 2009)</a></p><p><a href="file.asp?id=1165">Notice of Appeal: U.S. v. Green (8 October 2010)</a></p><p><a href="file.asp?id=2380">Opinion (9th Circuit): U.S. v. Green (11 July 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Entertainment/Film </span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192026okw46">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1920262mq8h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GREENS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(14)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19202685l59" width="415" height="61" /></div>
+    
+        <h1>GREENS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Gerald Green <br />Patricia Green<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International film festival
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Thailand<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Gerald and Patricia Green, Los Angeles-area film executives, were charged with, and found guilty of, conspiracy and substantive violations of the FCPA and money laundering laws in connection with a bribery scheme through which the defendants secured a series of Thai government contracts, including valuable contracts to manage and operate the country's annual film festival.  <br /><br />In the second superseding indictment filed on 11 March 2009, the Greens were charged with paying kickbacks to the former governor of the Tourism Authority of Thailand ("TAT") - Juthamas Siriwan- in exchange for contracts to manage and operate the annual Bangkok International Film Festival, as well as contracts to supply an elite tourism privilege card that was marketed to wealthy foreigners.  Between 2002 and 2007, the Greens allegedly paid approximately USD 1.8 million in bribes to former governor Siriwan through numerous bank accounts in Singapore, the UK and the Isle of Jersey that were held in the name of Siriwan's daughter (Jittisopa Siriwan) and Siriwan's friend.  The Green's businesses earned over USD 13.5 million in revenue as a result of the contracts obtained.<br /><br />According to evidence presented at trial, the Greens, in furtherance of the conspiracy, utilized a variety of business entities, some of which had dummy business addresses and telephone numbers, in their communications with TAT in an effort to conceal the large amount of money that was being paid under the contracts.  The evidence also demonstrated that the Greens disguised the bribes, which were made through the intermediaries' foreign bank accounts for the benefit of former governor Siriwan, as sales commission payments.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Thai Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.8 million</p>
+</td>
+<td style="text-align: center;">&nbsp; USD 13.5 million in revenue from film festival and tourism card contracts<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Greens were arrested on 18 December 2007 on charges of conspiring to pay more than USD 1.7 million in bribes to former TAT governor Siriwan in return for the contracts to administer the annual Bangkok International Film Festival.  On 1 October 2008, the grand jury returned a superseding indictment adding new charges alleging bribery of Siriwan in exchange for the elite privilege card contracts, as well as money laundering charges and allegations that Mrs. Green knowingly subscribed two false U.S. corporate income tax returns.  <br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 September 2009, following a two-and-a-half week trial in the U.S. District Court for the Central District of California, a federal jury found Gerald and Patricia Green guilty of conspiracy and substantive violations of the FCPA and money laundering laws.  Patricia Green was also found guilty of falsely subscribing U.S. income tax returns in connection with the same set of conduct.  <br /><br />The conspiracy and substantive FCPA charges each carry a maximum penalty of five years in prison, while each of the money laundering charges carry a maximum penalty of up to twenty years in prison.  The false subscription of a U.S. income tax return charge carries a three-year maximum penalty and a fine not greater than USD 100,000.  In its 14 December 2009 response to the pre-sentence report for Gerald Green, the government argued that his sentencing range should be life in prison.  <br /><br />On 12 August 2010, the Greens were each sentenced to six months in prison followed by six months of home confinement and were each ordered to pay USD 250,000 in restitution.  After serving their six month terms, they were released from federal custody in May 2011.  The government initially appealed the short sentences but then withdrew the appeal on 23 August 2011.  The government did win a forfeiture count, leaving the Greens indigent.  The Greens appealed the restitution order of USD 250,000 to the U.S. Court of Appeals for the Ninth Circuit,  and the Ninth Circuit affirmed the District Court ruling on 11 July 2013. <br /><br />On 19 January 2010, an indictment against former TAT governor Juthamas Siriwan and her daughter, Jittisopa Siriwan, was unsealed in U.S. District Court in Los Angeles.  The indictment charges the Siriwans with conspiracy to commit money laundering, transporting funds to promote unlawful activity (bribery of a foreign official), and aiding and abetting.  If convicted, they each face up to twenty years in prison.  Juthamas Siriwan also faces prosecution in Thailand. <br /><br />On 11 January 2013, prosecutors in the U.S. filed a supplemental brief asking that the charges against Siriwan and her daughter, Jittsopa Siriwan, remain open pending the unfreezing of extradition proceedings in Thailand.  The extradition process was put on hold while Thai authorities prepare their own case against the Siriwans.  In their court filing, U.S. prosecutors noted that they had received a diplomatic note on 14 December explaining that the Anti-Corruption Commission of Thailand was planning to file criminal charges against Juthamas Siriwan.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will bring criminal charges against individual executives for FCPA violations, independent of separate corporate accountability.</li><li>The DOJ may bring charges related to other criminal violations uncovered in the course of an FCPA investigation.</li><li>The DOJ can utilize the breadth of DOJ and FBI resources  both in the U.S. and abroad  when conducting international investigations of corruption.</li><li>While district court judges typically approve the settlement agreements reached between the DOJ and defendants facing FCPA charges, some judges will push back on the amount of fines or lengths of sentences requested, resulting in less onerous outcomes for defendants.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=108">FBI Affidavit (7 December 2007)</a></p><p><a href="file.asp?id=106">First Superseding Indictment (1 October 2008)</a></p><p><a href="file.asp?id=107">Post-Indictment Restraining Order (6 November 2008)</a></p><p><a href="file.asp?id=105">Parties' Joint Status Memo (15 December 2008)</a></p><p><a href="file.asp?id=679">Indictment: U.S. v. Juthamas Siriwan, aka "the Governor," and Jittisopa Siriwan, aka "Jib" (28 January 2009)</a></p><p><a href="file.asp?id=104">Second Superseding Indictment (11 March 2009)</a></p><p><a href="file.asp?id=103">Government's Supplemental Notice of Intent to Raise Issues of Foreign Law (29 July 2009)</a></p><p><a href="file.asp?id=102">Jury Instructions (11 September 2009)</a></p><p><a href="file.asp?id=101">DOJ Press Release: "Film Executive and Spouse Found Guilty of Paying Bribes to a Senior Thai Tourism Official to Obtain Lucrative Contracts" (14 September 2009)</a></p><p><a href="file.asp?id=643">Government Response to Gerald Green Pre-Sentence Report (14 December 2009)</a></p><p><a href="file.asp?id=1165">Notice of Appeal: U.S. v. Green (8 October 2010)</a></p><p><a href="file.asp?id=2380">Opinion (9th Circuit): U.S. v. Green (11 July 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Entertainment/Film </span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

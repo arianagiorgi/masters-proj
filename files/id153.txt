@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192233753m8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19223362jou" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BANCO BILBAO VIZCAYA ARGENTARIA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(153)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192233rm338" width="415" height="61" /></div>
+    
+        <h1>BANCO BILBAO VIZCAYA ARGENTARIA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Spain: Investigating Magistrate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Banco Bilbao Vizcaya Argentaria ("BBVA")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Commercial and investment banking institution
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bilbao, Spain
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Colombia<br />Mexico<br />Peru<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to Transparency International's 2009 OECD Anti-Bribery Convention Progress Report as follows:<br /><br />"In April 2002, the Spanish Judge Baltasar Garzon opened a criminal case investigating Spain's second-largest bank BBVA (Banco Bilbao Vizcaya Argentaria) over allegations that secret accounts were used to make political pay-offs at home and abroad. The secret accounts were allegedly in Liechtenstein, the Cayman Islands, Jersey and elsewhere. Allegations linked BBVA to multibillion-dollar bank privatisations in the late 1990's in Mexico, Venezuela, Colombia and Peru. The investigation began with a US FBI investigation into a whistleblower's allegations of money laundering at BBVA's Puerto Rico subsidiary and this led to claims that BBVA had US $227 million in secret accounts. A trail reportedly led from that account to Latin America. Judge Garzon stated in 2002 that he had not received solid responses to his formal requests for information from the Cayman Islands, Gibraltar, Liechtenstein, Monaco, Puerto Rico, Jersey and the US state of Delaware. The case against BBVA had different areas of investigation. One of them concerned allegations of money laundering at BBVA's Puerto Rico subsidiary and was dismissed by Judge Grande Marlaska in March 2005, during a leave of absence of Judge Garzon (he was teaching in the USA). Judge Marlaska referred to the 'absolute lack of evidence' against the BBVA and supported his decision with an audit by KPMG and the testimony of BBVA executives. Another set of allegations concerned secret accounts and false book keeping and led to a conviction in December 2005, with the former president of BBVA was sentenced to six months in prison. Best information suggests that the allegations of corruption are no longer under investigation."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments of Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">Unspecified <br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        It appears that the corruption investigation was closed without action.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Transparency International 2009 OECD Anti-Bribery Convention Progress Report</p><p>BBC News: "Spanish bank BBVA under criminal probe" (9 Apr. 2002)</p><p>Global Policy Forum: "Spain: Tax Havens Stymie Judge Garzon's Investigations"</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

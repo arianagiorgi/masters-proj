@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842589ci7x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18425817956" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VOLVO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(67)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842585pu86" width="415" height="61" /></div>
+    
+        <h1>VOLVO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AB Volvo ("Volvo")<br />Volvo Construction Equipment International (wholly-owned subsidiary of Volvo, located in Eskilstuna, Sweden, which merged into Volvo Construction Equipment AB in January 2006) ("VCEI") <br />Renault Trucks SAS (a wholly-owned subsidiary of Volvo formerly called Renault V.I. and located in Lyon, France) ("Renault Trucks")<br />Rune Lundberg<br />Håkan Nirstedt<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Commercial transport solutions, including trucks, buses and construction equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Goteburg, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ brought separate charges against two Volvo subsidiaries, Volvo Construction Equipment AB and Renault Trucks SAS, with conspiracy to commit wire fraud and violate the books and records provisions of the FCPA in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  <br /><br />Separately, the SEC charged AB Volvo with violating the FCPA's books and records and internal controls provisions in connection with approximately $6,206,331 in kickback payments, and authorized additional payments of $2,388,419, made by two Volvo subsidiaries to the Iraqi government under the U.N. Oil for Food Program.  The payments were made to secure contracts for the sale of trucks and heavy commercial construction equipment under the Oil for Food Program.  Some of the payments were made directly and some indirectly through agents or distributors.  The payments were generally characterized as after-sales service fees ("ASSFs") and were placed in Iraqi-controlled back accounts in Jordan and elsewhere.   <br /><br />Between November 2000 and July 2001, Renault Trucks entered into at least 18 contracts under the Oil for Food Program to supply trucks.  The company subcontracted commercial bodybuilders to outfit the trucks according to Iraqi government specifications.  Renault Trucks paid ASSFs to the Iraq government via these bodybuilders, who added the costs of the kickbacks to the invoices they submitted to Renault Trucks for payment.  In this manner, Renault Trucks paid ASSFs of $5,103,941 and authorized an additional $1,255,922 that were not paid in the end.<br /><br />Between October 1999 and July 2000, prior to the Iraqi government's imposition of ASSFs, VCEI entered into four contracts and paid over $103,000 in kickbacks to Iraqi ministries.  On two of the contracts, the kickbacks represented between 5% and 11.27% of the value of the contracts.  The payments were largely made through a Jordanian agent.  In one instance, $19,000 was given to the Jordanian agent in order to purchase a car for the Ministry of Interior.  <br /><br />After Iraq began imposing ASSFs, VCEI or its distributors entered into five additional contracts.  Despite internal memoranda demonstrating VCEI's recognition that the payment of ASSFs would violate the U.N. embargo rules, the company went forward with the payments.  On the first contract, VCEI disguised the kickbacks by inflating the U.N. contract prices by 10% and entering into a backdated agency agreement with the Jordanian agent, who then invoiced VCEI for its commission on the sale, which included reimbursement for the ASSF.  In an effort to distance itself from the ASSFs in future transactions, VCEI then made the Jordanian agent its distributor, allowing the agent to purchase vehicles directly from VCEI and then sell to the U.N. directly at an inflated prices.  VCEI sold its products to the Jordanian agent with sufficient spread to enable him to make the ASSF payments.  <br /><br />VCEI also used a Tunisian distributor in a similar manner for other sales to Iraq under the Oil for Food Program.  In total, VCEI or its distributors authorized over $2.2 million in ASSF payments in connection with its sales of heavy commercial construction equipment to the Iraqi government.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made or Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$8,599,863</p>
+</td>
+<td>
+<p style="text-align: center;">Profits of approximately <br />$7,299,208 from contracts for the sale of trucks and heavy commercial construction equipment</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Volvo subsidiaries.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.<br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 20, 2008, Volvo entered into a three-year deferred prosecution agreement with the DOJ, accepting responsibility for the conduct of its two subsidiaries and agreeing to pay a $7,000,000 criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, Volvo consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Volvo was ordered to disgorge $7,299,208 in profits plus $1,303,441 in prejudgment interest, and to pay a civil penalty of $4,000,000.<br /><br />In 2007, Sweden’s National Anti-Corruption Unit (Riksenheten mot corruption), launched an investigation of three Volvo executives for transgressions in the Oil-for-Food program, and in March 2009 charged the three with bribery.  On 3 April 2012, two of the former executives, who worked for Volvo Construction Equipment International AB, were found guilty by the Eskilstuna District Court (Sweden) of offering 24 million kroner (USD 3.6 million) in kickbacks to Iraqi officials in order to secure contracts for the sale of construction vehicles.  Rune Lundberg and Håkan Nirstedt received suspended sentences, and were fined USD 18,000 and USD 9,000 respectively.  The prosecutor declined to demand a corporate fine because of Volvo’s payment of the USD 19.6 fine to the U.S. authorities in the 2008 FCPA settlement.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=287">DOJ Press Release: March 20, 2008 (AB Volvo to Pay $7 Million Penalty for Kickback Payments to the Iraqi Government Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=288">SEC Litigation Release: March 20, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against AB Volvo For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $12.6 Million in Civil Penalties, Dis</a></p><p><a href="file.asp?id=289">SEC Complaint: SEC v. AB Volvo (March 20, 2008)</a></p><p><a href="file.asp?id=290">Criminal Information: U.S. v. Volvo Construction Equipment AB (March 20, 2008</a></p><p><a href="file.asp?id=291">Criminal Information: U.S. v. Renault Trucks SAS (March 20, 2008)</a></p><p><a href="file.asp?id=292">Volvo Press Release: March 20, 2008 (in English)</a></p><p><a href="file.asp?id=293">Volvo Press Release:  March 20, 2008 (in Swedish)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19211525kb9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192115f6a8q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VOLVO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(67)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192115qrb8t" width="415" height="61" /></div>
+    
+        <h1>VOLVO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AB Volvo ("Volvo")<br />Volvo Construction Equipment International (wholly-owned subsidiary of Volvo, located in Eskilstuna, Sweden, which merged into Volvo Construction Equipment AB in January 2006) ("VCEI") <br />Renault Trucks SAS (a wholly-owned subsidiary of Volvo formerly called Renault V.I. and located in Lyon, France) ("Renault Trucks")<br />Rune Lundberg<br />Håkan Nirstedt<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Commercial transport solutions, including trucks, buses and construction equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Goteburg, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ brought separate charges against two Volvo subsidiaries, Volvo Construction Equipment AB and Renault Trucks SAS, with conspiracy to commit wire fraud and violate the books and records provisions of the FCPA in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  <br /><br />Separately, the SEC charged AB Volvo with violating the FCPA's books and records and internal controls provisions in connection with approximately $6,206,331 in kickback payments, and authorized additional payments of $2,388,419, made by two Volvo subsidiaries to the Iraqi government under the U.N. Oil for Food Program.  The payments were made to secure contracts for the sale of trucks and heavy commercial construction equipment under the Oil for Food Program.  Some of the payments were made directly and some indirectly through agents or distributors.  The payments were generally characterized as after-sales service fees ("ASSFs") and were placed in Iraqi-controlled back accounts in Jordan and elsewhere.   <br /><br />Between November 2000 and July 2001, Renault Trucks entered into at least 18 contracts under the Oil for Food Program to supply trucks.  The company subcontracted commercial bodybuilders to outfit the trucks according to Iraqi government specifications.  Renault Trucks paid ASSFs to the Iraq government via these bodybuilders, who added the costs of the kickbacks to the invoices they submitted to Renault Trucks for payment.  In this manner, Renault Trucks paid ASSFs of $5,103,941 and authorized an additional $1,255,922 that were not paid in the end.<br /><br />Between October 1999 and July 2000, prior to the Iraqi government's imposition of ASSFs, VCEI entered into four contracts and paid over $103,000 in kickbacks to Iraqi ministries.  On two of the contracts, the kickbacks represented between 5% and 11.27% of the value of the contracts.  The payments were largely made through a Jordanian agent.  In one instance, $19,000 was given to the Jordanian agent in order to purchase a car for the Ministry of Interior.  <br /><br />After Iraq began imposing ASSFs, VCEI or its distributors entered into five additional contracts.  Despite internal memoranda demonstrating VCEI's recognition that the payment of ASSFs would violate the U.N. embargo rules, the company went forward with the payments.  On the first contract, VCEI disguised the kickbacks by inflating the U.N. contract prices by 10% and entering into a backdated agency agreement with the Jordanian agent, who then invoiced VCEI for its commission on the sale, which included reimbursement for the ASSF.  In an effort to distance itself from the ASSFs in future transactions, VCEI then made the Jordanian agent its distributor, allowing the agent to purchase vehicles directly from VCEI and then sell to the U.N. directly at an inflated prices.  VCEI sold its products to the Jordanian agent with sufficient spread to enable him to make the ASSF payments.  <br /><br />VCEI also used a Tunisian distributor in a similar manner for other sales to Iraq under the Oil for Food Program.  In total, VCEI or its distributors authorized over $2.2 million in ASSF payments in connection with its sales of heavy commercial construction equipment to the Iraqi government.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made or Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$8,599,863</p>
+</td>
+<td>
+<p style="text-align: center;">Profits of approximately <br />$7,299,208 from contracts for the sale of trucks and heavy commercial construction equipment</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Volvo subsidiaries.  It is likely that the release of the Independent Inquiry Committee's report prompted the DOJ and SEC's investigation.<br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On March 20, 2008, Volvo entered into a three-year deferred prosecution agreement with the DOJ, accepting responsibility for the conduct of its two subsidiaries and agreeing to pay a $7,000,000 criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, Volvo consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Volvo was ordered to disgorge $7,299,208 in profits plus $1,303,441 in prejudgment interest, and to pay a civil penalty of $4,000,000.<br /><br />In 2007, Sweden’s National Anti-Corruption Unit (Riksenheten mot corruption), launched an investigation of three Volvo executives for transgressions in the Oil-for-Food program, and in March 2009 charged the three with bribery.  On 3 April 2012, two of the former executives, who worked for Volvo Construction Equipment International AB, were found guilty by the Eskilstuna District Court (Sweden) of offering 24 million kroner (USD 3.6 million) in kickbacks to Iraqi officials in order to secure contracts for the sale of construction vehicles.  Rune Lundberg and Håkan Nirstedt received suspended sentences, and were fined USD 18,000 and USD 9,000 respectively.  The prosecutor declined to demand a corporate fine because of Volvo’s payment of the USD 19.6 fine to the U.S. authorities in the 2008 FCPA settlement.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=287">DOJ Press Release: March 20, 2008 (AB Volvo to Pay $7 Million Penalty for Kickback Payments to the Iraqi Government Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=288">SEC Litigation Release: March 20, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against AB Volvo For Improper Payments to Iraq Under the U.N. Oil for Food Program — Company Agrees to Pay Over $12.6 Million in Civil Penalties, Dis</a></p><p><a href="file.asp?id=289">SEC Complaint: SEC v. AB Volvo (March 20, 2008)</a></p><p><a href="file.asp?id=290">Criminal Information: U.S. v. Volvo Construction Equipment AB (March 20, 2008</a></p><p><a href="file.asp?id=291">Criminal Information: U.S. v. Renault Trucks SAS (March 20, 2008)</a></p><p><a href="file.asp?id=292">Volvo Press Release: March 20, 2008 (in English)</a></p><p><a href="file.asp?id=293">Volvo Press Release:  March 20, 2008 (in Swedish)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

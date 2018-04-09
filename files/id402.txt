@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192611oqsm4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926110149a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GOLDMAN SACHS GROUP INC. (Libya)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(402)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926117k4h7" width="415" height="61" /></div>
+    
+        <h1>GOLDMAN SACHS GROUP INC. (Libya)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Goldman Sachs Group Inc.<br />Libyan Investment Authority, a sovereign wealth fund set up in 2007 and controlled by Muammar Qadaffi<br />Palladyne International Asset Management BV
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Financial services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York City, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Libya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Press reports from June 2011 reveal that until February 2011, Goldman had been negotiating with Libya's sovereign investment fund, the Libyan Investment Authority ("LIA").  Earlier, LIA had given Goldman Sachs USD 1.3 billion to invest, but the investments lost 98% of their value.  In exchange for a waiver of liability claims, Goldman agreed to pay some of the costs plus USD 50 million to an outside consultant, Palladyne,  which was run by the son-in-law of the head of Libya's state-owned oil company. <br /><br />The Company's spokesman, Lucas van Praag, noted, "We are confident that nothing we did or proposed was or could have been a breach of any rule or regulation.  We retained outside counsel, as is our normal practice for any transaction, to ensure that we were compliant with all applicable rules."<br /><br />The Company's SEC filings state that it and "certain of its affiliates are subject to a number of investigations and reviews . . . including compliance with the U.S. Foreign Corrupt Practices Act and the effectiveness of insider trading controls and internal information barriers."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1791">Goldman Sachs - SEC Form 10-K (28 February 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

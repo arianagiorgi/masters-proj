@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192250br523">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922507j92x" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FCPA STING OPERATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(172)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922501gc6d" width="415" height="61" /></div>
+    
+        <h1>FCPA STING OPERATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Daniel Alvirez (President of a Bull Shoals, Arkansas-based law enforcement and military equipment company, identified in the press as ALS Technologies, Inc.)<br />Lee Allen Tolleson (Director of Acquisitions and Logistics at a Bull Shoals, Arkansas-based law enforcement and military equipment company, identified in the press as ALS Technologies, Inc.)<br />Helmie Ashiblie (Vice President and founder of a Woodbridge, Virginia-based security and law enforcement equipment company, identified in the press as i-SHOT, Inc.)<br />Andrew Bigelow (Managing Partner and Director of Government Programs at a Sarasota, Florida-based small arms company, identified in the press as The Gun Search.com LLC)<br />R. Patrick Caldwell (Chief Executive Officer of a Sunrise, Florida-based body armor manufacturer, identified in the press as Protective Products of America)<br />Stephen Gerard Giordanella (former Chief Executive Officer of a Sunrise, Florida-based body armor manufacturer, identified in the press as Protective Products of America)<br />Yochanan R. Cohen (also known as "Yochi Cohen") (Chief Executive Officer of a San Francisco, California-based security equipment manufacturer, identified in the press as High-Com Security, Inc.) <br />Haim Geri (President of a North Miami Beach, Florida-based sales agent for military and law enforcement equipment companies, identified in the press as High Tech USA)<br />Amaro Goncalves (Vice President of Sales at a Springfield, Massachusetts-based firearm manufacturer, identified in the press as Smith & Wesson Holding Corp.)<br />John Gregory Godsey (also known as "Greg Godsey") (Owner of a Decatur, Georgia-based ammunition company)<br />Mark Frederick Morales (Agent for a Decatur, Georgia-based ammunition company)<br />Saul Mishkin (Owner and Chief Executive Officer of a Aventura, Florida-based military and law enforcement equipment company, identified in the press as International Security and Defense Systems Ltd.)<br />John M. Mushriqui (Director of International Development at an Upper Darby, Pennsylvania-based bulletproof vest manufacturer and exporter, identified in the press as Mushriqui Consulting LLC)<br />Jeana Mushriqui (General Counsel and U.S. Manager at an Upper Darby, Pennsylvania-based bulletproof vest manufacturer and exporter, identified in the press as Mushriqui Consulting LLC)<br />David R. Painter (Chairman of a United Kingdom company that markets armored vehicles, identified in the press as Security Support Solutions Ltd.)<br />Lee M. Wares (Director of a United Kingdom company that markets armored vehicles, identified in the press as Security Support Solutions Ltd.)<br />Pankesh Patel (Managing Director at a United Kingdom company that acts as a sales agent for military and law enforcement equipment companies, identified in the press as Quartermasters Stores)<br />Ofer Paz (President and Chief Executive Officer of an Israeli company that acts as a sales agent for military and law enforcement equipment companies, identified in the press as Paz Logistics Ltd.)<br />Jonathan M. Spiller (Owner and President of a Ponte Vedra Beach, Florida-based company that markets and sells military and law enforcment equipment, identified in the press as The Spiller Group; former President and CEO of Armor Holdings Inc. until his firing in April 2003)<br />Israel Weisler (also known as "Wayne Weisler") (Owner and Co-Chief Executive Officer of a Stearns, Kentucky-based manufacturer of armor products, identified in the press as ArmorShield USA)<br />Michael Sacks (Owner and Co-Chief Executive Officer of a Stearns, Kentucky-based manufacturer of armor products, identified in the press as ArmorShield USA)<br />John Benson Wier III (President of a St. Petersburg, Florida-based company that sells tactical and ballistic equipment, identified in the press as SRT Supply, Inc.)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Military and law enforcement products companies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Various
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Georgia<br />Unspecified<br />Gabon<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In indictments unsealed on 19 January 2010 , the DOJ charged that, from at least May 2009 to December 2009, Daniel Alvirez, Lee Allen Tolleson, Helmie Ashiblie, Andrew Bigelow, R. Patrick Caldwell, Stephen Gerard Giordanella, Yochanan R. Cohen, Haim Geri, Amaro Goncalves, John Gregory Godsey, Mark Frederick Morales, Saul Mishkin, John M. Mushriqui, Jeana Mushriqui, David R. Painter, Lee M. Wares, Pankesh Patel, Ofer Paz, Jonathan M. Spiller, Israel Weisler, Michael Sachs, and John Benson Wier III (collectively, "the Defendants") allegedly conspired and made improper payments to the Minister of Defense in an unnamed African country (the "Minister") in an attempt to secure contracts for the sale of military and law enforcement equipment to outfit the country's Presidential Guard.  The Ministry of Defense contracts for the Presidential Guard were valued at approximately USD 15 million in total.  The press has since reported that the country was represented by the undercover agents to be the Republic of Gabon. <br /><br />The Defendants allegedly entered into various agreements with representatives of the Minister under which they agreed to inflate the true price of their products by 20%, with 10% of the "commission" going to the Minister himself and the other 10% to be split amongst the representatives.  The Defendants allegedly agreed to create two price quotations – one reflecting the true price and the other reflecting the inflated price.  <br /><br />The scheme was arranged to proceed in two phases.  The first phase involved a small "test sale" to reassure the Minister that he would personally receive the "commission" payment, while the second phase represented the full Ministry of Defense purchase orders.  At the time of their arrest in January 2010, the Defendants had paid the commissions in the test sale and had executed the inflated purchase agreements for the second phase. <br /><br />On 5 March 2010, the DOJ filed a superseding information against Daniel Alvirez, President of ALS Technologies, Inc., containing two counts of conspiracy to violate the FCPA.  The first count alleges that Alvirez conspired with Lee Allen Tolleson and others to bribe the Minister of Defense in the unnamed African Country (understood to be Gabon), as laid out in the initial indictment.  The second count in the 5 March information alleges that Alvirez and his conspirators conspired to bribe Ministry of Defense officials in the Republic of Georgia in order to win contracts for the sale of ammunition and Meals, Ready to Eat ("MREs") to the government of Georgia.  The information alleges that Alvirez used corrupt Israeli and Miami-based sales agents to facilitate the transactions.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments&nbsp;to be Paid to&nbsp;the African Minister of Defense&nbsp;</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Sought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 1.5 million (10% "commission")</td>
+<td style="text-align: center;">&nbsp;Military equipment contracts worth approximatley USD 15 million in total</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        While the Defendants believed they were bribing the Minister of Defense in an African country through sales agents apparently close to the Minister, the entire scheme was, in reality, a large-scale undercover sting operation by the DOJ and FBI.  The Minister's representatives were, in fact, undercover FBI agents and the Minister's demands were fictional.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 11 December 2009, a grand jury in Washington, D.C. returned indictments against the 22 individuals, each alleging that the Defendants conspired to violate the FCPA, conspired to engage in money laundering and engaged in substantive violations of the FCPA.  The indictments also seek criminal forfeiture of the Defendants’ ill-gotten gains.<br /><br />On 18 January 2010, approximately 150 FBI agents executed fourteen search warrants in locations across the country, and the United Kingdom’s City of London Police executed seven search warrants in connection with their own investigations into companies involved in the foreign bribery conduct that formed the basis for the indictments. <br /><br />On 19 January 2010, the indictments were unsealed and the twenty-two Defendants were arrested.  Twenty-one were arrested in Las Vegas, Nevada, where they were preparing to attend the 2010 Shooting, Hunting & Outdoor Trade ("SHOT") Show in Las Vegas.  The final individual was arrested in Miami, Florida. <br /><br />On 3 February 2010, nineteen of the Defendants entered pleas of not-guilty at their arraignments, challenging prosecutors' single-conspiracy theory.  The remaining three Defendants were expected to be arraigned sometime during the week of 8 February. <br /><br />Under the original indictments, the Defendants each face a maximum prison sentence of five years for the conspiracy count and five years for each FCPA count.  The  money laundering conspiracy charge carries a maximum sentence of twenty years in prison.<br /><br />As discussed above, on 5 March 2010, prosecutors filed a superseding information against Daniel Alvirez, in which he is charged with two counts of conspiracy to violate the FCPA.  The information also seeks forfeiture of Alvirez's ill-gotten gains.  Alvirez now faces up to five years in prison for each of the two conspiracy counts.  He no longer faces the possible twenty-year sentence in connection with the previous money laundering charge, nor the possible five years in prison for each of the substantive FCPA offenses in the initial indictment.<br /><br />On 19 April 2010, the grand jury issued a superseding indictment against the 22 defendants, thereby consolidating the 16 separate cases.  The superseding indictment consists of 44 counts, including conspiracy to violate the FCPA, substantive FCPA violations, conspiracy to commit money laundering and aiding and abetting.  The same day, prosecutors filed a notice with the court proposing a plan for grouping the defendants into four manageable units for trial.  The presiding judge, Richard Leon, had stated on 3 February that he would not try all 22 defendants together. <br /><br />On 28 April 2010, 21 of the defendants (all but Daniel Alvirez) entered pleas of not guilty to the superseding indictment.  <br /><br />On 1 March 2011, Daniel Alvirez pleaded guilty to two counts of conspiracy to violate the FCPA.  He is expected to testify at trial against the other defendants.   <br /><br />On 29 March 2011 Jonathan Spiller pleaded guilty to conspiracy to violate the FCPA.  The substantive FCPA charges and the money laundering conspiracy charges were dropped.  Spiller faces a maximum sentence of five years in prison.  He could be expected to testify at trial against the other defendants.  <br /><br />On 28 April 2011, Haim Geri pleaded guilty to one count of conspiracy to violate the FCPA.  The other charges were dropped.  He faces 18 to 24 months in prison and a USD 250,000 fine.<br /><br />On 7 July 2011, after seven days of jury deliberations following the six-week trial of the first four defendants - Pankesh Patel, Andrew Bigelow, John Benson Weir and Lee Allen Tolleson - U.S. District Judge Richard Leon declared a mistrial.  The jurors could not reach a unanimous verdict. <br /><br />On 22 December 2011, U.S. District Judge Richard J. Leon entered judgment acquitting Stephen G. Giordanella of conspiracy to violate the Foreign Corrupt Practices Act (FCPA). The Judge found that the Government's evidence was insufficient to sustain a conviction after a twelve week jury trial in U.S. District Court for the District of Columbia. <br /><br />On 30 January 2012, a jury acquitted  R. Patrick Caldwell and John Godsey of FCPA violations.   At the time of his arrest, Caldwell was CEO of Protective Products of America, Inc., a body armor company.  Godsey owned an ammunition and law enforcement equipment business.  <br /><br />A day later, on 31 January 2012, U.S. District Judge Richard Leon declared a mistrial in the case against defendants John and Jeana Mushriqui and Marc Morales, after the jury deliberated for ten days without reaching a consensus.<br /><br />On 21 February 2012, the government filed a motion in the US District Court for the District of Columbia, to dismiss with prejudice the superseding indictment and all underlying indictments against  the remaining defendants pending trial in the case.  In its motion, the government cited "the impact of certain evidentiary and other legal rulings in the first two trials" as well as cost, as its motives for seeking to close the case.  Earlier, news reports had accused the FBI of conducting the Sting operation in a highly unprofessional manner.<br /><br />Granting the government's motion to dismiss, U.S. District Court Judge Richard Leon noted, "This appears to be the end of a long and sad chapter in the annals of white collar criminal enforcement.  Unlike takedown day in Las Vegas, however, there will be no front page story in the New York Times or the Post for that matter tomorrow reflecting the government’s decision today to move to dismiss the charges against the remaining defendants in this case.  Funny isn’t it what sells newspapers.<br /><br />"The good news, however, is that for these defendants, agents, prosecutors, defense counsel and the Court we can get on with our professional and personal lives without the constant strain and burden of three to four more eight week trials hanging over our heads.<br /><br />"I for one hope this very long, and I’m sure very expensive, ordeal will be a true learning experience for both the Department and the FBI as they regroup to investigate and prosecute FCPA cases against individuals in the future."<br /><br />Following dismissal of the charges against all defendants except those who had pleaded guilty following their arrest at the outset of the investigation, the question remained what the Government would decide to do about the "guilty" defendants.  On 27 March 2012, the Government answered this question by filing a Motion to Dismiss with prejudice the superceding indictment filed against Jonathan Spiller, Haim Geri, Daniel Alvirez in March 2010.  The only charge left open for future prosecution is the conspiracy charge against Alvirez, which the government dismissed without prejudice, noting, "The government has also concluded that it is in the interests of justice not to prosecute defendant Alvirez on the Georgia conspiracy count at this time, but rather to continue the investigation of that and related conduct. Following such investigation, the government will determine whether to bring criminal charges relating to that conduct."<br /><br />The primary informant used by the FBI in the Sting operation, Richard Bistrong, was sentenced on 31 July 2012 to 18 months in prison and three years of supervised release for his role in FCPA violations while employed by Armor Holdings prior to the Sting.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The sting operation and the related indictments represent the largest FCPA enforcement action undertaken by the DOJ against individuals, as well as the first large-scale use of undercover techniques in the FCPA enforcement context.  The high-profile arrests demonstrate the DOJ's continued focus on individual wrongdoers in FCPA enforcement matters.</li><li>It is not only large, multinational companies that are subject to the FCPA and other foreign bribery laws.  As this case demonstrates, small dealers and agents serving as intermediaries in larger transactions are equally exposed and must adopt the same anti-bribery compliance strategies as their larger counterparts.</li><li>However, the government's failure to obtain any guilty verdicts upon trial, raise questions about the efficacy of a sting operation based on a fabricated transaction.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=662">DOJ Press Release: Twenty-Two Executives and Employees of Military and Law Enforcement Products Companies Charged in Foreign Bribery Scheme (January 19, 2010)</a></p><p><a href="file.asp?id=663">Indictment: U.S. v. Daniel Alvirez and Lee Allen Tolleson (Dec. 11, 2009)</a></p><p><a href="file.asp?id=664">Indictment: U.S. v. Helmie Ashiblie (Dec. 11, 2009)</a></p><p><a href="file.asp?id=665">Indictment: U.S. v. Andrew Bigelow (Dec. 11, 2009)</a></p><p><a href="file.asp?id=666">Indictment: U.S. v. R. Patrick Caldwell and Stephen Gerard Giordanella (Dec. 11, 2009)</a></p><p><a href="file.asp?id=667">Indictment: U.S. v. Yochanan R. Cohen (Dec. 11, 2009)</a></p><p><a href="file.asp?id=668">Indictment: U.S. v. Haim Geri (Dec. 11, 2009)</a></p><p><a href="file.asp?id=669">Indictment: U.S. v. Amaro Goncalves (Dec. 11, 2009)</a></p><p><a href="file.asp?id=670">Indictment: U.S. v. John Gregory Godsey and Mark Frederick Morales (Dec. 11, 2009)</a></p><p><a href="file.asp?id=671">Indictment: U.S. v. Saul Mishkin (Dec. 11, 2009)</a></p><p><a href="file.asp?id=672">Indictment: U.S. v. John M. Mushriqui and Jeana Mushriqui (Dec. 11, 2009)</a></p><p><a href="file.asp?id=673">Indictment: U.S. v. David R. Painter and Lee M. Wares (Dec. 11, 2009)</a></p><p><a href="file.asp?id=674">Indictment: U.S. v. Pankesh Patel (Dec. 11, 2009)</a></p><p><a href="file.asp?id=675">Indictment: U.S. v. Ofer Paz (Dec. 11, 2009)</a></p><p><a href="file.asp?id=676">Indictment: U.S. v. Jonathan M. Spiller (Dec. 11, 2009)</a></p><p><a href="file.asp?id=677">Indictment: U.S. v. Israel Weisler and Michael Sachs (Dec. 11, 2009)</a></p><p><a href="file.asp?id=678">Indictment: U.S. v. John Benson Wier III (Dec. 11, 2009)</a></p><p><a href="file.asp?id=703">Superseding Information: U.S. v. Daniel Alvirez (March 5, 2010)</a></p><p><a href="file.asp?id=785">Superseding Indictment: U.S. v. Amaro Goncalves et al (April 19, 2010)</a></p><p><a href="file.asp?id=1460">Plea Agreement - Haim Geri - April 28, 2011</a></p><p><a href="file.asp?id=1700">Sting - Racy, vulgar texts hurt sting operation 13 February 2012</a></p><p><a href="file.asp?id=1701">Sting - Motion to Dismiss (all remaining) 21 Feb 2012</a></p><p><a href="file.asp?id=1757">Sting - Motion-to-Dismiss-Spiller-Geri-Alvirez (27 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

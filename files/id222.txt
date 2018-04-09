@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19233646v76">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192336qs4xe" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SITEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(222)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192336oy743" width="415" height="61" /></div>
+    
+        <h1>SITEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        SITEL Corporation ("SITEL")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global business process outsourcing provider
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Nashville, Tennessee, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        SITEL described the ongoing investigation as follows in a 2006 SEC Form 10-Q.  The company was acquired by ClientLogic in 2007 and taken private, after which there is no further public information regarding the status of the investigation.<br /><br />"On March 1, 2006, we contacted the U.S. Securities and Exchange Commission Enforcement Division and reported that we had identified accounting and other irregularities in our Brazil subsidiary that raised the possibility of violations of the U.S. Foreign Corrupt Practices Act. We completed an internal investigation into these irregularities, with the assistance of independent outside counsel in Brazil. The investigation did not reveal any prior involvement or knowledge regarding the irregularities by any officer or director of the Company. We have taken and are taking remedial actions. We restated our financial statements for the years ended December 31, 2001 through 2004 and for the quarters ended March 31, June 30, and September 30, 2005 as a result of errors in the prior financial statements identified as a result of the investigation. We reported to the SEC on the results of the internal investigation and are responding to the SEC’s requests for further information. We cannot predict the ultimate outcome of the ongoing discussions with the SEC. The outcome could include the institution of administrative or civil injunctive proceedings involving the Company and/or current or former Company employees, officers and/or directors, the imposition of fines and other penalties, remedies and/or sanctions and/or a referral to other governmental agencies."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations appear to be ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=837">SITEL: SEC Form 10-Q (Sept. 2006)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

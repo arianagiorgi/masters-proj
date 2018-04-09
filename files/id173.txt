@@ -1,0 +1,152 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19225131y29">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192251afvma" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ARMOR HOLDINGS / BISTRONG</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(173)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922514pm18" width="415" height="61" /></div>
+    
+        <h1>ARMOR HOLDINGS / BISTRONG</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Netherlands: National Police Services Agency<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Armor Holdings Inc. (Jacksonville, Florida-based armor systems manufacturer; acquired by BAE Systems, Inc. on 31 July 2007 and now part of BAE's mobile security division) <br />Armor Products International, Ltd. (UK subsidiary wholly-owned by Armor Holdings' Florida-based business division called "Armor Holdings Products, LLC")<br />Richard T. Bistrong (former Vice President for International Sales for Armor Holdings)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Body armor and other military and law enforcement safety equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Jacksonville, Florida, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Official/Agent of Public International Organization<br />Iraq<br />Netherlands<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 21 January 2010, the U.S. Department of Justice (“DOJ”) charged Richard T. Bistrong, the former Vice President for International Sales for Armor Holdings, with conspiracy to violate the FCPA's anti-bribery and books and records provisions and to export controlled goods without a license from the Department of Commerce, in connection with the company's international business development efforts between 2001 and 2007.  <br /><br />Bistrong and the then-managing director of a UK subsidiary of Armor Holdings allegedly paid kickbacks (called "success fees") to a UN procurement official, through an agent connected to the official, in order to ensure that Armor Holdings submitted the lowest bid for contracts to supply body armor to UN peacekeeping forces.   Armor Holdings earned approximately USD 7.1 million in revenue and USD 1.5 million in profits from sales under body armor contracts in 2001 and 2003, while making at least 92 commission payments totaling USD 222,750 to the agent with the knowledge that a portion of the money was to be passed on to the UN procurement official.  <br /><br />In 2001, Bistrong and a Norwegian consultant for  Armor Holdings, whose sales territory covered the Netherlands, allegedly paid kickbacks to a City of Rotterdam police officer, through a Dutch agent connected to the officer, in order to win a tender issued by the National Police Services Agency of the Netherlands ("KLPD") for the supply of pepper spray.  The Rotterdam police officer, who worked on procurement matters, caused the KLPD tender to specify the type of pepper spray manufactured by Armor Holdings and no other bidder.  In early 2002, KLPD awarded the contract to Armor Holdings, which subsequently earned USD 2.4 million in revenue and USD 480,000 in profits from pepper spray sales to the KLPD.  In 2003, Bistrong and the consultant caused Armor Holdings to pay approximately USD 15,000 in "marketing services" fees to the Dutch agent with the knowledge that the agent would then pass some or all of the money on to the Dutch police officer.<br /><br />In 2006, Bistrong and a Colombian sales employee at Armor Holdings allegedly orchestrated a kickback payment to an official at the Independent National Election Commission ("INEC") in Nigeria in order to secure the sale of Armor Holdings fingerprint ink pads to the INEC.  While a kickback was paid to a company designated by the INEC official, the purchase of the ink pads was never made.  <br /><br />Between 2001 and 2007, Bistrong and his co-conspirators allegedly concealed approximately USD 4.4 million in payments to agents and other third party intermediaries that helped Armor Holdings secure deals with foreign government customers, including Iraq.  Bistrong and his co-conspirators kept various improper payments off the company's books and records by submitting false invoices (called "net" invoices) to the company's accounting department.  <br /><br />In addition, in March 2004, Bistrong and the then-managing director of the UK subsidiary allegedly arranged for the export of Department of Commerce-controlled protective gear, including ballistic helmets and armored vests, to the United Arab Emirates, for further delivery to the Kurdistan Regional Government in Iraq, without a validated export license.<br /><br />According to press reports, Bistrong is "Individual 1" mentioned in the indictments in the "FCPA Sting Operation" of 19 January 2010, which charged twenty-two executives in the law enforcement and military equipment industry of paying bribes to undercover agents posing as representatives of the Minister of Defense of an African nation.  Bistrong, "Individual 1," allegedly handled the introductions and posed as the broker for the deals.  [See Compendium summary titled "FCPA Sting Operation."]  The FCPA Sting Operation eventually came to naught, with three defendants reaching plea agreements with the DOJ early in the proceedings, and the remaining 19 either acquitted upon trial, tried with no result (mistrial), or not yet tried, by mid-February 2012.  Reports surfaced in the press indicating that FBI agents had behaved unprofessionally in their conduct of the Sting, particularly in their interchanges with Bistrong.  Then, on 21 February 2012, the government moved to dismiss the case with prejudice as against all remaining defendants.<br /><br />On 13 July 2011, Armor Holdings reached settlements with the DOJ and U.S. Securities and Exchange Commission (“SEC”) regarding the improper payments to the UN official, as well as the USD 4.4 million in improperly recorded third party commissions used to assist it in obtaining business from foreign government customers, including Iraq.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to UN Procurement Official</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;A portion of USD 222,750 in kickbacks ("success fees")<br /></td>
+<td style="text-align: center;">UN body armor contracts, earning approximately USD 7.1 million in revenue and USD 1.5 million in profits<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payment to Dutch Police Officer</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Some or all of USD 15,000 in "marketing services" fees<br /></td>
+<td style="text-align: center;">Pepper spray contracts for the Dutch police, earning approximately USD 2.4 million in revenue and USD 480,000 in profits</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payment to Nigerian Election Official</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified<br /></td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Questionable Payments Concealed from Company Books and Records</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 4.4 million<br /></td>
+<td style="text-align: center;">&nbsp;Contracts with foreign government customers, including Iraq, of unspecified value<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Armor Holdings became a subsidiary of BAE Systems in 2007.  According to press reports, Bistrong was terminated from Armor Holdings prior to the BAE Systems acquisition.  Armor Holdings self-disclosed the conduct to the DOJ and SEC around this time.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 January 2010, the one-count criminal information against Bistrong was filed in the U.S. District Court for the District of Columbia.<br /><br />On 16 September 2010, Bistrong pleaded guilty to conspiracy to violate the FCPA and other statutes.  He faces up to five years in prison and a USD 250,000 fine.  Although prosecutors in the case requested leniency for Bistrong, he was sentenced on 31 July 2012 to 18 months in prison and three years of supervised release.  Bistrong began serving his sentence in October 2012, and is scheduled to be released on 15 January 2014.<br /><br />According to a Transparency International report, the National Police Services Agency in the Netherlands has initiated an investigation into the allegations involving the Dutch police.<br /><br />On 13 July 2011, Armor Holdings entered into a non-prosecution agreement with the DOJ in connection with the above-described USD 222,750 in improper payments to an agent, a portion of which was passed on to the UN procurement official, and the USD 4.4 million improperly recorded third party commissions used to assist the company in obtaining business from foreign government customers.  The company agreed to pay a USD 10.2 million criminal fine.  In its press release, the DOJ explicitly acknowledged the company's voluntary disclosure, cooperation and remedial measures:<br /><br />"The Justice Department's agreement recognizes Armor's complete voluntary disclosure of the conduct; its internal investigation and cooperation with the department and the SEC; the fact that the conduct took place prior to the acquisition of Armor by BAE; and Armor's extensive remedial efforts undertaken before and after its acquisition by BAE.  Due to Armor's implementation of BAE's due diligence protocols and review processes, its application of BAE's compliance policies and internal controls to all Armor businesses, its extensive remediation and improvement of its compliance systems and internal controls, as well as the enhanced compliance undertakings included in the agreement, Armor is not required to retain a corporate monitor.   Armor will be required to report to the department on implementation of its remediation and enhanced compliance efforts every six months for the duration of the agreement.  In addition to the $10.29 million penalty, the agreement requires that Armor continue to implement rigorous internal controls and that it cooperate fully with the department."<br /><br />Also on 13 July 2011, Armor Holdings reached a settlement with the SEC regarding the USD 222,750 in improper payments to an agent, a portion of which was passed on to the UN procurement official, and the USD 4.4 million improperly recorded third party commissions.  Without admitting or denying the SEC's allegations, Armor Holdings agreed to the entry of a court order permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  The company agreed to pay USD 1,552,306 in disgorgement, USD 458,438 in prejudgment interest, and a civil money penalty of USD 3,680,000, along with certain FCPA compliance undertakings.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The Department of Justice is keen to emphasize that a company's self-reporting, cooperation and remedial efforts will result in tangible benefits when a settlement is reached (e.g., a non-prosecution agreement and/or avoidance of a compliance monitor).</li><li>Officials of public international organizations, such as the United Nations, are considered "foreign officials" under the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=680">Criminal Information: U.S. v. Bistrong (21 January 2010)</a></p><p><a href="file.asp?id=1541">DOJ Press Release: "Armor Holdings Agrees to Pay $10.2 Million Criminal Penalty to Resolve Violations of the Foreign Corrupt Practices Act" (13 July 2011)</a></p><p><a href="file.asp?id=1542">SEC Press Release: "SEC Charges Armor Holdings, Inc. With FCPA Violations in Connection With Sales to the United Nations" (13 July 2011)</a></p><p><a href="file.asp?id=1543">Complaint: SEC v. Armor Holdings, Inc. (13 July 2011)</a></p><p>Washington Post: "Charges dismissed against 16 accused of bribing foreign official in sting" (21 February 2012)</p><p><a href="file.asp?id=1715">FCPA Sting: Motion to Dismiss (all remaining) (21 Feb 2012)</a></p><p><a href="file.asp?id=1901">Armor Holdings: Letter from Bistrong to Judge Leon prior to sentencing (23 July 2012)</a></p><p><a href="file.asp?id=1902">Armor Holdings: Government Sentencing Memorandum (23 July 2012)</a></p><p><a href="file.asp?id=1903">Armor Holdings: Defendant's memorandum in aid of sentencing (23 July 2012)</a></p><p><a href="file.asp?id=2309">Transparency International: Progress Report - Enforcement of the OECD Anti-Bribery Convention (2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,124 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192213yq4md">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922136u4ba" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TRITON </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(130)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192213788v2" width="415" height="61" /></div>
+    
+        <h1>TRITON </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Triton Energy Corporation ("Triton")<br />Triton Indonesia, Inc. (Triton's wholly-owned subsidiary) ("Triton Indonesia") <br />Philip W. Keever (former President and General Manager of Triton Indonesia)<br />Richard L. McAdoo (former Vice President and General Manager of Triton Indonesia) <br />David Gore (a director and President of Triton)<br />Robert Puetz (Triton's Vice President of Finance and Chief Financial Officer) <br />William McClure (contract auditor with Triton Indonesia) <br />Robert P. Murphy (a certified public accountant and Controller of Triton Indonesia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and Gas Exploration
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Dallas, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1989 until 1990, Triton Indonesia made numerous improper payments to auditors for a state-owned oil company in Indonesia in order to receive favorable treatment under the terms of its contract with the state-owned oil company. <br /><br />In 1988, Triton Indonesia entered into a joint venture with Nordell International Resources Ltd. ("Nordell"), under which it operated an oil and gas recovery project in the Enim oil fields. Triton assumed all operational and financial control over the project and became a party to the Rehabilitation and Secondary Contract ("RSRC Contract") with the Parusahaan Pertambangan Minyak & Gas Bumi Negara ("Pertamina"), as state-owned oil company in Indonesia.<br /><br />Under the terms of the RSRC Contract, Triton Indonesia was to pay a tariff to Pertamina in order to use its pipeline to deliver the recovered oil. Pertramina would then reimburse Triton for certain costs incurred in the oil and gas recovery process. Triton would receive reimbursement by submitting monthly invoices that documented the volume of oil delivered through the pipeline, the pipeline fee, and a calculation of Triton Indonesia's reimbursable monthly operating costs. <br /><br />Pertamina auditors would conduct annual reviews of Triton and Triton Indonesia's books and records to determine whether costs were properly claimed. At the end of the audit process Triton Indonesia would sit down with the Pertamina auditors to review their preliminary findings, including any problems that might lead to a reduction in costs. Triton Indonesia would then prepare a written response and would negotiate the content of the final report with the auditors. These negotiation sessions led to Triton making a number of improper payments in order to receive and favorable audit report, increase the recoverable costs under the contract, and reduce Triton Indonesia's tax obligations.  <br /><br />The payments were allegedly made through entities owned by Roland Siouffi, Triton Indonesia's local business agent.  Triton Indonesia created false documents indicating the money was used for legitimate purposes, such as equipment repair, and improperly recorded the payments in its books and records. Richard McAdoo and Philip Keever authorized the payments and William McClure as the company's Controller approved them. <br /><br />In addition to payments for favorable audit reports and tax treatment, Triton Indonesia made cash payments totaling $1,000 per month to clerical employees at Pertamina in order to expedite the payment of monthly invoices.  Robert Murphy improperly documented these payments as "consulting fees" and "entertainment expenses." <br /><br />Triton management, including David Gore and Robert Puetz, were aware of the improper payments. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>&nbsp;Approximate payments to Indonesian Officials</p>
+</td>
+<td width="50%">
+<p>&nbsp;Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;$450,000</p>
+</td>
+<td>
+<p>&nbsp;Favorable audit reports;</p>
+<p>Favorable tax treatment;</p>
+<p>$109,000 reimbursement of Value Added Tax Overpayment;</p>
+<p>Reimbursement of over-charge for pipeline tariff</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In September 1989, Triton's new Internal Auditor visited Triton Indonesia's facilities, reviewed the accounting documents and had discussions with McAdoo, Keever and other Triton Indonesia employees. He then wrote a confidential memorandum discussing his concerns about improper payments to Indonesian government officials. After reading the memorandum, David Gore instructed the Internal Auditor to collect all copies and destroy them.<br /><br />During their preparation for their audit of the company's 1991 fiscal year, Triton's outside auditors learned of the internal memorandum and raised concerns about Triton Indonesia's activities. When questioned, Keever and others at Triton Indonesia only made a partial disclosure, omitting most of the improper payments. <br /><br />In 1992 and 1994 Triton reclassified the improper payments.  It is likely the SEC learned of Triton Indonesia's conduct when the payments were reclassified. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On February 27, 1997, Triton, without admitting or denying the charges, consented to the entry of a final judgment permanently enjoining it from violating the books and records and internal controls provisions of the FCPA. Triton paid a $300,000 civil penalty.  In the same action, Philip Keever consented to the entry of a final judgment permanently enjoining him from violations of the FCPA's books and records provisions.  He was ordered to pay a $50,000 civil penalty. <br /><br />On the same day and in a related action, the SEC brought administrative proceedings against David Gore, Robert Puetz, William McClure and Robert Murphy. Without admitting or denying the allegations, Gore, Puetz, McClure and Murphy consented to the entry of a cease-and-desist order enjoining them form committing future violations of the books and records requirements of the Exchange Act. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Parent companies are responsible for the improper books and records of their foreign subsidiaries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=452">SEC Litigation Release: February 27, 1997 (SEC v. Triton Energy Corporation et al.)</a></p><p><a href="file.asp?id=453">Cease-and-Desist Order: In the Matter of David Gore, Robert Puetz Pursuant to William McClure, Robert Murphy (February 27, 1997)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184305uwhl1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843051x51a" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TYCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(74)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843056e0i1" width="415" height="61" /></div>
+    
+        <h1>TYCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tyco International Ltd. ("Tyco")<br />Earth Tech Brasil Ltd. (wholly-owned Brazilian subsidiary of Tyco acquired in 1998, formerly Multiservice Engenharia Ltda.) ("Earth Tech Brazil")<br />Dong Bang Industrial Co. Ltd. (wholly-owned South Korean subsidiary of Tyco acquired in 1999) ("Dong Bang")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction and operation of municipal and wastewater treatment systems and fire protection services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bermuda
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the SEC, from 1996 until 2002, Tyco violated a number of federal securities laws including the books and records provisions of the FCPA.  During that period, Tyco acquired hundred of companies around the world in order to become a large, diversified manufacturing company involved in businesses such as fire protection and security systems, electrical and electronic components, healthcare and engineered products and services.  <br /><br />Included in the SEC complaint were charges that, from 1999 until 2002, two Tyco subsidiaries violated the FCPA.  Specifically, the complaint alleged that in 1998 Tyco acquired Multiservice Engenharia Ltda., which would become Earth Tech Brazil, despite the fact that pre-merger due diligence uncovered that improper payments to government officials were common in Brazil and were described as necessary in the industries in which Earth Tech Brazil operated.  After the acquisition, Earth Tech Brazil made numerous payments to various Brazilian officials in order to assist with its construction and operation of municipal water and wastewater treatment systems.  According to the SEC complaint, the payments were so widespread that 60% of Earth Tech Brazil's contracts during the relevant time period involved payments to government officials.  These payments were made through lobbyists retained for this purpose and false invoices from companies owned by Earth Tech Brazil employees were used to obtain the funds and conceal the payments, causing Tyco to maintain inaccurate books and records. <br /><br />In 1999, Tyco acquired Dong Bang, a fire protection services firm in South Korea.  Again, pre-merger due diligence revealed that improper payments to government officials were prevalent in the South Korean contracting business.  After the acquisition, Dong Bang executives allegedly provided entertainment to South Korean officials and made cash payments.  According to the complaint, Dong Bang's former president spent $32,000 on entertainment provided to various South Korean officials in 2001, and he frequently provided entertainment to South Korea's Minister of Construction and Finance and a South Korean military general in order to obtain business.  In 2002, a Dong Bang Executive paid $7,500 to an employee of a state-owned nuclear power plant in order to obtain a contract.  In order to make the payments, Dong Bang created fictitious employees whose payroll disbursements were wired to the company's executives.  This caused the company to maintain inaccurate books and records. <br /><br />The SEC noted that Tyco did not have an adequate or uniform FCPA compliance program to prevent illegal payments.  In addition, the complaint stated that Earth Tech and Dong Bang employees did not receive adequate training on FCPA compliance given the companys awareness that payments to government officials were prevalent in the industries in which the companies operated. <br /><br />In addition to the FCPA violations, the SEC alleged that Tyco violated federal securities laws by engaging in improper accounting practices in order to inflate its operating income; and failing to disclose certain executive compensation, related party transactions and senior executive indebtedness. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Brazilian Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Numerous contracts relating to the construction and service of municipal water and wastewater treatment facilities</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to South Korean Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>At least $39,500</p>
+</td>
+<td>
+<p>Numerous contracts to provide fire protection services</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 16, 2006, Tyco, without admitting or denying the SEC's allegations, consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's books and records provisions and various other federal securities laws.  Tyco was also ordered to pay $1 in disgorgement and a $50 million civil penalty. <br /><br />In related cases, the SEC and Department of Justice charged former Tyco executives Dennis Kozlowski, Mark Swartz and Mark Belnick with the failure to disclose millions of dollars of favorable loans from Tyco, undisclosed related-party transactions and fraudulent stock trading.  A jury convicted Kozlowski, former chief executive officer and chairman of the company, on 22 counts of grand larceny, conspiracy and securities fraud and he was sentenced to 8 to 25 years in prison.  Former chief financial officer, Mark Swartz, was also convicted to 8 to 25 years in prison for securities fraud, grand larceny and conspiracy.  Mark Belnick, Tycos former general counsel, was acquitted of the charges.  <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Where warranted by the conduct in question, the SEC will FCPA-related charges into charges related to violations of other federal securities laws.</li><li>A parent company has responsibility for the inaccurate books and records of its wholly-owned subsidiaries.</li><li>Pre-acquisition due diligence should include FCPA due diligence, and any problems discovered should be immediately investigated and remedied.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=283">SEC Litigation Release: April 17, 2006 (SEC Brings Settled Charges Against Tyco International Ltd. Alleging Billion Dollar Accounting Fraud)</a></p><p><a href="file.asp?id=284">SEC Litigation Release: September 12, 2002 (Tyco Former Executives L. Dennis Kozlowski, Mark H. Swartz and Mark A. Belnick Sued for Fraud)</a></p><p><a href="file.asp?id=285">SEC Litigation Release: December 17, 2002 (Tyco Former Lead Director and Chairman of Compensation Committee Frank E. Walsh, Jr. Charged with Materially Misleading CIT’s and Tyco’s Shareholders by Collecting Secret $20 Million “Finder’s Fee” in Connection </a></p><p><a href="file.asp?id=286">Complaint: SEC v. Tyco International Ltd. (April 17, 2006)</a></p><p><a href="file.asp?id=1321">Judgment: SEC v. Tyco International Ltd. (April 27, 2006)</a></p><p><a href="file.asp?id=1963">Tyco - DOJ Media Release (24 September 2012), Tyco Entities Agree to More Than $26 Million in Penalties</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19212215ivh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192122sn220" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TYCO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(74)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192122645xe" width="415" height="61" /></div>
+    
+        <h1>TYCO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tyco International Ltd. ("Tyco")<br />Earth Tech Brasil Ltd. (wholly-owned Brazilian subsidiary of Tyco acquired in 1998, formerly Multiservice Engenharia Ltda.) ("Earth Tech Brazil")<br />Dong Bang Industrial Co. Ltd. (wholly-owned South Korean subsidiary of Tyco acquired in 1999) ("Dong Bang")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Construction and operation of municipal and wastewater treatment systems and fire protection services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bermuda
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the SEC, from 1996 until 2002, Tyco violated a number of federal securities laws including the books and records provisions of the FCPA.  During that period, Tyco acquired hundred of companies around the world in order to become a large, diversified manufacturing company involved in businesses such as fire protection and security systems, electrical and electronic components, healthcare and engineered products and services.  <br /><br />Included in the SEC complaint were charges that, from 1999 until 2002, two Tyco subsidiaries violated the FCPA.  Specifically, the complaint alleged that in 1998 Tyco acquired Multiservice Engenharia Ltda., which would become Earth Tech Brazil, despite the fact that pre-merger due diligence uncovered that improper payments to government officials were common in Brazil and were described as necessary in the industries in which Earth Tech Brazil operated.  After the acquisition, Earth Tech Brazil made numerous payments to various Brazilian officials in order to assist with its construction and operation of municipal water and wastewater treatment systems.  According to the SEC complaint, the payments were so widespread that 60% of Earth Tech Brazil's contracts during the relevant time period involved payments to government officials.  These payments were made through lobbyists retained for this purpose and false invoices from companies owned by Earth Tech Brazil employees were used to obtain the funds and conceal the payments, causing Tyco to maintain inaccurate books and records. <br /><br />In 1999, Tyco acquired Dong Bang, a fire protection services firm in South Korea.  Again, pre-merger due diligence revealed that improper payments to government officials were prevalent in the South Korean contracting business.  After the acquisition, Dong Bang executives allegedly provided entertainment to South Korean officials and made cash payments.  According to the complaint, Dong Bang's former president spent $32,000 on entertainment provided to various South Korean officials in 2001, and he frequently provided entertainment to South Korea's Minister of Construction and Finance and a South Korean military general in order to obtain business.  In 2002, a Dong Bang Executive paid $7,500 to an employee of a state-owned nuclear power plant in order to obtain a contract.  In order to make the payments, Dong Bang created fictitious employees whose payroll disbursements were wired to the company's executives.  This caused the company to maintain inaccurate books and records. <br /><br />The SEC noted that Tyco did not have an adequate or uniform FCPA compliance program to prevent illegal payments.  In addition, the complaint stated that Earth Tech and Dong Bang employees did not receive adequate training on FCPA compliance given the companys awareness that payments to government officials were prevalent in the industries in which the companies operated. <br /><br />In addition to the FCPA violations, the SEC alleged that Tyco violated federal securities laws by engaging in improper accounting practices in order to inflate its operating income; and failing to disclose certain executive compensation, related party transactions and senior executive indebtedness. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Brazilian Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Numerous contracts relating to the construction and service of municipal water and wastewater treatment facilities</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to South Korean Officials</p>
+</td>
+<td width="50%">
+<p>Business Advantage Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>At least $39,500</p>
+</td>
+<td>
+<p>Numerous contracts to provide fire protection services</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 16, 2006, Tyco, without admitting or denying the SEC's allegations, consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's books and records provisions and various other federal securities laws.  Tyco was also ordered to pay $1 in disgorgement and a $50 million civil penalty. <br /><br />In related cases, the SEC and Department of Justice charged former Tyco executives Dennis Kozlowski, Mark Swartz and Mark Belnick with the failure to disclose millions of dollars of favorable loans from Tyco, undisclosed related-party transactions and fraudulent stock trading.  A jury convicted Kozlowski, former chief executive officer and chairman of the company, on 22 counts of grand larceny, conspiracy and securities fraud and he was sentenced to 8 to 25 years in prison.  Former chief financial officer, Mark Swartz, was also convicted to 8 to 25 years in prison for securities fraud, grand larceny and conspiracy.  Mark Belnick, Tycos former general counsel, was acquitted of the charges.  <br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Where warranted by the conduct in question, the SEC will FCPA-related charges into charges related to violations of other federal securities laws.</li><li>A parent company has responsibility for the inaccurate books and records of its wholly-owned subsidiaries.</li><li>Pre-acquisition due diligence should include FCPA due diligence, and any problems discovered should be immediately investigated and remedied.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=283">SEC Litigation Release: April 17, 2006 (SEC Brings Settled Charges Against Tyco International Ltd. Alleging Billion Dollar Accounting Fraud)</a></p><p><a href="file.asp?id=284">SEC Litigation Release: September 12, 2002 (Tyco Former Executives L. Dennis Kozlowski, Mark H. Swartz and Mark A. Belnick Sued for Fraud)</a></p><p><a href="file.asp?id=285">SEC Litigation Release: December 17, 2002 (Tyco Former Lead Director and Chairman of Compensation Committee Frank E. Walsh, Jr. Charged with Materially Misleading CIT’s and Tyco’s Shareholders by Collecting Secret $20 Million “Finder’s Fee” in Connection </a></p><p><a href="file.asp?id=286">Complaint: SEC v. Tyco International Ltd. (April 17, 2006)</a></p><p><a href="file.asp?id=1321">Judgment: SEC v. Tyco International Ltd. (April 27, 2006)</a></p><p><a href="file.asp?id=1963">Tyco - DOJ Media Release (24 September 2012), Tyco Entities Agree to More Than $26 Million in Penalties</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

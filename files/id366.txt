@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192540c6y8k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19254012p21" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MOL GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(366)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192540q877h" width="415" height="61" /></div>
+    
+        <h1>MOL GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Hungary: Central Investigative Chief Prosecutor's Office<br />Croatia: State's Attorney's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        MOL Group (Magyar Olaj- és Gázipari Nyilvánosan működő Részvénytársaság, Hungarian Oil and Gas Public Limited Company, referred to as MOL Hungarian Oil and Gas Company) ("MOL" or "MOL Group")<br />MOL Nyrt, a subsidiary of the MOL Group that is 24.6% owned by the Hungarian state<br />INA-Industrija nafte d.d. (Croatian oil company owned by MOL and the Croatian Government) ("INA")<br />Ivo Sanader, former prime minister of Croatia<br />Zsolt Hernadi, chief executive of Hungary's MOL group
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Budapest, Hungary
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, Hungarian and Croatian authorities are investigating allegations that MOL's Chairman, Zsolt Hernadi, paid bribes to former Croatian premier, Ivo Sanader, in order to obtain management control of INA.  MOL currently owns approximately 47% of INA, while the Croatian Government owns approximately 45%.  <br /><br />In 2011, Ivo Sanader, was accused of accepting a bribe of EUR 10 million (approximately USD 12.7 million) in 2008 or 2009 from Mol Nyrt, the largest Hungarian refining company – it is the largest company in Hungary -- in exchange for giving the company controlling rights over INA.   Sanader led the Croatian Democratic Union, and was elected prime minister in 2003 and again in 2007. He left office without explanation in 2009.  He was arrested in Austria in December 2010, and extradited to Croatia in July 2011.<br /><br />At the same time, Sanader and his former party, the CDU were accused of skimming money out of the accounts of state-owned companies.  The party is accused of having taken HRK 31.6 million illegally, while Sanader is accused of taking HRK 15 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Croatian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">EUR 10 million (approximately USD 12.7 million)<br /></td>
+<td style="text-align: center;">Control of INA<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Croatia<br /><br />Sanader was arrested in Austria in December 2010, and extradited to Croatia in July 2011.  After a trial in the district court in Zagreb, on 20 November 2012, Sanader  was sentenced to ten years in prison, having been found guilty of bribery and abuse of power involving two both Mol Nyrt and the Hypo Alpe Adria Bank International AG, an Austrian bank.  On 20 and 21 November 2012, MOL issued press releases denying any wrongdoing, and suggesting that factual misconceptions would be corrected. <br /><br />On 31 March 2014, prosecutors in Croatia indicted the chief executive of MOL Group for bribing a former prime minister in order to gain control of a Croatian energy company.  Mr. Hernadi allegedly paid 10 million euros (approximately USD $13.7 million) to former Croatian prime minister Ivo Sanader to secure "a dominant influence" in the country's state-run oil and gas group, INA. <br /><br />Hungary<br /><br />In January 2013, Hungarian prosecutors confirmed that MOL and its officials played no role in an alleged bribery case related to MOL and Croatia's oil concern INA after officially closing the investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Bloomberg: "Hungary Probes Alleged Bribery Involving Mol and Its Croatia Arm" (19 Sept. 2011)</p><p>Croatian Times: "Hungary refuses to question MOL's CEO over Sanader bribe case" (31 Aug. 2011)</p><p>Readdeal.hu: "MOL CEO hit by bribery allegation" (21 June 2011)</p><p><a href="file.asp?id=2057">MOL - Press release (20 November 2012), MOL Group statement on the first sentence of the Sanader trial</a></p><p><a href="file.asp?id=2058">MOL - Press release (21 November 2012), MOL - factual misconceptions in the comments of the initial ruling of the former Prime Minister of Croatia</a></p><p><a href="file.asp?id=2514">Croatia indicts Hungary oil chief for corruption _ GlobalPost</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

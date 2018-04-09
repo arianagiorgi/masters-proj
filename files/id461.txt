@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192703n40y5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192703z5g1m" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CANBAIKAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(461)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192703l15bm" width="415" height="61" /></div>
+    
+        <h1>CANBAIKAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: City of London Police, Overseas Anti-Corruption Unit<br />Russia: Prosecutor General's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        CanBaikal Resources, Inc.<br />European Bank for Reconstruction and Development ("EBRD"), established in 1991 to facilitate the transition from communist to free market economies
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Acquisition, development and production of oil and gas reserves in Siberia, Russia.
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Calgary, Alberta, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Media sources reported in July 2010, that the EBRD had initiated an internal investigation into possible corruption in the grant of loans for commercial development projects.  In December 2010 the results of the investigation were given to the Russian government.<br /><br />In January 2011, the EBRD lifted the immunity of four of its former officials, including the former executive director, Yelena Kotova, in order to enable authorities in Moscow and London to investigate allegations of corruption in connection with the bank's loans in various republics of the former Soviet Union.  Kotova had been dismissed from her position at the EBRD one month earlier, in December 2010, immediately following disclosure of the investigation report, having served on the board of the EBRD since 2005.<br /> <br />On 15 January 2013, media sources reported that Kotova had been charged with bribery by the Russian authorities; specifically, she and Igor Lebedev were accused of demanding USD 1.4 million from a Canadian oil and gas exploration and development company in exchange for approval of a USD 95 million loan for the company.  <br /><br />Media sources also allege that two individuals have been charged with corruption and money laundering in London, Andrey Ryjenko and Tatjana Sanderson, and that their trial was scheduled to begin on 8 April 2013. Ryjenko was charged with accepting bribes and laundering USD 3 million in exchange for favorable loan treatment by the EBRD of Chestnut Consulting Inc., a Pennsylvania company, between September 2007 and March 2010.  (See separate Compendium summary for CHESTNUT CONSULTING.)
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><br /></td>
+<td style="text-align: center;"><br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2093">CanBaikal - Media report (15 January 2013), Russian former EBRD director charged with bribery _ Reuters</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,576 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=010315-2043300fc6f">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=010315-20433004apv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHNITZER STEEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(1)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=010315-204330iw296" width="415" height="61" /></div>
+    
+        <h1>SCHNITZER STEEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schnitzer Steel Industries, Inc. ("Schnitzer Steel")<br />SSI International Far East, Ltd. ("SSI Korea")<br />Si Chan Wooh (former Executive Vice President and head of SSI International, Inc.)<br />Robert W. Philip (former Chairman and CEO of Schnitzer Steel)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Scrap metal trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Portland, Oregon, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1999 through 2004, Portland-based Schnizter Steel and its South Korean subsidiary, SSI Korea, allegedly made improper payments to managers and employees of steel mills owned in whole or in part by the Chinese government to induce the purchase of scrap metal.  Approximately $205,000 in improper payments were made in connection with 30 sales transactions, earning Schnitzer Steel revenues totaling approximately $96 million and net profits of $6,259,104.  The payments were structured as either standard kickbacks (i.e., paid out of the revenue earned from the sales) or as refunds or rebates (i.e., the steel mill overpaid for its steel purchases and the managers were then refunded).   Schnitzer Steel wired the money for the improper payments to off-the-books bank accounts in South Korea opened by the head of SSI Korea specifically for this purpose.  In addition, a variety of gifts were also made to the managers of the government-owned customers.  <br /><br />During the same period, the companies allegedly also made approximately $1.7 million in improper payments to privately-owned steel mill customers in China and South Korea.  <br /><br />Schnitzer Steel falsely described the payments to the foreign officials and the private customers as sales commissions, commission to the customer, refunds, or rebates in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Government-Owned Customers in China&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$204,537</p>
+</td>
+<td>
+<p style="text-align: center;">$96,396,740 (revenue)<br />$6,259,104 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Private Customers in China and South Korea</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$1,683,672</p>
+</td>
+<td>
+<p style="text-align: center;">$602,139,470 (revenue)<br />$54,927,319 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In May 2004, Si Chan Wooh, the former Executive Vice President and head of SSI International (Schnitzer Steels Tacoma, WA-based subsidiary which oversaw SSI Korea) disclosed the improper payments to Schnitzer Steel's compliance department, prompting an internal investigation into possible FCPA violations.  At that time, Robert W. Philip, Schnitzer Steels former Chairman and CEO, prohibited any further payments but nonetheless authorized Wooh to pay two additional bribes that the company previously had promised private customers in South Korea.  Philip also authorized increased entertainment expenses in lieu of cash payments to its private and government-owned scrap metal customers.  As a result, Schnitzer Steel employees gave managers of the company's scrap metal customers additional gifts, including gift certificates worth $10,000 and a watch worth $2,400.<br /><br />After the internal investigation began, but before Schnitzer Steel had issued a directive to its employees to preserve documents related to the scrap metal transactions, Wooh authorized SSI Korea employees to destroy documents concerning the improper payments.<br /><br />During the period of the conduct, Schnitzer Steel provided no training or education to any of its employees, agents or subsidiaries regarding the requirements of the FCPA, nor had the company established a program to monitor its employees, agents and subsidiaries for compliance with the FCPA.<br /><br />Schnitzer Steel self-disclosed to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In October 2006, SSI Korea pleaded guilty to violating the anti-bribery and accounting provisions of the FCPA and agreed to a $7.5 million criminal fine with the DOJ.  <br /><br />In October 2006, Schnizter Steel entered into a three-year deferred prosecution agreement with the DOJ and consented to a SEC cease-and-desist order and disgorgement and pre-judgment interest of $7.7 million.  The company agreed to retain a compliance monitor for three years.  According to the company, the deferred prosecution agreement expired by its terms on October 15, 2009.<br /><br />In June 2007, Si Chan Wooh pleaded guilty to conspiring to violate the FCPA and entered into a cooperation agreement with the DOJ.  In August 2007, without admitting or denying the allegations, Wooh settled a civil suit with the SEC, agreeing to approximately $40,000 in disgorgement, pre-judgment interest, and civil penalties.  Wooh also agreed to an order enjoining him from future violations.  <br /><br />Wooh's sentencing following his guilty plea was repeatedly delayed.  Finally, on October 14, 2011, the prosecutors filed a motion to drop its criminal information against Wooh, citing prosecutorial discretion.  It appears that the DOJ decided to dismiss following a protracted legal battle over how the case was handled and information from a FBI agent that Wooh was in fact a whistleblower in the case.  <br /><br />In December 2007, Robert W. Philip, without admitting or denying the allegations, settled a civil suit with the SEC, agreeing to pay $169,864 in disgorgement of bonuses, $16,537 in prejudgment interest, and a civil penalty of $75,000.  Philip also agreed to an order enjoining him from future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        James Asperger
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers can form the basis for FCPA books and records violations.</li><li>Definition of foreign official can include officers and employees of partially government-owned companies.</li><li>Calculation of disgorgement amount can include excess bonus compensation earned by an employee as a result of profits generated from illicit payments.</li><li>Cooperation with the DOJ and SEC can earn a (parent) company a deferred prosecution agreement, rather than pleading guilty to a criminal charge.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=249">DOJ Press Release: October 16, 2006 (Schnitzer Steel Industries Inc.'s Subsidiary Pleads Guilty to Foreign Bribes and Agrees to Pay a $7.5 Million Criminal Fine)</a></p><p><a href="file.asp?id=250">Cease-and-Desist Order:  In the Matter of Schnitzer Steel Industries, Inc. (October 16, 2006)</a></p><p><a href="file.asp?id=251">Deferred Prosecution Agreement: Schnitzer Steel Industries, Inc. </a></p><p><a href="file.asp?id=252">SEC Litigation Release: June 29, 2007 (SEC Settles Charges Against Former Portland Steel Executive for Anti-Bribery Statute Violations)</a></p><p><a href="file.asp?id=253">Complaint: SEC v. Si Chan Wooh (June 29, 2007)</a></p><p><a href="file.asp?id=254">DOJ Press Release: June 29, 2007 (Former Senior Officer of Schnitzer Steel Industries Inc. Subsidiary Pleads Guilty to Foreign Bribes)</a></p><p><a href="file.asp?id=255">SEC Litigation Release: December 13, 2007 (SEC Charges Former Chairman/CEO of Schnitzer Steel for Authorizing Cash Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=256">Complaint: SEC v. Robert W. Philip (December 11, 2007)</a></p><p>Main Justice: "Government Drops Case Against FCPA Defendant Four Years After Guilty Plea" (18 Oct. 2011)</p><p>WSJ: "DOJ Drops Bribery Charges Against Whistleblower in Schnitzer Steel Case" (18 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-17065039h26">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1706502y226" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHNITZER STEEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(1)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170650ktnf9" width="415" height="61" /></div>
+    
+        <h1>SCHNITZER STEEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schnitzer Steel Industries, Inc. ("Schnitzer Steel")<br />SSI International Far East, Ltd. ("SSI Korea")<br />Si Chan Wooh (former Executive Vice President and head of SSI International, Inc.)<br />Robert W. Philip (former Chairman and CEO of Schnitzer Steel)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Scrap metal trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Portland, Oregon, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1999 through 2004, Portland-based Schnizter Steel and its South Korean subsidiary, SSI Korea, allegedly made improper payments to managers and employees of steel mills owned in whole or in part by the Chinese government to induce the purchase of scrap metal.  Approximately $205,000 in improper payments were made in connection with 30 sales transactions, earning Schnitzer Steel revenues totaling approximately $96 million and net profits of $6,259,104.  The payments were structured as either standard kickbacks (i.e., paid out of the revenue earned from the sales) or as refunds or rebates (i.e., the steel mill overpaid for its steel purchases and the managers were then refunded).   Schnitzer Steel wired the money for the improper payments to off-the-books bank accounts in South Korea opened by the head of SSI Korea specifically for this purpose.  In addition, a variety of gifts were also made to the managers of the government-owned customers.  <br /><br />During the same period, the companies allegedly also made approximately $1.7 million in improper payments to privately-owned steel mill customers in China and South Korea.  <br /><br />Schnitzer Steel falsely described the payments to the foreign officials and the private customers as sales commissions, commission to the customer, refunds, or rebates in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Government-Owned Customers in China&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$204,537</p>
+</td>
+<td>
+<p style="text-align: center;">$96,396,740 (revenue)<br />$6,259,104 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Private Customers in China and South Korea</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$1,683,672</p>
+</td>
+<td>
+<p style="text-align: center;">$602,139,470 (revenue)<br />$54,927,319 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In May 2004, Si Chan Wooh, the former Executive Vice President and head of SSI International (Schnitzer Steels Tacoma, WA-based subsidiary which oversaw SSI Korea) disclosed the improper payments to Schnitzer Steel's compliance department, prompting an internal investigation into possible FCPA violations.  At that time, Robert W. Philip, Schnitzer Steels former Chairman and CEO, prohibited any further payments but nonetheless authorized Wooh to pay two additional bribes that the company previously had promised private customers in South Korea.  Philip also authorized increased entertainment expenses in lieu of cash payments to its private and government-owned scrap metal customers.  As a result, Schnitzer Steel employees gave managers of the company's scrap metal customers additional gifts, including gift certificates worth $10,000 and a watch worth $2,400.<br /><br />After the internal investigation began, but before Schnitzer Steel had issued a directive to its employees to preserve documents related to the scrap metal transactions, Wooh authorized SSI Korea employees to destroy documents concerning the improper payments.<br /><br />During the period of the conduct, Schnitzer Steel provided no training or education to any of its employees, agents or subsidiaries regarding the requirements of the FCPA, nor had the company established a program to monitor its employees, agents and subsidiaries for compliance with the FCPA.<br /><br />Schnitzer Steel self-disclosed to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In October 2006, SSI Korea pleaded guilty to violating the anti-bribery and accounting provisions of the FCPA and agreed to a $7.5 million criminal fine with the DOJ.  <br /><br />In October 2006, Schnizter Steel entered into a three-year deferred prosecution agreement with the DOJ and consented to a SEC cease-and-desist order and disgorgement and pre-judgment interest of $7.7 million.  The company agreed to retain a compliance monitor for three years.  According to the company, the deferred prosecution agreement expired by its terms on October 15, 2009.<br /><br />In June 2007, Si Chan Wooh pleaded guilty to conspiring to violate the FCPA and entered into a cooperation agreement with the DOJ.  In August 2007, without admitting or denying the allegations, Wooh settled a civil suit with the SEC, agreeing to approximately $40,000 in disgorgement, pre-judgment interest, and civil penalties.  Wooh also agreed to an order enjoining him from future violations.  <br /><br />Wooh's sentencing following his guilty plea was repeatedly delayed.  Finally, on October 14, 2011, the prosecutors filed a motion to drop its criminal information against Wooh, citing prosecutorial discretion.  It appears that the DOJ decided to dismiss following a protracted legal battle over how the case was handled and information from a FBI agent that Wooh was in fact a whistleblower in the case.  <br /><br />In December 2007, Robert W. Philip, without admitting or denying the allegations, settled a civil suit with the SEC, agreeing to pay $169,864 in disgorgement of bonuses, $16,537 in prejudgment interest, and a civil penalty of $75,000.  Philip also agreed to an order enjoining him from future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        James Asperger
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers can form the basis for FCPA books and records violations.</li><li>Definition of foreign official can include officers and employees of partially government-owned companies.</li><li>Calculation of disgorgement amount can include excess bonus compensation earned by an employee as a result of profits generated from illicit payments.</li><li>Cooperation with the DOJ and SEC can earn a (parent) company a deferred prosecution agreement, rather than pleading guilty to a criminal charge.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=249">DOJ Press Release: October 16, 2006 (Schnitzer Steel Industries Inc.'s Subsidiary Pleads Guilty to Foreign Bribes and Agrees to Pay a $7.5 Million Criminal Fine)</a></p><p><a href="file.asp?id=250">Cease-and-Desist Order:  In the Matter of Schnitzer Steel Industries, Inc. (October 16, 2006)</a></p><p><a href="file.asp?id=251">Deferred Prosecution Agreement: Schnitzer Steel Industries, Inc. </a></p><p><a href="file.asp?id=252">SEC Litigation Release: June 29, 2007 (SEC Settles Charges Against Former Portland Steel Executive for Anti-Bribery Statute Violations)</a></p><p><a href="file.asp?id=253">Complaint: SEC v. Si Chan Wooh (June 29, 2007)</a></p><p><a href="file.asp?id=254">DOJ Press Release: June 29, 2007 (Former Senior Officer of Schnitzer Steel Industries Inc. Subsidiary Pleads Guilty to Foreign Bribes)</a></p><p><a href="file.asp?id=255">SEC Litigation Release: December 13, 2007 (SEC Charges Former Chairman/CEO of Schnitzer Steel for Authorizing Cash Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=256">Complaint: SEC v. Robert W. Philip (December 11, 2007)</a></p><p>Main Justice: "Government Drops Case Against FCPA Defendant Four Years After Guilty Plea" (18 Oct. 2011)</p><p>WSJ: "DOJ Drops Bribery Charges Against Whistleblower in Schnitzer Steel Case" (18 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184200x8r9s">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184200lxcl2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHNITZER STEEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(1)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184200006fz" width="415" height="61" /></div>
+    
+        <h1>SCHNITZER STEEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schnitzer Steel Industries, Inc. ("Schnitzer Steel")<br />SSI International Far East, Ltd. ("SSI Korea")<br />Si Chan Wooh (former Executive Vice President and head of SSI International, Inc.)<br />Robert W. Philip (former Chairman and CEO of Schnitzer Steel)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Scrap metal trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Portland, Oregon, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1999 through 2004, Portland-based Schnizter Steel and its South Korean subsidiary, SSI Korea, allegedly made improper payments to managers and employees of steel mills owned in whole or in part by the Chinese government to induce the purchase of scrap metal.  Approximately $205,000 in improper payments were made in connection with 30 sales transactions, earning Schnitzer Steel revenues totaling approximately $96 million and net profits of $6,259,104.  The payments were structured as either standard kickbacks (i.e., paid out of the revenue earned from the sales) or as refunds or rebates (i.e., the steel mill overpaid for its steel purchases and the managers were then refunded).   Schnitzer Steel wired the money for the improper payments to off-the-books bank accounts in South Korea opened by the head of SSI Korea specifically for this purpose.  In addition, a variety of gifts were also made to the managers of the government-owned customers.  <br /><br />During the same period, the companies allegedly also made approximately $1.7 million in improper payments to privately-owned steel mill customers in China and South Korea.  <br /><br />Schnitzer Steel falsely described the payments to the foreign officials and the private customers as sales commissions, commission to the customer, refunds, or rebates in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Government-Owned Customers in China&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$204,537</p>
+</td>
+<td>
+<p style="text-align: center;">$96,396,740 (revenue)<br />$6,259,104 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Private Customers in China and South Korea</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$1,683,672</p>
+</td>
+<td>
+<p style="text-align: center;">$602,139,470 (revenue)<br />$54,927,319 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In May 2004, Si Chan Wooh, the former Executive Vice President and head of SSI International (Schnitzer Steels Tacoma, WA-based subsidiary which oversaw SSI Korea) disclosed the improper payments to Schnitzer Steel's compliance department, prompting an internal investigation into possible FCPA violations.  At that time, Robert W. Philip, Schnitzer Steels former Chairman and CEO, prohibited any further payments but nonetheless authorized Wooh to pay two additional bribes that the company previously had promised private customers in South Korea.  Philip also authorized increased entertainment expenses in lieu of cash payments to its private and government-owned scrap metal customers.  As a result, Schnitzer Steel employees gave managers of the company's scrap metal customers additional gifts, including gift certificates worth $10,000 and a watch worth $2,400.<br /><br />After the internal investigation began, but before Schnitzer Steel had issued a directive to its employees to preserve documents related to the scrap metal transactions, Wooh authorized SSI Korea employees to destroy documents concerning the improper payments.<br /><br />During the period of the conduct, Schnitzer Steel provided no training or education to any of its employees, agents or subsidiaries regarding the requirements of the FCPA, nor had the company established a program to monitor its employees, agents and subsidiaries for compliance with the FCPA.<br /><br />Schnitzer Steel self-disclosed to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In October 2006, SSI Korea pleaded guilty to violating the anti-bribery and accounting provisions of the FCPA and agreed to a $7.5 million criminal fine with the DOJ.  <br /><br />In October 2006, Schnizter Steel entered into a three-year deferred prosecution agreement with the DOJ and consented to a SEC cease-and-desist order and disgorgement and pre-judgment interest of $7.7 million.  The company agreed to retain a compliance monitor for three years.  According to the company, the deferred prosecution agreement expired by its terms on October 15, 2009.<br /><br />In June 2007, Si Chan Wooh pleaded guilty to conspiring to violate the FCPA and entered into a cooperation agreement with the DOJ.  In August 2007, without admitting or denying the allegations, Wooh settled a civil suit with the SEC, agreeing to approximately $40,000 in disgorgement, pre-judgment interest, and civil penalties.  Wooh also agreed to an order enjoining him from future violations.  <br /><br />Wooh's sentencing following his guilty plea was repeatedly delayed.  Finally, on October 14, 2011, the prosecutors filed a motion to drop its criminal information against Wooh, citing prosecutorial discretion.  It appears that the DOJ decided to dismiss following a protracted legal battle over how the case was handled and information from a FBI agent that Wooh was in fact a whistleblower in the case.  <br /><br />In December 2007, Robert W. Philip, without admitting or denying the allegations, settled a civil suit with the SEC, agreeing to pay $169,864 in disgorgement of bonuses, $16,537 in prejudgment interest, and a civil penalty of $75,000.  Philip also agreed to an order enjoining him from future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        James Asperger
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers can form the basis for FCPA books and records violations.</li><li>Definition of foreign official can include officers and employees of partially government-owned companies.</li><li>Calculation of disgorgement amount can include excess bonus compensation earned by an employee as a result of profits generated from illicit payments.</li><li>Cooperation with the DOJ and SEC can earn a (parent) company a deferred prosecution agreement, rather than pleading guilty to a criminal charge.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=249">DOJ Press Release: October 16, 2006 (Schnitzer Steel Industries Inc.'s Subsidiary Pleads Guilty to Foreign Bribes and Agrees to Pay a $7.5 Million Criminal Fine)</a></p><p><a href="file.asp?id=250">Cease-and-Desist Order:  In the Matter of Schnitzer Steel Industries, Inc. (October 16, 2006)</a></p><p><a href="file.asp?id=251">Deferred Prosecution Agreement: Schnitzer Steel Industries, Inc. </a></p><p><a href="file.asp?id=252">SEC Litigation Release: June 29, 2007 (SEC Settles Charges Against Former Portland Steel Executive for Anti-Bribery Statute Violations)</a></p><p><a href="file.asp?id=253">Complaint: SEC v. Si Chan Wooh (June 29, 2007)</a></p><p><a href="file.asp?id=254">DOJ Press Release: June 29, 2007 (Former Senior Officer of Schnitzer Steel Industries Inc. Subsidiary Pleads Guilty to Foreign Bribes)</a></p><p><a href="file.asp?id=255">SEC Litigation Release: December 13, 2007 (SEC Charges Former Chairman/CEO of Schnitzer Steel for Authorizing Cash Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=256">Complaint: SEC v. Robert W. Philip (December 11, 2007)</a></p><p>Main Justice: "Government Drops Case Against FCPA Defendant Four Years After Guilty Plea" (18 Oct. 2011)</p><p>WSJ: "DOJ Drops Bribery Charges Against Whistleblower in Schnitzer Steel Case" (18 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920108z6au">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19201059f2i" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHNITZER STEEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(1)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192010yn434" width="415" height="61" /></div>
+    
+        <h1>SCHNITZER STEEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schnitzer Steel Industries, Inc. ("Schnitzer Steel")<br />SSI International Far East, Ltd. ("SSI Korea")<br />Si Chan Wooh (former Executive Vice President and head of SSI International, Inc.)<br />Robert W. Philip (former Chairman and CEO of Schnitzer Steel)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Scrap metal trading
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Portland, Oregon, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1999 through 2004, Portland-based Schnizter Steel and its South Korean subsidiary, SSI Korea, allegedly made improper payments to managers and employees of steel mills owned in whole or in part by the Chinese government to induce the purchase of scrap metal.  Approximately $205,000 in improper payments were made in connection with 30 sales transactions, earning Schnitzer Steel revenues totaling approximately $96 million and net profits of $6,259,104.  The payments were structured as either standard kickbacks (i.e., paid out of the revenue earned from the sales) or as refunds or rebates (i.e., the steel mill overpaid for its steel purchases and the managers were then refunded).   Schnitzer Steel wired the money for the improper payments to off-the-books bank accounts in South Korea opened by the head of SSI Korea specifically for this purpose.  In addition, a variety of gifts were also made to the managers of the government-owned customers.  <br /><br />During the same period, the companies allegedly also made approximately $1.7 million in improper payments to privately-owned steel mill customers in China and South Korea.  <br /><br />Schnitzer Steel falsely described the payments to the foreign officials and the private customers as sales commissions, commission to the customer, refunds, or rebates in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Government-Owned Customers in China&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$204,537</p>
+</td>
+<td>
+<p style="text-align: center;">$96,396,740 (revenue)<br />$6,259,104 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Payments to Managers of Private Customers in China and South Korea</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$1,683,672</p>
+</td>
+<td>
+<p style="text-align: center;">$602,139,470 (revenue)<br />$54,927,319 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In May 2004, Si Chan Wooh, the former Executive Vice President and head of SSI International (Schnitzer Steels Tacoma, WA-based subsidiary which oversaw SSI Korea) disclosed the improper payments to Schnitzer Steel's compliance department, prompting an internal investigation into possible FCPA violations.  At that time, Robert W. Philip, Schnitzer Steels former Chairman and CEO, prohibited any further payments but nonetheless authorized Wooh to pay two additional bribes that the company previously had promised private customers in South Korea.  Philip also authorized increased entertainment expenses in lieu of cash payments to its private and government-owned scrap metal customers.  As a result, Schnitzer Steel employees gave managers of the company's scrap metal customers additional gifts, including gift certificates worth $10,000 and a watch worth $2,400.<br /><br />After the internal investigation began, but before Schnitzer Steel had issued a directive to its employees to preserve documents related to the scrap metal transactions, Wooh authorized SSI Korea employees to destroy documents concerning the improper payments.<br /><br />During the period of the conduct, Schnitzer Steel provided no training or education to any of its employees, agents or subsidiaries regarding the requirements of the FCPA, nor had the company established a program to monitor its employees, agents and subsidiaries for compliance with the FCPA.<br /><br />Schnitzer Steel self-disclosed to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In October 2006, SSI Korea pleaded guilty to violating the anti-bribery and accounting provisions of the FCPA and agreed to a $7.5 million criminal fine with the DOJ.  <br /><br />In October 2006, Schnizter Steel entered into a three-year deferred prosecution agreement with the DOJ and consented to a SEC cease-and-desist order and disgorgement and pre-judgment interest of $7.7 million.  The company agreed to retain a compliance monitor for three years.  According to the company, the deferred prosecution agreement expired by its terms on October 15, 2009.<br /><br />In June 2007, Si Chan Wooh pleaded guilty to conspiring to violate the FCPA and entered into a cooperation agreement with the DOJ.  In August 2007, without admitting or denying the allegations, Wooh settled a civil suit with the SEC, agreeing to approximately $40,000 in disgorgement, pre-judgment interest, and civil penalties.  Wooh also agreed to an order enjoining him from future violations.  <br /><br />Wooh's sentencing following his guilty plea was repeatedly delayed.  Finally, on October 14, 2011, the prosecutors filed a motion to drop its criminal information against Wooh, citing prosecutorial discretion.  It appears that the DOJ decided to dismiss following a protracted legal battle over how the case was handled and information from a FBI agent that Wooh was in fact a whistleblower in the case.  <br /><br />In December 2007, Robert W. Philip, without admitting or denying the allegations, settled a civil suit with the SEC, agreeing to pay $169,864 in disgorgement of bonuses, $16,537 in prejudgment interest, and a civil penalty of $75,000.  Philip also agreed to an order enjoining him from future violations.  
+		<h2>COMPLIANCE MONITOR</h2>
+        James Asperger
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers can form the basis for FCPA books and records violations.</li><li>Definition of foreign official can include officers and employees of partially government-owned companies.</li><li>Calculation of disgorgement amount can include excess bonus compensation earned by an employee as a result of profits generated from illicit payments.</li><li>Cooperation with the DOJ and SEC can earn a (parent) company a deferred prosecution agreement, rather than pleading guilty to a criminal charge.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=249">DOJ Press Release: October 16, 2006 (Schnitzer Steel Industries Inc.'s Subsidiary Pleads Guilty to Foreign Bribes and Agrees to Pay a $7.5 Million Criminal Fine)</a></p><p><a href="file.asp?id=250">Cease-and-Desist Order:  In the Matter of Schnitzer Steel Industries, Inc. (October 16, 2006)</a></p><p><a href="file.asp?id=251">Deferred Prosecution Agreement: Schnitzer Steel Industries, Inc. </a></p><p><a href="file.asp?id=252">SEC Litigation Release: June 29, 2007 (SEC Settles Charges Against Former Portland Steel Executive for Anti-Bribery Statute Violations)</a></p><p><a href="file.asp?id=253">Complaint: SEC v. Si Chan Wooh (June 29, 2007)</a></p><p><a href="file.asp?id=254">DOJ Press Release: June 29, 2007 (Former Senior Officer of Schnitzer Steel Industries Inc. Subsidiary Pleads Guilty to Foreign Bribes)</a></p><p><a href="file.asp?id=255">SEC Litigation Release: December 13, 2007 (SEC Charges Former Chairman/CEO of Schnitzer Steel for Authorizing Cash Bribes to Foreign Officials)</a></p><p><a href="file.asp?id=256">Complaint: SEC v. Robert W. Philip (December 11, 2007)</a></p><p>Main Justice: "Government Drops Case Against FCPA Defendant Four Years After Guilty Plea" (18 Oct. 2011)</p><p>WSJ: "DOJ Drops Bribery Charges Against Whistleblower in Schnitzer Steel Case" (18 Oct. 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

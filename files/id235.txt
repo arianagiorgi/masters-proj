@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192348f59a1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923485mabz" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WEATHERFORD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(235)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192348wyew8" width="415" height="61" /></div>
+    
+        <h1>WEATHERFORD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Weatherford International Ltd. ("Weatherford")<br />Weatherford Services Ltd. (subsidiary of Weatherford)<br />Weatherford Oil Tool Middle East Ltd. (subsidiary of Weatherford)<br />Weatherford Mediterranean S.p.A.  (subsidiary of Weatherford)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supplies oil and gas drilling equipment and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Geneva, Canton of Geneva, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Albania<br />Iran<br />Syria<br />Cuba<br />Unspecified<br />Sudan<br />Algeria<br />Angola<br />Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Originally a Texas company, Weatherford relocated its corporate headquarters to Switzerland in 2008.  In its SEC Form 10-K filed on 8 March 2011, Weatherford disclosed that the U.S. Securities and Exchange Commission ("SEC") and the U.S. Department of Justice ("DOJ") were investigating Weatherford's participation in the United Nations Oil For Food ("OFF") program in relation to sales of goods and services into Iraq:  <br /><br />"The U.S. Department of Commerce, Bureau of Industry & Security, Office of Foreign Assets Control ("OFAC"), DOJ and SEC have undertaken investigations of allegations of improper sales of products and services by the Company and its subsidiaries in certain sanctioned countries. . . . <br /><br />"In light of this investigation and of the current U.S. and foreign policy environment and the inherent uncertainties surrounding these countries, we decided in September 2007 to direct our foreign subsidiaries to discontinue doing business in countries that are subject to comprehensive U.S. economic and trade sanctions, specifically Cuba, Iran, and Sudan, as well as Syria. Effective September 2007, we ceased entering into any new contracts in these countries and began an orderly discontinuation and winding down of our existing business in these sanctioned countries. Effective March 31, 2008, we substantially completed our winding down of business in these countries. . . . <br /><br />"The DOJ and SEC are investigating our compliance with the Foreign Corrupt Practices Act (“FCPA”) and other laws worldwide. We have retained legal counsel, reporting to our audit committee, to investigate these matters and to cooperate fully with the DOJ and SEC. As part of our investigations, we have uncovered potential violations of U.S. law in connection with activities in West Africa. We have begun negotiations with the government agencies to resolve these matters, but we cannot yet anticipate the timing, outcome or possible impact of the ultimate resolution of the investigations, financial or otherwise. . . .<br /><br />"To date, we have incurred $49 million for costs in connection with our exit from sanctioned countries and incurred $113 million for legal and professional fees in connection with complying with and conducting these on-going investigations."<br /><br />This statement was repeated in the Company's SEC Form 10-Q filed on 8 May 2012, with the following additional financial disclosure:  “Through March 31, 2012, we have incurred $43 million for costs in connection with our exit from sanctioned countries and incurred $125 million for legal and professional fees in connection with complying with and conducting these on-going investigations.”  <br /><br />In its SEC Form 10-Q filed on 3 May 2013, the Company stated the following: "As part of our internal investigations, we have uncovered potential violations of U.S. law in connection with activities in several jurisdictions. We have been in frequent negotiations with the government agencies to resolve these matters, and although these negotiations have advanced significantly, we cannot yet anticipate the timing, outcome or possible impact of the ultimate resolution of the investigations, financial or otherwise."<br /><br />The Company filed an SEC Form 8-K on 30 July 2013, which said that it anticipated a "$153 million potential FCPA and Oil-for-Food settlement with the U.S. government." <br /><br />On 26 November 2013, the SEC charged Weatherford and three of its subsidiaries with violating the FCPA.  The SEC alleged that Weatherford and its three subsidiaries falsified its books and records to conceal not only these illicit payments, but also commercial transactions with Cuba, Iran, Syria, and Sudan that violated U.S. sanctions and export control laws.  Weatherford allegedly failed to establish an effective system of internal accounting controls to monitor risks of improper payments and prevent or detect misconduct.  The company allegedly reaped more than USD $59.3 million in profits from business obtained through improper payments, and more than USD $30 million in profits from its improper sales to sanctioned countries. <br /><br />According to the SEC’s complaint, the misconduct went beyond the use of agents or other third parties.  For example, Weatherford allegedly paid for a 2006 FIFA World Cup trip by two of the officials, the July 2006 honeymoon of an official’s daughter, and an October 2005 religious trip to Saudi Arabia by an official and his family that was improperly recorded as a donation in Weatherford’s books and records.  Weatherford’s Middle East subsidiary also allegedly made more than USD $1.4 million in improper payments to obtain nine contracts under the Oil-for-Food program in 2002.  Iraqi ministries demanded improper “inland transportation fees” in an effort to subvert the UN program.  Weatherford’s subsidiary allegedly complied with the Iraqi demands and paid more than USD $115,000 in fees despite invoices that included charges inconsistent with the actual deliveries. Weatherford allegedly obtained more than USD $7 million in profits from the misconduct.<br /><br />The SEC’s complaint also alleged that Weatherford failed to perform due diligence on a distributor suggested by an official at a national oil company in the Middle East.  From 2005 to 2011, Weatherford and its subsidiaries allegedly awarded more than USD $11.8 million in improper “volume discounts” to the distributor – money allegedly intended for the creation of a slush fund to pay foreign officials. <br /><br />Weatherford and its subsidiaries agreed to pay approximately USD $252 million to settle with the SEC, DOJ Fraud Section, U.S. Attorney’s Office for the Southern District of Texas, Department of Commerce’s Bureau of Industry and Security, and Department of Treasury’s Office of Foreign Assets Control.  According to the DOJ Litigation Release, approximately USD $100 million of the settlement was paid to settle export control violations.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD $11.8 million in discounts</p>
+</td>
+<td>
+<p>USD $89.3 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Weatherford agreed to pay USD $65.6 million to the SEC in the global settlement, including a USD $1.875 million penalty assessed in part for lack of cooperation early in the investigation.  Weatherford agreed to pay USD $87 million in criminal fines to the Department of Justice for the FCPA violations, and USD $100 million to three other U.S. agencies for the sanctions violations.  <br /><br />The company agreed to retain an independent compliance monitor for 18 months and self-report to the SEC staff for an additional 18 months.
+		<h2>COMPLIANCE MONITOR</h2>
+        Independent
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Failure to conduct due diligence on distributors as well as books and records violations can result in settlements totaling over USD $250 million. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=851">Weatherford: SEC Form 10-K (1 March 2010)</a></p><p><a href="file.asp?id=1419">Weatherford: SEC Form 10-K (8 March 2011)</a></p><p><a href="file.asp?id=2006">Weatherford: SEC Form 10-Q (8 May 2012)</a></p><p><a href="file.asp?id=2268">Weatherford: SEC Form 10-Q (3 May 2013)</a></p><p><a href="file.asp?id=2388">Weatherford: SEC Form 8-K (30 July 2013)</a></p><p><a href="file.asp?id=2437">SEC Complaint Against Weatherford</a></p><p><a href="file.asp?id=2570">DOJ - Weatherford International Deferred Prosecution Agreement</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

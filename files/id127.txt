@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192211azm7q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19221167857" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SAYBOLT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(127)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192211izi29" width="415" height="61" /></div>
+    
+        <h1>SAYBOLT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Saybolt International, B.V. (Dutch holding company) ("Saybolt International")<br />Saybolt North America, Inc. (wholly-owned subsidiary of Saybolt International) ("Saybolt North America")<br />Saybolt, Inc.  (subsidiary of Saybolt North America)<br />Saybolt Western Hemisphere (unincorporated association of various Saybolt entities located in the United States, Canada, Mexico and other Caribbean, Central American and South American nations)<br />Saybolt Panama S.A. (wholly-owned subsidiary of Saybolt International) ("Saybolt Panama")<br />David H. Mead (former President and CEO of Saybolt, Inc.; Executive Vice President and Chief Executive of Saybolt North America; and CEO of Saybolt Western Hemisphere)<br />Frerik Pluimers (former Chairman of Saybolt, Inc.; President and Chairman of Saybolt North America; President and CEO of Saybolt International, Dutch resident and citizen)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Testing of bulk commodities, such as oil, gas and other petrochemicals
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Panama<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+         In December 1994, a Saybolt Panama employee notified another employee who worked for Saybolt, Inc. that Saybolt Panama had the opportunity to provide services to the Panamanian government as "Hydrocarbons Independent Controllers."  Obtaining this position would allow Saybolt Panama to move into a Free Zone, which would reduce the company's tax obligations.  <br /><br />Throughout 1995, employees of Saybolt, Inc. and Saybolt Panama negotiated the deal and kept David Mead apprised of the progress, including sending emails to Mead informing him that payments would need to be made to government officials.  In one email, an employee of Saybolt, Inc. stated "We simply submit the paperwork and the cash – if we pay, all is ours.  If we don't we get nothing. Welcome to the Third World!"  The employee stated that the fee would be $50,000.  Mead corresponded with the employee, asking how the cash would be justified.  <br /><br />In November 1995, both Mead and Frerik Pluimers attended a meeting of Saybolt North America's Board of Directors at which the $50,000 payment to Panamanian officials was discussed.  After the meeting, in December 1995, the Saybolt, Inc. employee flew to Panama and requested the funds to make the payment.  The money was wired from Saybolt International's account in the Netherlands to a Citibank account in New York and then on to a Citibank account held by Saybolt Panama in Panama City.  The employee then wrote a check to one of Saybolt Panama's agents and instructed the agent to pay an individual who was supposedly acting on behalf of the Panamanian officials. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Payments to Panamanian officials</p>
+</td>
+<td width="50%">
+<p>Business Advantages Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$50,000</p>
+</td>
+<td>
+<p>Contracts for Saybolt Panama to perform import control and inventory inspections; <br />Exemption from import taxes and reduction in annual profit taxes;<br />Securing a commercially-attractive location for an inspection facility;<br />Exclusion of competitors by retaining possession and control of Saybolt Panama's existing location</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On November 20, 1996, investigators from the U.S. Environmental Protection Agency ("EPA") executed a search warrant at Saybolt North America's New Jersey offices.  During this search, the investigators seized evidence related to the bribe. <br /><br />On May 12, 1997, Core Laboratories, N.V. purchased Saybolt International.  The former shareholders of Saybolt International placed $6 million in escrow to cover any criminal liability. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 3, 1998, Saybolt North America and Saybolt, Inc. pleaded guilty of violating the FCPA and the Clean Air Act.  The companies were sentenced to five years of probation, a $3.4 million fine and an $800 special assessment for their violations of the Clean Air Act, and five years of probation, a $1.5 million fine and an $800 special assessment for violations of the FCPA.  Saybolt, Inc. was also required to implement and maintain an effective compliance program.  In addition, the company agreed to cooperate with the government in its ongoing investigation. <br /><br />On April 17, 1998, Frerik Pluimers and David Mead were indicted on charges of conspiring to violate the FCPA, substantive violations of the FCPA and violations of the Travel Act.  Mead stood trial and was convicted of the charges in October 1998.  He was sentenced to four months in jail, four months of home confinement, three year's supervised probation and was required to pay a $20,000 fine. <br /><br />During his trial, Mead raised the defense that he was acting on advice of counsel.  According to Mead, Philippe Schreiber, an attorney with New York-based Walter, Conston, Alexander & Green P.C. and a Director of Saybolt North America, advised during a Board meeting in November 1995 that the company would only be criminally liable for the bribe if it was paid by Saybolt North America.  Schreiber allegedly advised that the bribe could be paid legally by the Dutch entity, Saybolt International.  The jury instruction specifically stated that Mead could not be convicted if he believed that the transaction was legal.  The jury convicted Mead, rejecting his argument that he believed the transaction was legal.<br /><br />Pluimers, who was in the Netherlands when he was indicted, has not returned to the U.S. to stand trial.  The U.S. government requested the Netherlands to extradite him in 2000 but Dutch authorities have refused the request.  In March 2008, his attorney entered an appearance for an arraignment and guilty plea, but Pluimers never appeared in court.  He remains a fugitive and is on the EPA's most wanted list. <br /><br />In a related case, Saybolt North America's shareholders sued Schreiber for malpractice, arguing that the company relied on his advice in paying the bribe. The parties settled the case on August 12, 2005. The settlement was never publicly disclosed.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The government will prosecute FCPA violations along with other federal crimes, such as environmental crimes.</li><li>A foreign national who authorizes or approves the bribery of a foreign government official while in the United States is subject to the FCPA and can be prosecuted.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=368">Jury Instructions: U.S. v. David H. Mead</a></p><p><a href="file.asp?id=369">Appearance for Defendant: U.S. v. Frerik Pluimers</a></p><p><a href="file.asp?id=370">Stichting ter Behartiging Van de Belangen Van Oudaanhdeelhouders in Het Kapitaal Van Saybolt International B.V. (Foundation of Former Shareholders of Saybolt International, B.V. v. Philippe S.E. Schreiber et al, 407 F.3d 34 (2nd Cir. 2005))</a></p><p><a href="file.asp?id=371">Superseding Indictment: U.S. v. David H. Mead and Frerik Pluimers </a></p><p><a href="file.asp?id=1870">Saybolt - Appeal (21 April 2003), Saybolt BV v. Schreiber</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

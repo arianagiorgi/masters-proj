@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19242837jsd">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192428063zv" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DEUTSCHE BANK (South Korea)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(282)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924287zg84" width="415" height="61" /></div>
+    
+        <h1>DEUTSCHE BANK (South Korea)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Korea: Seoul District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Deutsche Bank AG ("Deutsche Bank")<br />Deutsche Bank AG Seoul Branch ("Deutsche Bank Seoul")<br />Mr. Hwang (Managing Director of Deutsche Bank Seoul)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Commercial and investment banking institution
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Frankfurt, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Mr. Hwang, Managing Director of Deutsche Bank Seoul promoted derivative transactions between Korea Train Express ("KTX") and Deutsche Bank Seoul.  (KTX is South Korea's high-speed rail system and is operated by Korea Railroad Corporation ("Korail"), the country's national railroad operator.)  In this regard, Mr. Hwang needed to engage a domestic financial institution as an intermediary bank because of KTX’s credit limit.  The parties discussed with Mr. Chung, Representative Director of "Company K" engaging in the business of referral, consulting, etc. for derivative transactions among financial institutions, and as a result, they decided on the National Agricultural Cooperative Federation ("Nonghyup") as the intermediary bank.<br /><br />Nonghyup acting as the intermediary bank, KTX and Deutsche Bank Seoul concluded an interest rate swap in the amount of USD 150 million on 17 April 2003 and an interest rate swap in the amount of 100 million dollars on 23 April 2008, which amounted to USD 250 million in total.<br /><br />Through several occasions during the progress of the transactions, Mr. Hwang accepted 1,558 million won in total from Mr. Chung in return for the arrangement of derivative transactions between KTX and Nonghyup, related to his duties as an officer of a financial institution.<br /><br />Moreover, in order to obtain favors in connection with transactions with KTX, during the period from April 2003 through December 2003, Mr. Hwang gave cash in the aggregate amount of KRW 35 million to Mr. Lee, KTX's treasury manager, on seven occasions, and KRW 20 million together with flight and accommodation expenses of approximately KRW 1,950,000 to Mr. Chung, KTX's treasury manager.  In addition, During the period from April 2004 through July 2004, Mr. Hwang offered to Mr. Yang, KTX's finance manager, expenses of golf club and accommodation, etc. which amounted to KRW 2,505,930 in value.    
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">
+<p><strong>Approximate Alleged Payments/Gifts to<br />KTX Officials</strong></p>
+</td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Over KRW 59 million<br /></td>
+<td style="text-align: center;">Favors in connection with interest rate swaps and derivative transactions between Deutsche Bank Seoul and KTX<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        On 23 July 2004, the Seoul Central District Prosecutors' Office received a report from the Financial Supervisory Service regarding wrongdoing by a Nonghyup employee.  While investigating the alleged wrongdoing, the prosecutors' office uncovered suspected corrupt activities in connection with derivative transactions between KTX and Nonghyup.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Mr. Hwang was sentenced to six years in prison and fined KRW 1,558,000,000 for receiving bribes in violation of the Act on the Aggravated Punishment, Etc. of Specific Economic Crimes and for offering bribes in violation of the Criminal Code. <br /><br />Mr. Chung (Representative Director of "Company K") was sentenced to one and a half years in prison for offering bribes in violation of the Act on the Aggravated Punishment, etc. of Specific Economic Crimes.<br /><br />Mr. Lee was sentenced to two and a half years in prison and fined KRW 35 million for bribery in violation of the Act on the Aggravated Punishment, Etc. of Specific Economic Crimes.<br /><br />Mr. Chung (KTX's Treasury Manager) was sentenced to two and a half years in prison with two years of probation and fined KRW 21,950,000 for bribery in violation of the Act on the Aggravated Punishment, Etc. of Specific Economic Crimes and the Criminal Code.<br /><br />Mr. Yang was handed a suspended jail sentence and fined KRW 2,508,903 for bribery in violation of the Criminal Code.<br /><br />(Other relevant persons were sentenced imprisonment of between one and a half years and five years.)
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Accepting, requesting or promising money or other benefits by officers or employees of financial institutions are subject to aggravated punishment under the Act on the Aggravated Punishment, Etc. of Specific Economic Crimes.</li><li>Under Korean law, bribing officers or employees of public companies or companies that are 50% or more owned or effectively controlled by the central government or a local government would constitute an offense equivalent to a criminal offense of giving bribes to government officials.</li><li>Whether certain economic benefit accepted by a government official is an improper benefit received in exchange for something related to his duties and thus would constitute an offense of bribery is determined in light of the totality of circumstances, taking into account the characteristics of his duties, the relationship between the duties and the person who offered benefit, the existence of personal relationship between the parties, the amount of the benefit, the background and timing of offering/receiving benefit, etc.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Seoul Central District Prosecutors' Office Press Release, September 2, 2004, "Corruption Offenses Related to Derivative Transactions" </p><p>Seoul Central District Court Decision (Criminal Division 22), December 17, 2004</p><p>Seoul Central District Court Decision (Criminal Division 22), January 7, 2004</p><p>Seoul High Court Decision (Criminal Division 1), June 3, 2005</p><p>Seoul High Court Decision (Criminal Division 4), June 1, 2005</p><p>Supreme Court Decision, September 29, 2005</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

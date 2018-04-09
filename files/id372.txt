@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192545in9w5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192545z4guk" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - OLYMPUS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(372)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925451k1aw" width="415" height="61" /></div>
+    
+        <h1>OLYMPUS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Olympus Corporation ("Olympus")<br />Olympus Korea Co., Ltd. ("OKR")<br />Gyrus Group (medical equipment supplier acquired by Olympus in 2008) ("Gyrus")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer of precision technologies, including medical and surgical products, life science imaging systems, industrial measurement and imaging instruments, cameras and audio products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tokyo, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Brazil<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        United Kingdom<br /><br />According to press reports on 21 October 2011, the UK Serious Fraud Office has been asked to investigate alleged bribery during Olympus Corporation's acquisition of UK medical equipment supplier Gyrus Group in 2008.  Michael Woodford, the British former chief executive officer of Olympus who was terminated on 21 October 2011, reportedly visited the SFO office to present evidence of improper advisory fees paid in connection with the USD 2.2 billion transaction.  USD 687 million in fees were allegedly paid to two advisory firms.<br /><br />Brazil<br /><br />According to Bloomberg News, on 1 August 2012, the Company reported that it had informed the U.S. Department of Justice in October 2011 of possible expense-accounting irregularities in Brazil that may have violated U.S. antibribery law.  The violations were purportedly based on travel, meal and entertainment expenses paid by Olympus' subsidiary to doctors in a training program in Brazil.<br /><br />South Korea<br /><br />Accounting deficiencies were described in the Company's press statement on 28 June 2012.  On 15 June 2012, the Company announced that Bang Il Seok had "engaged in illegal business conduct" and that, as a result, was "dismissed from his positions as the CEO & President of OKR and as a [sic] executive officer at Olympus Corporation, effective June 4th, 2012."  Thereafter, on 1 August 2012, the Company announced that it had filed a criminal complaint against Bang with the Seoul Central District Prosecutor's Office on 27 July 2012.  Mr. Bang is accused of breach of trust.<br /><br />Financial Fraud Scandal<br /><br />The corruption investigations are taking place against the background of the Company's admissions in October 2011 that directed USD 1.5 billion through obscure investment funds, including one in the Cayman Islands, to hide corporate losses for over ten years.  The financial revelations were precipitated by a whistleblower, former CEO Michael Woodford, who was fired in October 2011 for questioning some of the mergers and acquisitions that allowed Company executives to hide the Company's losses.  Prosecutors in Tokyo raided corporate offices and the homes of executives, and arrested former President Tsuyoshi Kikukawa, former Executive Vice President Hisashi Mori and former auditor Hideo Yamada on suspicion of violating the Financial Instruments and Exchange Law.  The Company replaced its entire Board in April 2012.<br /><br />A news release by Olympus on 4 September 2013 stated, <br /><br />"the SFO has decided to bring a prosecution against the Company and Gyrus Group Limited, a UK subsidiary of the Company (“GGL”) on charges of breaching Section 501 of the UK Companies Act of 2006. The Company and GGL received requisitions issued by the SFO on September 3, 2013. Section 501 of the UK Companies Act 2006 provides the charges against certain person who made misleading or deceptive explanation to the auditors in connection with financial accounting of a UK company. The charges against the Company and GGL allege that certain representations made to the auditors of GGL in the documents related to GGL’s financial accounts for the fiscal years 2009 and 2010 were misleading, false or deceptive in a material particular, contrary to Section 501 of the UK Companies Act of 2006.<br /><br />After a hearing date before the Magistrates’ Court, it is expected that the matter will be<br />transferred to the Crown Court for the future steps of the proceedings.<br /><br />As it is difficult to predict the outcome of this matter or estimate the level of fines that<br />may be imposed on the Company and GGL, the potential financial impact of this prosecution on Olympus Group’s business is unclear. The Company will release further details regarding any potential financial impact without delay as soon as it receives any information in this respect during the course of these proceedings."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        As mentioned above, some of the allegations came from a whistleblower (former Olympus CEO Michael Woodford). The rest came from undisclosed sources.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.<br /><br />As of 4 September, an Olympus news report stated that, "[h]aving completed its investigation, the SFO has decided to bring a prosecution against the Company and Gyrus Group Limited, a UK subsidiary of the Company (“GGL”) on charges of breaching Section 501 of the UK Companies Act of 2006. The Company and GGL received requisitions issued by the SFO on September 3, 2013.<br /><br />After a hearing date before the Magistrates’ Court, it is expected that the matter will be<br />transferred to the Crown Court for the future steps of the proceedings." <br /><br />Olympus reports that it is difficult to predict the outcome of the matter or the estimated amount of fines that may be imposed.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2181">Olympus: News Release (15 June 2012)</a></p><p><a href="file.asp?id=2182">Olympus: News Release (28 June 2012)</a></p><p><a href="file.asp?id=2183">Bloomberg News: "Olympus Refers Possible Corrupt Practice Incident to U.S." (1 August 2012)</a></p><p><a href="file.asp?id=2422">Olympus: News Release (4 September 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

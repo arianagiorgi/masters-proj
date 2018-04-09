@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192417n5j8p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19241737wxi" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - G4S</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(269)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192417a33p9" width="415" height="61" /></div>
+    
+        <h1>G4S</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Afghanistan: Anti-Corruption Tribunal<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        G4S Secure Solutions (UK) Ltd. ("G4S")<br />Bill Shaw (Commercial Manager for G4S in Afghanistan)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International security solutions
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Sutton, Surrey, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Afghanistan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, Afghan authorities charged Bill Shaw, a British citizen, retired British Army major and G4S' Commercial Manager in Afghanistan, with paying a USD 25,000 bribe to an Afghan official in order to secure the release of two of the company's bombproof vehicles that had been confiscated by the Afghan security service in October 2009.  Shaw was arrested on March 3, 2010 and convicted on April 26, 2010.  An Afghan colleague, Maiwand Limar, was also arrested and convicted.<br /><br />Shaw claimed that he believed he was paying a legitimate fine to release two vehicles that were impounded by the National Directorate of Security ("NDS") due to licencing irregularities.  It is not clear whether or not the individual to which Shaw paid the "bribe" was an Afghan official; the Afghan court hearing the case apparently dismissed evidence which indicated that he was not a public official. <br /><br />G4S came out and publicly stated that it strongly disagreed with the verdict, that it believed the charges were totally misconceived and were not proven in court, and that the company stood fully behind the men’s innocence.  According to the company, the men made an authorized payment the request of NDS and repeatedly requested a receipt before, during and for months after the transaction was made.  With the knowledge of the British Embassy, G4S lodged a complaint with the Afghan authorities regarding the payment.  The British Embassy arranged a meeting with senior NDS and Ministry of Interior officials, at which point G4S and Shaw were were asked by NDS to assist in its investigation into a criminal conspiracy.  Shaw provided voluntary support over a period of three months until his arrest on March 3, 2010.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Approximate Alleged Payments to&nbsp;an Afghan Official</p>
+</td>
+<td width="50%">
+<p>Business Advantage Allegedly Obtained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 25,000</p>
+</td>
+<td>
+<p>Release of confiscated company vehicles</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Afghanistan's Anti-Corruption Tribunal sentenced Shaw to two years in prison and imposed a USD 25,000 fine (the same amount as the alleged bribe payment).  Shaw's co-defendant, Maiwand Limar, was also sentenced to two years, without a fine.<br /><br />G4S then raised the case with the Foreign & Commonwealth Office in London and the new British Ambassador in Kabul.<br /><br />On July 4, 2010, an Afghan appeals court overturned Shaw's conviction and sentence, citing lack of evidence.  He will continue to be held in prison until completion of various legal formalities.  Shaw has reportedly described his time in the Pul-e-Charki prison as "a living hell."<br /><br />On July 9, 2010, G4S announced that Bill Shaw had been released from the Pul-i-Charki prison. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Diplomats have reportedly expressed concern that this case could represent a broader effort by Karzai's Afghan government to prove its claim that the country's corruption problem is largely caused by foreigners.  False arrests and imprisonment of foreign nationals for political reasons may jeopardize the ongoing stabilization and rebuilding efforts in the country.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Guardian: "Afghan corruption tribunal jails UK security manager" (26 Apr. 2010)</p><p>Guardian: "No escape yet for Bill Shaw, the Briton cleared of bribery in Kabul" (4 July 2010)</p><p>BBC News: "Cleared Briton Bill Shaw describes Afghan 'living hell'" (4 July 2010)</p><p>G4S Press Release: July 9, 2010 (Bill Shaw released)</p><p>MailOnline: "Briton in Afghan Alcatraz FREED: Family reunion for former Army officer jailed in Kabul on trumped up charges" (18 July 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924252zarm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192425n67ib" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - INSTRUMENTARIUM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(278)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924254l143" width="415" height="61" /></div>
+    
+        <h1>INSTRUMENTARIUM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: Office of the Prosecutor General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Instrumentarium Medko Medical (Finnish company now a part of GE Healthcare) ("Instrumentarium")<br />Fischel Corporation (private pharmacy chain; served as Instrumentarium's representative in  Costa Rica) ("Fischel")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Medical technology and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Costa Rica<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2004 Finnish authorities began investigating alleged bribery by Instrumentarium in connection with a EUR 32 million deal to sell hospital equipment to the Costa Rican Social Security Fund.  The deal was mediated by Fischel, which was also to provide installation services to the hospital in connection with the sale.  Instrumentarium and Fischel allegedly made improper payments to Costa Rican officials in order to secure the deal; one of the officials at issue appears to have been Rafael Ángel Calderón, the president of Costa Rica from 1990 to 1994.<br /><br />The Finnish National Bureau of Investigation arrested three Finnish men on 8 September 2009 as suspects of aggravated giving of bribes and aggravated subsidy fraud. Three former Intrumentarium executives were interrogated for three days and the Finnish National Bureau of Investigation also conducted house searches and seizures in connection with the arrests.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Costa Rican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Sales of hospital equipment, valued at&nbsp;EUR 32 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In April 2012, charges were brought against three men over misusing Foreign Ministry development aid for the deals.  In May 2013, the former employees of Instrumentarium were acquitted of corruption charges stemming from a deal in Costa Rica more than a decade ago. The Helsinki District Court tossed dropped the charges in May 2013.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Helsingin Sanomat: "Foreign Ministry to investigate Instrumentarium deals in Costa Rica" (23 Sept. 2004)</p><p>Now Public: "Costa Rican Ex-President Convicted in Historic Trial" (6 Oct. 2009)</p><p>La Nacion: "Three Finnish executives held in inquiry into alleged bribes in Costa Rica" (23 Sept. 2009)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

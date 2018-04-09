@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19244634s96">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924469k419" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NIKE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(302)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924460hsm7" width="415" height="61" /></div>
+    
+        <h1>NIKE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        China: People's Procuratorate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        NIKE, Inc. ("Nike")<br />Li Tong (Marketing Director for Nike's subsidiary in China ("Nike China"))
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Footwear manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Beaverton, Oregon, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, on or around September 16, 2010, Nike China's Marketing Director, Li Tong, was arrested in connection with an investigation into alleged bribery and gambling involving the Chinese Football Association ("CFA"), with which Nike had won a sponsorship deal in 2009.  Li reportedly had a close relationship with the former head of the CFA, Nan Yong.<br /><br />Last year, Nike reportedly signed a USD 15 million deal to sponsor the CFA's Super League (China's national football league), an agreement that apparently can be extended for 10 years and augmented to eventually total 200 million dollars.  It is suspected that Li made improper payments to Nan in order to secure the sponsorship deal at a lower price than comparable sponsorships secured by competitors. <br /><br />Former CFA chief Nan, his deputy Yang Yimin and another senior aide were arrested earlier in 2010 on bribe-taking and match-fixing charges.  Other officials and referees have been detained as well.<br /><br />It is not clear at this time whether Nike itself is a target of the investigation.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Chinese Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">Better terms for a sponsorship deal <br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>channelnewsasia.com: "Football: Nike exec in China reportedly questioned in football graft probe" (16 Sept. 2010)</p><p>Yahoo News: "Nike exec quizzed in China soccer probe" (16 Sept. 2010)</p><p>Sydney Morning Herald: "Bribe probe: Nike China director questioned" (17 Sept. 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #666633;">Retail</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170711dh7xs">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707119vq8n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - METCALF & EDDY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(25)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-17071189nok" width="415" height="61" /></div>
+    
+        <h1>METCALF & EDDY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Metcalf & Eddy, Inc. ("Metcalf & Eddy")<br />Metcalf & Eddy International, Inc. (Metcalf & Eddy's predecessor company) ("M&E")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Architectural and engineering services for sewage and wastewater treatment facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wakefield, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        During 1994, M&E bid on, and was awarded, a U.S. Agency for International Development ("USAID") contract to provide support for the maintenance of wastewater treatment facilities managed by the Alexandria General Organization for Sanitary Drainage ("AGOSD"), the government agency responsible for sewage and wastewater treatment facilities in Alexandria, Egypt.  The contract lasted from November 1994 until May 1997.  In 1995, M&E bid on a second USAID contract to provide architectural and engineering services to AGOSD, which lasted from August 1995 until June 1997.  <br /><br />The contracts were awarded by USAID and were reviewed by a Technical Review Board with five voting members.  AGOSD had one voting position and participated in the evaluation and scoring of bidders.  The Chairman of AGOSD did not participate in the evaluation and scoring process, but he could exert influence over AGOSD's representatives on the Technical Review Board.  He could also influence USAID's decision by making his preference for certain companies known. <br /><br />In 1994, M&E paid for the Chairman of AGOSD and his wife and children to travel to Boston, Massachusetts; Washington, DC; Chicago, Illinois; and Orlando, Florida.  The purpose of the trip was for the Chairman of AGOSD to attend a water conference in Chicago.  In 1996, M&E paid for a second trip for the Chairman and his family to visit Paris, France; Boston, Massachusetts; and San Diego, California.  On both trips, M&E provided the Chairman with 150% of his estimated per diem expenses before he left Egypt.  In addition, M&E paid for the majority of the Chairman and his family's travel and entertainment expenses during the course of both trips.  M&E also paid to upgrade the Chairman to first class on both trips, and paid to upgrade his family to first class on the second trip.  An officer of M&E received two undocumented cash advances prior to the 1996 trip, which was used to pay for expenses connected to the Chairman's trip.  M&E inaccurately recorded expenses related to these trips in its books and records. <br /><br />While in the United States in 1994, the Chairman signed an order on behalf of AGOSD recommending M&E for the first contract.  Two months before the second trip, an M&E employee wrote to the Chairman expressing the company's interest in continuing its contract on the project and requesting AGOSD's support through the Chairman's contacts at USAID and in the Egyptian government.  Shortly after the second trip, the Chairman sent a letter to USAID requesting an extension of the first contract.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">150% of estimated per diem expenses;<br />Payment of all expenses while in the United States;<br />First class upgrade for the Chairman;<br />First class upgrade for the Chairman's family;<br />Payment of undocumented expenses</p>
+</td>
+<td>
+<p style="text-align: center;">USD 36,618,595 in contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 December 1999, without admitting or denying the allegations, Metcalf & Eddy entered into a consent agreement permanently enjoining the company from future violations of the FCPA.  Under the terms of the agreement, Metcalf & Eddy was required to pay USD 450,000 in fines and penalties and implement and maintain a compliance program designed to detect and prevent future FCPA violations.  <br /><br />In its first iteration of the necessary components of an effective compliance program, the DOJ required Metcalf & Eddy to include at a minimum: (i) a clearly articulated policy against FCPA violations and the creation of standards and procedures that are reasonably capable of reducing future violations; (ii) the assignment of one or more corporate officials responsible for oversight of the compliance program, including granting them the ability to monitor and audit systems and monitor the program as necessary; (iii) the establishment of a committee to review the hiring of third parties used to develop business outside of the United States, including determining the suitability of joint venture partners; (iv) corporate procedures to ensure that the company does not grant substantial discretionary authority to individuals whom the company knows are likely to engage in criminal activity; (v) corporate procedures to assure that the company has taken all necessary and prudent precautions to form business relationships with reputable agents, consultants and other representatives for business development purposes outside of the United States; (vi) communication of corporate FCPA policies, procedures and standards to all officers, employees, agents consultants and other representatives; (vii) appropriate disciplinary mechanisms, including discipline of individuals responsible for the failure to detect a violation of the compliance program; and (viii) a detailed representation in all third party contracts that the third party will not violate the FCPA or retain a sub-agent without the company's prior written consent, and a clause allowing for termination of the contract for violations of these representations. <br /><br />Metcalf & Eddy also agreed to implement financial and accounting procedures to ensure that the company maintains accurate books and records; to promptly investigate any alleged violations of the FCPA; to request certifications and representations from joint venture partners regarding compliance with the FCPA; to provide annual certifications regarding FCPA compliance for five years following the agreement to USAID or other government agencies with which it had overseas programs or contracts; to conduct periodic reviews of its corporate FCPA policies; and to provide each officer and manager a copy of the complaint, undertaking and order of permanent injunction. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Paying travel expenses for the family members of a foreign official can form the basis of an FCPA violation.</li><li>Paying travel and entertainment expenses for a foreign official can constitute something of value under the FCPA and can for the basis for an FCPA violation.</li><li>Giving something of value to a foreign official who is not directly responsible for awarding a contract, but who can exert influence on the company's behalf, can form the basis for an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=156">United States v. Metcalf & Eddy, Inc: Consent and Undertaking of Metcalf & Eddy Inc. (December 12, 1999)</a></p><p><a href="file.asp?id=157">United States v. Metcalf & Eddy, Inc: Complaint for Permanent Injunction and Ancillary Relief (December 12, 1999)</a></p><p><a href="file.asp?id=158">United States v. Metcalf & Eddy, Inc: Final Judgment for Permanent Injunction against Metcalf & Eddy, Inc. (December 12, 1999) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660000;">M&A</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184221dgu2b">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842218ln3p" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - METCALF & EDDY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(25)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18422123a2v" width="415" height="61" /></div>
+    
+        <h1>METCALF & EDDY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Metcalf & Eddy, Inc. ("Metcalf & Eddy")<br />Metcalf & Eddy International, Inc. (Metcalf & Eddy's predecessor company) ("M&E")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Architectural and engineering services for sewage and wastewater treatment facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wakefield, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        During 1994, M&E bid on, and was awarded, a U.S. Agency for International Development ("USAID") contract to provide support for the maintenance of wastewater treatment facilities managed by the Alexandria General Organization for Sanitary Drainage ("AGOSD"), the government agency responsible for sewage and wastewater treatment facilities in Alexandria, Egypt.  The contract lasted from November 1994 until May 1997.  In 1995, M&E bid on a second USAID contract to provide architectural and engineering services to AGOSD, which lasted from August 1995 until June 1997.  <br /><br />The contracts were awarded by USAID and were reviewed by a Technical Review Board with five voting members.  AGOSD had one voting position and participated in the evaluation and scoring of bidders.  The Chairman of AGOSD did not participate in the evaluation and scoring process, but he could exert influence over AGOSD's representatives on the Technical Review Board.  He could also influence USAID's decision by making his preference for certain companies known. <br /><br />In 1994, M&E paid for the Chairman of AGOSD and his wife and children to travel to Boston, Massachusetts; Washington, DC; Chicago, Illinois; and Orlando, Florida.  The purpose of the trip was for the Chairman of AGOSD to attend a water conference in Chicago.  In 1996, M&E paid for a second trip for the Chairman and his family to visit Paris, France; Boston, Massachusetts; and San Diego, California.  On both trips, M&E provided the Chairman with 150% of his estimated per diem expenses before he left Egypt.  In addition, M&E paid for the majority of the Chairman and his family's travel and entertainment expenses during the course of both trips.  M&E also paid to upgrade the Chairman to first class on both trips, and paid to upgrade his family to first class on the second trip.  An officer of M&E received two undocumented cash advances prior to the 1996 trip, which was used to pay for expenses connected to the Chairman's trip.  M&E inaccurately recorded expenses related to these trips in its books and records. <br /><br />While in the United States in 1994, the Chairman signed an order on behalf of AGOSD recommending M&E for the first contract.  Two months before the second trip, an M&E employee wrote to the Chairman expressing the company's interest in continuing its contract on the project and requesting AGOSD's support through the Chairman's contacts at USAID and in the Egyptian government.  Shortly after the second trip, the Chairman sent a letter to USAID requesting an extension of the first contract.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">150% of estimated per diem expenses;<br />Payment of all expenses while in the United States;<br />First class upgrade for the Chairman;<br />First class upgrade for the Chairman's family;<br />Payment of undocumented expenses</p>
+</td>
+<td>
+<p style="text-align: center;">USD 36,618,595 in contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 December 1999, without admitting or denying the allegations, Metcalf & Eddy entered into a consent agreement permanently enjoining the company from future violations of the FCPA.  Under the terms of the agreement, Metcalf & Eddy was required to pay USD 450,000 in fines and penalties and implement and maintain a compliance program designed to detect and prevent future FCPA violations.  <br /><br />In its first iteration of the necessary components of an effective compliance program, the DOJ required Metcalf & Eddy to include at a minimum: (i) a clearly articulated policy against FCPA violations and the creation of standards and procedures that are reasonably capable of reducing future violations; (ii) the assignment of one or more corporate officials responsible for oversight of the compliance program, including granting them the ability to monitor and audit systems and monitor the program as necessary; (iii) the establishment of a committee to review the hiring of third parties used to develop business outside of the United States, including determining the suitability of joint venture partners; (iv) corporate procedures to ensure that the company does not grant substantial discretionary authority to individuals whom the company knows are likely to engage in criminal activity; (v) corporate procedures to assure that the company has taken all necessary and prudent precautions to form business relationships with reputable agents, consultants and other representatives for business development purposes outside of the United States; (vi) communication of corporate FCPA policies, procedures and standards to all officers, employees, agents consultants and other representatives; (vii) appropriate disciplinary mechanisms, including discipline of individuals responsible for the failure to detect a violation of the compliance program; and (viii) a detailed representation in all third party contracts that the third party will not violate the FCPA or retain a sub-agent without the company's prior written consent, and a clause allowing for termination of the contract for violations of these representations. <br /><br />Metcalf & Eddy also agreed to implement financial and accounting procedures to ensure that the company maintains accurate books and records; to promptly investigate any alleged violations of the FCPA; to request certifications and representations from joint venture partners regarding compliance with the FCPA; to provide annual certifications regarding FCPA compliance for five years following the agreement to USAID or other government agencies with which it had overseas programs or contracts; to conduct periodic reviews of its corporate FCPA policies; and to provide each officer and manager a copy of the complaint, undertaking and order of permanent injunction. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Paying travel expenses for the family members of a foreign official can form the basis of an FCPA violation.</li><li>Paying travel and entertainment expenses for a foreign official can constitute something of value under the FCPA and can for the basis for an FCPA violation.</li><li>Giving something of value to a foreign official who is not directly responsible for awarding a contract, but who can exert influence on the company's behalf, can form the basis for an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=156">United States v. Metcalf & Eddy, Inc: Consent and Undertaking of Metcalf & Eddy Inc. (December 12, 1999)</a></p><p><a href="file.asp?id=157">United States v. Metcalf & Eddy, Inc: Complaint for Permanent Injunction and Ancillary Relief (December 12, 1999)</a></p><p><a href="file.asp?id=158">United States v. Metcalf & Eddy, Inc: Final Judgment for Permanent Injunction against Metcalf & Eddy, Inc. (December 12, 1999) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660000;">M&A</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920373q216">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192037964n9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - METCALF & EDDY</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(25)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19203718jfa" width="415" height="61" /></div>
+    
+        <h1>METCALF & EDDY</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Metcalf & Eddy, Inc. ("Metcalf & Eddy")<br />Metcalf & Eddy International, Inc. (Metcalf & Eddy's predecessor company) ("M&E")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Architectural and engineering services for sewage and wastewater treatment facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wakefield, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        During 1994, M&E bid on, and was awarded, a U.S. Agency for International Development ("USAID") contract to provide support for the maintenance of wastewater treatment facilities managed by the Alexandria General Organization for Sanitary Drainage ("AGOSD"), the government agency responsible for sewage and wastewater treatment facilities in Alexandria, Egypt.  The contract lasted from November 1994 until May 1997.  In 1995, M&E bid on a second USAID contract to provide architectural and engineering services to AGOSD, which lasted from August 1995 until June 1997.  <br /><br />The contracts were awarded by USAID and were reviewed by a Technical Review Board with five voting members.  AGOSD had one voting position and participated in the evaluation and scoring of bidders.  The Chairman of AGOSD did not participate in the evaluation and scoring process, but he could exert influence over AGOSD's representatives on the Technical Review Board.  He could also influence USAID's decision by making his preference for certain companies known. <br /><br />In 1994, M&E paid for the Chairman of AGOSD and his wife and children to travel to Boston, Massachusetts; Washington, DC; Chicago, Illinois; and Orlando, Florida.  The purpose of the trip was for the Chairman of AGOSD to attend a water conference in Chicago.  In 1996, M&E paid for a second trip for the Chairman and his family to visit Paris, France; Boston, Massachusetts; and San Diego, California.  On both trips, M&E provided the Chairman with 150% of his estimated per diem expenses before he left Egypt.  In addition, M&E paid for the majority of the Chairman and his family's travel and entertainment expenses during the course of both trips.  M&E also paid to upgrade the Chairman to first class on both trips, and paid to upgrade his family to first class on the second trip.  An officer of M&E received two undocumented cash advances prior to the 1996 trip, which was used to pay for expenses connected to the Chairman's trip.  M&E inaccurately recorded expenses related to these trips in its books and records. <br /><br />While in the United States in 1994, the Chairman signed an order on behalf of AGOSD recommending M&E for the first contract.  Two months before the second trip, an M&E employee wrote to the Chairman expressing the company's interest in continuing its contract on the project and requesting AGOSD's support through the Chairman's contacts at USAID and in the Egyptian government.  Shortly after the second trip, the Chairman sent a letter to USAID requesting an extension of the first contract.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">150% of estimated per diem expenses;<br />Payment of all expenses while in the United States;<br />First class upgrade for the Chairman;<br />First class upgrade for the Chairman's family;<br />Payment of undocumented expenses</p>
+</td>
+<td>
+<p style="text-align: center;">USD 36,618,595 in contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 December 1999, without admitting or denying the allegations, Metcalf & Eddy entered into a consent agreement permanently enjoining the company from future violations of the FCPA.  Under the terms of the agreement, Metcalf & Eddy was required to pay USD 450,000 in fines and penalties and implement and maintain a compliance program designed to detect and prevent future FCPA violations.  <br /><br />In its first iteration of the necessary components of an effective compliance program, the DOJ required Metcalf & Eddy to include at a minimum: (i) a clearly articulated policy against FCPA violations and the creation of standards and procedures that are reasonably capable of reducing future violations; (ii) the assignment of one or more corporate officials responsible for oversight of the compliance program, including granting them the ability to monitor and audit systems and monitor the program as necessary; (iii) the establishment of a committee to review the hiring of third parties used to develop business outside of the United States, including determining the suitability of joint venture partners; (iv) corporate procedures to ensure that the company does not grant substantial discretionary authority to individuals whom the company knows are likely to engage in criminal activity; (v) corporate procedures to assure that the company has taken all necessary and prudent precautions to form business relationships with reputable agents, consultants and other representatives for business development purposes outside of the United States; (vi) communication of corporate FCPA policies, procedures and standards to all officers, employees, agents consultants and other representatives; (vii) appropriate disciplinary mechanisms, including discipline of individuals responsible for the failure to detect a violation of the compliance program; and (viii) a detailed representation in all third party contracts that the third party will not violate the FCPA or retain a sub-agent without the company's prior written consent, and a clause allowing for termination of the contract for violations of these representations. <br /><br />Metcalf & Eddy also agreed to implement financial and accounting procedures to ensure that the company maintains accurate books and records; to promptly investigate any alleged violations of the FCPA; to request certifications and representations from joint venture partners regarding compliance with the FCPA; to provide annual certifications regarding FCPA compliance for five years following the agreement to USAID or other government agencies with which it had overseas programs or contracts; to conduct periodic reviews of its corporate FCPA policies; and to provide each officer and manager a copy of the complaint, undertaking and order of permanent injunction. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Paying travel expenses for the family members of a foreign official can form the basis of an FCPA violation.</li><li>Paying travel and entertainment expenses for a foreign official can constitute something of value under the FCPA and can for the basis for an FCPA violation.</li><li>Giving something of value to a foreign official who is not directly responsible for awarding a contract, but who can exert influence on the company's behalf, can form the basis for an FCPA violation.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=156">United States v. Metcalf & Eddy, Inc: Consent and Undertaking of Metcalf & Eddy Inc. (December 12, 1999)</a></p><p><a href="file.asp?id=157">United States v. Metcalf & Eddy, Inc: Complaint for Permanent Injunction and Ancillary Relief (December 12, 1999)</a></p><p><a href="file.asp?id=158">United States v. Metcalf & Eddy, Inc: Final Judgment for Permanent Injunction against Metcalf & Eddy, Inc. (December 12, 1999) </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660000;">M&A</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

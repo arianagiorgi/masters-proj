@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922108r4yi">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19221065lj4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VITUSA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(126)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922100n9b1" width="415" height="61" /></div>
+    
+        <h1>VITUSA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Vitusa Corporation ("Vitusa")<br />Denny J. Herzberg (President and sole shareholder of Vitusa)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and distribution of dairy products and other foodstuffs
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Englewood Cliffs, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Dominican Republic<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In October 1989, Vitusa, through its local agent, Horizontes Dominicanos, entered into a contract to supply milk powder to the government of the Dominican Republic.  Vitusa delivered the milk power to the government but struggled to collect full payment.  The company made various efforts to collect the outstanding balance, including contacting officials in the U.S. and Dominican governments.  <br /><br />Servio Tulio Mancebo, the President and owner of Horizontes Dominicanos, then contacted Herzberg, Vitusa's President, and stated that a certain senior Dominican official demanded a "service fee" in exchange for influencing the government to pay the outstanding  balance owed to Vitusa.  In August 1992, Herzberg agreed to Mancebo's proposal and authorized Vitusa's bank in the Dominican Republic to withhold $20,000 of the expected payment from the government and to direct it to Mancebo.  <br /><br />In September 1992, the government made a payment of $163,095.12 to Vitusa.  Per Herzberg's instructions, Mancebo retained $20,000 from the payment for the benefit of the senior Dominican official.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">&nbsp;Approximate Payments to Dominican Officials</p></td><td width="50%"><p align="center">&nbsp;Business Advantage Obtained</p></td></tr><tr><td><p align="center">$20,000</p></td><td><p align="center">Collection of&nbsp; approximately $163,000 in debt</p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On July 25, 1994, Vitusa pleaded guilty to one count of violating the FCPA and was ordered to pay a $20,000 criminal fine.  <br /><br />On the same day, Herzberg pleaded guilty to one count of violating the FCPA.  He  was sentenced to two years of probation and ordered to pay a $5,000 criminal fine, to be applied toward the $20,000 owed by Vitusa.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to a foreign official to secure overdue performance of a contractual obligation by a governmental actor (such as payment of a debt) satisfy the "business purpose test" under the FCPA and are thus improper. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=431">Criminal Information: U.S. v. Vitusa Corporation (May 23, 1994)</a></p><p><a href="file.asp?id=432">Criminal Information: U.S. v. Denny J. Herzberg (May 23, 1994)</a></p><p><a href="file.asp?id=433">Government's Statement of Facts: U.S. v. Denny J. Herzberg </a></p><p><a href="file.asp?id=434">Stipulated Facts (Vitusa Corporation)</a></p><p><a href="file.asp?id=435">Stipulated Facts (Denny J. Herzberg)</a></p><p><a href="file.asp?id=436">Judgment: U.S. v. Vitusa Corporation (July 28, 1994)</a></p><p><a href="file.asp?id=437">Judgment: U.S. v. Denny J. Herzberg (July 28, 1994)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

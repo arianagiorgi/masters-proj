@@ -1,0 +1,142 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19224267q79">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922429u91h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IMPRIMERIE NATIONALE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(163)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922423jk36" width="415" height="61" /></div>
+    
+        <h1>IMPRIMERIE NATIONALE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        France: Investigating Magistrate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        L'Imprimerie Nationale (State-owned national printing office in France)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Printing of security documents, identification documents and passports for sovereign States
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Senegal<br />Syria<br />Georgia<br />Romania<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Between 2004 and 2007, the Imprimerie Nationale signed printing contracts with the governments of Romania, Georgia, Senegal and Syria.  <br /><br />In connection with the first contract, signed in 2004 with the Romanian government and valued at EUR 20,000,000, kickbacks of EUR 300,000 were allegedly paid to Romanian officials via third party intermediaries.  The contracts with the governments of Georgia, Senegal and Syria were also allegedly secured through kickbacks to government officials in the respective countries.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Romanian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 300,000</p>
+</td>
+<td>
+<p style="text-align: center;">Printing contract valued at EUR 20,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials in Georgia, Senegal and Syria</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Printing contracts, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In February 2008, the Chief Financial Officer of Imprimerie Nationale refused to approve the accounts of Imprimerie Nationale for the year ending 31 December 2007 because of the lack of clarity as to the role played by a company called "Wed Pascal Pluchard" in obtaining contracts with several foreign States.  An audit of Imprimerie Nationale's export contracts was thereafter conducted by KPMG, who concluded that there were serious reasons for presumptions of corruption. <br /><br />The Agence des Participations de l'Etat, the French agency which controls the French State's participation in Imprimerie Nationale, filed a complaint with the Public Prosecutor.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        A Paris Investigating Magistrate was appointed in 2008 and the Attorney General of Paris began a preliminary investigation in July 2009.  It appears that the investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0099ff;">Consulting/Advertising/Other</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

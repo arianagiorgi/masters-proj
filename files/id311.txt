@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924538be8l">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924535i6g6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - RINO INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(311)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192453gedlw" width="415" height="61" /></div>
+    
+        <h1>RINO INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rino International Corp. ("Rino")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design and manufacture of environmental protection and energy saving industrial equipments in China
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Dalian, Liaoning, China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Rino described the ongoing investigation as follows in its SEC Form 8-K filed on December 2, 2010:<br /><br />"The Company has been notified by the Staff of the Securities and Exchange Commission (the 'SEC') that it is conducting a formal investigation relating to the Company's financial reporting and compliance with the Foreign Corrupt Practices Act for the period January 1, 2008 through the present. The Company is cooperating with the SEC's investigation. It is not possible to predict the outcome of the investigation, including whether or when any proceedings might be initiated, when these matters may be resolved or what if any penalties or other remedies may be imposed."<br /><br />Rino is a Nevada-incorporated corporation with headquarters in China that has been listed on the NASDAQ Stock Market.  According to press reports, NASDAQ is delisting the company's shares, effective December 8, 2010, for failure to provide adequate information on accounting allegations against it.<br /><br />According to press reports, the trading of Rino shares halted on April 11, 2011.  Rino's outside law firm and forensic accountants - hired to conduct an internal investigation - resigned on March 31, as did the head of the company's audit committee and all remaining independent directors.<br /><br />Through its 100% owned subsidiaries and Variable Interest Entities ("VIEs"), Rino engages in designing, developing, manufacturing, and installation of environmental protection and energy saving industrial equipments in the People's Republic of China.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $3.5 million<br /></td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 16 May 2013, China-based Rino International Corp. and two of its executives agreed to settle a lawsuit with U.S. regulators over allegations that the executives looted more USD $3.5 million in company assets and violated the accounting provisions of a U.S. anti-bribery law.<br /><br />The executives, Dejun Zou and Jianping Qiu, who are husband and wife, agreed to pay at least that much money to resolve  additional allegations that they schemed to overstate the revenue of China-based manufacturer of water-treatment equipment, according to court documents. Qiu is the company’s chairman and Zou is the chief executive.<br /><br />Qiu and Zou  neither admitted nor denied the charges and also agreed to pay $100,000 and $150,000 in civil fines, respectively. The pair couldn’t be reached for comment.<br /><br />The couple allegedly used the looted corporate funds to buy a California home, cars and designer clothing, and falsely recorded the expenditures in the company’s books and records, according to the court documents. The alleged false accounting violated the U.S. Foreign Corrupt Practices Act, which prohibits bribes to foreign officials and requires accurate books and records to be kept. The pair allegedly violated the books and records provisions, but not the bribery provisions.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1230">Rino International Corp. - SEC Form 8-K (Dec. 2, 2010)</a></p><p>Reuters: "Rino International shares to be delisted by Nasdaq" (Dec. 2, 2010)</p><p>Bloomberg: SEC Suspends Trades in Rino International Amid Fraud Allegations (11 April 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

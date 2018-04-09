@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192534d5g1x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19253482ih8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BRUKER CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(359)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192534a88pd" width="415" height="61" /></div>
+    
+        <h1>BRUKER CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Hong Kong: Joint Financial Intelligence Unit<br />Hong Kong: Independent Commission Against Corruption<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bruker Corporation ("Bruker")<br />Bruker Optics (a Bruker subsidiary in China and Hong Kong)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Life sciences research equipment, such as  laboratory spectrometers and microscopes
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Billerica, Massachusetts, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Hong Kong<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        China<br /><br />Bruker disclosed that it had begun an internal investigation on 2 August 2011 after the company received anonymous tips alleging improper payments by the China operations of its Bruker Optics subsidiary that may have violated the U.S. Foreign Corrupt Practices Act ("FCPA").  The company later announced that the investigation found evidence that payments were made that improperly benefit employees or agents of government-owned enterprises in China. <br /><br />Bruker voluntarily contacted the U.S. Securities and Exchange Commission ("SEC") and the U.S. Department of Justice ("DOJ") to disclose the FCPA investigation.  The company also reported to the Hong Kong Joint Financial Intelligence Unit and Independent Commission Against Corruption. <br /><br />The SEC investigation allegedly uncovered USD $230,000 in improper payments out of Bruker's China offices that were falsely recorded in the company's books and records as legitimate business and marketing expenses.  Bruker allegedly realized approximately USD $1.7 million in profits from sales contracts with the state-owned entities that received the improper payments.  <br /><br />According to the SEC’s order, one Bruker office in China allegedly paid more than USD $111,000 to Chinese government officials under 12 suspicious collaboration agreements that were contingent on state-owned entities providing research on Bruker products or using Bruker products in demonstration laboratories.  The collaboration agreements did not specify the work product that the state-owned entities had to provide in order to be paid, and no work product was actually provided to the Bruker office by the state-owned entities.  Some agreements were allegedly executed directly with a Chinese government official rather than the state-owned entity, and in some cases Bruker’s office allegedly paid the official directly. <br /><br />In addition, the company allegedly reimbursed leisure travel to the United States, Czech Republic, Norway, Sweden, France, Germany, Switzerland, and Italy by Chinese government officials who were responsible for authorizing the purchase of Bruker products.  While some trips had a business component, Bruker also allegedly funded some trips for Chinese government officials that had no legitimate business component.  For example, two Chinese government officials allegedly received paid travel to New York  and Los Angeles despite the fact that Bruker does not have facilities in either location. <br /><br />Hong Kong <br /><br />The company's internal investigation found evidence that payments were made that allegedly improperly benefited employees or agents of government-owned enterprises in Hong Kong.  As a result, the Company took personnel actions, including the termination of certain individuals and business relationships with certain third party agents.  The company then implemented an enhanced FCPA compliance program, and strengthened the financial controls and oversight at its subsidiaries operating in China and Hong Kong.  Company management initiated a review of the China operations of its other subsidiaries with the assistance of an independent audit firm.<br /><br />In 2012, Bruker reported spending USD $9.5 million on FCPA internal investigation costs; in 2013, the company reported spending USD $5.3 million through the third quarter.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">$230,000 in improper payments<br /></td>
+<td style="text-align: center;">USD $1.7 million in profits from sales contracts with state-owned entities in China<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The company voluntarily contacted the SEC and DOJ in August 2011 to advise both agencies of the internal FCPA investigation by the Audit Committee.  In October 2011, the company also reported the existence of the internal investigation to the Hong Kong Joint Financial Intelligence Unit and Independent Commission Against Corruption, or ICAC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S.<br /><br />On 15 December 2014, Bruker agreed to to pay approximately USD $2.4 million to settle the SEC’s charges.  The SEC’s order finds that Bruker violated the internal controls and books and records provisions.  The company agreed to pay USD $1,714,852 in disgorgement, USD $310,117 in prejudgment interest, and a USD $375,000 penalty.  Bruker consented to the order without admitting or denying the findings, and the SEC considered the company’s significant remedial acts as well as its self-reporting and cooperation with the investigation when determining a settlement. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1561">Bruker Corporation - SEC Form 8-K (Aug. 2, 2011)</a></p><p><a href="file.asp?id=1642">Bruker Corporation - SEC Form 10-Q (7 Nov. 2011)</a></p><p><a href="file.asp?id=1729">Bruker - SEC Form 10K (29 Feb. 2012)</a></p><p><a href="file.asp?id=2061">Bruker - SEC Form 10-Q (8 November 2012)</a></p><p><a href="file.asp?id=2606">SEC Order Instituting Cease and Desist (12 15 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

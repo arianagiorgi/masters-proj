@@ -1,0 +1,246 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18431722uk6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184317ne91x" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WABTEC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(87)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184317sy9zz" width="415" height="61" /></div>
+    
+        <h1>WABTEC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Westinghouse Air Brake Technologies Corporation ("Wabtec")<br />Pioneer Friction Limited (Wabtecs wholly-owned subsidiary in India) ("Pioneer")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturing low and high friction brake blocks for rail operations
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wilmerding, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Wabtec is a publicly-traded company that manufactures brake subsystems and other products for locomotives, freight cars and passenger transit vehicles.  Pioneer, its fourth-tier Indian subsidiary, manufactures and sells low and high friction brake blocks for rail operations to Indian government customers. <br /><br />From 2001 until 2005, Pioneer paid approximately $137,400 to Indian government officials.  A portion of these payments were made in order to obtain business from the Indian Railway Board ("IRB") and 16 Zonal Railways.  The IRB and Zonal Railways solicited payments from Pioneer in order to approve Pioneer's contract price during the bidding process.  Pioneer also made payments in order to ensure that the IRB and Zonal Railways would consider its bids in the tender and so that the company would have the opportunity to sell additional products without going through a new tender process.  Pioneer's Chairman, who was also a Vice President of Wabtec, knew about these payments and did nothing to prevent them. <br /><br />In addition to payments made to win contracts, Pioneer made a number of payments to officials with the Research Designs and Standards Organization ("RSDO"), the agency that tested and certified new products and conducted inspections of finished products prior to shipping.  The pre-shipping inspections took place in Pioneer's facilities and the company made the payments to ensure that RSDO inspectors would schedule and perform the inspections.  Inspectors with the Rail India Technical and Economic Services Institute, Ltd., an agency also charged with performing certain product inspections, solicited additional payments in connection with each inspection. <br /><br />Pioneer also made payments to obtain the necessary certificate upon delivery of conforming products and repeatedly made small monthly payments to the Central Board of Excise and Customs in order prevent frequent audits.  <br /><br />In order to make the payments, Pioneer entered into agreements with marketing agents.  The marketing agents generated false invoices, which Pioneer would then pay.  Pioneer improperly recorded these payments as consulting expenses and supplies.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$137,400</p>
+</td>
+<td>
+<p style="text-align: center;">$259,000 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In January 2006, Wabtec began an internal investigation into Pioneer's business activities and voluntarily disclosed the conduct to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On February 8, 2008, Wabtec entered into a non-prosecution agreement with the DOJ, under which Wabtec agreed to comply with the terms of the agreement for a three-year term and pay a $300,000 criminal fine.  The terms of the agreement prohibit Wabtec from committing additional crimes, require Wabtec cooperate fully with any investigation brought by the government and disclose all criminal conduct or any criminal investigations of Wabtec or its senior management.  In addition, Wabtec was required to take certain steps to enhance its FCPA compliance policies and procedures. <br /><br />On February 14, 2008, without admitting or denying the SEC's allegations, Wabtec consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  In addition, Wabtec was required to disgorge $259,000 in profits, pay $29,351 in pre-judgment interest and pay a $87,000 civil penalty.  The SEC also required Wabtec to appoint an independent consultant to review and make recommendations concerning its compliance program. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies that prepare their financial statements on a consolidated basis are liable for the inaccurate books and records of their subsidiaries, even fourth-tier subsidiaries.</li><li>Even small payments  such as payments to ensure that inspections are scheduled and performed as required under local law  can form the basis for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=169">SEC Litigation Release: February 14, 2008 (SEC Sanctions Westinghouse Air Brake Technologies Corporation for Improper Payments to Indian Government Employees)</a></p><p><a href="file.asp?id=170">Complaint: SEC v. Westinghouse Air Brake Technologies Corporation (February 14, 2008)</a></p><p><a href="file.asp?id=701">Cease-and-Desist Order: In the Matter of Westinghouse Air Brake Technologies Corporation (February 14, 2008)</a></p><p><a href="file.asp?id=171">DOJ Press Release: February 14, 2008 (Westinghouse Air Brake Technologies Corporation Agrees to Pay $300,000 Penalty to Resolve Foreign Bribery Violations in India)</a></p><p><a href="file.asp?id=172">Non-Prosecution Agreement: February 8, 2008</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192134ecs6z">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192134q016v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WABTEC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(87)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192134zk436" width="415" height="61" /></div>
+    
+        <h1>WABTEC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Westinghouse Air Brake Technologies Corporation ("Wabtec")<br />Pioneer Friction Limited (Wabtecs wholly-owned subsidiary in India) ("Pioneer")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturing low and high friction brake blocks for rail operations
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wilmerding, Pennsylvania, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Wabtec is a publicly-traded company that manufactures brake subsystems and other products for locomotives, freight cars and passenger transit vehicles.  Pioneer, its fourth-tier Indian subsidiary, manufactures and sells low and high friction brake blocks for rail operations to Indian government customers. <br /><br />From 2001 until 2005, Pioneer paid approximately $137,400 to Indian government officials.  A portion of these payments were made in order to obtain business from the Indian Railway Board ("IRB") and 16 Zonal Railways.  The IRB and Zonal Railways solicited payments from Pioneer in order to approve Pioneer's contract price during the bidding process.  Pioneer also made payments in order to ensure that the IRB and Zonal Railways would consider its bids in the tender and so that the company would have the opportunity to sell additional products without going through a new tender process.  Pioneer's Chairman, who was also a Vice President of Wabtec, knew about these payments and did nothing to prevent them. <br /><br />In addition to payments made to win contracts, Pioneer made a number of payments to officials with the Research Designs and Standards Organization ("RSDO"), the agency that tested and certified new products and conducted inspections of finished products prior to shipping.  The pre-shipping inspections took place in Pioneer's facilities and the company made the payments to ensure that RSDO inspectors would schedule and perform the inspections.  Inspectors with the Rail India Technical and Economic Services Institute, Ltd., an agency also charged with performing certain product inspections, solicited additional payments in connection with each inspection. <br /><br />Pioneer also made payments to obtain the necessary certificate upon delivery of conforming products and repeatedly made small monthly payments to the Central Board of Excise and Customs in order prevent frequent audits.  <br /><br />In order to make the payments, Pioneer entered into agreements with marketing agents.  The marketing agents generated false invoices, which Pioneer would then pay.  Pioneer improperly recorded these payments as consulting expenses and supplies.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <div>
+<table border="1" cellspacing="0" cellpadding="2" width="100%" align="center">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$137,400</p>
+</td>
+<td>
+<p style="text-align: center;">$259,000 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In January 2006, Wabtec began an internal investigation into Pioneer's business activities and voluntarily disclosed the conduct to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On February 8, 2008, Wabtec entered into a non-prosecution agreement with the DOJ, under which Wabtec agreed to comply with the terms of the agreement for a three-year term and pay a $300,000 criminal fine.  The terms of the agreement prohibit Wabtec from committing additional crimes, require Wabtec cooperate fully with any investigation brought by the government and disclose all criminal conduct or any criminal investigations of Wabtec or its senior management.  In addition, Wabtec was required to take certain steps to enhance its FCPA compliance policies and procedures. <br /><br />On February 14, 2008, without admitting or denying the SEC's allegations, Wabtec consented to the entry of a final judgment permanently enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  In addition, Wabtec was required to disgorge $259,000 in profits, pay $29,351 in pre-judgment interest and pay a $87,000 civil penalty.  The SEC also required Wabtec to appoint an independent consultant to review and make recommendations concerning its compliance program. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Companies that prepare their financial statements on a consolidated basis are liable for the inaccurate books and records of their subsidiaries, even fourth-tier subsidiaries.</li><li>Even small payments  such as payments to ensure that inspections are scheduled and performed as required under local law  can form the basis for FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=169">SEC Litigation Release: February 14, 2008 (SEC Sanctions Westinghouse Air Brake Technologies Corporation for Improper Payments to Indian Government Employees)</a></p><p><a href="file.asp?id=170">Complaint: SEC v. Westinghouse Air Brake Technologies Corporation (February 14, 2008)</a></p><p><a href="file.asp?id=701">Cease-and-Desist Order: In the Matter of Westinghouse Air Brake Technologies Corporation (February 14, 2008)</a></p><p><a href="file.asp?id=171">DOJ Press Release: February 14, 2008 (Westinghouse Air Brake Technologies Corporation Agrees to Pay $300,000 Penalty to Resolve Foreign Bribery Violations in India)</a></p><p><a href="file.asp?id=172">Non-Prosecution Agreement: February 8, 2008</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

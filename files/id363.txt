@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925374643r">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192537b42l2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ARCHER DANIELS MIDLAND COMPANY </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(363)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192537p6cfs" width="415" height="61" /></div>
+    
+        <h1>ARCHER DANIELS MIDLAND COMPANY </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Archer Daniels Midland Company ("ADM")<br />Alfred C. Toepfer International Ukraine Ltd. ("ACTI Ukraine") (ADM's subsidiary in Ukraine)<br />Alfred C. Toepfer International G.m.b.H ("ACTI Hamburg") (ADM's subsidiary in Germany)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global food production company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Decatur, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Germany<br />Ukraine<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ADM described the ongoing investigation as follows in its U.S. Securities and Exchange Commission (“SEC”) Form 10-Q filed on 5 November 2012 (repeating the same statement as in its  Form 10-K filing for the period ending 25 August 2011 and in its 10-Q filed on 31 December 2011):<br /><br />"Since August 2008, the Company has been conducting an internal review of its policies, procedures and internal controls pertaining to the adequacy of its anti-corruption compliance program and of certain transactions conducted by the Company and its affiliates and joint ventures, primarily relating to grain and feed exports, that may have violated company policies, the U.S. Foreign Corrupt Practices Act, and other U.S. and foreign laws."<br /><br />A Wall Street Journal article on 6 November 2013 announced that Archer Daniels had closed its internal investigations.  <br /><br />The SEC filed a Complaint against ADM on 20 December 2013.  The Complaint alleges that ADM’s subsidiaries in Germany and Ukraine paid USD $22 million in bribes through intermediaries to secure the release of value-added tax ("VAT") refunds from 2002 to 2008.  <br /><br />Ukraine imposed a 20 percent VAT on goods purchased in its country.  If the goods were exported, the exporter could apply for a refund of the VAT already paid to the government on those goods.  However, at times, the Ukrainian government delayed paying VAT refunds it owed or did not make any refund payments at all.  On these occasions, the outstanding amount of VAT refunds owed to ADM’s Ukraine affiliate reached as high as $46 million.<br /><br />The SEC alleged that in order to obtain the VAT refunds that the Ukraine government was withholding, ADM’s subsidiaries in Germany and Ukraine devised several schemes to bribe Ukraine government officials to release the money.  The payments were then allegedly concealed by improperly recording the transactions in accounting records as insurance premiums and other purported business expenses.  The bribes paid were generally 18 to 20 percent of the corresponding VAT refunds.  For example, the subsidiaries allegedly artificially inflated commodities contracts with a Ukrainian shipping company to provide bribe payments to government officials.  In another case, the subsidiaries allegedly created phony insurance contracts with an insurance company that included false premiums passed on to Ukraine government officials.  The SEC alleged that the misconduct went unchecked by ADM for several years because of its deficient and decentralized system of FCPA oversight over subsidiaries in Germany and Ukraine.<br /><br />The SEC further alleged that ADM had insufficient anti-bribery compliance controls and made approximately USD $33 million in illegal profits as a result of the bribery by its subsidiaries.<br /><br />The DOJ alleged that, in total, ACTI Ukraine and ACTI Hamburg paid roughly USD $22 million to two vendors, nearly all of which was to be passed on to Ukrainian government officials to obtain over USD $100 million in VAT refunds, resulting in a benefit to ACTI in Ukraine and  Hamburg of roughly USD $41 million.  The DOJ entered into a non-prosecution agreement with ADM in connection with the company’s failure to implement an adequate system of internal financial controls to address the making of improper payments both in Ukraine and by an ADM joint venture in Venezuela, of which no further information was disclosed.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $22 million</td>
+<td style="text-align: center;">Between USD $33 million <br />and USD $41 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        ADM began an internal investigation in 2008 and self-reported to the SEC and DOJ.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In total, ADM paid approximately USD $54.3 million to the U.S. government to settle the FCPA violations.<br /><br />The U.S. Department of Justice announced on 20 December 2013 a non-prosecution agreement with ADM.  ACTI Ukraine paid a criminal fine of USD $17.8 million to the DOJ. <br /><br />The SEC’s complaint charged ADM with violating Sections 13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934.  ADM consented to the entry of a final judgment on 23 December 2013 ordering the company to pay disgorgement of USD $33,342,012 plus prejudgment interest of USD $3,125,354.  The final judgment permanently enjoined ADM from violating those sections of the Exchange Act, and required the company to report on its FCPA compliance efforts for a three-year period.  <br /><br />The SEC took into account ADM’s cooperation and significant remedial measures, including self-reporting the matter, implementing a comprehensive new compliance program throughout its operations, and terminating employees involved in the misconduct. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments made through third party vendors to government officials to facilitate the release of refunds-- even those owed to the company-- are still considered bribes for the purposes of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1575">ADM: SEC Form 10-K (25 August 2011)</a></p><p><a href="file.asp?id=1769">ADM: SEC Form 10-Q (3 February 2012)</a></p><p><a href="file.asp?id=2034">ADM: SEC Form 10-Q (5 November 2012)</a></p><p><a href="file.asp?id=2264">ADM: SEC Form 10-Q (7 May 2013)</a></p><p><a href="file.asp?id=2396">ADM - Press Release (6 August 2013)</a></p><p><a href="file.asp?id=2462">ADM SEC Complaint (20 December 2013)</a></p><p><a href="file.asp?id=2464">WSJ ADM Closes Internal Investigation</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

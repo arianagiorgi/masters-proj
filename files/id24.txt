@@ -1,0 +1,426 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170710u8ol0">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1707101c415" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CONTROL COMPONENTS, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(24)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170710u17ui" width="415" height="61" /></div>
+    
+        <h1>CONTROL COMPONENTS, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Control Components, Inc. ("CCI")<br />Richard Morlok<br />Mario Covino<br />Stuart Carson (former president of CCI)<br />Hong Carson (also known as Rose Carson, former director of sales for CCI China and Taiwan)<br />Paul Cosgrove (former director of worldwide sales for CCI)<br />David Edmonds (former vice president of customer service worldwide)<br />Flavio Ricotti (former vice president for sales in Europe, the Middle East, Africa)<br />Han Yom (Yong) Kim (former president of CCI Korea)<br />Jiangsu Nuclear Power Corp.<br />Guohua Electric Power<br />China Petroleum Materials and Equipment Corp.<br />PetroChina<br />Dongfang Electric Corporation<br />China National Offshore Oil Corporation<br />Korea Hydro and Nuclear Power<br />Petronas<br />National Petroleum Construction Company
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Valve manufacturer for power plants and nuclear facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rancho Santa Margarita, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Unspecified<br />Brazil<br />China<br />India<br />Malaysia<br />Romania<br />Saudi Arabia<br />South Korea<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From around 1998 until around August 2007, Control Components, Inc. ("CCI"), a company headquartered in Orange Country, California, made corrupt payments totaling approximately USD 6.85 million to officers and employees of state-owned and private customers in over thirty-six countries.  Recipients of the improper payments in China included officials at Jiangsu Nuclear Power Corp., Guohua Electric Power, China Petroleum Materials and Equipment Corp., PetroChina, Dongfang Electric Corporation, and China National Offshore Oil Corporation.  In Korea, recipients included officials at Korea Hydro and Nuclear Power; in Malaysia, payments were made to officials at Petronas; and in the United Arab Emirates, payments were received by officials of the National Petroleum Construction Company.<br /><br />These payments earned the Company a total of approximately USD 46.5 million.  From 2003 until 2007, CCI made approximately USD 1.95 million in corrupt payments to privately-owned customers and USD 4.9 million in corrupt payments to officers and employees of state-owned customers. The payments were made as part of CCI's friend-in-camp (FIC) sales model, created by CEO Stuart Carson, whereby CCI's employees and agents would develop relationships with employees of state-owned and privately-owned customers.  CCI made improper payments to customers, known inside the Company as "flowers," both directly and indirectly using agents and consultants. <br /><br />In addition to cash payments, CCI arranged elaborate vacations to destinations such as Disneyland and Las Vegas for employees of state-owned and privately-owned customers.  Expenses listed in the Criminal Information include first-class airfare to Hawaii, five star hotel accommodations and charter boat trips. CCI also frequently presented expensive gifts to customers and, in at least two cases, paid the college tuition of children of employees at state-owned customers. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at State-Owned Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.9 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 31.7 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Managers of Private Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.95 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 14.82 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        CCI uncovered the bribery scheme in 2007 and conducted an internal investigation. The Company voluntarily disclosed the conduct to the DOJ in August 2007.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, CCI pleaded guilty to violations of the FCPA and the Travel Act. Under the plea agreement, CCI agreed to (i) pay a USD 18.2 million criminal fine; (ii) create, implement and maintain a comprehensive anti-bribery compliance program; (iii) retain an independent compliance monitor for a three-year period to review the design and implementation of the Company's anti-bribery compliance program and to make periodic reports to CCI and the DOJ; (iv) serve a three-year term of organizational probation; and (v) continue to cooperate with the DOJ in its ongoing investigation.<br /><br />On 2 February 2009, CCI's former Finance Director, Richard Morlok, pleaded guilty to violating the FCPA. He admitted that he had caused CCI employees to pay approximately USD 628,000 to employees of state-owned customers. He also admitted to providing false information to both internal and external auditors during a 2004 audit. <br /><br />On 9 January 2009, Mario Covino, CCI's former Director of Worldwide Factory Sales, pleaded guilty to violating the FCPA and providing false and misleading information to both internal and external auditors during a 2004 audit. Covino, an Italian citizen, admitted to causing CCI employees to pay over USD 1 million in bribes to employees of state-owned customers.  <br /><br />On 8 April 2009, six former CCI executives were indicted for violating the FCPA and the Travel Act. The individuals include: (i) Stuart Carson, former CCI CEO, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA; (ii) Hong Carson (also known as Rose Carson), former director of sales for China and Taiwan, charged with one count of conspiracy to violate the FCPA and the Travel Act, five counts of violating the FCPA and one count of destruction on records related to an investigation of the U.S. Department of Justice; (iii) Paul Cosgrove, former director of worldwide sales, charged with one count of conspiracy to violate the FCPA and the Travel Act, six counts of violating the FCPA and one count of violating the Travel Act; (iv) David Edmonds, former vice president of worldwide customer service, charged with one count of conspiracy to violate the FCPA and the Travel Act, two counts of violating the FCPA and two counts of violating the Travel Act; (v) Flavio Ricotti, former vice president and head of sales for Europe, the Middle East and Africa, charged with one count of conspiracy to violate the FCPA and the Travel Act, one count of violating the FCPA and three counts of violating the Travel Act; and (vi) Han Yong Kim, former president of CCI's Korean operations, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA.  <br /><br />On 8 December 2009, the Court denied two motions filed by the six former CCI executives: <br /><br />(1) The first Order denied Defendant's Motion for Discovery of documents pertaining to the plea agreement between CCI and the DOJ, in an attempt to circumvent seeking to obtain discovery through CCI.  The Defendants argued that the DOJ had "constructive possession" of CCI's internal investigation materials and it should therefore be considered discoverable, citing to U.S. v. Stein.  In the Stein case – in which KPMG, the defendant, entered into a plea agreement with the DOJ while the DOJ was still prosecuting the individuals involved – the Court had allowed for the discovery of materials disclosed by KPMG under its plea agreement.  In the CCI matter, the Court denied this motion, distinguishing it from Stein on the grounds that, unlike KPMG's plea agreement, CCI's agreement contained "comprehensive privilege strictures."  The Court also found that, unlike the request in Stein, the CCI defendants' request was too broad, including requests for electronic databases and attorney work-product material. <br /><br />(2) The second Order denied the Defendants' Motion for Dismissal of Counts 9-11 of the indictment, claiming certain DOJ requests for foreign records were outside of the Statute of Limitations for the specific counts and that the tolling provision did not apply to the indictment as a whole.  The Court denied the second motion, finding that the tolling provision did apply, as the tolling statute provides that the starting point for tolling the limitations period is the official request for evidence, not the date the motion is made or granted. Additionally, the Court stated that the tolling applies to the entire grand jury investigation as a whole, and is not count-specific.  <br /><br />The Court also struck down later motions by the defendants to dismiss the Travel Act charges on the basis that the law, along with the California Penal Code, could not be used to prosecute commercial bribery committed abroad. <br /><br />Flavio Ricotti was arrested on 14 February 2010, in Frankfurt, Germany, and was extradited to the United States, arriving on 2 July 2010.  He pleaded guilty on 29 April 2011 to a one-count superseding information charging him with conspiring to make corrupt payments to foreign government officials, and officers and employees of private companies in several countries, including Saudi Arabia and Qatar, in violation of the FCPA and the Travel Act.<br /><br />On 5 March 2012, Cosgrove and Edmonds  and Hong Carson filed both a motion to suppress and a motion to dismiss the charges against them.  The motion to dismiss turned on three claims:  that the defendants were denied access to key defense documents due to the "partnership" between the government (through the DOJ) and CCI (through its attorneys), in that they coordinated between themselves, conveyed information about the defendants' willingness to cooperate and even waived the attorney-client privilege, and disclosed otherwise privileged documents; the defendants' inability to access foreign third-party records and witnesses, and; that the FCPA and Travel Acts lack clarity and can therefore not form the basis of a criminal conviction of the defendants.  Regarding this third claim, the defendants hint that the payments may not have been made to foreign officials within the meaning of the FCPA, because the government has not defined the term "instrumentality" and has not explicitly stated that a state-owned enterprise is in fact an instrumentality of a foreign government.  In conclusion, the defendants claimed that the cumulative effect of these deficiencies is to prejudice the process irreparably.<br /><br />The defendants' 5 March 2012 motion to suppress was based on the claim "that CCI and its counsel  were de facto public actors when they implicitly threatened to terminate Defendants' employment if they did not cooperate and participate in interviews with CCI's investigators."  In their brief on the motion, the defendants explain that they were compelled to take part in interviews by CCI's counsel at a time when CCI was collaborating closely with the DOJ.  Because CCI's representatives were acting with the government's knowledge and "with the government's general encouragement . . . CCI was an agent of the government during the interviews," and that "[b]ecause CCI was a state actor when it compelled the Defendants' statements, it violated their Fifth Amendment rights and the statements must be suppressed." <br /><br />On 14 May 2012, Judge David Selna of the U.S. District Court for the Central District of California, Southern Division, issued a tentative order denying the motion to dismiss, stating that the cumulative effect of the shortcomings indicated by the defendants was insufficient to dismiss the claims against them.  On 17 May 2012, the judge also issued a tentative order denying  the motion to suppress, noting that "[c]ooperation with the Government does not convert the party into a state actor," and concluding that the defendants' Fifth Amendment rights had not been violated by the conduct of the investigation. <br /><br />On 17 April 2012, Stuart Carson and his wife Hong Rose Carson pleaded guilty to separate one-count superseding informations describing FCPA violations.  In a court filing on 12 October 2012, prosecutors acknowledged the truth in Hong "Rose" Carson's pleading, in which her attorneys claimed that she deserved a lighter sentence (than the three years' probation to which she could be sentenced), given her background (she was born and raised in China until age 26), noting, "The government cannot disagree that [the defendant]. . . lacked the American education and early business training of her co-defendants."  Prosecutors  recommended a sentence of three years' probation, possibly including six months of home confinement, plus a fine of USD 20,000 for Rose Carson.  <br /><br />On 9 November 2012, Rose Carson was sentenced to 6 months home confinement, and ordered to pay a fine of USD 20,000, and to perform 200 hours of community service.  Her husband, Stuart Carson, who could have been sentenced to ten months in prison, received a sentence of 4 months imprisonment and a fine of USD 200,000.<br /><br />On 24 May 2012, Paul Cosgrove requested a hearing in order to change his previous plea of not guilty to guilty, and on 29 May Cosgrove pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in China in violation of the FCPA.  Cosgrove was sentenced in September 2012 to 13 months home confinement and fined USD 20,000 for bribing Chinese officials. <br /><br />On 15 June 2012, David Edmonds pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in Greece in violation of the FCPA.  On 17 December 2012, Edmonds was sentenced to 4 months in prison followed by 4 months of home confinement.  The maximum sentence he might have received was 15 months in prison. <br /><br />On 1 February 2013, prosecutors recommended that Ricotti, Covino and Morlok be sentenced to probation and/or time served in recognition of their cooperation with the DOJ investigation into CCI.  Main Justice reported that, on 11 March 2013, Morlok and Covino were sentenced to three years of probation in addition to three months of home confinement, while Ricotti was sentenced on 18 March 2013 to time served. <br /><br />Charges are still pending against Han Yong Kim. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers that violate state law can form the basis for violations of the Travel Act.</li><li>Employees of state-owned companies fall within the FCPA's definition of foreign officials.</li><li>The FCPA prohibits payments made through third party intermediaries such as agents and consultants.</li><li>Providing gifts and travel to foreign officials and their family members can form the basis for an FCPA violation.</li><li>Spouses can be convicted together for committing FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=70">Indictment: United States v. Stuart Carson et al. (October 2008)</a></p><p><a href="file.asp?id=68">Plea Agreement: United States v. Mario Covino (17 December 2008)</a></p><p><a href="file.asp?id=66">Plea Agreement: United States v. Richard Morlok (7 January 2009)</a></p><p><a href="file.asp?id=67">DOJ Press Release: "Former Executive at California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (8 January 2009)</a></p><p><a href="file.asp?id=65">DOJ Press Release: "Former Finance Director of California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (3 February 2009)</a></p><p><a href="file.asp?id=69">DOJ Press Release: "Six Former Executives of California Valve Company Charged in $46 million Foreign Bribery Conspiracy" (8 April 2009)</a></p><p><a href="file.asp?id=71">Motion for Bill of Particulars: United States v. Carson et al. (11 May 2009)</a></p><p><a href="file.asp?id=64">Plea Agreement: United States v. Control Components Inc. (21 July 2009)</a></p><p><a href="file.asp?id=63">Criminal Information: United States v. Control Components, Inc. (22 July 2009)</a></p><p><a href="file.asp?id=62">DOJ Press Release: "Control Components, inc. Pleads Guilty to Foreign Bribery Charges and Agrees to Pay $18.2 million Criminal Fine" (31 July 2009)</a></p><p><a href="file.asp?id=606">Order Granting in Part and Denying in Part Defendants' Motion to Compel: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=607">Order Denying Defendants' Motion to Dismiss Counts 9-1: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=1025">DOJ Press Release: "Italian Executive Extradited from Germany to the United States to Face Foreign Bribery Charges" (6 July 2010)</a></p><p><a href="file.asp?id=1458">DOJ Press Release: "Italian Executive of California Valve Company Pleads Guilty to Foreign Bribery Offenses" (29 April 2011)</a></p><p><a href="file.asp?id=1564">DOJ Opposition to Defendants' Motion to Dismiss Travel Act Charges (18 July 2011)</a></p><p><a href="file.asp?id=1570">Tentative Order Denying Motion to Dismiss: United States v. Carson et al. (Travel Act) (12 August 2011)</a></p><p><a href="file.asp?id=1794">Stipulation to amend conditions of release for defendants: United States v. Carson et al (21 July 2011)</a></p><p><a href="file.asp?id=1823">Carson, Edmonds, Cosgrove Motion to Suppress (5 March 2012)</a></p><p><a href="file.asp?id=1824">Carson, Edmonds, Cosgrove Motion to Dismiss (5 March 2012)</a></p><p><a href="file.asp?id=1795">DOJ Press Release: "Two Former Executives of California Valve Company Plead Guilty" (17 April 2012)</a></p><p><a href="file.asp?id=1826">Tentative Order Denying Motion to Dismiss: U.S. v. Carson et al. (14 May 2012)</a></p><p><a href="file.asp?id=1825">Tentative Order Denying Motion to Suppress: United States v. Carson et al. (17 May 2012)</a></p><p><a href="file.asp?id=1840">DOJ Press Release: "Former Head of Worldwide Sales at California Valve Company Pleads Guilty to Foreign Bribery Offense" (29 May 2012)</a></p><p><a href="file.asp?id=1857">DOJ Press Release: "Former Vice President at California Valve Company Pleads Guilty to Foreign Bribery Offense" (15 June 2012) </a></p><p><a href="file.asp?id=2203">DOJ Sentencing Position Memorandum (12 October 2012)</a></p><p>Main Justice: "Judge Sentences CCI Defendant Ricotti to Time Served" (18 March 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184220phplz">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18422082232" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CONTROL COMPONENTS, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(24)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184220di955" width="415" height="61" /></div>
+    
+        <h1>CONTROL COMPONENTS, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Control Components, Inc. ("CCI")<br />Richard Morlok<br />Mario Covino<br />Stuart Carson (former president of CCI)<br />Hong Carson (also known as Rose Carson, former director of sales for CCI China and Taiwan)<br />Paul Cosgrove (former director of worldwide sales for CCI)<br />David Edmonds (former vice president of customer service worldwide)<br />Flavio Ricotti (former vice president for sales in Europe, the Middle East, Africa)<br />Han Yom (Yong) Kim (former president of CCI Korea)<br />Jiangsu Nuclear Power Corp.<br />Guohua Electric Power<br />China Petroleum Materials and Equipment Corp.<br />PetroChina<br />Dongfang Electric Corporation<br />China National Offshore Oil Corporation<br />Korea Hydro and Nuclear Power<br />Petronas<br />National Petroleum Construction Company
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Valve manufacturer for power plants and nuclear facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rancho Santa Margarita, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Unspecified<br />Brazil<br />China<br />India<br />Malaysia<br />Romania<br />Saudi Arabia<br />South Korea<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From around 1998 until around August 2007, Control Components, Inc. ("CCI"), a company headquartered in Orange Country, California, made corrupt payments totaling approximately USD 6.85 million to officers and employees of state-owned and private customers in over thirty-six countries.  Recipients of the improper payments in China included officials at Jiangsu Nuclear Power Corp., Guohua Electric Power, China Petroleum Materials and Equipment Corp., PetroChina, Dongfang Electric Corporation, and China National Offshore Oil Corporation.  In Korea, recipients included officials at Korea Hydro and Nuclear Power; in Malaysia, payments were made to officials at Petronas; and in the United Arab Emirates, payments were received by officials of the National Petroleum Construction Company.<br /><br />These payments earned the Company a total of approximately USD 46.5 million.  From 2003 until 2007, CCI made approximately USD 1.95 million in corrupt payments to privately-owned customers and USD 4.9 million in corrupt payments to officers and employees of state-owned customers. The payments were made as part of CCI's friend-in-camp (FIC) sales model, created by CEO Stuart Carson, whereby CCI's employees and agents would develop relationships with employees of state-owned and privately-owned customers.  CCI made improper payments to customers, known inside the Company as "flowers," both directly and indirectly using agents and consultants. <br /><br />In addition to cash payments, CCI arranged elaborate vacations to destinations such as Disneyland and Las Vegas for employees of state-owned and privately-owned customers.  Expenses listed in the Criminal Information include first-class airfare to Hawaii, five star hotel accommodations and charter boat trips. CCI also frequently presented expensive gifts to customers and, in at least two cases, paid the college tuition of children of employees at state-owned customers. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at State-Owned Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.9 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 31.7 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Managers of Private Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.95 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 14.82 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        CCI uncovered the bribery scheme in 2007 and conducted an internal investigation. The Company voluntarily disclosed the conduct to the DOJ in August 2007.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, CCI pleaded guilty to violations of the FCPA and the Travel Act. Under the plea agreement, CCI agreed to (i) pay a USD 18.2 million criminal fine; (ii) create, implement and maintain a comprehensive anti-bribery compliance program; (iii) retain an independent compliance monitor for a three-year period to review the design and implementation of the Company's anti-bribery compliance program and to make periodic reports to CCI and the DOJ; (iv) serve a three-year term of organizational probation; and (v) continue to cooperate with the DOJ in its ongoing investigation.<br /><br />On 2 February 2009, CCI's former Finance Director, Richard Morlok, pleaded guilty to violating the FCPA. He admitted that he had caused CCI employees to pay approximately USD 628,000 to employees of state-owned customers. He also admitted to providing false information to both internal and external auditors during a 2004 audit. <br /><br />On 9 January 2009, Mario Covino, CCI's former Director of Worldwide Factory Sales, pleaded guilty to violating the FCPA and providing false and misleading information to both internal and external auditors during a 2004 audit. Covino, an Italian citizen, admitted to causing CCI employees to pay over USD 1 million in bribes to employees of state-owned customers.  <br /><br />On 8 April 2009, six former CCI executives were indicted for violating the FCPA and the Travel Act. The individuals include: (i) Stuart Carson, former CCI CEO, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA; (ii) Hong Carson (also known as Rose Carson), former director of sales for China and Taiwan, charged with one count of conspiracy to violate the FCPA and the Travel Act, five counts of violating the FCPA and one count of destruction on records related to an investigation of the U.S. Department of Justice; (iii) Paul Cosgrove, former director of worldwide sales, charged with one count of conspiracy to violate the FCPA and the Travel Act, six counts of violating the FCPA and one count of violating the Travel Act; (iv) David Edmonds, former vice president of worldwide customer service, charged with one count of conspiracy to violate the FCPA and the Travel Act, two counts of violating the FCPA and two counts of violating the Travel Act; (v) Flavio Ricotti, former vice president and head of sales for Europe, the Middle East and Africa, charged with one count of conspiracy to violate the FCPA and the Travel Act, one count of violating the FCPA and three counts of violating the Travel Act; and (vi) Han Yong Kim, former president of CCI's Korean operations, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA.  <br /><br />On 8 December 2009, the Court denied two motions filed by the six former CCI executives: <br /><br />(1) The first Order denied Defendant's Motion for Discovery of documents pertaining to the plea agreement between CCI and the DOJ, in an attempt to circumvent seeking to obtain discovery through CCI.  The Defendants argued that the DOJ had "constructive possession" of CCI's internal investigation materials and it should therefore be considered discoverable, citing to U.S. v. Stein.  In the Stein case – in which KPMG, the defendant, entered into a plea agreement with the DOJ while the DOJ was still prosecuting the individuals involved – the Court had allowed for the discovery of materials disclosed by KPMG under its plea agreement.  In the CCI matter, the Court denied this motion, distinguishing it from Stein on the grounds that, unlike KPMG's plea agreement, CCI's agreement contained "comprehensive privilege strictures."  The Court also found that, unlike the request in Stein, the CCI defendants' request was too broad, including requests for electronic databases and attorney work-product material. <br /><br />(2) The second Order denied the Defendants' Motion for Dismissal of Counts 9-11 of the indictment, claiming certain DOJ requests for foreign records were outside of the Statute of Limitations for the specific counts and that the tolling provision did not apply to the indictment as a whole.  The Court denied the second motion, finding that the tolling provision did apply, as the tolling statute provides that the starting point for tolling the limitations period is the official request for evidence, not the date the motion is made or granted. Additionally, the Court stated that the tolling applies to the entire grand jury investigation as a whole, and is not count-specific.  <br /><br />The Court also struck down later motions by the defendants to dismiss the Travel Act charges on the basis that the law, along with the California Penal Code, could not be used to prosecute commercial bribery committed abroad. <br /><br />Flavio Ricotti was arrested on 14 February 2010, in Frankfurt, Germany, and was extradited to the United States, arriving on 2 July 2010.  He pleaded guilty on 29 April 2011 to a one-count superseding information charging him with conspiring to make corrupt payments to foreign government officials, and officers and employees of private companies in several countries, including Saudi Arabia and Qatar, in violation of the FCPA and the Travel Act.<br /><br />On 5 March 2012, Cosgrove and Edmonds  and Hong Carson filed both a motion to suppress and a motion to dismiss the charges against them.  The motion to dismiss turned on three claims:  that the defendants were denied access to key defense documents due to the "partnership" between the government (through the DOJ) and CCI (through its attorneys), in that they coordinated between themselves, conveyed information about the defendants' willingness to cooperate and even waived the attorney-client privilege, and disclosed otherwise privileged documents; the defendants' inability to access foreign third-party records and witnesses, and; that the FCPA and Travel Acts lack clarity and can therefore not form the basis of a criminal conviction of the defendants.  Regarding this third claim, the defendants hint that the payments may not have been made to foreign officials within the meaning of the FCPA, because the government has not defined the term "instrumentality" and has not explicitly stated that a state-owned enterprise is in fact an instrumentality of a foreign government.  In conclusion, the defendants claimed that the cumulative effect of these deficiencies is to prejudice the process irreparably.<br /><br />The defendants' 5 March 2012 motion to suppress was based on the claim "that CCI and its counsel  were de facto public actors when they implicitly threatened to terminate Defendants' employment if they did not cooperate and participate in interviews with CCI's investigators."  In their brief on the motion, the defendants explain that they were compelled to take part in interviews by CCI's counsel at a time when CCI was collaborating closely with the DOJ.  Because CCI's representatives were acting with the government's knowledge and "with the government's general encouragement . . . CCI was an agent of the government during the interviews," and that "[b]ecause CCI was a state actor when it compelled the Defendants' statements, it violated their Fifth Amendment rights and the statements must be suppressed." <br /><br />On 14 May 2012, Judge David Selna of the U.S. District Court for the Central District of California, Southern Division, issued a tentative order denying the motion to dismiss, stating that the cumulative effect of the shortcomings indicated by the defendants was insufficient to dismiss the claims against them.  On 17 May 2012, the judge also issued a tentative order denying  the motion to suppress, noting that "[c]ooperation with the Government does not convert the party into a state actor," and concluding that the defendants' Fifth Amendment rights had not been violated by the conduct of the investigation. <br /><br />On 17 April 2012, Stuart Carson and his wife Hong Rose Carson pleaded guilty to separate one-count superseding informations describing FCPA violations.  In a court filing on 12 October 2012, prosecutors acknowledged the truth in Hong "Rose" Carson's pleading, in which her attorneys claimed that she deserved a lighter sentence (than the three years' probation to which she could be sentenced), given her background (she was born and raised in China until age 26), noting, "The government cannot disagree that [the defendant]. . . lacked the American education and early business training of her co-defendants."  Prosecutors  recommended a sentence of three years' probation, possibly including six months of home confinement, plus a fine of USD 20,000 for Rose Carson.  <br /><br />On 9 November 2012, Rose Carson was sentenced to 6 months home confinement, and ordered to pay a fine of USD 20,000, and to perform 200 hours of community service.  Her husband, Stuart Carson, who could have been sentenced to ten months in prison, received a sentence of 4 months imprisonment and a fine of USD 200,000.<br /><br />On 24 May 2012, Paul Cosgrove requested a hearing in order to change his previous plea of not guilty to guilty, and on 29 May Cosgrove pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in China in violation of the FCPA.  Cosgrove was sentenced in September 2012 to 13 months home confinement and fined USD 20,000 for bribing Chinese officials. <br /><br />On 15 June 2012, David Edmonds pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in Greece in violation of the FCPA.  On 17 December 2012, Edmonds was sentenced to 4 months in prison followed by 4 months of home confinement.  The maximum sentence he might have received was 15 months in prison. <br /><br />On 1 February 2013, prosecutors recommended that Ricotti, Covino and Morlok be sentenced to probation and/or time served in recognition of their cooperation with the DOJ investigation into CCI.  Main Justice reported that, on 11 March 2013, Morlok and Covino were sentenced to three years of probation in addition to three months of home confinement, while Ricotti was sentenced on 18 March 2013 to time served. <br /><br />Charges are still pending against Han Yong Kim. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers that violate state law can form the basis for violations of the Travel Act.</li><li>Employees of state-owned companies fall within the FCPA's definition of foreign officials.</li><li>The FCPA prohibits payments made through third party intermediaries such as agents and consultants.</li><li>Providing gifts and travel to foreign officials and their family members can form the basis for an FCPA violation.</li><li>Spouses can be convicted together for committing FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=70">Indictment: United States v. Stuart Carson et al. (October 2008)</a></p><p><a href="file.asp?id=68">Plea Agreement: United States v. Mario Covino (17 December 2008)</a></p><p><a href="file.asp?id=66">Plea Agreement: United States v. Richard Morlok (7 January 2009)</a></p><p><a href="file.asp?id=67">DOJ Press Release: "Former Executive at California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (8 January 2009)</a></p><p><a href="file.asp?id=65">DOJ Press Release: "Former Finance Director of California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (3 February 2009)</a></p><p><a href="file.asp?id=69">DOJ Press Release: "Six Former Executives of California Valve Company Charged in $46 million Foreign Bribery Conspiracy" (8 April 2009)</a></p><p><a href="file.asp?id=71">Motion for Bill of Particulars: United States v. Carson et al. (11 May 2009)</a></p><p><a href="file.asp?id=64">Plea Agreement: United States v. Control Components Inc. (21 July 2009)</a></p><p><a href="file.asp?id=63">Criminal Information: United States v. Control Components, Inc. (22 July 2009)</a></p><p><a href="file.asp?id=62">DOJ Press Release: "Control Components, inc. Pleads Guilty to Foreign Bribery Charges and Agrees to Pay $18.2 million Criminal Fine" (31 July 2009)</a></p><p><a href="file.asp?id=606">Order Granting in Part and Denying in Part Defendants' Motion to Compel: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=607">Order Denying Defendants' Motion to Dismiss Counts 9-1: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=1025">DOJ Press Release: "Italian Executive Extradited from Germany to the United States to Face Foreign Bribery Charges" (6 July 2010)</a></p><p><a href="file.asp?id=1458">DOJ Press Release: "Italian Executive of California Valve Company Pleads Guilty to Foreign Bribery Offenses" (29 April 2011)</a></p><p><a href="file.asp?id=1564">DOJ Opposition to Defendants' Motion to Dismiss Travel Act Charges (18 July 2011)</a></p><p><a href="file.asp?id=1570">Tentative Order Denying Motion to Dismiss: United States v. Carson et al. (Travel Act) (12 August 2011)</a></p><p><a href="file.asp?id=1794">Stipulation to amend conditions of release for defendants: United States v. Carson et al (21 July 2011)</a></p><p><a href="file.asp?id=1823">Carson, Edmonds, Cosgrove Motion to Suppress (5 March 2012)</a></p><p><a href="file.asp?id=1824">Carson, Edmonds, Cosgrove Motion to Dismiss (5 March 2012)</a></p><p><a href="file.asp?id=1795">DOJ Press Release: "Two Former Executives of California Valve Company Plead Guilty" (17 April 2012)</a></p><p><a href="file.asp?id=1826">Tentative Order Denying Motion to Dismiss: U.S. v. Carson et al. (14 May 2012)</a></p><p><a href="file.asp?id=1825">Tentative Order Denying Motion to Suppress: United States v. Carson et al. (17 May 2012)</a></p><p><a href="file.asp?id=1840">DOJ Press Release: "Former Head of Worldwide Sales at California Valve Company Pleads Guilty to Foreign Bribery Offense" (29 May 2012)</a></p><p><a href="file.asp?id=1857">DOJ Press Release: "Former Vice President at California Valve Company Pleads Guilty to Foreign Bribery Offense" (15 June 2012) </a></p><p><a href="file.asp?id=2203">DOJ Sentencing Position Memorandum (12 October 2012)</a></p><p>Main Justice: "Judge Sentences CCI Defendant Ricotti to Time Served" (18 March 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19203673lvx">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192036l0359" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CONTROL COMPONENTS, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(24)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19203690188" width="415" height="61" /></div>
+    
+        <h1>CONTROL COMPONENTS, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Control Components, Inc. ("CCI")<br />Richard Morlok<br />Mario Covino<br />Stuart Carson (former president of CCI)<br />Hong Carson (also known as Rose Carson, former director of sales for CCI China and Taiwan)<br />Paul Cosgrove (former director of worldwide sales for CCI)<br />David Edmonds (former vice president of customer service worldwide)<br />Flavio Ricotti (former vice president for sales in Europe, the Middle East, Africa)<br />Han Yom (Yong) Kim (former president of CCI Korea)<br />Jiangsu Nuclear Power Corp.<br />Guohua Electric Power<br />China Petroleum Materials and Equipment Corp.<br />PetroChina<br />Dongfang Electric Corporation<br />China National Offshore Oil Corporation<br />Korea Hydro and Nuclear Power<br />Petronas<br />National Petroleum Construction Company
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Valve manufacturer for power plants and nuclear facilities
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rancho Santa Margarita, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Unspecified<br />Brazil<br />China<br />India<br />Malaysia<br />Romania<br />Saudi Arabia<br />South Korea<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From around 1998 until around August 2007, Control Components, Inc. ("CCI"), a company headquartered in Orange Country, California, made corrupt payments totaling approximately USD 6.85 million to officers and employees of state-owned and private customers in over thirty-six countries.  Recipients of the improper payments in China included officials at Jiangsu Nuclear Power Corp., Guohua Electric Power, China Petroleum Materials and Equipment Corp., PetroChina, Dongfang Electric Corporation, and China National Offshore Oil Corporation.  In Korea, recipients included officials at Korea Hydro and Nuclear Power; in Malaysia, payments were made to officials at Petronas; and in the United Arab Emirates, payments were received by officials of the National Petroleum Construction Company.<br /><br />These payments earned the Company a total of approximately USD 46.5 million.  From 2003 until 2007, CCI made approximately USD 1.95 million in corrupt payments to privately-owned customers and USD 4.9 million in corrupt payments to officers and employees of state-owned customers. The payments were made as part of CCI's friend-in-camp (FIC) sales model, created by CEO Stuart Carson, whereby CCI's employees and agents would develop relationships with employees of state-owned and privately-owned customers.  CCI made improper payments to customers, known inside the Company as "flowers," both directly and indirectly using agents and consultants. <br /><br />In addition to cash payments, CCI arranged elaborate vacations to destinations such as Disneyland and Las Vegas for employees of state-owned and privately-owned customers.  Expenses listed in the Criminal Information include first-class airfare to Hawaii, five star hotel accommodations and charter boat trips. CCI also frequently presented expensive gifts to customers and, in at least two cases, paid the college tuition of children of employees at state-owned customers. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Officials at State-Owned Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.9 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 31.7 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Managers of Private Customers</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.95 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 14.82 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        CCI uncovered the bribery scheme in 2007 and conducted an internal investigation. The Company voluntarily disclosed the conduct to the DOJ in August 2007.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 July 2009, CCI pleaded guilty to violations of the FCPA and the Travel Act. Under the plea agreement, CCI agreed to (i) pay a USD 18.2 million criminal fine; (ii) create, implement and maintain a comprehensive anti-bribery compliance program; (iii) retain an independent compliance monitor for a three-year period to review the design and implementation of the Company's anti-bribery compliance program and to make periodic reports to CCI and the DOJ; (iv) serve a three-year term of organizational probation; and (v) continue to cooperate with the DOJ in its ongoing investigation.<br /><br />On 2 February 2009, CCI's former Finance Director, Richard Morlok, pleaded guilty to violating the FCPA. He admitted that he had caused CCI employees to pay approximately USD 628,000 to employees of state-owned customers. He also admitted to providing false information to both internal and external auditors during a 2004 audit. <br /><br />On 9 January 2009, Mario Covino, CCI's former Director of Worldwide Factory Sales, pleaded guilty to violating the FCPA and providing false and misleading information to both internal and external auditors during a 2004 audit. Covino, an Italian citizen, admitted to causing CCI employees to pay over USD 1 million in bribes to employees of state-owned customers.  <br /><br />On 8 April 2009, six former CCI executives were indicted for violating the FCPA and the Travel Act. The individuals include: (i) Stuart Carson, former CCI CEO, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA; (ii) Hong Carson (also known as Rose Carson), former director of sales for China and Taiwan, charged with one count of conspiracy to violate the FCPA and the Travel Act, five counts of violating the FCPA and one count of destruction on records related to an investigation of the U.S. Department of Justice; (iii) Paul Cosgrove, former director of worldwide sales, charged with one count of conspiracy to violate the FCPA and the Travel Act, six counts of violating the FCPA and one count of violating the Travel Act; (iv) David Edmonds, former vice president of worldwide customer service, charged with one count of conspiracy to violate the FCPA and the Travel Act, two counts of violating the FCPA and two counts of violating the Travel Act; (v) Flavio Ricotti, former vice president and head of sales for Europe, the Middle East and Africa, charged with one count of conspiracy to violate the FCPA and the Travel Act, one count of violating the FCPA and three counts of violating the Travel Act; and (vi) Han Yong Kim, former president of CCI's Korean operations, charged with one count of conspiracy to violate the FCPA and the Travel Act and two counts of violating the FCPA.  <br /><br />On 8 December 2009, the Court denied two motions filed by the six former CCI executives: <br /><br />(1) The first Order denied Defendant's Motion for Discovery of documents pertaining to the plea agreement between CCI and the DOJ, in an attempt to circumvent seeking to obtain discovery through CCI.  The Defendants argued that the DOJ had "constructive possession" of CCI's internal investigation materials and it should therefore be considered discoverable, citing to U.S. v. Stein.  In the Stein case – in which KPMG, the defendant, entered into a plea agreement with the DOJ while the DOJ was still prosecuting the individuals involved – the Court had allowed for the discovery of materials disclosed by KPMG under its plea agreement.  In the CCI matter, the Court denied this motion, distinguishing it from Stein on the grounds that, unlike KPMG's plea agreement, CCI's agreement contained "comprehensive privilege strictures."  The Court also found that, unlike the request in Stein, the CCI defendants' request was too broad, including requests for electronic databases and attorney work-product material. <br /><br />(2) The second Order denied the Defendants' Motion for Dismissal of Counts 9-11 of the indictment, claiming certain DOJ requests for foreign records were outside of the Statute of Limitations for the specific counts and that the tolling provision did not apply to the indictment as a whole.  The Court denied the second motion, finding that the tolling provision did apply, as the tolling statute provides that the starting point for tolling the limitations period is the official request for evidence, not the date the motion is made or granted. Additionally, the Court stated that the tolling applies to the entire grand jury investigation as a whole, and is not count-specific.  <br /><br />The Court also struck down later motions by the defendants to dismiss the Travel Act charges on the basis that the law, along with the California Penal Code, could not be used to prosecute commercial bribery committed abroad. <br /><br />Flavio Ricotti was arrested on 14 February 2010, in Frankfurt, Germany, and was extradited to the United States, arriving on 2 July 2010.  He pleaded guilty on 29 April 2011 to a one-count superseding information charging him with conspiring to make corrupt payments to foreign government officials, and officers and employees of private companies in several countries, including Saudi Arabia and Qatar, in violation of the FCPA and the Travel Act.<br /><br />On 5 March 2012, Cosgrove and Edmonds  and Hong Carson filed both a motion to suppress and a motion to dismiss the charges against them.  The motion to dismiss turned on three claims:  that the defendants were denied access to key defense documents due to the "partnership" between the government (through the DOJ) and CCI (through its attorneys), in that they coordinated between themselves, conveyed information about the defendants' willingness to cooperate and even waived the attorney-client privilege, and disclosed otherwise privileged documents; the defendants' inability to access foreign third-party records and witnesses, and; that the FCPA and Travel Acts lack clarity and can therefore not form the basis of a criminal conviction of the defendants.  Regarding this third claim, the defendants hint that the payments may not have been made to foreign officials within the meaning of the FCPA, because the government has not defined the term "instrumentality" and has not explicitly stated that a state-owned enterprise is in fact an instrumentality of a foreign government.  In conclusion, the defendants claimed that the cumulative effect of these deficiencies is to prejudice the process irreparably.<br /><br />The defendants' 5 March 2012 motion to suppress was based on the claim "that CCI and its counsel  were de facto public actors when they implicitly threatened to terminate Defendants' employment if they did not cooperate and participate in interviews with CCI's investigators."  In their brief on the motion, the defendants explain that they were compelled to take part in interviews by CCI's counsel at a time when CCI was collaborating closely with the DOJ.  Because CCI's representatives were acting with the government's knowledge and "with the government's general encouragement . . . CCI was an agent of the government during the interviews," and that "[b]ecause CCI was a state actor when it compelled the Defendants' statements, it violated their Fifth Amendment rights and the statements must be suppressed." <br /><br />On 14 May 2012, Judge David Selna of the U.S. District Court for the Central District of California, Southern Division, issued a tentative order denying the motion to dismiss, stating that the cumulative effect of the shortcomings indicated by the defendants was insufficient to dismiss the claims against them.  On 17 May 2012, the judge also issued a tentative order denying  the motion to suppress, noting that "[c]ooperation with the Government does not convert the party into a state actor," and concluding that the defendants' Fifth Amendment rights had not been violated by the conduct of the investigation. <br /><br />On 17 April 2012, Stuart Carson and his wife Hong Rose Carson pleaded guilty to separate one-count superseding informations describing FCPA violations.  In a court filing on 12 October 2012, prosecutors acknowledged the truth in Hong "Rose" Carson's pleading, in which her attorneys claimed that she deserved a lighter sentence (than the three years' probation to which she could be sentenced), given her background (she was born and raised in China until age 26), noting, "The government cannot disagree that [the defendant]. . . lacked the American education and early business training of her co-defendants."  Prosecutors  recommended a sentence of three years' probation, possibly including six months of home confinement, plus a fine of USD 20,000 for Rose Carson.  <br /><br />On 9 November 2012, Rose Carson was sentenced to 6 months home confinement, and ordered to pay a fine of USD 20,000, and to perform 200 hours of community service.  Her husband, Stuart Carson, who could have been sentenced to ten months in prison, received a sentence of 4 months imprisonment and a fine of USD 200,000.<br /><br />On 24 May 2012, Paul Cosgrove requested a hearing in order to change his previous plea of not guilty to guilty, and on 29 May Cosgrove pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in China in violation of the FCPA.  Cosgrove was sentenced in September 2012 to 13 months home confinement and fined USD 20,000 for bribing Chinese officials. <br /><br />On 15 June 2012, David Edmonds pleaded guilty to a one-count superseding information charging him with making a corrupt payment to a foreign government official in Greece in violation of the FCPA.  On 17 December 2012, Edmonds was sentenced to 4 months in prison followed by 4 months of home confinement.  The maximum sentence he might have received was 15 months in prison. <br /><br />On 1 February 2013, prosecutors recommended that Ricotti, Covino and Morlok be sentenced to probation and/or time served in recognition of their cooperation with the DOJ investigation into CCI.  Main Justice reported that, on 11 March 2013, Morlok and Covino were sentenced to three years of probation in addition to three months of home confinement, while Ricotti was sentenced on 18 March 2013 to time served. <br /><br />Charges are still pending against Han Yong Kim. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to private customers that violate state law can form the basis for violations of the Travel Act.</li><li>Employees of state-owned companies fall within the FCPA's definition of foreign officials.</li><li>The FCPA prohibits payments made through third party intermediaries such as agents and consultants.</li><li>Providing gifts and travel to foreign officials and their family members can form the basis for an FCPA violation.</li><li>Spouses can be convicted together for committing FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=70">Indictment: United States v. Stuart Carson et al. (October 2008)</a></p><p><a href="file.asp?id=68">Plea Agreement: United States v. Mario Covino (17 December 2008)</a></p><p><a href="file.asp?id=66">Plea Agreement: United States v. Richard Morlok (7 January 2009)</a></p><p><a href="file.asp?id=67">DOJ Press Release: "Former Executive at California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (8 January 2009)</a></p><p><a href="file.asp?id=65">DOJ Press Release: "Former Finance Director of California Valve Company Pleads Guilty to Bribing Foreign Government Officials" (3 February 2009)</a></p><p><a href="file.asp?id=69">DOJ Press Release: "Six Former Executives of California Valve Company Charged in $46 million Foreign Bribery Conspiracy" (8 April 2009)</a></p><p><a href="file.asp?id=71">Motion for Bill of Particulars: United States v. Carson et al. (11 May 2009)</a></p><p><a href="file.asp?id=64">Plea Agreement: United States v. Control Components Inc. (21 July 2009)</a></p><p><a href="file.asp?id=63">Criminal Information: United States v. Control Components, Inc. (22 July 2009)</a></p><p><a href="file.asp?id=62">DOJ Press Release: "Control Components, inc. Pleads Guilty to Foreign Bribery Charges and Agrees to Pay $18.2 million Criminal Fine" (31 July 2009)</a></p><p><a href="file.asp?id=606">Order Granting in Part and Denying in Part Defendants' Motion to Compel: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=607">Order Denying Defendants' Motion to Dismiss Counts 9-1: United States v. Carson, et al. (8 December 2009)</a></p><p><a href="file.asp?id=1025">DOJ Press Release: "Italian Executive Extradited from Germany to the United States to Face Foreign Bribery Charges" (6 July 2010)</a></p><p><a href="file.asp?id=1458">DOJ Press Release: "Italian Executive of California Valve Company Pleads Guilty to Foreign Bribery Offenses" (29 April 2011)</a></p><p><a href="file.asp?id=1564">DOJ Opposition to Defendants' Motion to Dismiss Travel Act Charges (18 July 2011)</a></p><p><a href="file.asp?id=1570">Tentative Order Denying Motion to Dismiss: United States v. Carson et al. (Travel Act) (12 August 2011)</a></p><p><a href="file.asp?id=1794">Stipulation to amend conditions of release for defendants: United States v. Carson et al (21 July 2011)</a></p><p><a href="file.asp?id=1823">Carson, Edmonds, Cosgrove Motion to Suppress (5 March 2012)</a></p><p><a href="file.asp?id=1824">Carson, Edmonds, Cosgrove Motion to Dismiss (5 March 2012)</a></p><p><a href="file.asp?id=1795">DOJ Press Release: "Two Former Executives of California Valve Company Plead Guilty" (17 April 2012)</a></p><p><a href="file.asp?id=1826">Tentative Order Denying Motion to Dismiss: U.S. v. Carson et al. (14 May 2012)</a></p><p><a href="file.asp?id=1825">Tentative Order Denying Motion to Suppress: United States v. Carson et al. (17 May 2012)</a></p><p><a href="file.asp?id=1840">DOJ Press Release: "Former Head of Worldwide Sales at California Valve Company Pleads Guilty to Foreign Bribery Offense" (29 May 2012)</a></p><p><a href="file.asp?id=1857">DOJ Press Release: "Former Vice President at California Valve Company Pleads Guilty to Foreign Bribery Offense" (15 June 2012) </a></p><p><a href="file.asp?id=2203">DOJ Sentencing Position Memorandum (12 October 2012)</a></p><p>Main Justice: "Judge Sentences CCI Defendant Ricotti to Time Served" (18 March 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

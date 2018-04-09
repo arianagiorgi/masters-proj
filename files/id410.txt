@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1926188g46p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192618n5jjf" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MTN GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(410)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926181ig6u" width="415" height="61" /></div>
+    
+        <h1>MTN GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        MTN Group Ltd.<br />MTN International (Mauritius) Ltd. <br />Irancell<br />Tukcell Iletisim Hizmetleri (Turkcell)<br />East Asian Consortium B.V.<br />Iran Electronics Industries ("Sairan")<br />Iran Electronic Development Company ("IEDC")<br />Aristo Oil<br />Yusuf Saloojee, former South African ambassador to Iran<br />Javid Ghorban-Oghli, Iran's former deputy foreign minister
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Johannesburg, South Africa
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iran<br />South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        A Turkish telecom company, Turkcell Iletisim Hizmetleri (Turkcell), filed a lawsuit  claiming that the South African company MTN Group Ltd paid bribes in 2004 and 2005 to Iranian and South African officials in order to secure a license to operate in Iran.   MTN, Africa's largest mobile-phone operator, owns a 49% share in an Iranian venture, MTN-Irancell, which has 33 million customers in Iran and netted over USD 1.5 billion in 2011.  Turkcell lost the 2005 bid for the Iranian license.<br /><br />In February 2012, MTN appointed an independent investigator to examine allegations brought forward by Turkcell.  In June 2012, Turkcell responded to a request by the independent investigator, a South African-born British justice, Lord Hoffman, by providing sworn testimony by a former MTN employee in Iran demonstrating that MTN paid bribes and promised assistance on nuclear issues at the IAEA and for the sale of South African arms to Iran, entering into sham agreements to Iranian partners in order to carry out this scheme.  In the deposition testimony, deponent Christian Kilowan describes some of the bribes paid by MTN to Iranian officials.  These include:  USD 400,000 to Javid Ghorbanoghli of the Iranian Foreign Ministry through a sham consulting contract with Aristo Oil; USD 15,000 per month to Mr. Riahi, a senior Interior Ministry official, through a sham contract with his brother; six payments of USD 2,000 to unnamed Iranian government officials in 2007; SAR 1.4 million (South African Rand) to South African Ambassador to Iran Yusuf Saloojee; payments by MTN to its local partners through sham loans for the Sairan and Bonyad costs of the license fee and capitalization costs, which MTN knew at the time would never be repaid.   Turkcell accuses MTN of making an effort to cover up the bribery and intimidate Mr. Kilowan, the former MTN employee, from providing testimony in his deposition.<br /><br />Turkcell's damages claim, filed in March 2012 in the U.S. District Court for the District of Columbia, seeks over USD 4 billion in damages.  In Press Releases by MTN's CEO and president, Sifiso Dabengwa, the Company denies Turkcell's allegations:<br />    <br />"In 2004, a consortium that included Turkcell was pre-selected through a bid process to be awarded the second mobile licence. However, certain conditions set by the Iranian government and the regulator needed to be fulfilled. Those conditions were never met. It was Turkcell's own failures to meet Iranian legal and commercial requirements that caused its exit from the licence process. In September 2005, the Ministry of ICT authorised the Iranian consortium partners to negotiate with MTN, the runner up in the bid process. As a result, a consortium that included MTN as the non-controlling shareholder was awarded the licence. <br /><br />"Consequently, any suggestion that Turkcell's failure to obtain the licence was as a result of any alleged corrupt or improper practices by MTN is unfounded. The allegation that MTN influenced South African foreign policy with regard to its armaments and nuclear position is simply ludicrous and has already been dismissed by the South African government.<br /><br />"Of particular concern are the allegations that accuse MTN of complicity in human rights abuses in Iran.  Such allegations are both false and offensive."<br /><br />But memoranda attached to Turkcell's complaint purport to show that MTN called its attempt to shift the Iran cellcom award away from the Turkcell-led consortium,  "Project Snooker," and described payments of USD 400,000 made to Iran's Deputy Foreign Minister, Javid Ghorbanoghli (whom MTN dubbed "Long John" or "Long-J"), and USD 200,000 to Yusuf Saloojee, who was then serving as South Africa's ambassador in Teheran (called "Short-J" in MTN's memos).  It is also alleged that MTN purchased a house for Saloojee.  <br /><br />Turkcell's complaint also alleges that in 2004, MTN entered into an arrangement with Iranian defense minister Ali Shamkhani to promote the sale of South African defense equipment, to Iran.  To advance these sales, MTN officials, including then-CEO Phuthuma Nhleko, are alleged to have exploited their personal relationships with the South African Minister of Defense, Mosiuoa Gerard Patrick Lekota, to conclude the arms deal with Iran.  Because of US sanctions, Iran had few channels for obtaining such weapons.  Others allegedly implicated in the arms deal are former South African member of Parliament and Secretary of the ANC Cyril Ramaphosa (who became an executive at MTN) and MTN executive Irene Charnley.<br /><br />Furthermore, the complaint alleges that MTN obtained promises from the government of South Africa to abstain from three votes on Iran's nuclear energy program at the United Nations' International Atomic Energy Agency in Vienna in 2005 and 2006.  The complaint describes how the Ministry of Communications in Iran threatened MTN that it would not issue the cellcom license until after the vote. South Africa did abstain from the IAEA vote regarding Iran's nuclear program on 24 November 2005, and the lucrative cellcom license was issued three days later. <br /><br />Other Iranian officials named in the complaint are Ebrahim Mahmoudzadeh, former Iranian Deputy Minister of Defense and president of Sairan, M.K. Sarraf, deputy for the Iranian Ministry of Information and Communications technology, and Mohammed Mokhber, Deputy President of Bonyad, a purported charitable foundation run by former officials of the Ministry of Defense.  The Bonyad may control up to one third of the Iranian economy. <br /><br />On 12 July 2012, press reports revealed that the South African foreign ministry had stated that Yusuf Saloojee, who served as South Africa's ambassador to Iran when MTN obtained the disputed business license in 2004, was suspended (but not dismissed from the Foreign Ministry) in early July. The report indicated that the foreign ministry has been investigating whether Saloojee committed any misconduct while serving as ambassador.  <br /><br />Media reports in June 2012, confirmed by a spokesman from the South African anti-corruption unit, the Hawks, indicated that the corruption allegations were under investigation in South Africa. In his statement, McIntosh Polela, the Hawks' spokesman, reported "We can confirm that we are conducting a formal investigation."<br /><br />On 2 July 2012, MTN moved to dismiss the Turkcell complaint, citing jurisdictional grounds (lack of subject matter jurisdiction, res judicata based on the Paris arbitration of Turkcell's claim against its Iranian joint venture partner, and lack of personal jurisdiction over MTN and its Mauritius subsidiary based on insufficient nexus). In May 2013, Turkcell dropped its U.S. civil case after an unrelated Supreme Court case made clear that U.S. courts would not have jurisdiction in a claim involving two foreign firms in an overseas dispute.<br /><br />On 26 November 2013 Turkcell filed a complaint with the South Gauteng High Court in Johannesburg, South Africa for $4.2 billion in damages against MTN Group, alleging it was the victim of corruption and bribery that caused it to lose a contract in Iran.  Turkcell alleged that MTN, former CEO and current Chairman Phuthuma Nhleko and former executive Irene Charnley "acted wrongfully" and interfered with Turkcell's relationship with the Iranian government over the granting of a mobile license in 2005.  Turkcell accused Africa's largest mobile operator of "corrupt acts" - including promises of bribes and the giving of gifts to Iranian and South African government officials - to secure the license.<br /><br />The complaint also alleged that MTN promised to influence the South African government's vote at the International Atomic Energy Agency (IAEA) on Iran's nuclear program in 2005 and 2006.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>USD 400,000 to an official of the Iranian Foreign Ministry</p>
+<p>USD 15,000 per month a senior Interior Ministry official through a sham contract with his brother</p>
+<p>USD 12,000 to Iranian officials</p>
+<p>SAR 1.4 to South African Ambassador</p>
+<p>Sham loans</p>
+</td>
+<td style="text-align: center;">Telecommunications license in Iran<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        A whistleblower may have provided damning documents to Turkcell; Turkcell then built its lawsuit upon these documents, and attached them to the complaint as exhibits.  The identity of the whistleblower may be Chris Kilowan, former MTN manager in Iran.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        South Africa <br /><br />Several media outlets reported that the South African Directorate for Priority Crimes Investigation as well as the Department of International Relations & Cooperation each initiated investigations in the summer of 2012 into allegations that MTN Group paid bribes in Iran.  The recipients of the bribes were reported to include Yusuf Saloojee, former South African ambassador to Iran, as well as Javid Ghorban-Oghli, Iran's former deputy foreign minister.  <br /><br />The formal investigation by the Directorate for Priority Crimes was commenced by the specialized Hawks unit of the SA police in June 2012.  The investigation by the Department of International Relations was announced in July 2012 in a reply by the Minister to a parliamentary question from Democratic Alliance (DA) MP David Maynier. <br /><br />On 26 November 2013, Turkcell filed a civil complaint in a South Africa court against MTN, alleging that it was the victim of MTN's corrupt actions.<br /><br />U.S. <br /><br />The civil suit filed by Turkcell against MTN was dropped in May 2013.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1830">MTN - Complaint, Turkcell v. MTN (28 March 2012)</a></p><p><a href="file.asp?id=1831">MTN - Annual Report (March 2012)</a></p><p><a href="file.asp?id=1832">MTN - Press Release (12 April 2012), MTN Group President and CEO Sifiso Dabengwa Responds to Turkcell's Iran Claims</a></p><p><a href="file.asp?id=1833">MTN - Press Release (29 March 2012), MTN to oppose TurkCell claim</a></p><p><a href="file.asp?id=1861">MTN - Court Documents (30 May 2012), Answers to interrogatories, U.S. District Court for the District of Columbia</a></p><p><a href="file.asp?id=1862">MTN - Court documents (30 April 2012), Videotaped deposition of Christian Kilowan, US District Court for the District of Columbia</a></p><p><a href="file.asp?id=1863">MTN - Court documents (8 June 2012), Documents filed in support of Turkcell v. MTN</a></p><p><a href="file.asp?id=1864">MTN - Copy of letter to Lord Hoffman (4 June 2012)</a></p><p><a href="file.asp?id=1883">MTN - Press Release (3 July 2012), MTN file a motion to dismiss Turkcell's US claim</a></p><p><a href="file.asp?id=1884">MTN - Motion to dismiss (2 July 2012), Turkcell v. MTN</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

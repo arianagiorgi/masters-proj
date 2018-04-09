@@ -1,0 +1,204 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184320c68mo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184320f637g" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROTHROCK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(90)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184320oze41" width="415" height="61" /></div>
+    
+        <h1>ROTHROCK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Allied Products Corporation ("Allied Products")<br />Daniel Ray Rothrock (Vice President of Cooper Division of Allied Products)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer and sale of work-over oil rigs and related equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Chicago, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Daniel Ray Rothrock, Vice President of the Cooper Division of Allied Products, with knowingly and willfully causing Allied Products to keep false books and records in violation of the FCPA.<br /><br />On August 9, 1991, the Cooper Division of Allied Products ("Cooper") signed a contract with RVO Zarubezhneftestroy ("Nestro"), an entity owned by the Government of the Union of Soviet Socialist Republics ("USSR") and later by the Government of the Russian Republic, for the sale of 20 work-over oil rigs.  The contract was worth approximately $5.5 million.<br /><br />Nestro owned 50% of a company called Trading & Business Services ("TBS"), which was registered in Switzerland.  The Director General of Nestro was also a director at TBS.  The day before the award of the contract to Cooper, on August 8, 1991, Cooper had agreed to pay $282,076 to TBS as a sales commission for the ultimate benefit of the Director General of Nestro.  <br /><br />In September 1992, TBS requested that Cooper provide pay it an additional $300,000, purportedly for services rendered in connection with the award of a second work-over rig contract.  In late October 1992, Rothrock provided TBS with a draft invoice for $300,000 for a consultation fee and market study, to be submitted to Cooper.  TBS submitted the invoice through a company called Educa, registered in Austria.  After the second contract was signed on May 18, 1993, Cooper issued a check for $300,000 to Educa. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">Approximate Payments to Russian Official</p></td><td width="50%"><p align="center">Business Advantage Obtained</p></td></tr><tr><td><p align="center">$582,076</p></td><td><p align="center">Contracts for the sale of work-over oil rights, worth over $5,500,000</p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On June 22, 2001 Rothrock pleaded guilty to one count of knowingly and willfully falsifying and causing to be falsified, certain books, records, and accounts of his former employer, Allied Products Corporation, in violation of the FCPA's books and records provisions.  On September 26, 2001, he was sentenced to one year of unsupervised probation and ordered to pay a special assessment of $100.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ may bring criminal charges for violations of the FCPA's books and records provisions, even if it brings no charges related to the anti-bribery provisions.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=185">Criminal Information: U.S. v. Daniel Ray Rothrock (June 13, 2001)</a></p><p><a href="file.asp?id=186">Plea Agreement: U.S. v. Daniel Ray Rothrock (June 13, 2001)</a></p><p><a href="file.asp?id=187">Memorandum and Recommendation: U.S. v. Daniel Ray Rothrock (June 22, 2001)</a></p><p><a href="file.asp?id=188">Judgment: U.S. v. Daniel Ray Rothrock (September 27, 2001)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192137q57af">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19213700ems" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROTHROCK</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(90)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921376j9yn" width="415" height="61" /></div>
+    
+        <h1>ROTHROCK</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Allied Products Corporation ("Allied Products")<br />Daniel Ray Rothrock (Vice President of Cooper Division of Allied Products)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacturer and sale of work-over oil rigs and related equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Chicago, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged Daniel Ray Rothrock, Vice President of the Cooper Division of Allied Products, with knowingly and willfully causing Allied Products to keep false books and records in violation of the FCPA.<br /><br />On August 9, 1991, the Cooper Division of Allied Products ("Cooper") signed a contract with RVO Zarubezhneftestroy ("Nestro"), an entity owned by the Government of the Union of Soviet Socialist Republics ("USSR") and later by the Government of the Russian Republic, for the sale of 20 work-over oil rigs.  The contract was worth approximately $5.5 million.<br /><br />Nestro owned 50% of a company called Trading & Business Services ("TBS"), which was registered in Switzerland.  The Director General of Nestro was also a director at TBS.  The day before the award of the contract to Cooper, on August 8, 1991, Cooper had agreed to pay $282,076 to TBS as a sales commission for the ultimate benefit of the Director General of Nestro.  <br /><br />In September 1992, TBS requested that Cooper provide pay it an additional $300,000, purportedly for services rendered in connection with the award of a second work-over rig contract.  In late October 1992, Rothrock provided TBS with a draft invoice for $300,000 for a consultation fee and market study, to be submitted to Cooper.  TBS submitted the invoice through a company called Educa, registered in Austria.  After the second contract was signed on May 18, 1993, Cooper issued a check for $300,000 to Educa. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td width="50%"><p align="center">Approximate Payments to Russian Official</p></td><td width="50%"><p align="center">Business Advantage Obtained</p></td></tr><tr><td><p align="center">$582,076</p></td><td><p align="center">Contracts for the sale of work-over oil rights, worth over $5,500,000</p></td></tr></tbody></table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On June 22, 2001 Rothrock pleaded guilty to one count of knowingly and willfully falsifying and causing to be falsified, certain books, records, and accounts of his former employer, Allied Products Corporation, in violation of the FCPA's books and records provisions.  On September 26, 2001, he was sentenced to one year of unsupervised probation and ordered to pay a special assessment of $100.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ may bring criminal charges for violations of the FCPA's books and records provisions, even if it brings no charges related to the anti-bribery provisions.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=185">Criminal Information: U.S. v. Daniel Ray Rothrock (June 13, 2001)</a></p><p><a href="file.asp?id=186">Plea Agreement: U.S. v. Daniel Ray Rothrock (June 13, 2001)</a></p><p><a href="file.asp?id=187">Memorandum and Recommendation: U.S. v. Daniel Ray Rothrock (June 22, 2001)</a></p><p><a href="file.asp?id=188">Judgment: U.S. v. Daniel Ray Rothrock (September 27, 2001)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

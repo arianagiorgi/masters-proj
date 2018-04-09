@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192607tn3k6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926078727g" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TE CONNECTIVITY LTD - see also Tyco Electronics/Covidien</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(397)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192607b5ew9" width="415" height="61" /></div>
+    
+        <h1>TE CONNECTIVITY LTD - see also Tyco Electronics/Covidien</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        TE Connectivity (Netherlands) Holding S.a r.l., a Luxembourg subsidiary ("TE Netherlands")<br />Deutsch Group SAS, a company purchased by TE Netherlands on 3 April 2012 ("Deutsch")<br />Tyco Electronics Ltd. (now called TE Connectivity)<br />Tyco International Ltd.<br />Covidien Ltd. (previously called Tyco Healthcare)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Design and manufacture of electronic parts for consumer goods, healthcare, automotive, aerospace, energy and communications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Schaffhausen, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Tyco separated into three companies in June 2007:  Covidien Ltd. (formerly Tyco Healthcare), Tyco Electronics Ltd. (now TE Connectivity Ltd.) and Tyco International Ltd. (formerly Tyco Fire & Security and Tyco Engineered Products & Services (TFS/TEPS)).<br /><br />In Connectivity's SEC Form 10-Q filed on 27 January 2012, the company notes that Tyco International "received and has responded to various allegations that certain improper payments were made by Tyco International subsidiaries, including our subsidiaries, in recent years prior to the separation. Tyco International reported to the U.S. Department of Justice and the Securities and Exchange Commission the investigative steps and remedial measures that it had taken in response to the allegations, including that it retained outside counsel to perform a company-wide baseline review of its policies, controls, and practices with respect to compliance with the Foreign Corrupt Practices Act ("FCPA"), and that it would continue to investigate and make periodic progress reports to these agencies. To date, our baseline review has revealed that some of our former business practices may not have complied with FCPA requirements. At this time, we believe we have adequate amounts recorded related to these matters, the amounts of which are not significant. Any judgment, settlement, or other cost incurred by Tyco International in connection with these matters not specifically allocated to Tyco International, Covidien, or us would be subject to the liability sharing provisions of the Separation and Distribution Agreement."<br /><br />The Company's SEC Forms 10-Q filed on 24 April 2012 and 26 July 2012 confirm this information.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Not known.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1784">TE Connectivity - SEC Form 10-Q (27 January 2012)</a></p><p><a href="file.asp?id=1908">TE Connectivity - SEC Form 10-Q (26 July 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

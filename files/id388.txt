@@ -1,0 +1,139 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19255937v6n">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192559r9gco" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BIZJET</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(388)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925594a1qz" width="415" height="61" /></div>
+    
+        <h1>BIZJET</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BizJet International Sales and Support, Inc. ("BizJet")<br />Lufthansa Technik AG ("Lufthansa," parent company of BizJet)<br />Peter DuBois (former vice president of sales and marketing of BizJet)<br />Neal Uhl (former vice president of finance of BizJet)<br />Bernd Kowalewski (former president and chief executive officer of BizJet)<br />Jald Jensen (former sales manager at BizJet)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Avionics, including engine overhauls, luxury interior updates, aircraft refurbishing
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Tulsa, Oklahoma, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />Mexico<br />Panama<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the facts stipulated in the Deferred Prosecution Agreement ("DPA") between BizJet and the U.S. Department of Justice ("DOJ"), the Company paid numerous bribes between 2004 and 2010 to foreign officials in Mexico and Panama in order to obtain contracts for aircraft maintenance, repair and overhaul ("MRO") services. The foreign officials in question included a captain of the Mexican Federal Police (Policía Federal Preventiva); a colonel, a captain and another employee of the Mexican Presidential Fleet (Coordinación General de Transportes Aéreos Presidenciales); the Director of Air Services of the air fleet of the Governor of the Mexican State of Sinaloa (Gobierno del Estado de Sinaloa); and the chief mechanic of the Civil Aviation Authority of Panama (República de Panama Autoridad Aeronáutica Civil).  <br /><br />The DPA states that BizJet made a number of payments directly to many of these foreign officials. In 2005, the Company discussed and approved payments of USD 30,000 to USD 40,000 to multiple foreign officials. These officials demanded these payments as "commissions," and they were paid in exchange for MRO contracts. In 2006, two BizJet executives and one sales manager knew of or approved a payment of USD 10,000 and the purchase of a cell phone for the chief mechanic at the Panama Civil Aviation Authority in exchange for his help in securing a contract with the agency. The DPA also mentions an internal email discussing the need to pay USD 2,000 to a captain in the Mexican Presidential Fleet, as well as an October 2007 wire transfer of USD 30,000 to the bank account of a BizJet sales manager, which was then transferred to a colonel in the Mexican Presidential Fleet. A BizJet sales manager had also purchased "some high dollar stuff" for the Mexican Federal Police, which resulted in the Company's approval to add USD 10,000 to his credit card limit in 2008.<br /><br />The DPA also describes how a shell company was created and operated by a BizJet executive to make payments to foreign officials. The DPA details a number of payments made to foreign officials through the shell company in exchange for help in acquiring contracts: payments of USD 18,000 (2008), USD 22,912.38 (2009) and USD 6,417.44 (2009) to the Director of Air Services of the Mexican State of Sinaloa; payments of USD 50,000 (2008) and USD 40,000 (2009) to an official of the Mexican Presidential Fleet; a payment of USD 30,000 to a colonel in the Mexican Presidential Fleet in 2007; and payments of USD 176,000 and USD 210,000 to officials of the Mexican Federal Police in 2009.<br /><br />In a press release from 5 April 2013, the DOJ stated that the name of this shell company was Avionica International & Associates Inc. and it "allegedly operated under the pretense of providing aircraft maintenance brokerage services but in reality laundered money related to BizJet's bribery scheme." There was only one officer, director and employee: Jald Jensen, the former BizJet sales manager. The company was also located at Jensen's private residence.<br /><br />The DOJ's 5 April 2013 press release also alleged that bribes were paid to officials of the Brazilian State of Roraima in order to receive a contract to provide MRO services for Roraima's air fleet. <br /><br />Lufthansa is not alleged to have had any direct involvement in the bribery scheme.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Panamanian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 10,000 and a cell phone<br /></td>
+<td style="text-align: center;">&nbsp;MRO services contract with the Panama Civil Aviation Authority<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Mexican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;At least USD 583,000<br /></td>
+<td style="text-align: center;">&nbsp;Contracts for MRO services with multiple Mexican government agencies<br /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Brazilian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unknown</td>
+<td style="text-align: center;">Contract to perform MRO services for the air fleet of the Brazilian State of Roraima<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Company voluntarily disclosed information following an internal audit.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 14 March 2012, the DOJ filed a criminal information charging BizJet with one count of conspiring to violate the FCPA.  On the same day, the DOJ and BizJet entered into their DPA in the U.S. District Court for the Northern District of Oklahoma.  The Company agreed to pay a USD 11.8 million criminal penalty, and to report periodically to the DOJ during the three-year deferment period.  BizJet undertook to continue to implement enhanced compliance measures and internal controls in order to prevent and detect FCPA violations in the future.  If the DOJ is satisfied that BizJet has complied with this agreement, the criminal charges will be dropped at the end of the three-year period.<br /><br />BizJet's indirect parent company, Lufthansa, and the DOJ entered into a Non-Prosecution Agreement in 2011, which stipulates that Lufthansa will cooperate with the ongoing investigation for a three-year period and pursue a program of rigorous internal controls. In exchange, the DOJ promised to not prosecute Lufthansa.<br /><br />The DOJ noted specifically that the Company voluntarily came forward to report the violations "prior to imminent threat of disclosure or government investigation." The DOJ also remarked on the "extraordinary cooperation" of BizJet and Lufthansa. In addition to the internal investigations and making employees accessible to the investigators, the companies "engaged in extensive remediation, including terminating the officers and employees responsible for the corrupt payments, enhancing their due-diligence protocol for third-party agents and consultants, and heightening review of proposals and other transactional documents for all BizJet contracts."<br /><br />On 5 April 2013, the DOJ issued a press release announcing that FCPA charges against four former BizJet executives from 2011 and 2012 have been unsealed. The press release stated that on 5 January 2012, Peter Dubois (former vice president of sales and marketing at BizJet) pleaded guilty to one count of conspiracy to violate the FCPA and one count of violating the FCPA, while Neal Uhl (former vice president of finance at BizJet) pleaded guilty to one count of conspiring to violate the FCPA. Despite the possibility of significant prison time for both men, the two were sentenced to eight months of home detention based on their cooperation with the DOJ's investigation. <br /><br />On 5 January 2012, charges of conspiracy to violate the FCPA and launder money and charges of violating the FCPA and laundering money were also filed against Bernd Kowalewski (former president and CEO of BizJet) and Jald Jensen (former BizJet sales manager), although the two are believed to be outside of the United States.  On 24 July 2014, Mr. Kowalewski pleaded guilty to the charges of paying  bribes to officials in Mexico and Panama in exchange for their assistance in securing contracts for BizJet to perform aircraft maintenance, repair and overhaul services.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Prompt voluntary disclosure, cooperation during the investigation, and meaningful remediation can reduce the amount of the penalty.</li><li>Where aggressive compliance measures are initiated during an investigation, a compliance monitor may not be necessary; instead, direct oversight by the DOJ may be imposed.</li><li>The DOJ can and often does pursue FCPA charges for individuals, regardless of any deferred prosecution agreements or settlements with the company that employed those individuals.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2213">Lufthansa: Non-Prosecution Agreement (21 December 2011)</a></p><p><a href="file.asp?id=1733">BizJet: Deferred Prosecution Agreement (14 March 2012)</a></p><p><a href="file.asp?id=1734">DOJ Press Release: "Bizjet International Sales and Support Inc., Resolves Foreign Corrupt Practices Act Investigation and Agrees to Pay $11.8 Million Criminal Penalty" (14 March 2012)</a></p><p><a href="file.asp?id=2212">DOJ Press Release: "Four Former Executives of Lufthansa Subsidiary Bizjet Charged with Foreign Bribery" (5 April 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

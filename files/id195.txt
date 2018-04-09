@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192311um56p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192311i5847" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GLAXOSMITHKLINE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(195)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19231113pef" width="415" height="61" /></div>
+    
+        <h1>GLAXOSMITHKLINE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Serious Fraud Office<br />Poland: Central Anticorruption Bureau<br />China: Ministry of Public Security<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        GlaxoSmithKline plc ("GSK")<br />Shanghai Linjiang International Travel Agency (alleged intermediary of GSK in China)<br />Mark Reilly (head of GSK's China operations)<br />Xi’an China Travel Service Co.<br />Maatouk Group, Syrian distributor
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, Brentford, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Syria<br />China<br />Iraq<br />Jordan<br />Kuwait<br />Lebanon<br />Oman<br />Poland<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        China<br /><br />The Wall Street Journal reported on 7 July 2013 that GSK had begun investigating "allegations that sales personnel in China rewarded doctors with cash and perks for prescribing Botox, and allegedly tried to cover their tracks by using private email, as part of a broader probe into allegations of bribery that date back several years."  According to the article, an anonymous tipster presented GSK with allegations that between 2004 and 2010 its China sales staff provided doctors with speaking fees, cash payments, dinners and all-expenses-paid trips in return for prescribing the drug company's products.<br /><br />On 11 July 2013, a New York Times article alleged that "people working for the drug maker had bribed doctors, hospitals and government officials and funneled illicit payoffs through travel agencies, pharmaceutical industry associations and project financing." On 15 July 2013, four GSK executives were detained by China's Ministry of Public Security over allegations of "economic crimes involving 3 billion yuan ($489 million) of spurious travel and meeting expenses, and receiving sexual favors."  <br /><br />An official with the Ministry of Public Security claimed that over 700 travel agencies were involved in the allegations.  GSK's China operations allegedly used travel agencies as money-laundering shops to funnel bribes to doctors, hospitals, medical associations, foundations and government officials.  China's Ministry of Public Security accused senior executives of organizing fictitious conferences, over-billing for training sessions and in various other ways filing sham expenses for which the cooperating travel agencies would issue bogus receipts.  That enabled the GSK executives to get reimbursed by their company with money they could use for bribes, investigators said, while the travel agencies skimmed off shares of the money for themselves.  Authorities released the name of only one travel agency: Shanghai Linjiang International Travel Agency.<br /><br />On 15 July 2013, GSK released a statement regarding the allegations and investigation in China: <br /><br />"We are deeply concerned and disappointed by these serious allegations of fraudulent behaviour and ethical misconduct by certain individuals at the company and third-party agencies. Such behaviour would be a clear breach of GSK's systems, governance procedures, values and standards. GSK has zero tolerance for any behaviour of this nature.<br /><br />"GSK shares the desire of the Chinese authorities to root out corruption. These allegations are shameful and we regret this has occurred.<br /><br />"We will cooperate fully with the Chinese authorities in the investigation of these new allegations. We will take all necessary action required by the outcome of this investigation.<br /><br />"In the meantime, we are taking a number of immediate actions. We are reviewing all third party agency relationships. We have put an immediate stop on the use of travel agencies that have been identified so far in this investigation and we are conducting a thorough review of all historic transactions related to travel agency use. We also intend to conduct a rigorous review of our compliance procedures in China."<br /><br />The Telegraph reported on 20 July 2013 that the Serious Fraud Office ("SFO") in the United Kingdom ("UK") "has not launched a formal investigation but is understood to be conducting a preliminary review into the allegations." The Guardian reported on 21 July 2013 that GSK met with the SFO regarding the allegations in China.<br /><br />On 22 July 2013, following a meeting with Chinese authorities, Abbas Hussain, GSK's President International – Europe, Japan, Emerging Markets & Asia Pacific, said, "Certain senior executives of GSK China who know our systems well, appear to have acted outside of our processes and controls which breaches Chinese law. We have zero tolerance for any behaviour of this nature.  I want to make it very clear that we share the desire of the Chinese authorities to root out corruption wherever it exists. We will continue to work together with the MPS and we will take all necessary actions required as this investigation progresses. . . ."<br /><br />On 3 September 2013, Reuters reported that a Chinese police investigation claims the alleged bribery was coordinated by GSK, and not the work of a few individual employees. It reports that GSK implemented salary policies based on sales volumes and goals that could not be accomplished without "dubious corporate behavior."<br /><br />In April 2014, the Wall Street Journal reported that GSK terminated employees in China following increased monitoring of employees amidst bribery probes, but it is not known how many employees have been let go. GSK previously said that it employed about 7,000 people in China.  GSK confirmed that it fired staff in China for bribing officials in 2001 in a case that predates the wider allegations of corruption. About 30 staff in GSK's vaccines business were dismissed for bribing Chinese officials after they were found to be involved in bribing Chinese officials and taking kickbacks, according to Reuters.<br /><br />Iraq<br /><br />On 6 April 2014, a person familiar with GSK's Mideast operations emailed the company saying, "I believe GSK practices in Iraq violate the FCPA and the U.K. Bribery Act."  According to the Wall Street Journal, the person said that GSK hired 16 government-employed physicians and pharmacists in Iraq as paid sales representatives for the company while they continued to work for the government.<br /><br />A government-employed Iraqi emergency room physician allegedly prescribed GSK products, even when they weren't in the hospital's pharmacy and a competitor's brand was in stock.  The e-mail went on to say that GSK hired government-employed Iraqi doctors as medical representatives and paid their expenses to attend international conferences.  GSK also allegedly paid other doctors high fees to give lectures in exchange for promoting and prescribing its drugs.  <br /><br />After GSK won a contract with the Iraqi Ministry of Health in 2012 to supply the company's Rotarix vaccine, GSK paid for a workshop in Lebanon for Iraqi Ministry of Health officials, the email alleged.  That included paying for a doctor's family to travel to Lebanon "so it would be a family vacation for him at the hotel."<br /><br />Syria<br /><br />GSK announced it would be investigating a whistleblower report it received on 18 July 2014 addressed to Chief Executive Andrew Witty and Judy Lewent, chair of GSK's audit committee.  According to the e-mail, GSK employees paid incentives to doctors, dentists, pharmacists and government officials to win tenders and to obtain improper business advantages.  "GSK has been engaging in multiple corrupt and illegal practices in Syria and its internal controls for its Syrian operation are virtually non-existent," the email said.<br /><br />In addition, the email said GSK had engaged in apparent Syrian export control violations, including an alleged smuggling scheme to ship the drug component pseudoephedrine to Iran from Syria via Iraq.  Pseudoephedrine is regulated as a precursor for making methamphetamine.<br /><br />The whistleblower's email alleged that GSK used its own employees and Syrian distributor Maatouk Group to make illicit payments.  The email listed a range of alleged improper activities, including payments of USD $1,500 each to two doctors to promote Panadol.  The document also highlighted bribes paid to pharmacists and payments for medics to visit a Mediterranean holiday resort.<br /><br />Poland<br /><br />GSK is facing criminal investigation in Poland for allegedly bribing doctors to promote its lung drug Seretide.  GSK said the allegations related to the way a respiratory disease program was conducted in the Lodz region. The 2010-12 program centered on GSK's top drug Seretide, also known as Advair, which has worldwide sales of around USD $8 billion a year.   <br /><br />According to the BBC, one doctor has admitted guilt and has been fined and given a suspended sentence, after accepting 100 pounds (USD $170) for a lecture he never gave.  The bribes allegedly involved 11 doctors and a GSK regional manager.<br /><br />GSK said an internal investigation into the matter found evidence of inappropriate behavior by just one employee, whom it disciplined in 2011.<br /><br />Lebanon <br /><br />In Lebanon, GSK employees allegedly gave doctors free Synflorix vials as part of an incentive scheme to get them to prescribe the vaccine and not its competitors, according to a whistleblower e-mail to company representatives.  GSK allegedly made payments to "key opinion-leader" doctors—influential and leading practitioners in their field—for lectures and other speaking engagements that may not have taken place, the emails allege, in return for them prescribing more drugs produced by GSK.<br /><br />Jordan<br /><br />According to e-mails first sent to the company in December, GSK sales representatives allegedly bribed doctors in Jordan to prescribe GSK drugs by issuing free samples that the doctors were then allowed to sell.  GSK representatives also allegedly permitted Jordanian doctors to bring their spouses on business trips that GSK paid for, according to the emails. <br /><br />According to the e-mails, doctors were issued with business-class tickets to attend conferences but would exchange them at travel agencies for two economy-class tickets, allowing their spouses or other family members to come along for free, a practice local GSK employees were aware of.  It is against GSK policy to allow airplane tickets to be exchanged for tickets of a lower value or refunded. <br /><br />The emails alleged that GSK sales representatives gave doctors in Jordan up to 60 free samples of its vaccine Synflorix, which they then sold on at up to USD $70 a vial.<br /><br />United Arab Emirates<br /><br />On 7 October 2014, GSK began an investigation into allegations of corrupt payments in the United Arab Emirates following a whistleblower complaint.  The company confirmed the investigation following the receipt of an email alleging improper payments, which was purportedly from a GSK sales manager in the United Arab Emirates. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CNY 3 billion (USD 489 million)</p>
+</td>
+<td>
+<p>Increased sales and higher prices of products in China</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        China<br /><br />Unspecified<br /><br />Iraq<br /><br />A person familiar with GSK's Mideast operations emailed the company and threatened to disclose to the DOJ and SEC.<br /><br />Syria<br /><br />The whistleblower who disclosed bribe allegations in Syria said the information would be passed on to the DOJ and SEC.<br /><br />Poland<br /><br />Unspecified.<br /><br />Lebanon and Jordan<br /><br />Whistleblower e-mails.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        China<br /><br />In China, four GSK executives have been detained pursuant to the Ministry of Public Security's investigation of potential economic crimes.  According to a Bloomberg News report from 15 July 2013, the executives are: Huang Hong (a GSK business development manager), Liang Hong (GSK's vice president and operations manager in China), Zhang Guowei (a GSK human resources director), and Zhao Hongyan (a GSK legal affairs director). According to the same story, all four executives are Chinese nationals. Bloomberg News also reported that the head of GSK in China, Mark Reilly, "returned to the U.K. on a routine, planned business trip and has been working from company headquarters on the response to the investigation."<br /><br />On 16 July 2013, The Telegraph cited a statement from the Ministry of Public Security as saying that "[a]fter initial questioning the suspects have admitted to the crimes, and the investigation is ongoing." The Telegraph also reported that the vice president of operations in China, Liang Hong, who is one of the four detained executives, confessed to the crimes on a news broadcast on 15 July 2013.<br /><br />The Guardian reported on 26 July 2013 that an additional group of eighteen or more GSK employees have been detained by the police in Zhengzhou. Additional details were unavailable.<br /><br />On 14 May 2014, Chinese prosecutors filed criminal charges against Mark Reilly, the former GSK China CEO.  Mr. Reilly allegedly ordered his sales teams to bribe doctors and hospitals to achieve the company’s sales targets, according to police in Changsha, Hunan province.  Two other GSK executives, allegedly helped execute the bribery scheme, which netted the company revenue worth billions of yuan.  GSK’s drugs in China cost more than those in other countries because the company allegedly inflated drug prices to recoup bribery funds, according to Chinese police.<br /><br />On 19 September 2014, GSK agreed to pay an unprecedented USD $491.5 million to Chinese authorities after the company’s Chinese subsidiary was found guilty of bribery.  The ruling followed a one-day trial in Changsha, Hunan, and the penalty marks the largest corporate fine ever imposed in China.  <br /> <br />Mr. Reilly was sentenced to three years in prison after allegedly ordering his sales teams to bribe doctors and hospitals to achieve the company’s sales targets.  Mr. Reilly received a three-year prison sentence that was suspended for four years; he will be expelled from China following the four-year suspended sentence.  GSK published an apology in Chinese to the Chinese government and its people on its website.  And previously, in 2013, a confession by GSK’s Vice President of China operations was broadcast on television.<br /><br />United Kingdom<br /><br />On 27 May 2014, GSK disclosed that the UK's Serious Fraud Office opened a formal criminal investigation of the company's commercial practices.<br /><br />United States<br /><br />The DOJ and SEC investigation of the pharmaceuticals industry in a variety of countries appear to be ongoing.  <br /><br />Poland<br /><br />Poland's Central Anti-Corruption Bureau ("CAB") opened a criminal investigation into GSK and announced on 14 April 2014 that 13 people had been charged in connection with the investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1367">GSK: SEC Form 20-F (4 March 2011)</a></p><p>Wall Street Journal: Glaxo Probes Tactics Used to Market Botox in China (7 July 2013)</p><p>New York Times: "GlaxoSmithKline Accused of Corruption by China" (11 July 2013)</p><p>Bloomberg News: "Four Glaxo China Executives Held in Criminal Probe" (15 July 2013)</p><p>New York Times: "Glaxo Used Travel Firms for Bribery, China Says" (15 July 2013)</p><p>The Telegraph: "GSK executive confesses to bribery on Chinese television" (16 July 2013)</p><p>The Telegraph: "GlaxoSmithKline briefs Serious Fraud Office over China case" (20 July 2013)</p><p>The Guardian: "GlaxoSmithKline contacts Serious Fraud Office over its China activities" (21 July 2013)</p><p><a href="file.asp?id=2365">GSK Press Release: "GSK statement regarding recent meeting with Chinese authorities" (22 July 2013)</a></p><p>The Guardian: "GlaxoSmithKline China scandal: another 18 people arrested" (26 July 2013)</p><p>Reuters: "Bribery by GSK China was coordinated at company level: Xinhua" (3 September 2013)</p><p><a href="file.asp?id=2526">Glaxo Investigates Bribery Accusations in the Mideast - WSJ</a></p><p><a href="file.asp?id=2527">GlaxoSmithKline Cuts Staff in China Amid Probe - WSJ</a></p><p><a href="file.asp?id=2534">Glaxo Investigating Bribery Claims in Jordan and Lebanon - WSJ</a></p><p><a href="file.asp?id=2549">Glaxo Being Investigated by U.K. Serious Fraud Office - WSJ</a></p><p><a href="file.asp?id=2571">Global Post - GSK Syria Allegations</a></p><p><a href="file.asp?id=2572">Reuters - GSK Poland Allegations</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

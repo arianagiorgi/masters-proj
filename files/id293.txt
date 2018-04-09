@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19243861yg7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924388a3kw" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ORDNANCE FACTORY BOARD SCAM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(293)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19243802tgx" width="415" height="61" /></div>
+    
+        <h1>ORDNANCE FACTORY BOARD SCAM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Singapore Technologies Kinetics (Singapore)<br />Israel Military Industries Ltd (Israel)<br />Rheinmetall Air Defence (Switzerland)<br />Cooperation Defence (Russia)<br />T S Kisan and Companies Pvt Ltd (India)<br />R K Machines Tools Ltd (India)<br />BVT Poland (Poland)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Supply of military equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Various
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in early July 2010 India's Central Bureau of Investigation ("CBI") advised the Indian Ministry of Defence to blacklist six defence suppliers (four of which are foreign companies) for their alleged involvement in what's known as the "Ordnance Factory Board scam."   The Indian Government's Ordnance Factory Board, based in Kolkata, oversees the forty ordnance factories that produce arms, ammunition and equipment for the Indian military.<br /><br />The foreign companies at issue, according to press reports, are Singapore Technologies Kinetics ("STK") of Singapore, Israel Military Industries Ltd ("IMI") of Israel, Rheinmetall Air Defence ("RAD") of Switzerland, and Cooperation Defence of Russia.  The two Indian companies appear to be T S Kisan and Company Pvt Ltd (New Delhi) and R K Machines Tools Ltd (Ludhiana).  A seventh company, BVT Poland, was initially named by the CBI but has since been cleared. <br /><br />On June 30, 2010, the CBI filed corruption charges against Sudipta Ghosh, former Director General of the Ordnance Factory Board, and eleven others.  The defendants allegedly conspired to demand and obtain kickbacks from domestic and foreign suppliers in connection with various supply orders placed by the Ordnance Factory Board, along with other alleged misconduct. The special CBI court hearing the case is due to take up the matter on July 31, 2010.<br /><br />The two Indian and four foreign companies were reportedly named in the June 30 chargesheet filed against Sudipta Ghosh.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Sales of defense equipment</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 5 March 2012, the Indian Ministry of Defence announced that it had barred six companies from contracting with the Indian military for ten years. The companies were Rheinmetall Air Defence AG ("RAD"), Israel Military Industries, Singapore Technologies Kinetics, Corporation Defence Russia, and two Indian companies, T.S. Kisan & Co. and R.K. Machine Tools.<br /><br />On 9 June 2012, an Indian businessman, Abhishek Verma and his wife, Anca Neacsu, were arrested and charged under the Prevention of Corruption Act with attempting to bribe government officials to prevent RAD from being blacklisted. Verma was accused of receiving USD 530,000 from RAD to influence Indian officials. The bribery charges could result in a prison sentence of up to five years.<br /><br />An American businessman and former partner of Verma provided information to the CBI, including a document evidencing a bank transfer of USD 530,000 from RAD to a New York bank account belonging to a company called Ganton Limited, which the CBI claims is owned by Verma. An earlier purchase order from RAD for consultancy services, reflects the same amount. The CBI claims that Verma initiated contact with RAD after the company was blacklisted for using corrupt and illegal means to obtain a contract for the provision of a 35 mm revolver gun air defense system. The company had hoped to forestall the debarment process so that the contract could be signed.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Times of India: "OFB scam: CBI urges MoD to blacklist 6 firms" (8 July 2010)</p><p>NDTV: "CBI asks Defence Ministry to blacklist six firms" (7 July 2010)</p><p>The Statesman: "CBI asks defence ministry to blacklist six firms" (7 July 2010)</p><p>The Pioneer: "Ordnance Factory Board scam: Notices to companies soon" (25 Nov. 2010)</p><p><a href="file.asp?id=2067">Ordnance Factory - CBI Press Release (7 June 2012), CBI Registers a Case Against a Private Person and Others for Alleged Bribery and Conducts Searches</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,414 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842471z6db">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842471c6nt" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PARADIGM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(54)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842476r1o9" width="415" height="61" /></div>
+    
+        <h1>PARADIGM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Paradigm B.V. ("Paradigm")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Enterprise software solutions for oil and gas exploration and production
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Kazakhstan<br />Mexico<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In January 2007, Paradigm discovered a number of potentially illegal payments made to government customers in Kazakhstan, China, Mexico, Nigeria and Indonesia. The payments began in 2002 and continued until 2007.   <br /><br />In August 2005, Paradigm bid on a tender issued by KazMunaiGas, Kazakhstan's national oil company, for geological software.  KazMunaiGas recommended that Paradigm use Frontera Holding S.A. ("Frontera") to assist with preparing the tender documents.  Paradigm retained Frontera without conducting any due diligence and without entering into a written contract.  Paradigm won the bid and entered into a contract with KazMunaiGas in October 2005.  In 2006, Paradigm received and paid an invoice from Frontera for $22,250 in commissions for assisting with the tender.  There was no evidence that Frontera assisted with the tender or performed any other services for Paradigm.  It is unclear from the facts whether Frontera actually made illegal payments to employees of KazMunaiGas. <br /><br />In July 2006, Paradigm's representative office in China ("Paradigm China") entered into an agreement with Tangshan Haitai Oil Technology Consulting Co. Ltd. ("Tangshan") to assist with a transaction involving Zhonghai Petroleum (China) Co. Ltd. ("Zhonghai"), a subsidiary of the China National Offshore Oil Company ("CNOOC").  Tangshan was to receive a 5% commission under the agreement and was to pass on commissions to representatives of Zhonghai.  According to the non-prosecution agreement, it was impossible to determine the total amount of commission paid to Tangshan.  <br /><br />In addition, Paradigm China paid employees of Chinese national oil companies and other state-owned entities as internal consultants.  Paradigm China paid the consultants in cash to evaluate and inspect Paradigm's software, intending that the consultants would then encourage their companies to purchase the software.  Paradigm China also paid the internal consultants between $100 and $200 per person in inspection and acceptance fees after the software had been delivered and installed.  In addition, to cash payments, Paradigm China paid for travel and entertainment expenses for the internal consultants, including airfare, hotels, meals, gifts and cash per diems.  Some of these trips were categorized as customer training trips.<br /><br />In 2004, Paradigm acquired a Mexican company ("Paradigm Mexico"), which entered into a subcontract with the Mexican Bureau of Geophysical Consulting ("BGP").  Under the contract, Paradigm Mexico was to perform services for Pemex, Mexicos state-owned oil company.  Paradigm Mexico used an agent in connection with this contract without conducting any due diligence and without a written agreement.  The agent requested $206,698 in commission to be paid through five different entities.  Paradigm Mexico paid some of the agents invoices, but suspended payment when new senior managers learned that the agent did not have a written contract.  <br /><br />Paradigm Mexico also took a key decision maker at Pemex to Napa Valley, California for client entertainment.  This decision maker worked on both the BGP contract and another contract that Paradigm Mexico had entered into with a U.S. oil services company.  The cost of the trip was $12,000.  Paradigm Mexico spent an additional $10,000 on dinners, drinks and other entertainment for the same Pemex employee and hired his brother as a driver.  In connection with a third contract, Paradigm Mexico rented a house from the wife of a tender official who was responsible for awarding the contract.  The house was used by Paradigm Mexico staff and appears to have been rented at fair market value. <br /><br />In Nigeria, Paradigm operated through a subsidiary ("Paradigm Nigeria") and in 2003 began considering a service alliance with a subsidiary of the Nigerian National Petroleum Corporation ("NNPC").  Paradigm hired an agent to assist Paradigm Nigeria with its operations, and then later amended the agent's contract to include a commission in the event that Paradigm Nigeria entered into a contract with NNPC's subsidiary.  In 2005, former Paradigm representatives agreed to pay Nigerian politicians between $100,000 and $200,000 in order to secure the contract.  Paradigm terminated its relationship with the agent when it did not win the contract. <br /><br />In addition to conduct in Kazakhstan, China, Mexico and Nigeria, Paradigm also made improper payments to Indonesian officials through its local agent.  Although the total amount of the payments could not be determined, Paradigms Regional Controller confirmed that at least one such payment was made. The Indonesian agent was paid through Paradigms New York bank account. <br /><br />Paradigm, a privately-held Dutch company, became a domestic concern under the FCPA in July 2005 when it moved its principal place of business from Herzliya, Israel to Houston, Texas.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Commission Payment to Intermediary in Kazakhstan</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$22,250</p>
+</td>
+<td>
+<p>$249,290 (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Chinese Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified &ldquo;commission&rdquo; payments; $100-$200 per person for &ldquo;inspection&rdquo; and &ldquo;acceptance&rdquo; fees; travel and entertainment expenses</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Items of Value Provided to Mexican Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$22,000 in travel and entertainment for Pemex employee; employment of Pemex employee&rsquo;s brother; lease of house owned by wife of tender official</p>
+</td>
+<td>
+<p>More than $1.48 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Nigerian Officials</p>
+</td>
+<td width="50%">
+<p>Benefit sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; line-height: normal; text-align: center;">Between $100,000 and $200,000</p>
+</td>
+<td>
+<p>Contract with NNPC subsidiary to provide services and processing work</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Indonesian Officials</p>
+</td>
+<td width="50%">
+<p>Benefit sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; line-height: normal; text-align: center;">Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Paradigm discovered the conduct in January 2007 while conducting due diligence in connection with the anticipated initial public offering ("IPO") of its stock.  The company voluntarily disclosed the conduct to the DOJ after conducting an internal investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 21, 2007, Paradigm entered into a non-prosecution agreement with the DOJ.  Under the terms of the agreement, the DOJ agreed not to prosecute Paradigm if the company satisfied its obligations under the agreement for an 18-month period.  Paradigm's obligations included paying a $1 million penalty, implementing rigorous internal controls, retaining outside compliance counsel, and continuing its cooperation with the DOJ. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Saul Pilchen
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to state-owned entities can form the basis for FCPA violations.</li><li>Payments made through third parties can form the basis for FCPA violations.</li><li>Companies should conduct due diligence before entering into a relationship with a third party and should make sure all work is done pursuant to written agreement.</li><li>Gifts, hospitality and travel provided to government officials are items of value for under the FCPA.</li><li>A prompt voluntary disclosure to the government and extensive remedial measures can result in a non-prosecution agreement.</li><li>Improper payments do not have to succeed in obtaining or retaining business in order to constitute a violation of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=238">DOJ Press Release: September 24, 2007 (Paradigm B.V. Agrees to Pay $1 Million Penalty to Resolve Foreign Bribery Issues in Multiple Countries)</a></p><p><a href="file.asp?id=239">Non-Prosecution Agreement (September 21, 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #336699;">IPO</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19210480k76">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192104d9d98" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PARADIGM</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(54)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192104gd7r8" width="415" height="61" /></div>
+    
+        <h1>PARADIGM</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Paradigm B.V. ("Paradigm")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Enterprise software solutions for oil and gas exploration and production
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Amsterdam, Netherlands
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Kazakhstan<br />Mexico<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In January 2007, Paradigm discovered a number of potentially illegal payments made to government customers in Kazakhstan, China, Mexico, Nigeria and Indonesia. The payments began in 2002 and continued until 2007.   <br /><br />In August 2005, Paradigm bid on a tender issued by KazMunaiGas, Kazakhstan's national oil company, for geological software.  KazMunaiGas recommended that Paradigm use Frontera Holding S.A. ("Frontera") to assist with preparing the tender documents.  Paradigm retained Frontera without conducting any due diligence and without entering into a written contract.  Paradigm won the bid and entered into a contract with KazMunaiGas in October 2005.  In 2006, Paradigm received and paid an invoice from Frontera for $22,250 in commissions for assisting with the tender.  There was no evidence that Frontera assisted with the tender or performed any other services for Paradigm.  It is unclear from the facts whether Frontera actually made illegal payments to employees of KazMunaiGas. <br /><br />In July 2006, Paradigm's representative office in China ("Paradigm China") entered into an agreement with Tangshan Haitai Oil Technology Consulting Co. Ltd. ("Tangshan") to assist with a transaction involving Zhonghai Petroleum (China) Co. Ltd. ("Zhonghai"), a subsidiary of the China National Offshore Oil Company ("CNOOC").  Tangshan was to receive a 5% commission under the agreement and was to pass on commissions to representatives of Zhonghai.  According to the non-prosecution agreement, it was impossible to determine the total amount of commission paid to Tangshan.  <br /><br />In addition, Paradigm China paid employees of Chinese national oil companies and other state-owned entities as internal consultants.  Paradigm China paid the consultants in cash to evaluate and inspect Paradigm's software, intending that the consultants would then encourage their companies to purchase the software.  Paradigm China also paid the internal consultants between $100 and $200 per person in inspection and acceptance fees after the software had been delivered and installed.  In addition, to cash payments, Paradigm China paid for travel and entertainment expenses for the internal consultants, including airfare, hotels, meals, gifts and cash per diems.  Some of these trips were categorized as customer training trips.<br /><br />In 2004, Paradigm acquired a Mexican company ("Paradigm Mexico"), which entered into a subcontract with the Mexican Bureau of Geophysical Consulting ("BGP").  Under the contract, Paradigm Mexico was to perform services for Pemex, Mexicos state-owned oil company.  Paradigm Mexico used an agent in connection with this contract without conducting any due diligence and without a written agreement.  The agent requested $206,698 in commission to be paid through five different entities.  Paradigm Mexico paid some of the agents invoices, but suspended payment when new senior managers learned that the agent did not have a written contract.  <br /><br />Paradigm Mexico also took a key decision maker at Pemex to Napa Valley, California for client entertainment.  This decision maker worked on both the BGP contract and another contract that Paradigm Mexico had entered into with a U.S. oil services company.  The cost of the trip was $12,000.  Paradigm Mexico spent an additional $10,000 on dinners, drinks and other entertainment for the same Pemex employee and hired his brother as a driver.  In connection with a third contract, Paradigm Mexico rented a house from the wife of a tender official who was responsible for awarding the contract.  The house was used by Paradigm Mexico staff and appears to have been rented at fair market value. <br /><br />In Nigeria, Paradigm operated through a subsidiary ("Paradigm Nigeria") and in 2003 began considering a service alliance with a subsidiary of the Nigerian National Petroleum Corporation ("NNPC").  Paradigm hired an agent to assist Paradigm Nigeria with its operations, and then later amended the agent's contract to include a commission in the event that Paradigm Nigeria entered into a contract with NNPC's subsidiary.  In 2005, former Paradigm representatives agreed to pay Nigerian politicians between $100,000 and $200,000 in order to secure the contract.  Paradigm terminated its relationship with the agent when it did not win the contract. <br /><br />In addition to conduct in Kazakhstan, China, Mexico and Nigeria, Paradigm also made improper payments to Indonesian officials through its local agent.  Although the total amount of the payments could not be determined, Paradigms Regional Controller confirmed that at least one such payment was made. The Indonesian agent was paid through Paradigms New York bank account. <br /><br />Paradigm, a privately-held Dutch company, became a domestic concern under the FCPA in July 2005 when it moved its principal place of business from Herzliya, Israel to Houston, Texas.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Commission Payment to Intermediary in Kazakhstan</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$22,250</p>
+</td>
+<td>
+<p>$249,290 (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Chinese Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified &ldquo;commission&rdquo; payments; $100-$200 per person for &ldquo;inspection&rdquo; and &ldquo;acceptance&rdquo; fees; travel and entertainment expenses</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Items of Value Provided to Mexican Officials</p>
+</td>
+<td width="50%">
+<p>Resulting Revenue/Profits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>$22,000 in travel and entertainment for Pemex employee; employment of Pemex employee&rsquo;s brother; lease of house owned by wife of tender official</p>
+</td>
+<td>
+<p>More than $1.48 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Nigerian Officials</p>
+</td>
+<td width="50%">
+<p>Benefit sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; line-height: normal; text-align: center;">Between $100,000 and $200,000</p>
+</td>
+<td>
+<p>Contract with NNPC subsidiary to provide services and processing work</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p>Payments to Indonesian Officials</p>
+</td>
+<td width="50%">
+<p>Benefit sought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p class="MsoNormal" style="margin: 0in 0in 0pt; line-height: normal; text-align: center;">Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Paradigm discovered the conduct in January 2007 while conducting due diligence in connection with the anticipated initial public offering ("IPO") of its stock.  The company voluntarily disclosed the conduct to the DOJ after conducting an internal investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On September 21, 2007, Paradigm entered into a non-prosecution agreement with the DOJ.  Under the terms of the agreement, the DOJ agreed not to prosecute Paradigm if the company satisfied its obligations under the agreement for an 18-month period.  Paradigm's obligations included paying a $1 million penalty, implementing rigorous internal controls, retaining outside compliance counsel, and continuing its cooperation with the DOJ. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Saul Pilchen
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Payments to state-owned entities can form the basis for FCPA violations.</li><li>Payments made through third parties can form the basis for FCPA violations.</li><li>Companies should conduct due diligence before entering into a relationship with a third party and should make sure all work is done pursuant to written agreement.</li><li>Gifts, hospitality and travel provided to government officials are items of value for under the FCPA.</li><li>A prompt voluntary disclosure to the government and extensive remedial measures can result in a non-prosecution agreement.</li><li>Improper payments do not have to succeed in obtaining or retaining business in order to constitute a violation of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=238">DOJ Press Release: September 24, 2007 (Paradigm B.V. Agrees to Pay $1 Million Penalty to Resolve Foreign Bribery Issues in Multiple Countries)</a></p><p><a href="file.asp?id=239">Non-Prosecution Agreement (September 21, 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #336699;">IPO</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

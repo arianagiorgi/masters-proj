@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19220103y33">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922019r07p" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HEALTHSOUTH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(117)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192201r30sr" width="415" height="61" /></div>
+    
+        <h1>HEALTHSOUTH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        HealthSouth Corporation ("HealthSouth")<br />Robert E. Thompson (former President and Chief operating Officer of HealthSouth's In-Patient Division)<br />James C. Reilly (former Vice President – Legal Services for HealthSouth Group)<br />Vincent Nico (former Vice President of HealthSouth)<br />Thomas Carman (former Executive Vice President of HealthSouth)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Healthcare services 	
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Birmingham, Alabama, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        HealthSouth officers (Thompson, Reilly, Nico, and Carman) were indicted in connection with their involvement in a scheme in the early 2000s to secure a staffing and management services contract for a 450-bed hospital in Saudi Arabia by making improper payments to the director general of the Saudi Arabian foundation which built and owned the hospital.  Under the contract, HealthSouth was to receive USD 10 million annually over a five-year term.<br /><br />According to the indictment and criminal informations, the Saudi Arabian foundation's director general solicited a USD 1 million "finder's fee" from HealthSouth.  Despite specific advice from counsel against the arrangement, HealthSouth allegedly agreed to pay the director general USD 500,000 per year for a five-year period in exchange for his agreement to execute the hospital contract on behalf of the foundation.  Under the scheme, HealthSouth officers – including Thomson, Reilly, Nico, and Carman – allegedly arranged a phony consulting contract between the director general and a HealthSouth affiliate in Australia.  Until the scheme was uncovered in 2003, the company paid amounts due under the arrangement by wiring the money to Australia and then subsequently to Saudi Arabia.<br /><br />Thomson and Reilly were charged with violating the Travel Act by using the facilities of interstate commerce to promote unlawful activity, namely bribery in violation of Alabama law, and violating the FCPA by causing HealthSouth's books and records to falsely and fraudulently reflect that the payments for the consulting contract were made for legitimate purposes.<br /><br />Nico was charged with wire fraud in connection with violating his duty of honest services to HealthSouth by accepting USD 375,000 in kickbacks from the foundation's director general.  Carmen was charged with making a false statement to the FBI when, during an interview, he claimed that the consulting contract with the foundation's director general was intended to be a legitimate arrangement under which real services were to be provided.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Promised to Director General of a Saudi Arabian Foundation</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 500,000/year over a five-year term</p>
+</td>
+<td>
+<p style="text-align: center;">Hospital contract worth USD 10 million annually over a five-year term</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unclear, but it appears that HealthSouth uncovered the scheme sometime in 2003. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 1 July 2004, Thompson and Reilly were indicted for conspiracy and violations of the Travel Act and the FCPA.  A jury found both men not guilty on 20 May 2005.  <br /><br />On 22 April 2004, Nico pleaded guilty to a wire fraud charge, agreeing to forfeit USD 1,005,602 million in ill-gotten gains based on the kickbacks he received and a USD 631,502 bonus received as a result of securing and maintaining the contract with the Saudi foundation.  On 9 June 2005, Nico was sentenced to 36 months of probation and ordered to pay a USD 250,000 fine.<br /><br />On 27 April 2004, Carman pleaded guilty to making a false statement to the FBI; on 3 August 2005 he sentenced to 36 months of probation and ordered to pay a USD 500 fine.  Both men are cooperating with the DOJ's ongoing investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will frequently bring FCPA charges in combination with charges relating to other federal criminal laws.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=389">DOJ Press Release: July 1, 2004 (Former HealthSouth Officers Indicted in Connection with Bribery Involving Saudi Hospital)</a></p><p><a href="file.asp?id=390">DOJ Press Release: March 2, 2004 (Former HealthSouth Officers Charged in Fraud Conspiracy Involving Saudi Hospitals)</a></p><p><a href="file.asp?id=620">Indictment: U.S. v. Robert E. Thomson and James C. Reilly (July 1, 2004)</a></p><p><a href="file.asp?id=621">Superseding Indictment: U.S. v. Robert E. Thomson and James C. Reilly (July 28, 2004)</a></p><p><a href="file.asp?id=648">Trial Memorandum: U.S. v. Robert E. Thomson and James C. Reilly (May 20, 2005)</a></p><p><a href="file.asp?id=649">Verdict Forms: U.S. v. Robert E. Thomson and James C. Reilly (May 20, 2005)</a></p><p><a href="file.asp?id=647">Judgment: U.S. v. Robert E. Thomson and James C. Reilly (May 20, 2005)</a></p><p><a href="file.asp?id=622">Criminal Information: U.S. v. Vincent Nico (March 2, 2004)</a></p><p><a href="file.asp?id=623">Plea Agreement: U.S. v. Vincent Nico (March 2, 2004)</a></p><p><a href="file.asp?id=646">Judgment: U.S. v. Vincent Nico (June 9, 2005)</a></p><p><a href="file.asp?id=624">Criminal Information: U.S. v. Thomas Carman (March 2, 2004)</a></p><p><a href="file.asp?id=625">Plea Agreement: U.S. v. Thomas Carman (March 2, 2004)</a></p><p><a href="file.asp?id=645">Sentencing Memorandum: U.S. v. Thomas Carman (July 19, 2005)</a></p><p><a href="file.asp?id=644">Judgment: U.S. v. Thomas Carman (August 3, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

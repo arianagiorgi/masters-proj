@@ -1,0 +1,117 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192403ep6p1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192403ghzre" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - VIVENDI ENVIRONNEMENT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(252)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192403242j0" width="415" height="61" /></div>
+    
+        <h1>VIVENDI ENVIRONNEMENT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Italy: Milan Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Vivendi Environnement SA (now Veolia Environnement SA) ("Vivendi Environnement")<br />Vivendi Acqua (Vivendi Environnement's Italian subsidiary; now Veolia Acqua) <br />Alain Maetz (former manager of Vivendi Acqua)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Water and waste management operations
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Italy<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2001 Italian prosecutors brought charges against the manager of Vivendi Acqua, Alain Maetz, and the former Milan city council president, Massimo De Carolis, for bribery in 1998 in connection with a USD 100 million contract secured by Vivendi Acqua to construct a water treatment plant in Milan.  Vivendi Acqua allegedly paid a USD 2 million bribe to secure the deal. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Approximate Alleged Payments to Italian Officials</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">Business Advantage Allegedly Obtained</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 2 million<br /></td>
+<td style="text-align: center;">&nbsp;Water treatment plant construction contract, valued at USD 100 million<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        An Italian court sentenced Maetz to a year and ten-month prison term.  Massimo De Carolis was sentenced to a three-year prison term.<br /><br />The Milan city government banned Vivendi Acqua from participating in the new bidding process.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Water Barons: "Water and Power: The French Connection" (4 Feb. 2003)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

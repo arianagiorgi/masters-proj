@@ -1,0 +1,274 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192246rl2jy">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922461y550" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DAIMLER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(168)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192246yf2t4" width="415" height="61" /></div>
+    
+        <h1>DAIMLER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Russia: Prosecutor General's Office<br />Egypt: Public Prosecution Office<br />Nigeria: Economic and Financial Crimes Commission<br />Latvia: Corruption Prevention and Combating Bureau (KNAB)<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Daimler AG ("Daimler")<br />DaimlerChrysler Automotive Russia SAO (Daimler's Russian subsidiary, now known as Mercedes-Benz Russia SAO) ("Daimler Russia")<br />Export and Trade Finance GmbH (Daimler's German subsidiary) ("Daimler Export")<br />DaimlerChrysler China Ltd. (Daimler's wholly owned Chinese subsidiary, now known as Daimler North East Asia Ltd.) ("Daimler China")<br />EvoBus GmbH (Daimler's wholly owned subsidiary, which supplies the European bus and coach markets) ("EvoBus")<br />DaimlerChrysler Avtomobili RUS (a company implicated in the U.S. investigation of bribery in the cities of Moscow, Ufa, and Novy Urengoi)<br />Mercedes Benz Vietnam (a Daimler majority-owned and controlled subsidiary whose minority owner was the Saigon Auto Corp., a Vietnamese government entity) ("MBV")<br />Anambra Motor Manufacturing Company (a joint venture between Daimler and the Nigerian government) ("Anammco")<br />Urengoigazprom (a company implicated in the U.S. investigation of bribery in the cities of Moscow, Ufa, and Novy Urengoi)<br />Mashinoimport (a company implicated in the U.S. investigation of bribery in the cities of Moscow, Ufa, and Novy Urengoi)<br />Dorinvest (a company implicated in the US investigation of bribery in the cities of Moscow, Ufa and Novy Urengoi)<br />Ikarus Special Coach Factory Ltd. (a company in Latvia implicated in the Latvian investigation of bribery in Riga)<br />Neoplan Polska (now known as Solaris Bus&Coach, a company in Latvia implicated in the Latvian investigation of bribery in Riga)<br />Ganz Transelektro Traction Electrics (a company in Latvia implicated in the Latvian investigation of bribery in Riga)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Automobile manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stuttgart, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Hungary<br />Latvia<br />Croatia<br />Montenegro<br />Liberia<br />Serbia<br />Turkmenistan<br />Unspecified<br />Ivory Coast<br />China<br />Egypt<br />Ghana<br />Greece<br />Indonesia<br />Iraq<br />Nigeria<br />Russia<br />Thailand<br />Turkey<br />Uzbekistan<br />Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the criminal information filed against Daimler, the company made hundreds of improper payments totaling tens of millions of dollars between 1998 and 2008.  These payments were made to foreign officials in Russia, China, Nigeria, Latvia, Turkey, Hungary, Greece, the Ivory Coast, Thailand, Turkmenistan, Uzbekistan, Vietnam, Croatia, Indonesia, Iraq, and Egypt, among other countries, in order to obtain lucrative government contracts for Daimler vehicles.  <br /><br />Daimler used third party accounts ("TPAs"), corporate "cash desks," offshore bank accounts, obscure pricing arrangements and third-party intermediaries to funnel payments to the foreign officials. These payments were often recorded as "commissions," "special discounts," or "nützliche Aufwendungen" ("N.A."), which translates into "useful payments." Some of these payments were wired through U.S. bank accounts, and in at least one case, a U.S. shell company was established for the sole purpose of entering into consulting agreements with Daimler in order to conceal bribes paid to foreign officials. None of the payments were accurately recorded in the company's books and records. <br /><br />Daimler adopted an integrity code in 1999 aimed at complying with the new German anti-bribery law; however, the code was never effectively implemented and improper payments to government officials continued. The internal audit department voiced concerns that TPAs were being used to pay bribes to foreign officials because of the lack of oversight and control over the accounts and recommended closing the TPAs unless the company exercised proper due diligence and obtained proof of services performed by the account holders. In a company document known as "the useful expenditures document," the internal audit department categorized ways in which the company had and could make improper payments from the TPAs including, (i) cash payments from secret accounts; (ii) payment for fictitious shipments or artificial invoices; (iii) payment for fictitious services; (iv) waiving claims or collections charges; (v) entering into fictitious employment relationships; (vi) taking cash from employees' accounts through a false declaration that the funds would be used in the private sector; (vii) personally delivering cash overseas; (viii) giving "agency commissions" to government decision makers, or to third parties for distribution to government decision makers; (ix) giving "donations" to institutions that the government decision maker supports; (x) "price surcharges" charged to third party accounts; (xi) using the "grey market for corruption purposes;" (xii) funneling money through countries with weak bank secrecy laws or regulations; (xiii) granting special discounts and other favorable terms for Daimler products. <br /><br />In 1998, Daimler maintained over 200 TPAs, which were controlled by third parties. Account holders included Daimler's foreign subsidiaries, employees, distributors, dealers, and consultants. Senior management within the company's sales organization supervised the use of TPAs, which were kept confidential so as prevent the account holders from having to reveal the recipients of any disbursements. Before 2002, disbursements from the accounts were also made through cash desks at the company's offices in Stuttgart, Germany. Employees who received cash from the "cash desks" would, in some cases, transport it overseas in order to pay bribes to government officials. After 2002, the company continued to use offshore bank accounts and TPAs to make improper payments. Rather than making disbursements through "cash desks," the company asked the TPA beneficiaries to provide a reference bank account in order to receive funds. By 2004, the number of TPAs had been reduced from more than 200 to approximately 40. The company stopped using TPAs entirely in 2005 after the DOJ and SEC initiated investigations into Daimler's activities.   <br /><br />The criminal information describes widespread bribery of foreign officials throughout the company. All of the improper payments were inaccurately recorded in the company's books and records. <br /><br />Allegations in Russia<br /><br />Daimler's wholly owned subsidiary based in Moscow, Daimler Russia, assisted with the sale of vehicles to Russian government customers, which included the Ministry of Internal Affairs, the military, and the cities of Moscow, Ufa, and Novi Urengoi. According to the criminal information, Daimler paid over EUR 3 million in bribes to Russian officials in order to sell vehicles to the Russian government. These payments were often made through Daimler Russia who used third parties to funnel the payments to the appropriate officials. The total value of Daimler's sales to the Russian government between 2000 and 2005 was approximately EUR 64.66 million, or five percent of the company's overall sales in the country. Payments were made to Russian officials using a variety of methods, including over-invoicing the customer and paying the excess amount to the Russian official. Daimler also made cash payments to Russian government officials in order to secure contracts to sell vehicles to Russian municipalities. <br /><br />Allegations in China<br /><br />Daimler entered into and operated a number of partially owned subsidiaries and joint ventures in China and Hong Kong. These relationships were managed by Daimler China, a wholly owned Daimler subsidiary. Although Daimler China was not responsible for selling vehicles in China, certain Daimler China employees assisted with sales to various state agencies including the Bureau of Geophysical Prospecting and Sinopec Corp. (a state-owned energy company).  From 2000 until 2005, Daimler China and Daimler employees paid at least EUR 4,173,944 to Chinese officials in connection with vehicle sales to the Chinese government valued at over EUR 112,357,719. The payments took the form of "commissions," travel, and gifts. As in Russia, the payments were typically made by inflating the sales price of vehicles sold to the Chinese government and then maintaining the excess funds in debtor accounts for disbursement to Chinese officials. According to the criminal information, the company maintained virtually no oversight or controls over the accounts as evidenced by the ability of Daimler China's head of sales and marketing to direct at least EUR 230,000 from the account to his wife's offshore bank account. Additional items of value, including internships at Daimler, assistance with German visas, and the use of a Mercedes passenger car were given to the son of a Chinese official who made purchasing decisions. <br /><br />Allegations in Vietnam<br /><br />Daimler operated in Vietnam through MBV. In order to obtain government contracts, MBV routinely made improper payments to Vietnamese officials by using broker commissions. The broker commissions and payments were authorized at the highest level of MBV's management. After an employee raised concerns that the payments were illegal, the CFO of the Daimler business unit that operated MBV incorrectly stated that the payments were legal as long as they were recorded accurately in the company's books and records, which they were not. <br /><br />Payments to Vietnamese officials included: (i) the payment of a broker commission totaling USD 54,343.64 in order to sell vehicles to the Saigon Passenger Transport Company, as well as an investment of USD 22.3 million in the Saigon High Tech Office Park at the request of a Vietnamese official; (ii) the payment of approximately USD 400,000 to Vietnamese officials in exchange for allowing the duty free importation of 78 vehicles for use at the Asia Europe Meeting in 2004; and (iii) the payment of EUR 72,000 and the agreement to pay an additional EUR 167,000 to officials at the Ministry of Public Security in order to sell vehicles to the Ministry. <br /><br />The payments to Vietnamese officials were made through third parties purportedly providing consulting services to Daimler. In the case of the payments made related to the Asia Europe Meeting, the shell entity funneling the payments was supposedly conducting a study of emissions services and technology in Vietnam. When the MBV CFO questioned the legitimacy of the study, MBV employees produced a report that was actually a study of emissions standards for Ford Escorts in Vietnam that had been written by an investigator with the Center for Environmental Research and Technology, College of Engineering, University of California. <br /><br />Allegations in Turkmenistan<br /><br />In Turkmenistan, Daimler made N.A. payments to government officials in exchange for sales of vehicles to the government. In addition, Daimler believed that in order to successfully sell vehicles to the government of Turkmenistan it would need to provide gifts to a high-level executive official in the Turkmen government. Daimler gave this official an armored Mercedes Benz S-class passenger car valued at EUR 300,000 for his birthday as well as a gold box with a translated copy of his personal manifesto inside. The company also printed and translated 10,000 copies of the official's personal manifesto to distribute to the Turkmen government. The value of the gold box and the translated copies totaled USD 250,000. <br /><br />Allegations in Nigeria<br /><br />Daimler sold vehicles in Nigeria through Anammco. Daimler owned 40 percent of Anammco and controlled the company through its managing director who was a German expatriate and an employee of both Daimler and Anammco. The managing director controlled at least four TPAs, which were used to make improper payments to Nigerian government officials in order to win various government contracts. <br /><br />In 1998, Daimler was awarded a contract to sell vehicles to the Nigerian State House, or Nigerian Presidential Complex. In exchange Daimler paid EUR 1,427,242.64 in improper commissions to third parties with the understanding that the funds would then be transferred to Nigerian officials. In addition, Daimler made improper payments to high-level executive branch officials in 1999 at the request of Anammco's managing director in connection with the State House deal, as well as to the chief buyer for the State House. <br /><br />Anammco also entered into a contract to sell vehicles to the Savannah Sugar Company Ltd. ("SSCL"), which was majority-owned by the Nigerian government. Daimler and Anammco made a number of cash payments through consultants from TPAs and cash desks. In addition, Daimler made improper payments related to contracts with the Nigerian Police Force to provide a Master Heavy Lift Recovery Vehicle, the Nigerian Ministry of Industry to provide transport for the World Youth Championship for the Fédération Internationale de Football Association, and the Comité d'Organisation de Jeux Africains for vehicles for the All-Africa Games. In addition, DC do Brasil, Daimler's wholly-owned Brazilian subsidiary, paid a Nigerian diplomat stationed in Brazil an 11 percent commission on the sale of buses to the Nigerian State of Bayelsa in exchange for his assistance with securing the contract. The payment was made to the Nigerian diplomat's bank account at Chevy Chase Bank in Bethesda, Maryland. <br /><br />Allegations in Ivory Coast, Ghana, and Liberia<br /><br />Daimler sold vehicles to the governments of the Ivory Coast and other West African countries through its majority-owned subsidiary Star Auto S.A. ("Star Auto"). Star Auto's management maintained a TPA through which it made improper payments to government officials in those countries in order to secure contracts. The TPA was funded through price inclusions, whereby Star Auto would purchase vehicles from Daimler, increase the purchase price paid by the customer and transfer the excess amount to the TPA in order to fund bribe payments. Contracts tainted by bribery included the sale of trucks to the Army of Ghana and a contract to supply trucks to a logging operation in Liberia. The sale in Liberia was to an Indonesian firm that acquired logging rights from the Liberian government. In order to secure the contract with the Indonesian firm, Star Auto gave a senior Liberian executive branch official an armored Mercedes passenger car valued at approximately EUR 267,000. <br /><br />Allegations in the Baltic Countries<br /><br />In Latvia and other Baltic countries, Daimler distributed its buses through wholly-owned subsidiary EvoBus.  The general manager of EvoBus learned that the city of Riga was about to announce a tender for a large number of buses and that a competitor had agreed to pay "under table money" in order to win the contract. EvoBus decided to also make improper payments to members of the Riga City Council in order to compete for the contracts. The payments were made by inflating the purchase price of the buses and distributing the excess amount to members of the City Council, which were described as commissions and funneled through sham consulting contracts with two U.S. entities.  In total, EvoBus paid approximately EUR 1,800,000 in commissions. In March 2001, EvoBus was awarded a portion of the bus contract and delivered a total of 117 buses to the city of Riga. According to The Baltic Course's article from 13 June 2013, prosecutors in Latvia said that EvoBus was not the only public transportation company involved in the bribery scheme in Latvia and that the total amount of bribes paid by Daimler in Latvia exceeded EUR 5 million.<br /><br />Allegations in Hungary<br /><br />Two Daimler subsidiaries, EvoBus Hungarian Kft. ("EvoBus Hungary") and EvoBus Austria GmbH ("EvoBus Austria") were responsible for making improper payments to Hungarian government officials in order to win a contract to supply buses to a state-owned regional public transport company in Budapest. EvoBus Hungary purchased the buses from EvoBus Austria and sold them for an inflated price. EvoBus Austria agreed to pay a commission of EUR 333,370 on the sale to a U.S. based company with the understanding that the money would be passed on to Hungarian government officials. <br /><br />Allegations in Turkey<br /><br />In Turkey, Daimler founded a joint venture, MB Turk, with several Turkish companies. MB Turk was Daimler's distributor in Turkey and was involved in vehicle export transactions to government customers in North Korea, Latvia, Bulgaria, Libya, Romania, Russia, Saudi Arabia, Yemen, and other countries. In 2006, Daimler's corporate audit department found evidence that MB Turk had made approximately EUR 6.05 million in payments to third parties in connection with vehicle export transactions, EUR 3.88 million of which were improper payments and gifts given to foreign government officials. The revenue from these deals totaled approximately EUR 95 million. <br /><br />Allegations in Indonesia<br /><br />From 1998 until 2006, Daimler's sales in Indonesia totaled approximately USD 960 million, USD 9.6 million of which were sales to entities controlled by the Indonesian government made through local affiliates. Perum Dari, a state-owned bus company was Daimler's largest government customer. Daimler, through its local affiliates, provided gifts, travel, and entertainment to Indonesian officials in order to secure contracts and to reduce its tax obligations. Examples of gifts provided include a discounted A class Mercedes to a government official's daughter, golf clubs, wedding gifts for the children of a senior official at Perum Dari, golf outings, and gifts that were raffled off to low-level Perum Dari employees. According to the criminal information, Daimler's affiliates had no policies in place related to providing gifts and entertainment to government officials and no FCPA compliance training in place. <br /><br />Allegations in Croatia<br /><br />Daimler Export, a wholly owned subsidiary of Daimler Financial Services AG, which was itself a wholly owned subsidiary of Daimler, arranged customized financial solutions for exports by Daimler. It also participated in business ventures outside of Daimler's core businesses. Daimler Export made a number of improper payments to Croatian officials directly and through third parties in order to obtain a contract to sell 210 fire trucks to the Croatian government. The Croatian Ministry of the Interior announced a public tender in 2002 for the fire trucks valued at approximately EUR 85 million. Daimler Export signed a contract with IM Metal ("IMM"), a company controlled by the Croatian government, under which IMM agreed to support Daimler Export's negotiations with the Croatian government customers. In addition to making approximately EUR 200,000 in N.A. payments to Croatian officials, Daimler Export made approximately EUR 3.02 million in payments to IMM and its principals as a commission for being awarded the contract by the Ministry of the Interior. Daimler Export also made a number of payments through U.S. shell companies with the understanding that at least part of the payments would be passed on to Croatian government officials in order to assist with sales to the Croatian Ministry of the Interior. <br /><br />Allegations in Iraq<br /><br />Daimler violated UN sanctions against Iraq by making improper payments to the Iraqi government in order to participate in the UN Oil-for-Food Program. Under the rules of the UN Oil-for-Food Program, Iraq could use funds from oil sales to purchase humanitarian goods. Daimler and other suppliers contracted directly with the appropriate Iraqi ministry and would then submit the contract the UN Committee, which would ensure compliance with the terms of the Iraqi Sanctions Regulations. Daimler was then paid from an escrow account using money from the sale of Iraqi oil. In 2000, Iraqi government officials began demanding that Daimler and other suppliers pay a 10 percent kickback to the Iraqi government in order to receive a contract. The kickbacks were often referred to as "after sales service fees." <br /><br />Daimler participated in the Oil-for-Food Program; however, the Iraqi government was reluctant to purchase Daimler vehicles because of Germany's close affiliation with the United States and claims that Daimler had pending against Iraq before the UN Compensation Commission for damages during the first Gulf War. Daimler agreed to withdraw its claims, which totaled approximately DM 38.4 million, in order to sell its vehicles to the Iraqi government as part of the Oil-for-Food Program. In exchange, the Iraqi government agreed to give Daimler preferential treatment and purchase vehicles from Daimler worth double the amount of the claims. Daimler agreed to pay the 10 percent commission to the Iraqi government in connection with the contracts. Daimler also sold vehicles to the Iraqi government through third parties because of the political pressure in Iraq not to buy German vehicles. The third parties modified their contracts with the Iraqi government to include a 10 percent kickback with Daimler's knowledge. <br /><br />Daimler's Compliance Program<br /><br />According to the criminal information, Daimler did not have an adequate compliance program, which resulted in the improper payments described above. Specifically, the U.S. government noted that the company had a (i) decentralized compliance program with no head of compliance; (ii) financial and legal personnel who had only a dotted central reporting line and who reported directly to the relevant sales organization; (iii) an understaffed and decentralized internal audit department; (iv) inadequate, decentralized, and inconsistent integrity codes and policies; (v) inadequate guidelines for cash disbursements; (vi) inadequate controls over its TPAs; (vii) inadequate controls over opening and maintaining bank accounts; (viii) inadequate controls over the selection of and payments to third parties; (ix) inadequate FCPA and anti-bribery training of Daimler employees; and (x) decentralized hotlines for reporting FCPA and other anti-bribery violations or seeking guidance on doing business with foreign government customers. <br /><br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Russian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p style="text-align: center;">Over EUR 3 million</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">EUR 64.66 million in government sales in Russia</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>At least EUR 4,173,944</p>
+</td>
+<td width="50%">
+<p>Over EUR 112,357,719 in government sales in China</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Vietnamese Officials related to the Saigon Bus Deal</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>USD 54,343.64 broker commission to Vietnamese official</p>
+<p>USD 22.3 million investment in Saigon High Tech Park at the request of a Vietnamese official</p>
+</td>
+<td width="50%">
+<p>EUR 7.4 million (revenue)</p>
+<p>EUR 2.1 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Vietnamese Officials related to the ASEM 5 Conference</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>USD 400,000</p>
+</td>
+<td width="50%">
+<p>EUR 1.65 million (profit)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Vietnamese Officials related to Contracts with the Ministry of Public Security</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>EUR 72,000 paid</p>
+<p>EUR 167,000 promised</p>
+</td>
+<td width="50%">
+<p>EUR 1.68 million (revenue)</p>
+<p>EUR 261,000 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Latvian Officials<br /></strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>Over EUR 5 million</p>
+</td>
+<td width="50%">
+<p>Contracts with the city of Riga for public transportation buses</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments by MB Turk to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>EUR 3.8 million</p>
+</td>
+<td width="50%">
+<p>Approximately EUR 95 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">&nbsp;</p>
+<table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Iraqi Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p>EUR 6,950</p>
+</td>
+<td width="50%">
+<p>Oil-for-Food contracts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to Daimler's public filings, a former DaimlerChrysler employee filed a whistleblower administrative complaint, as well as a lawsuit in federal court in the United States.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States<br /><br />On 22 March 2010, a two count criminal information was filed against Daimler in the U.S. District Court for the District of Columbia charging the company with one count of conspiracy to falsify its books and records and one count of violating the books and records provision of the FCPA. Two days later the government filed a deferred prosecution agreement in the case.  Under the terms of the deferred prosecution agreement, Daimler Russia and Daimler Export were to plead guilty to FCPA violations and Daimler would be required to appoint a compliance monitor for a three-year period.  In addition,  the company would be required to adopt a number of remedial measures. The deferred prosecution agreement names former FBI Director Louis Freeh as the company's preferred compliance monitor. <br /><br />On 1 April 2010, in the U.S. District Court for the District of Columbia, Daimler Russia and Daimler Export each pleaded guilty to criminal informations charging the companies with one count of conspiracy to violate the anti-bribery provisions of the FCPA and one count of violating those provisions.  Under the plea agreements, Daimler Russia and Daimler Export agreed to pay criminal fines of USD 27.26 million and USD 29.12 million, respectively.<br /><br />On 25 April 2012, the Investigative Committee elected not to open cases against officials from the Defense Ministry and the Ufa administration or against employees of the companies Daimler Chrysler Avtomobili RUS, Urengoigazprom, Mashinoimport, and Dorinvest, all of whom were implicated in the case by U.S. authorities.  Press reports indicate that Russian investigators never requested  materials regarding the case from U.S. authorities, as Russian authorities had earlier indicated. <br /><br />Like the Russia DPA and on the same date, 1 April 2010, Daimler formally entered into a deferred prosecution agreement with the DOJ, per the terms described above, consenting to the filing of a criminal information charging it with one count of conspiracy to violate the books and records provisions of the FCPA and one count of violating those provisions. Daimler China also entered into a deferred prosecution agreement, consenting to the filing of a criminal information charging it with one count of conspiracy to violate the anti-bribery provisions of the FCPA and one count of violating those provisions. <br /><br />In total, Daimler and its three subsidiaries agreed to pay USD 93.6 million in criminal fines and penalties.  The three subsidiaries are covered by the monitoring provisions of the deferred prosecution agreement entered into by Daimler. <br /><br />On the same day, a separate judgment was entered against Daimler resolving a related civil complaint filed by the SEC.  Without admitting or denying the SEC's charges, Daimler consented to the entry of a court order permanently enjoining the company from future violations of the anti-bribery, books and records, and internal controls provisions of the FCPA.  Daimler agreed to pay USD 91.4 million in disgorgement of profits relating to those violations and agreed to certain remedial measures, including retaining an independent consultant for a three-year period.<br /><br />Under its settlement with the government, Daimler entities agreed to pay a total of USD 185 million in fines and penalties, comprising USD 93.6 million in criminal fines and USD 91.4 million in civil penalties. According to the deferred prosecution agreement, the USD 93.6 million criminal fine represents a 20 percent reduction from the lowest fine recommended by the U.S. Sentencing Guidelines due to Daimler's extensive cooperation with the investigation. <br /><br />Russia<br /><br />According to reports from the Moscow Times on 29 April 2010, in early April Russian prosecutors sent a request to the DOJ requesting information about bribes paid by Daimler in Russia.  The request was apparently prompted by a personal order from President Dmitry Medvedev following a Russian internet petition signed by thousands asking the Prosecutor General's Office and the Interior Ministry to begin an investigation.  The Moscow Times on 30 April 2010 reported that Moscow City Hall had asked Daimler to "clarify the situation" regarding bribes reportedly paid to Moscow city government officials to secure sales contracts for its Mercedes vehicles.  The mayor's press secretary said that Moscow does not own any Mercedes vehicles.  City Hall considers the allegations inaccurate and Daimler could face legal action as a result.<br /><br />On 20 May 2010, Bloomberg reported that the DOJ had given documents to prosecutors in Moscow, prompting Russia to open a formal investigation into the matter.  On 12 November 2010, Russian prosecutors confirmed that they had opened a criminal investigation into the matter.<br /><br />Egypt<br /><br />On 14 May 2010, several media outlets reported that the Egyptian government had also opened an investigation into Daimler's alleged payment of bribes to Egyptian officials.<br /><br />Nigeria<br /><br />According to press reports in June 2010, Nigeria's Economic and Financial Crimes Commission ("EFCC") is also investigating the matter, looking at alleged bribery involving Daimler and Anammco, a partially state-owned Nigerian vehicle assembly company.<br /><br />Latvia<br /><br />According to a 15 February 2011 press release by Latvia's Corruption Prevention and Combating Bureau ("KNAB"), the agency is investigating alleged bribery of Riga city officials by Daimler's subsidiary EvoBus GmbH. EvoBus, through intermediaries, allegedly paid more than EUR 4.3 million between July 2002 and December 2006 to city officials in connection with the purchase of 117 Mercedes Benz buses for the Riga municipality.  According to The Baltic Course's article from 13 June 2013, prosecutors said that the amount of bribes exceeded EUR 5 million. The KNAB  investigation is being conducted in coordination with the Stuttgart Prosecutor's Office and Baden-Württemberg police.<br /><br />On 4 November 2013, prosecutors in Latvia brought charges against six people accused of taking bribes from German vehicle-maker Daimler.  The six facing charges include Leonards Tenis, an advisor to a former mayor of Riga. The others were members of the city council. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Louis Freeh; Stanley Sporkin
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Increased U.S. protections for whistleblowers may result in greater disclosure of potential bribery violations and corresponding investigations in the United States and abroad.</li><li>Employees of state-owned enterprises are considered foreign officials for purposes of the FCPA.</li><li>Companies can face criminal charges for violating the books and records provisions of the FCPA.</li><li>In addition to prosecution under foreign bribery laws, companies increasingly also risk facing domestic bribery prosecution by host country governments.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=612">DaimlerChrysler: SEC Form 20-F (24 June 2005)</a></p><p><a href="file.asp?id=611">DaimlerChrysler: SEC Form 20-F (6 March 2006)</a></p><p><a href="file.asp?id=613">Daimler: SEC Form 20-F (27 February 2008)</a></p><p><a href="file.asp?id=732">Daimler: Criminal Information (22 March 2010)</a></p><p><a href="file.asp?id=757">Complaint: SEC v. Daimler (22 March 2010)</a></p><p><a href="file.asp?id=733">Daimler: DPA (24 March 2010)</a></p><p><a href="file.asp?id=752">Daimler: Sentencing Memorandum (24 March 2010)</a></p><p><a href="file.asp?id=755">DOJ Press Release: "Daimler AG and Three Subsidiaries Resolve Foreign Corrupt Practices Act Investigation and Agree to Pay $93.6 Million in Criminal Penalties" (1 April 2010)</a></p><p><a href="file.asp?id=756">SEC Press Release: "SEC Charges Daimler AG With Global Bribery" (1 April 2010)  </a></p><p>NEXT: "Ambassador, Presidency officials in list of Daimler bribe takers" (13 June 2010)</p><p>Wall Street Journal: "Russia Investigates Daimler Bribery Claims" (13 November 2010)</p><p>Reuters: "Nigeria launches $15 mln Daimler bribery probe" (7 June 2010)</p><p><a href="file.asp?id=1362">Latvia Corruption Prevention and Combating Bureau (KNAB) News Release: "KNAB investigates bribery case of 4,3 million euro" (15 February 2011)</a></p><p>The Baltic Course: "Bribes in Daimler affair in Latvia over EUR 5 mln" (13 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

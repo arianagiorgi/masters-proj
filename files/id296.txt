@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924401w551">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19244048y4p" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIEBOLD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(296)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924400orji" width="415" height="61" /></div>
+    
+        <h1>DIEBOLD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Diebold Incorporated ("Diebold")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Automated teller machines, electronic voting machines and other financial and security systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        North Canton, Ohio, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />Indonesia<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Diebold described the ongoing investigation as follows in a SEC Form 8-K released on 29 July 2010:<br /><br />"Voluntary disclosure related to Foreign Corrupt Practices Act<br /><br />While conducting due diligence in connection with a potential acquisition in Russia, Diebold identified certain transactions and payments by its subsidiary in Russia (primarily during 2005 to 2008) that potentially implicate the Foreign Corrupt Practices Act (FCPA), particularly the books and records provisions of the FCPA. While the company's current assessment indicates that the transactions and payments in question do not materially impact or alter the company's financial statements, the company continues to collect information and is conducting an internal review of its global FCPA compliance. At this time, Diebold cannot predict the outcome or impact of this global review. In addition, the company has voluntarily self−reported its findings to the U.S. Department of Justice and the Securities and Exchange Commission and intends to fully cooperate with these agencies in their review."<br /><br />According to press reports, in early November 2010 Diebold fired five high level employees at its Russian operation in connection with the investigation.<br /><br />Diebold described its expanding investigation as follows in its SEC Form 8-K filed on 14 February 2011:<br /><br />"As previously disclosed, Diebold is conducting a global internal review of its compliance with the U.S. Foreign Corrupt Practices Act (FCPA). During its review in the fourth quarter, the company identified certain transactions within its Asia Pacific operation which may potentially implicate the FCPA. The company's assessment indicates that the transactions in question do not materially impact or alter the company's condensed consolidated financial statements. The company also previously disclosed it had received a subpoena for documents from the SEC and a voluntary request for documents from the DOJ in connection with the SEC's non-public investigation of the FCPA matter. Diebold continues to cooperate with these agencies in their review.<br /><br />As a result of the internal review progressing to more complex operations located in broader geographies, as well as complying with requests from regulators, costs associated with the FCPA review increased substantially in the fourth quarter. The company has decided to exclude these costs from its non-GAAP operating results as it provides a better overall understanding of the company's historical financial performance and future prospects. Diebold will continue to conduct its global internal FCPA compliance review. The company cannot predict the length, scope or results of this review or the government investigations, or the impact, if any, on its results of operations."<br /><br />On 22 October 2013, the SEC and DOJ charged Diebold with violations of the FCPA for lavishing international leisure trips, entertainment, and other improper gifts on foreign officials to obtain and retain lucrative business with government owned banks in China and Indonesia, and for paying other bribes in connection with the sale of ATMs to private banks in Russia. <br /><br />The SEC's complaint, filed in the United States District Court for the District of Columbia, alleged that Diebold paid approximately USD $3 million in illicit payments in these countries from 2005 through 2010. Subsidiaries of Diebold Inc. in China and Indonesia were alleged to have spent approximately USD $1.8 million on travel, entertainment, and other improper gifts for senior officials with the ability to influence the banks’ purchasing decisions. The SEC further alleged that Diebold falsified books and records to hide approximately USD $1.2 million of bribes paid to employees at privately owned banks in Russia. <br /><br />The company agreed to pay a USD $25.2 million fine and enter a three-year deferred prosecution agreement with the DOJ to resolve charges that it violated the Foreign Corrupt Practices Act between 2005 and 2010.  It will also pay USD $22.9 million to resolve related SEC civil charges. Both settlements call for the company to appoint an independent compliance monitor.  The total amount of the two settlements is approximately USD $48 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD $3 million</td>
+<td style="text-align: center;">Obtaining and maintaining lucrative contracts with government-owned banks</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Diebold identified certain transactions and payments by its subsidiary in Russia while conducting due diligence in connection with a potential acquisition in Russia.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        US<br /><br />On 22 October 2013, Diebold agreed to pay more than USD $48 million in disgorgement and prejudgment interest to settle the SEC’s charges and resolve a parallel criminal matter announced by the DOJ.  The company agreed to pay a USD $25.2 million fine and enter a three-year deferred prosecution agreement with the DOJ to resolve charges that it violated the Foreign Corrupt Practices Act between 2005 and 2010.  It will also pay USD $22.9 million to resolve related SEC civil charges. Both settlements call for the company to appoint an independent compliance monitor.  The total amount of the two settlements is approximately USD $48 million.
+		<h2>COMPLIANCE MONITOR</h2>
+        Independent compliance monitor to be appointed
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper trips, entertainment, and other gifts given to government officials in conjunction with falsified books and records are sufficient bases for SEC and DOJ prosecution.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1052">Diebold: SEC Form 8-K (29 July 2010)</a></p><p>Main Justice: "Diebold Fires Russian Managers Amid FCPA Probe" (11 Nov. 2010)</p><p><a href="file.asp?id=1345">Diebold: SEC Form 8-K (14 Feb. 2011)</a></p><p><a href="file.asp?id=1913">Diebold - SEC Form 10-Q (2 August 2012)</a></p><p><a href="file.asp?id=2397">Diebold - Press Release (6 August 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

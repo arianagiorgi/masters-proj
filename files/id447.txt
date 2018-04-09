@@ -1,0 +1,115 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192651t0t6p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192651a519r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BILFINGER SE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(447)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192651y1h54" width="415" height="61" /></div>
+    
+        <h1>BILFINGER SE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Austria: Vienna Prosecution Office<br />Hungary: Central Investigative Chief Prosecutor's Office<br />Germany: Frankfurt Public Prosecutor's Office <br />Slovakia Police Corps: Anti-Corruption Unit<br />Germany:  Landshut Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Bilfinger SE ("Bilfinger")<br />Bilfinger Berger AG (predecessor company to Bilfinger SE from 2001 to 2012)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Engineering services and construction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Mannheim, Baden-Wurtenburg, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />Slovakia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        NIGERIA<br /><br />Bilfinger and Houston-based Willbros Group Inc. conspired from 2003 through June 2005 to pay more than USD $6 million in bribes to Nigerian government officials to help get and keep contracts related to the Eastern Gas Gathering System project, worth USD $387 million.  Bilfinger and Willbros had entered into a joint venture to bid on the project, and allegedly inflated the price of the bid by 3% to cover the cost of the bribes, which Bilfinger paid with cash sent from Germany to Nigeria.<br /><br />When Willbros employees encountered difficulty obtaining enough money to make their share of the bribe payments, Bilfinger loaned them $1 million, with the express purpose of paying bribes to the Nigerian officials.<br /><br /><br />EASTERN EUROPE <br /><br />German authorities from the Landshut prosecutor's office raided the offices of Bilfinger in October 2012, investigating allegations of bribery in various countries in Eastern Europe in 2007 and 2008.  Reports alleged that the prosecutors are focusing on four suspects who had dealings in Hungary and Slovakia.  Three of the individuals are German, and worked for the unit of Bilfinger based in Passau.  They are suspected of organizing bribe payments of EUR 5 to 6 million.<br /><br />Prosecutors from  Austria, Slovakia and Hungary are also reported to be involved in the investigation. <br /><br /><br />BRAZIL<br /><br />According to a press release issued by Bilfinger, improper payments from employees of a Brazil Bilfinger affiliate were allegedly made to employees of state companies and public officials in Brazil. The allegedly improper payments were related to orders for monitor walls and software for security control centers in several Brazilian municipalities. The orders were valued at approximately $6.5 million.<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="height: 53px;" border="1" cellspacing="0" cellpadding="2" width="771">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%"><strong>&nbsp;Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr style="text-align: center;">
+<td>&nbsp;USD $6 million<br /></td>
+<td>&nbsp;A gas project valued at USD $387 million<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        NIGERIA<br /><br />On 10 December 2013, Bilfinger agreed to pay a USD $32 million penalty and retain an independent corporate compliance monitor for at least 18 months to resolve charges that Bilfinger violated and conspired to violate the Foreign Corrupt Practices Act by bribing government officials in Nigeria to get contracts as part of a USD $387 million gas project. The company entered into a three-year deferred-prosecution agreement with the U.S. Department of Justice, which charged Bilfinger in the U.S. District Court for the Southern District of Texas with violating the Foreign Corrupt Practices Act in a three-count criminal information document.<br /><br />An investigation by German prosecutors appears to be ongoing.<br /><br /><br />EASTERN EUROPE<br /><br />The German, Austria, Hungary and Slovakia investigations appear to be ongoing.<br /><br /><br />BRAZIL<br /><br />The Brazilian Justice Ministry announced on 23 March 2015 that it has launched an investigation into bribes allegedly paid to secure $6.5 million in contracts for traffic control centers and integrated security for host cities of the 2014 World Cup. Bilfinger is currently conducting an internal investigation.<br />
+		<h2>COMPLIANCE MONITOR</h2>
+        Independent
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Violation of the FCPA can result in significant fines and having to retain a compliance monitor.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Bloomberg Businessweek: "Bilfinger Offices Raided in Eastern Europe Bribery Probe" (12 November 2012)</p><p><a href="file.asp?id=2439">FBI Press Release</a></p><p><a href="file.asp?id=2662">Bilfinger: Press Release on Investigation into compliance violations in Brazil (26 March 2015)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

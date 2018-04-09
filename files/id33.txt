@@ -1,0 +1,489 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707190r3ju">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170719ne6o9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KATY INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(33)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707193li73" width="415" height="61" /></div>
+    
+        <h1>KATY INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Katy Industries, Inc. ("Katy")<br />Katy Oil Company of Indonesia (wholly-owned subsidiary of Katy) ("Katy-Indonesia")<br />Wallace E. Carroll (Chairman of the Board and Chief Executive Officer at Katy Industries)<br />Melvan M. Jacobs (attorney, director and member of the Executive Committee at Katy Industries)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil exploration and extraction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Elgin, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In early 1972, Wallce E. Carroll, Katy's Chairman and CEO, sought to obtain an oil exploration concession in Indonesia.  As a result, a Katy director and a Katy consultant, who were close personal friends with a high level Indonesian government official, met with this official and one of his representatives.  At that meeting, the official agreed to assist Katy in obtaining an oil production sharing contract.  Katy agreed to compensate the consultant upon receipt of the contract, understanding that the consultant would give a portion of his compensation to the official and his representative.   <br /><br />From September 1972 to March 1974, Katy paid the consultant at least USD 43,750 in consulting fees.  Katy also retained the official's representative as an agent for Katy and paid him at least USD 22,500 between December 1972 and September 1973, in addition to reimbursing him for out-of-pocket expenses incurred on behalf of Katy.<br /><br />In January 1974, Katy entered into a 30-year production-sharing contract with Pertamina, the Indonesian government-owned oil and gas company, granting Katy the exclusive right to explore and develop oil and natural gas within a designated area of Indonesia.  According to the complaint, the total cost of this contract was USD 10,000,000.  <br /><br />Between January 1974 and April 1975, Jacobs and Carroll negotiated agreements setting forth the plan to compensate the official, the official's representative and the consultant through an offshore corporation in the Cayman Islands to be created by the consultant.  Katy agreed to pay the offshore corporation 13.33% of Katy-Indonesia's annual net profits arising from the contract, for the benefit of the official, his representative and the consultant.  Between March and April 1975, Katy paid the consultant USD 50,000 as an advance on payments to be made to the offshore corporation.  Additional advances totaling USD 200,000 were paid in four installments between September 1975 and May 1976, to be applied against the 13.33% share.  No payments were made pursuant to the agreement after May 1976, but the contractual obligation continued through July 1978 at which time Katy terminated the agreement with the offshore corporation.<br /><br />Throughout the period discussed above, Katy, Carroll and Jacobs made a series of misrepresentations to shareholders and investors regarding the production-sharing contract.  According to Katy, a single find of a major field in the region would be worth USD 108,000,000.  According to the complaint, exploration of the area covered by the contract ceased pending the resolution of certain tax problems, but was anticipated to resume before the end of 1978.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 93,750</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Representative of the Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 22,500</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Promised to an Offshore Corporation for the Benefit of the Indonesian Official, His Representative and the Consultant</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">13.33% of Katy's annual net profits from the contract</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 August 1978, Katy, Carroll and Jacobs, without admitting or denying the SEC's allegations, each agreed to the entry of final judgments permanently enjoining them from future violations of the FCPA's anti-bribery provisions, as well as various federal securities laws.   Katy's Board of Directors was also required to establish a Special Committee of three outside directors to oversee an investigation into the allegations in the complaint and the company's Indonesian activities and to make remedial recommendations.  The findings of the Special Committee's investigation were to be presented to the Board and the SEC within 90 days.  Within 30 days of the filing of the report, the Board was to consider and act on the Special Committee's recommendations.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers both actual payments made to foreign officials to secure an improper advantage, as well as promises of improper payments to foreign officials.</li><li>Where warranted by the facts, the SEC will combine FCPA-related charges with charges under other federal securities laws.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=140">Complaint: SEC v. Katy Industries, Inc., Wallace E. Carroll, and Melvan M. Jacobs (August 30, 1978)</a></p><p><a href="file.asp?id=141">Consents and Stipulations: SEC v. Katy Industries, Inc., et al (August 30, 1978)</a></p><p><a href="file.asp?id=142">Final Judgments of Permanent Injunction: SEC v. Katy Industries, Inc., et al (August 30, 1978) </a></p><p><a href="file.asp?id=143">Resolutions Adopted by Board of Directors of Katy Industries, Inc. (August 1978)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184228vsg47">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18422863g0s" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KATY INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(33)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842287h5d8" width="415" height="61" /></div>
+    
+        <h1>KATY INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Katy Industries, Inc. ("Katy")<br />Katy Oil Company of Indonesia (wholly-owned subsidiary of Katy) ("Katy-Indonesia")<br />Wallace E. Carroll (Chairman of the Board and Chief Executive Officer at Katy Industries)<br />Melvan M. Jacobs (attorney, director and member of the Executive Committee at Katy Industries)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil exploration and extraction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Elgin, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In early 1972, Wallce E. Carroll, Katy's Chairman and CEO, sought to obtain an oil exploration concession in Indonesia.  As a result, a Katy director and a Katy consultant, who were close personal friends with a high level Indonesian government official, met with this official and one of his representatives.  At that meeting, the official agreed to assist Katy in obtaining an oil production sharing contract.  Katy agreed to compensate the consultant upon receipt of the contract, understanding that the consultant would give a portion of his compensation to the official and his representative.   <br /><br />From September 1972 to March 1974, Katy paid the consultant at least USD 43,750 in consulting fees.  Katy also retained the official's representative as an agent for Katy and paid him at least USD 22,500 between December 1972 and September 1973, in addition to reimbursing him for out-of-pocket expenses incurred on behalf of Katy.<br /><br />In January 1974, Katy entered into a 30-year production-sharing contract with Pertamina, the Indonesian government-owned oil and gas company, granting Katy the exclusive right to explore and develop oil and natural gas within a designated area of Indonesia.  According to the complaint, the total cost of this contract was USD 10,000,000.  <br /><br />Between January 1974 and April 1975, Jacobs and Carroll negotiated agreements setting forth the plan to compensate the official, the official's representative and the consultant through an offshore corporation in the Cayman Islands to be created by the consultant.  Katy agreed to pay the offshore corporation 13.33% of Katy-Indonesia's annual net profits arising from the contract, for the benefit of the official, his representative and the consultant.  Between March and April 1975, Katy paid the consultant USD 50,000 as an advance on payments to be made to the offshore corporation.  Additional advances totaling USD 200,000 were paid in four installments between September 1975 and May 1976, to be applied against the 13.33% share.  No payments were made pursuant to the agreement after May 1976, but the contractual obligation continued through July 1978 at which time Katy terminated the agreement with the offshore corporation.<br /><br />Throughout the period discussed above, Katy, Carroll and Jacobs made a series of misrepresentations to shareholders and investors regarding the production-sharing contract.  According to Katy, a single find of a major field in the region would be worth USD 108,000,000.  According to the complaint, exploration of the area covered by the contract ceased pending the resolution of certain tax problems, but was anticipated to resume before the end of 1978.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 93,750</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Representative of the Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 22,500</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Promised to an Offshore Corporation for the Benefit of the Indonesian Official, His Representative and the Consultant</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">13.33% of Katy's annual net profits from the contract</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 August 1978, Katy, Carroll and Jacobs, without admitting or denying the SEC's allegations, each agreed to the entry of final judgments permanently enjoining them from future violations of the FCPA's anti-bribery provisions, as well as various federal securities laws.   Katy's Board of Directors was also required to establish a Special Committee of three outside directors to oversee an investigation into the allegations in the complaint and the company's Indonesian activities and to make remedial recommendations.  The findings of the Special Committee's investigation were to be presented to the Board and the SEC within 90 days.  Within 30 days of the filing of the report, the Board was to consider and act on the Special Committee's recommendations.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers both actual payments made to foreign officials to secure an improper advantage, as well as promises of improper payments to foreign officials.</li><li>Where warranted by the facts, the SEC will combine FCPA-related charges with charges under other federal securities laws.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=140">Complaint: SEC v. Katy Industries, Inc., Wallace E. Carroll, and Melvan M. Jacobs (August 30, 1978)</a></p><p><a href="file.asp?id=141">Consents and Stipulations: SEC v. Katy Industries, Inc., et al (August 30, 1978)</a></p><p><a href="file.asp?id=142">Final Judgments of Permanent Injunction: SEC v. Katy Industries, Inc., et al (August 30, 1978) </a></p><p><a href="file.asp?id=143">Resolutions Adopted by Board of Directors of Katy Industries, Inc. (August 1978)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920441mb84">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192044ru7u4" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KATY INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(33)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192044erp4l" width="415" height="61" /></div>
+    
+        <h1>KATY INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Katy Industries, Inc. ("Katy")<br />Katy Oil Company of Indonesia (wholly-owned subsidiary of Katy) ("Katy-Indonesia")<br />Wallace E. Carroll (Chairman of the Board and Chief Executive Officer at Katy Industries)<br />Melvan M. Jacobs (attorney, director and member of the Executive Committee at Katy Industries)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil exploration and extraction
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Elgin, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In early 1972, Wallce E. Carroll, Katy's Chairman and CEO, sought to obtain an oil exploration concession in Indonesia.  As a result, a Katy director and a Katy consultant, who were close personal friends with a high level Indonesian government official, met with this official and one of his representatives.  At that meeting, the official agreed to assist Katy in obtaining an oil production sharing contract.  Katy agreed to compensate the consultant upon receipt of the contract, understanding that the consultant would give a portion of his compensation to the official and his representative.   <br /><br />From September 1972 to March 1974, Katy paid the consultant at least USD 43,750 in consulting fees.  Katy also retained the official's representative as an agent for Katy and paid him at least USD 22,500 between December 1972 and September 1973, in addition to reimbursing him for out-of-pocket expenses incurred on behalf of Katy.<br /><br />In January 1974, Katy entered into a 30-year production-sharing contract with Pertamina, the Indonesian government-owned oil and gas company, granting Katy the exclusive right to explore and develop oil and natural gas within a designated area of Indonesia.  According to the complaint, the total cost of this contract was USD 10,000,000.  <br /><br />Between January 1974 and April 1975, Jacobs and Carroll negotiated agreements setting forth the plan to compensate the official, the official's representative and the consultant through an offshore corporation in the Cayman Islands to be created by the consultant.  Katy agreed to pay the offshore corporation 13.33% of Katy-Indonesia's annual net profits arising from the contract, for the benefit of the official, his representative and the consultant.  Between March and April 1975, Katy paid the consultant USD 50,000 as an advance on payments to be made to the offshore corporation.  Additional advances totaling USD 200,000 were paid in four installments between September 1975 and May 1976, to be applied against the 13.33% share.  No payments were made pursuant to the agreement after May 1976, but the contractual obligation continued through July 1978 at which time Katy terminated the agreement with the offshore corporation.<br /><br />Throughout the period discussed above, Katy, Carroll and Jacobs made a series of misrepresentations to shareholders and investors regarding the production-sharing contract.  According to Katy, a single find of a major field in the region would be worth USD 108,000,000.  According to the complaint, exploration of the area covered by the contract ceased pending the resolution of certain tax problems, but was anticipated to resume before the end of 1978.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Allegedly Advantage To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 93,750</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Representative of the Indonesian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 22,500</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Promised to an Offshore Corporation for the Benefit of the Indonesian Official, His Representative and the Consultant</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly To Be Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">13.33% of Katy's annual net profits from the contract</p>
+</td>
+<td>
+<p style="text-align: center;">30-year oil production-sharing contract, estimated to be worth at least USD 108,000,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 30 August 1978, Katy, Carroll and Jacobs, without admitting or denying the SEC's allegations, each agreed to the entry of final judgments permanently enjoining them from future violations of the FCPA's anti-bribery provisions, as well as various federal securities laws.   Katy's Board of Directors was also required to establish a Special Committee of three outside directors to oversee an investigation into the allegations in the complaint and the company's Indonesian activities and to make remedial recommendations.  The findings of the Special Committee's investigation were to be presented to the Board and the SEC within 90 days.  Within 30 days of the filing of the report, the Board was to consider and act on the Special Committee's recommendations.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The FCPA covers both actual payments made to foreign officials to secure an improper advantage, as well as promises of improper payments to foreign officials.</li><li>Where warranted by the facts, the SEC will combine FCPA-related charges with charges under other federal securities laws.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=140">Complaint: SEC v. Katy Industries, Inc., Wallace E. Carroll, and Melvan M. Jacobs (August 30, 1978)</a></p><p><a href="file.asp?id=141">Consents and Stipulations: SEC v. Katy Industries, Inc., et al (August 30, 1978)</a></p><p><a href="file.asp?id=142">Final Judgments of Permanent Injunction: SEC v. Katy Industries, Inc., et al (August 30, 1978) </a></p><p><a href="file.asp?id=143">Resolutions Adopted by Board of Directors of Katy Industries, Inc. (August 1978)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192444u69xw">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192444p9fpo" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ORTHOFIX</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(300)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192444fqh7b" width="415" height="61" /></div>
+    
+        <h1>ORTHOFIX</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Orthofix International N.V. ("Orthofix")<br />Promeca S.A. de C.V., a wholly owned Mexican subsidiary of Orthofix ("Promeca")<br />Instituto Mexicano del Seguro Social ("IMSS")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Spinal and orthopedic devices and sports medicine products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Curacao, Netherlands Antilles
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Orthofix described the ongoing investigation as follows in its June 30, 2010 SEC Form 10-Q: <br /><br />"During a recent internal management review of Promeca S.A. DE C.V. ('Promeca'), one of its Mexican subsidiaries, the Company received allegations of improper payments, allegedly made by certain of Promeca's local employees in Mexico, to employees of a Mexican governmental health care entity. The Company has engaged Hogan Lovells US LLP and Deloitte Financial Advisory Services LLP to conduct an internal investigation focusing on compliance with the Foreign Corrupt Practices Act ('FCPA') and voluntarily contacted the U.S. Securities and Exchange Commission and the United States Department of Justice to advise both agencies that an internal investigation is underway. During 2009, Promeca accounted for approximately one percent of the Company's consolidated net sales and consolidated total assets. The internal investigation is in its early stages and no conclusions can be drawn at this time as to its outcome; however, the FCPA and related statutes and regulations provide for potential criminal and civil sanctions in connection with FCPA violations, including criminal fines, civil penalties, and disgorgement of past profits . . . <br /><br />"We are currently investigating allegations of improper payments by local employees of one of our subsidiaries in Mexico and could be exposed to liabilities under the Foreign Corrupt Practices Act. Any determination that the Company or any of its subsidiaries has violated the Foreign Corrupt Practices Act could adversely impact our business and financial position. <br /><br />"To the extent that we operate outside the United States we are subject to the U.S. Foreign Corrupt Practices Act (“FCPA”) which prohibits people, or companies subject to United States jurisdiction and their intermediaries, from engaging in bribery or other prohibited payments to foreign officials for the purposes of obtaining or retaining business or gaining an unfair business advantage. It also requires proper record keeping and characterization of such payments in our reports filed with the U.S. Securities and Exchange Commission."<br /><br />In its SEC Form 10-K filed on March 3, 2011, Orthofix provided the following update:<br /><br />"On or about November 16, 2010, we received a subpoena from the SEC and DOJ seeking documents related to this matter. We are cooperating with the SEC and DOJ in connection with the subpoena. If imposed, monetary penalties and sanctions (which could include fines, criminal penalties and disgorgement of past profits) could be significant, and could adversely impact our business and financial position."<br /><br />Orthofix provided the following update in its SEC From 10-Q filed on August 5, 2011:<br /><br />"The Company completed the Promeca Internal Investigation in April 2011 and commenced settlement discussions with the U.S. Government regarding this matter on May 24, 2011. These discussions remain ongoing. The Company has established a $3 million accrual in connection with the potential fines and penalties related to this matter. The Company's establishment of this accrual is based on, among other things, the results of its own internal investigation and an analysis of recent and similar FCPA resolutions. However, settlement discussions with the government are at an early stage, and the Company is currently unable to access whether the government will accept voluntary settlement terms that would be acceptable to the Company and to which the Company could agree without violating the terms of its credit agreement, as amended. Furthermore, the Company cannot currently assess the potential liability that might be incurred if a settlement is not reached and the government were to litigate the matter. As such, based on the informantion available at this time, any additional loss related to this matter is not reasonably estimable. The Company will continue to evaluate the accrual pending final resolution of the investigation and the related settlement discussions with the government; actual liability could be higher than the amount accrued.<br /><br />"On 6 February 2012, Orthofix reached an Agreement in Principle with the DOJ to settle the FCPA claims.  The company will set aside an additional accrual of $4.5 million during the 4th quarter of 2011 to anticipate the proposed criminal and civil resolution.  The agreement also includes a resolution of the qui tam claim filed by Susan Hutcheson against Blackstone and Orthofix in the U.S. District Court for the District of Massachusetts."<br /><br />Allegations in the SEC complaint, filed on 10 July 2012 at the same time that the final settlement with the company was announced, explain how employees of Promeca paid bribes to hospital officials employed by the IMSS between 2003 and 2008.  The employees called the bribes "chocolates" and paid up to 5% to 10% of sales in order to obtain and retain contracts with various hospitals.  Approximately USD 317,000 was paid in this way.  At first, the Promeca employees wrote checks to themselves for cash advances in order to pay the bribes, and then later submitted falsified receipts for imaginary expenses including meals and automobile tires.  Later, the Promeca employees began accounting for the payments as promotional and training expenses. <br /><br />In 2008, the IMSS changed its procurement policies, and Promeca employees instituted a new system to ensure continued business, paying front companies controlled by IMSS officials up to 5% of the tender price, and attributing the payments to training courses, meetings and conventions in the company's books.  Promeca also spent over USD 80,000 on gifts for IMSS officials, providing them travel packages, televisions, laptops, appliances, and an automobile lease agreement, and falsely recording the expenses as promotional and training costs. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to&nbsp;Mexican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>USD 317,000</p>
+<p>Additional USD 80,050 in gifts and travel</p>
+</td>
+<td style="text-align: center;">
+<p>USD 8.7 in gross sales</p>
+<p><span style="font-size: 11.5pt; line-height: 115%; font-family: Calibri, sans-serif;">USD 4.9 million in illicit profits</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The SEC Complaint notes that upon discovery of the bribe payments through a Promeca executive, Orthofix immediately self-reported the matter to the Commission staff, and conducted an internal investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 February 2012, Orthofix reached an Agreement in Principle with the DOJ to settle the FCPA claims.  The company will set aside an additional accrual of $4.5 million during the 4th quarter of 2011 to anticipate the proposed criminal and civil resolution.  The agreement also includes a resolution of the qui tam claim filed by Susan Hutcheson against Blackstone and Orthofix in the U.S. District Court for the District of Massachusetts.  <br /><br />In the Company's 8-K filing on 10 July 2012, definitive agreements with the DOJ and SEC are described:  <br /><br />"On July 10, 2012, Orthofix International N.V. (the ' Company ') entered into definitive agreements memorializing the previously disclosed agreement in principle previously reached with the Department of Justice (the 'DOJ') and Securities and Exchange Commission (the ' SEC ') regarding the Company's self-initiated and self-reported internal investigation of its Mexican subsidiary, Promeca S.A. de C.V. (' Promeca '), into allegations of non-compliance by Promeca with the Foreign Corrupt Practices Act (' FCPA ').  As part of the settlement of this matter, the Company has entered into (i) a consent to final judgment (the ' SEC Consent ') with the SEC and (ii) a deferred prosecution agreement (the ' DPA ') with the DOJ.<br /> <br />"Under the terms of the SEC Consent, the Company will settle civil claims related to this matter by voluntarily disgorging profits to the United States government in an amount of $5,225,701, inclusive of pre-judgment interest.  The Company has also agreed to pay a fine of $2,220,000 to the United States government pursuant to the terms of the DPA.  The Company previously recorded charges of $3.0 million during the first quarter of 2011 and $4.5 million during the fourth quarter of 2011 to establish an accrual in anticipation of a future final resolution of these matters with both the DOJ and the SEC.  The Company expects to make these settlement payments in the third fiscal quarter of 2012.<br /> <br />"As part of the DPA, which has a term of 3 years, the DOJ has agreed not to pursue any criminal charges against the Company in connection with this matter if the Company complies with the terms of the DPA.  The DPA takes note of the Company's self-reporting of this matter to the DOJ and the SEC, and of remedial measures, including the implementation of an enhanced compliance program, previously undertaken by the Company.  The DPA provides that the Company shall continue to cooperate fully with the DOJ in any future matters related to corrupt payments, false books and records or inadequate internal controls.  In that regard, the Company has represented that it has implemented and will continue to implement a compliance and ethics program designed to prevent and detect violations of the FCPA and other applicable anti-corruption laws.  The Company will periodically report to the DOJ during the term of the DPA regarding such remediation and implementation of compliance measures.<br /> <br />"In addition, under the terms of the SEC Consent, the Company will periodically report to the SEC during a 2-year term regarding the status of such remediation and implementation of compliance measures.<br /> <br />"The SEC Consent and the DPA do not provide for the appointment of any independent external monitor by the DOJ or the SEC."
+		<h2>COMPLIANCE MONITOR</h2>
+        None
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1109">Orthofix - SEC Form 10-Q (30 June 2010)</a></p><p><a href="file.asp?id=1364">Orthofix - SEC Form 10-K (3 March 2011)</a></p><p><a href="file.asp?id=1628">Orthofix - SEC Form 10-Q (5 Aug. 2011)</a></p><p><a href="file.asp?id=1713">Orthofix - Press Release 6 February 2012, Orthofix International Moves to Resolve U.S. Government Legal Matters</a></p><p><a href="file.asp?id=1888">Orthofix - SEC Press Release (10 July 2012), SEC Charges Orthofix International With FCPA Violations</a></p><p><a href="file.asp?id=1889">Orthofix - Complaint (10 July 2012)</a></p><p><a href="file.asp?id=1890">Orthofix - SEC Form 8-K (10 July 2012)</a></p><p><a href="file.asp?id=2054">Orthofix - Deferred Prosecution Agreement (10 July 2012)</a></p><p><a href="file.asp?id=2055">Orthofix - Criminal Information (10 July 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

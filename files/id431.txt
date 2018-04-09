@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192637gtffr">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192637the00" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SAFRAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(431)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192637a194f" width="415" height="61" /></div>
+    
+        <h1>SAFRAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        France: Public Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Safran<br />Sagem (Société d’Applications Générales de l’Electricité et de la Mécanique)<br />SNECMA
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aerospace, defense, security
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Safran Group is the name of the new company formed when Sagem merged with Snecma in 2005.  The Group, comprising a number of subsidiaries, is 30% owned by the French government.<br /><br />The allegations in this case are focused on the conduct of Sagem prior to the merger.<br />The alleged corruption occurred between 2000 and 2003, in connection with a contract for the manufacture of 70 million identity cards.  Intermediaries were used to pay hundreds of thousands of dollars to Nigerian officials, including Sunday Afolabi, the former Minister of the Interior.  The company is also alleged to have presented a number of officials with expensive gifts such as Rolex watches as well.  <br />The I.D. card contract, awarded in 2001, was worth 214 million dollars.<br /><br />Some media sources have claimed that in 2005, former Nigerian president Olusegun Obasanjo took the director general of Safran aside at a conference and told him that Sagem didn't need to grease anyone's palms, but "unfortunately, you did it anyway."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;USD 500,000 plus gifts</td>
+<td style="text-align: center;">&nbsp;Contract worth USD 214 million</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        An investigation was initiated in France in 2006 following denunciations in Nigeria, the U.K. and the United States.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 5 September 2012, the French Court de Correction fined Safran Euro 500,000 for engaging actively in corruption in Nigeria.<br /><br />The investigating judge, Renaud Van Rymbeke, concluded that the company's top executives did not have personal knowledge of the corruption.  Two individuals, Jean Pierre Delarue, former Sagem engineer in Nigeria, and François Perrachon, former head of the Identification Systems Division, were questioned and then discharged by the court, despite prosecutors' demands that they each be fined Euro 15,000 and that they receive suspended jail sentences of 15 to 18 months.<br /><br />Safran intends to appeal the ruling.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1940">Safran - Press Release (5 September 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

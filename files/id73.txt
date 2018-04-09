@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843041rwh2">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843047tmi0" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SECURITY SERVICE PROVIDER [Unnamed]</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(73)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18430482m92" width="415" height="61" /></div>
+    
+        <h1>SECURITY SERVICE PROVIDER [Unnamed]</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Korea: Seoul District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Company D (unnamed security service business created by Mr. Park and Mr. Wi)<br />Mr. Choi (U.S. citizen and former contracting officer in the U.S. Army Contracting Command Korea ("CCK")<br />Mr. Park (security service provider)<br />Mr. Wi (security service provider)<br />Mr. Kim (leasing service provider)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security service business
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Seoul, South Korea
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United States<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In connection with a bid for contract to provide security guard services on military bases in South Korea announced by CCK on March 3, 2003, Mr. Choi, a contracting officer in the CCK, provided Mr. Kim with inside and confidential information from the U.S. Army on bidding strategies, detailed expenses, price information, grading criteria, evaluation standards for technology and past performance, an independent government cost estimate of the U.S. government, and other related issues.<br /><br />Mr. Park and Mr. Wi acquired a paper company, Company X, and changed its trade name and type of business to Company D and security service business, respectively.  They then prepared certificates of performance, financial statements, and other falsified documents for Company D based on the confidential U.S. Army information they obtained from Mr. Kim.  Just prior to the deadline for submission of bids, Mr. Park and Mr. Wi obtained information on competitors bidding prices from Mr. Choi and submitted an optimal bid price under the name of Company D.  In May 30, 2003, Company D won the contract to provide security guard services for a term of five years for two of the four U.S. Army areas in Korea.  The total value of the contract was roughly 87 million won.   <br /><br />In connection with the foregoing, Mr. Park and Mr. Wi gave bribes to the contracting officer of CCK, Mr. Choi, in order to obtain improper advantage in the conduct of international business in violation of the Foreign Bribery Prevention Law.  Specifically, they wired money to Mr. Kim and Mr. Kim delivered the money to Mr. Choi, and the bribery occurred through two transactions and amounted to 200 million won in aggregate.  In addition, Mr. Park and Mr. Wi gave Mr. Choi KRW5,595,000 cash to support the expenses for Mr. Chois family trip abroad and related leisure expenses in violation of the Foreign Bribery Prevention Law.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Alleged Payments to U.S. Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Prosecutors were aware of excessive competition among domestic companies for contracts with U.S. Army in Korea, which could lead to illegal lobbying and bribery.  Besides, bribery or corruption scandals in Korea in respect of bids invited by U.S. government bodies could negatively affect South Koreas national credibility.  Under such circumstances, prosecutors have watched closely the movements of companies and relevant persons concerning CCK, and they discovered a systematic crime involving brokers, businessmen and tax accounts who gave a large amount of bribes to officials of U.S. Army in Korea. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 2006, Mr. Wi was sentenced to imprisonment for four years and fined KRW 2,000,000 for bribing a foreign official in violation of the Foreign Bribery Prevention Law and bid interference in violation of the Criminal Code.<br /><br />Mr. Park was sentenced to imprisonment for eight months and fined KRW 2,000,000 for bribing a foreign official in violation of the Foreign Bribery Prevention Law and bid interference in violation of the Criminal Code.<br /><br />Mr. Kim fled and has been put on the wanted list.<br /><br />South Korean government notified the U.S. government of Mr. Choi's crime.  As a result, he was placed on the unattached list.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under Korean law, there is no penal provision that would directly apply to foreign officials who took bribes.  Foreign officials who take bribes would likely be notified to the government of their own country.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=3">Seoul Central District Prosecutors' Office Press Release: April 13, 2006</a></p><p><a href="file.asp?id=571">Seoul Central District Prosecutors' Office Press Release: April 13, 2006 [English translation]</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19212178jha">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19212192q1h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SECURITY SERVICE PROVIDER [Unnamed]</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(73)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921213iz7p" width="415" height="61" /></div>
+    
+        <h1>SECURITY SERVICE PROVIDER [Unnamed]</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Korea: Seoul District Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Company D (unnamed security service business created by Mr. Park and Mr. Wi)<br />Mr. Choi (U.S. citizen and former contracting officer in the U.S. Army Contracting Command Korea ("CCK")<br />Mr. Park (security service provider)<br />Mr. Wi (security service provider)<br />Mr. Kim (leasing service provider)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security service business
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Seoul, South Korea
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United States<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In connection with a bid for contract to provide security guard services on military bases in South Korea announced by CCK on March 3, 2003, Mr. Choi, a contracting officer in the CCK, provided Mr. Kim with inside and confidential information from the U.S. Army on bidding strategies, detailed expenses, price information, grading criteria, evaluation standards for technology and past performance, an independent government cost estimate of the U.S. government, and other related issues.<br /><br />Mr. Park and Mr. Wi acquired a paper company, Company X, and changed its trade name and type of business to Company D and security service business, respectively.  They then prepared certificates of performance, financial statements, and other falsified documents for Company D based on the confidential U.S. Army information they obtained from Mr. Kim.  Just prior to the deadline for submission of bids, Mr. Park and Mr. Wi obtained information on competitors bidding prices from Mr. Choi and submitted an optimal bid price under the name of Company D.  In May 30, 2003, Company D won the contract to provide security guard services for a term of five years for two of the four U.S. Army areas in Korea.  The total value of the contract was roughly 87 million won.   <br /><br />In connection with the foregoing, Mr. Park and Mr. Wi gave bribes to the contracting officer of CCK, Mr. Choi, in order to obtain improper advantage in the conduct of international business in violation of the Foreign Bribery Prevention Law.  Specifically, they wired money to Mr. Kim and Mr. Kim delivered the money to Mr. Choi, and the bribery occurred through two transactions and amounted to 200 million won in aggregate.  In addition, Mr. Park and Mr. Wi gave Mr. Choi KRW5,595,000 cash to support the expenses for Mr. Chois family trip abroad and related leisure expenses in violation of the Foreign Bribery Prevention Law.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p><strong>Approximate Alleged Payments to U.S. Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Prosecutors were aware of excessive competition among domestic companies for contracts with U.S. Army in Korea, which could lead to illegal lobbying and bribery.  Besides, bribery or corruption scandals in Korea in respect of bids invited by U.S. government bodies could negatively affect South Koreas national credibility.  Under such circumstances, prosecutors have watched closely the movements of companies and relevant persons concerning CCK, and they discovered a systematic crime involving brokers, businessmen and tax accounts who gave a large amount of bribes to officials of U.S. Army in Korea. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 2006, Mr. Wi was sentenced to imprisonment for four years and fined KRW 2,000,000 for bribing a foreign official in violation of the Foreign Bribery Prevention Law and bid interference in violation of the Criminal Code.<br /><br />Mr. Park was sentenced to imprisonment for eight months and fined KRW 2,000,000 for bribing a foreign official in violation of the Foreign Bribery Prevention Law and bid interference in violation of the Criminal Code.<br /><br />Mr. Kim fled and has been put on the wanted list.<br /><br />South Korean government notified the U.S. government of Mr. Choi's crime.  As a result, he was placed on the unattached list.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under Korean law, there is no penal provision that would directly apply to foreign officials who took bribes.  Foreign officials who take bribes would likely be notified to the government of their own country.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=3">Seoul Central District Prosecutors' Office Press Release: April 13, 2006</a></p><p><a href="file.asp?id=571">Seoul Central District Prosecutors' Office Press Release: April 13, 2006 [English translation]</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

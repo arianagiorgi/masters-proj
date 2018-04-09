@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925208sn95">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1925202l0w6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - COBALT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(342)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192520dc99f" width="415" height="61" /></div>
+    
+        <h1>COBALT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Cobalt International Energy, Inc. ("Cobalt")<br />Nazaki Oil and Gáz, S.A., a 30% paying member of the Block 9 and 21 contractor group<br />Grupo Aquattro Internacional, one of five shareholders of Nazaki; Aquattro was apparently controlled by Vicente, Kopelipa and Dino ("Aquattro")<br />Manuel Vicente, former head of Sonangol, later minister of state for economic co-ordination (also on the board of Galp Energia, the Portuguese energy company in which Sonangol has an indirect stake)<br />General Manuel Hélder Vieira Dias Júnior (known as Kopelipa), head of military bureau of the presidency<br />General Leopoldino Fragoso do Nascimento (known as Dino), former head of communications in the presidency, owns a stake in Dark Oil<br />Dark Oil
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil-focused exploration and production company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Angola<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 1 March 2011, Cobalt described an ongoing FCPA investigation by the U.S. Securities and Exchange Commission ("SEC") in its SEC Form 10-K related to bribes allegedly paid in Angola.  In connection with entering into the Risk Services Agreements for Blocks 9 and 21 offshore Angola, Angolan companies Nazaki Oil and Aquattro were assigned as part of the contractor group by the Angolan government. According to the filing, Cobalt had not worked with either of the companies in the past and were unfamiliar with them. <br /><br />According to its SEC Form 10-K, Cobalt was made aware of allegations of a connection between senior Angolan government officials and Nazaki Oil and Gáz, S.A. ("Nazaki") (a full paying member of the contractor group for Blocks 9 and 21) as early as 2010.  <br /><br />On 11 March 2011, Cobalt announced in its SEC Form 8-K that it had voluntarily disclosed to the  U.S. Department of Justice ("DOJ") to avoid overlapping information requests. <br /><br />Media reports alleged that the officials involved with Cobalt included the former head of Sonangol, a General closely associated with the president and former head of the president's military bureau, and a General who headed the president's communications bureau.  Some of the officials owned shares in Nazaki indirectly.<br /><br />According to media reports, a research center in Angola, which was funded in part by Cobalt, was never built.  The research center, which has attracted USD $175 million in investment from Cobalt and BP, was intended to be a training facility where Angolans could learn skills needed for work in the oil and gas sector.  In exchange for an oil concession deal, Cobalt and BP committed to spend USD $350 million for development of the Sonangol Research and Technology Center.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecifed</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Cobalt voluntarily disclosed to the DOJ following an informal investigation by the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As of 5 August 2014, Cobalt was still under investigation by the DOJ and the SEC.  Cobalt said it closed its internal investigation into the Angolan payments and found no wrongdoing.<br /><br />On 5 August 2014, Cobalt disclosed that it had received a Wells Notice from the SEC.  According to Cobalt, the Wells Notice states that the SEC has made a preliminary determination to recommend that it should initiate an enforcement action against the company.  <br /><br />On 29 January 2015, Cobalt announced that it has received a termination letter from the SEC.  The letter stated that the SEC's FCPA investigation relating to the Cobalt's operations in Angola has concluded and the Staff does not intend to recommend any enforcement action by the SEC.  Cobalt continues to be under investigation by the DOJ.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1459">Cobalt - SEC Form 10-K (1 March 2011)</a></p><p><a href="file.asp?id=1724">Cobalt - SEC Form 8-K (11 March 2011)</a></p><p><a href="file.asp?id=1730">Cobalt - SEC Form 10-K (1 March 2012)</a></p><p><a href="file.asp?id=1790">Cobalt - SEC Form 10-K (21 February 2012)</a></p><p><a href="file.asp?id=2581">Cobalt Receives Well Notice </a></p><p><a href="file.asp?id=2583">Missing Research Center in Angola Funded by Cobalt</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

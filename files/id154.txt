@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192234d33ad">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192234jm96n" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ENELPOWER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(154)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192234a6z43" width="415" height="61" /></div>
+    
+        <h1>ENELPOWER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Italy: Milan Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Enel S.p.A. (partially state-owned energy company in Italy) ("Enel")<br />Enelpower S.p.A. (part of the Enel Group) ("Enelpower")<br />Luigi Giuffrida (former Managing Director of Enelpower)<br />Gabriele Caressa (former Vice President of Enelpower)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Power and desalination plants
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Milan, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />Oman<br />United Arab Emirates<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Milan Public Prosecutor's Office alleged that two Enelpower executives (former Managing Director, Luigi Giuffrida, and former Vice President, Gabriele Caressa) embezzled company funds in order to pay illegal commissions to the company's Middle East business development agent, Emirates Holding, and its owner and manager, Al Nuwais.  <br /><br />Giuffrida, Caressa, and Al Nuwais allegedly received kickbacks in connection with three contracts awarded to Enelpower in UAE, Oman, and Qatar which had been included as part of the fees paid by Emirates Holding on behalf of Enelpower.<br /><br />The following portions of the contract amount were allegedly received in kickbacks:<br />—Jebel Ali (UAE): .9% of the contract value, EUR 3,507,840.04<br />—Barka (Oman): .5% of the contract value, EUR 878,710.04<br />—Ras Laffan (Qatar): .5% of the contract value, EUR 1,443,928.36<br /><br />Allegedly, the above payments were transferred to personal bank accounts located in Switzerland and Monte Carlo.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<p style="text-align: center;">EUR 5,830,478.44 in payments made by UAE agent</p>
+</td>
+<td width="50%">
+<p style="text-align: center;">&nbsp;Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Initially, in February 2003 during the investigation which led to the Siemens case, the Milan Public Prosecutor's Office ordered searches and seizure of documents relating to three contracts won by Enelpower in the Middle East, including the underlying commercial contracts and a number of engineering contracts and service contracts stipulated with various suppliers.<br /><br />More recently, improper conduct was discovered by an internal audit investigation by Enel S.p.A. after the newly-appointed CEO of the Enel Group, Paolo Scaroni, raised concerns about corrupt business practices.  Based on the findings of the internal investigation, the Milan Public Prosecutor's Office opened a formal criminal investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Italy<br /><br />In February 2003, the Milan District Attorney's Office initiated a criminal investigation against Enelpower's top executives, among others, for alleged offenses of criminal conspiracy, bribery, embezzlement and false accounting.<br /><br />In connection with the same investigation, on 5 March 2003 Enelpower was served an "avviso di garanzia" informing that the company was under investigation for alleged administrative responsibilities pursuant to article 25 of Legislative Decree no. 231/2001.<br /><br />On 16 January 2008, a preliminary hearing was held, following which the judge responsible for preliminary inquiries granted the request of Enelpower to be recognized as injured parties. The case is continuing and subsequent hearings have yet to be scheduled.  Recently, after a long preliminary investigation phase, Luigi Giuffrida was committed to trial.<br /><br />Private Suit<br /><br />Enel Group started legal action against the suppliers involved, which led to settlements also with the agent Emirates Holdings.<br /><br />State Audit Court<br /><br />Based on the information that emerged during the criminal proceedings, the State Audit Court ("Corte dei Conti"), which has jurisdictional power to act against civil servants for damages caused to the State or other public bodies, sued Luigi Giuffrida and Gabriele Caressa, for damages caused, among others, by their above illicit behavior. In a ruling of 22 February 2006, the State Audit Court, finding that the former directors and managers cited in the suit were liable, awarded Enelpower damages in the amount of about EUR 14 million. The ruling was appealed by the State Audit Court - Lombardy Section and the former directors and managers. <br /><br />On 3 December 2008, the Central Jurisdictional Appeals Section of the State Audit Court issued ruling no. 532/2008, which amended part of the first ruling and condemned the former directors and managers to refund around EUR 22 million as damages. In particular, Luigi Giuffrida and Gabriele Caressa have to pay damages in the amount of EUR 5,830,478.44 in connection with the Middle East contracts. The ruling also confirmed the seizure of assets of the appellants ordered by the Regional Public Prosecutor and sentenced them to pay court costs for both proceedings. <br /><br />In February 2009 the ruling was appealed to the Court of Cassation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Under Italian law, companies may be held liable (vicarious criminal liability) for a corruption, bribery, extortion – also committed abroad, in addition to the personal criminal liability of the individual who committed the offense.</li><li>Definition of "public official" for purposes of Italy's national anti-bribery laws can include officers and employees of partially state-owned or controlled companies.</li><li>Procedures for selection of commercial intermediaries should be carefully reviewed.</li><li>In order to avoid administrative liability, companies must prove that they have timely adopted effective organization, management and control programs (or schemes) aimed to prevent the above crimes.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Enel Group Annual Reports and Financial Statements (2003, 2007, 2008)</p><p>Corte dei Conti, Central Division, Appeal Decision n. 532 of 2008</p><p>Corte dei Conti, Regional Division ofLombardia, Decision n.114 of 2006</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

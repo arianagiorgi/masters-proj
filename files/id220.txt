@@ -1,0 +1,116 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19233451971">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192334g226s" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROCKWELL AUTOMATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(220)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192334v76ef" width="415" height="61" /></div>
+    
+        <h1>ROCKWELL AUTOMATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rockwell Automation, Inc. ("Rockwell Automation")<br />Rockwell Automation Power Systems (Shanghai) Ltd. (former wholly-owned Chinese subsidiary of Rockwell Automation) ("RAPS-China")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Industrial automation products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Milwaukee, Wisconsin, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The SEC alleged that Rockwell Automation violated the FCPA's book and records and internal controls provisions in connection with the activities of its former Chinese subsidiary, Rockwell Automation Power Systems (Shanghai) Ltd. ("RAPS-China"), between 2003 and 2006.  <br /><br />Certain RAPS-China employees allegedly paid approximately USD 615,000 to Chinese Design Institutes, through third party intermediaries, with the expectation that the Design Institute employees would influence the end-user state-owned customers to purchase RAPS-China products.  The Design Institutes, which typically are state-owned enterprises themselves, provide design engineering and technical integration services and can influence the ultimate contract awards made by end-users.  <br /><br />While the Design Institutes did provide some bona fide engineering and other services in connection with RAPS-China’s end-user contracts, the SEC alleged that RAPS-China could not substantiate the specific services rendered.  In addition, during the same period, employees of RAPS-China provided approximately USD 450,000 in leisure funds for sightseeing and other non-business trips for employees of Design Institutes and other state-owned companies.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Payments to Chinese Officials</td>
+<td style="text-align: center;" width="50%">Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p>USD 615,000 in payments through intermediaries to employees of state-owned Design Institutes;</p>
+<p>USD 450,000 in leisure travel expenses for state-owned customers and Design Institute employees</p>
+</td>
+<td style="text-align: center;">Approximately USD 1.7 million in net profits on sales contracts with end-user Chinese state-owned companies that were associated with payments</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Rockwell Automation had described the ongoing investigation as follows in its quarterly report filed on February 3, 2011:<br /><br />"Information with respect to our legal proceedings is contained in Item 3, Legal Proceedings, of our Annual Report on Form 10-K for the fiscal year ended September 30, 2010. We believe that at December 31, 2010, there has been no material change to this information, except that the section entitled "Foreign Corrupt Practices Act" is updated in its entirety as follows:<br /><br />Foreign Corrupt Practices Act. As a result of an internal review, we determined during the fourth quarter of 2006 that actions by a small number of employees at certain of our operations in one jurisdiction may have violated the U.S. Foreign Corrupt Practices Act (FCPA) or other applicable laws. We and some of our distributors do business in this jurisdiction with government owned enterprises or government owned enterprises that are evolving to commercial businesses. These actions involved payments for non-business travel expenses and certain other business arrangements involving potentially improper payment mechanisms for legitimate business expenses. Special outside counsel was engaged to investigate the actions and report to the Audit Committee.<br /><br />We voluntarily disclosed these actions to the Department of Justice (DOJ) and the SEC beginning in September 2006. We have implemented thorough remedial measures. During 2010, the DOJ declined to pursue charges against us. We are working with the SEC toward the settlement of possible civil claims against us.<br /><br />If violations of the FCPA occurred, we may be subject to consequences that could include disgorgement, civil penalties, other costs and business related impacts. We do not believe the consequences of this investigation, the remediation or any related penalties or business-related impacts will have a material adverse effect on our business, results of operations or financial condition."<br /><br />Rockwell Automation's investigation concerned the business unit Reliance Electric, which was sold to Baldor Electric Company in late 2006.  According to Baldor Electric (see reference to recent quarterly filing below), Rockwell Automation indemnified it against any penalties resulting from the FCPA investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Rockwell Automation received a declination letter from the DOJ in 2010.  <br /><br />On May 3, 2011, without admitting or denying the SEC's allegations, Rockwell Automation consented to the imposition of a cease-and-desist order prohibiting it from future violations of the FCPA's books and records and internal controls provisions.  Rockwell Automation agreed to pay disgorgement of USD 1,771,000, prejudgment interest of USD 590,091 and a civil money penalty of USD 400,000.  <br /><br />The SEC noted that it did not impose a civil penalty greater than USD 400,000 in recognition of Rockwell Automation's cooperation with the Commission's investigation. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>While the DOJ and SEC frequently state that they decline or take no action with regard to many self-reported FCPA investigations, the agencies do not announce such declinations and figures are hard to come by.  Companies themselves often do not report having received a declination or no action letter from the DOJ or SEC.  In this case, Rockwell Automation determined to publicly disclose the declination letter it received from the DOJ.</li><li>In almost all cases, making a voluntary disclosure and cooperating with the DOJ/SEC investigation will result in reduced penalties for the company.  However, the ultimate penalties imposed - along with the cost of conducting the internal investigation - will nearly always be significant.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=835">Rockwell Automation: Annual Report / SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1217">Baldor Electric Co. - SEC Form 10-Q (10 Nov. 2010)</a></p><p><a href="file.asp?id=1336">Rockwell Automation: SEC Form 10-Q (3 Feb. 2011)</a></p><p><a href="file.asp?id=1457">SEC Cease-and-Desist Order: In the Matter of Rockwell Automation, Inc.(May 3, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

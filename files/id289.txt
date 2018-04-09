@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192434hxbnq">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924343t691" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KARIGAR</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(289)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19243430d0p" width="415" height="61" /></div>
+    
+        <h1>KARIGAR</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Canada: Royal Canadian Mounted Police<br />Canada: Office of the Attorney General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nazir Karigar (Canadian citizen and employee of Canadian company selling security products in India)<br />Cryptometrics, Inc. (Ottawa-based biometrics company for whom Karigar reportedly worked) ("Cryptometrics") <br />Praful Patel (Minister of Heavy Industries, India, and Aviation Minister from 2004 to 2011)<br />Robert Barra, the former CEO of CryptoMetrics <br />Dario Bernini, the former COO of CryptoMetrics <br />Shailesh Govindia, an agent for CryptoMetrics<br />Hasan Gafoor (former Mumbai police commissioner)<br />Laxman Dhoble (political ally of Praful Patel in the Nationalist Congress Party)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Ottawa, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, the Royal Canadian  Mounted Police's (RCMP) international anti-corruption unit arrested a Canadian citizen, Nazir Karigar, in  May 2010, charging him with one count of corruption under the Corruption of Foreign Public Officials Act.  Karigar and other representatives of a Canadian company allegedly paid bribes to Indian officials sometime between 2005 and 2007 in order to secure a multi-million dollar contract to supply a security system to an Indian government entity.  The press has identified the company as the Ottawa-based Canadian subsidiary of a Texas high tech firm called Cryptometrics, which develops facial recognition software for airports and governments around the world.  The firm was not awarded the contract, and later declared bankruptcy.<br /><br />Details emerging from various sources indicate that the proposed USD $100 million contract would have enabled CryptoMetrics to sell its biometric facial recognition systems for airport security to Air India.  Karigar is alleged to have transferred USD 250,000 to Praful Patel, then Minister of Heavy Industries in India, through a third party.  The third party is purported to be a political ally of Patel, Laxman Dhoble.  Patel wrote a letter to the Indian Prime Minister on 31 January 2012, in which he denied the allegations.<br /><br />Karigar is also alleged to have paid hundreds of thousands of dollars to two Air India officials, and to have conspired with Hasan Gafoor, then director of security for Air India, to obtain the security systems contract.   
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Multi-million dollar contract to supply a security system</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the RCMP learned of the alleged bribery in 2007.  A former CryptoMetric employee is cooperating with authorities in the investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Canada<br /><br />In August 2013, Mr. Karigar was found guilty under the Corruption of Foreign Public Officials Act for his role in planning to bribe Indian officials.  On 23 May 2014, Mr. Karigar was sentenced to three years in prison; his sentence is the first prison term for an individual convicted under Canada's anti-bribery law.<br /><br />On 5 June 2014, the RCMP charged Mr. Barra, Mr. Bernini, and Mr. Govindia with violating the Corruption of Foreign Public Officials Act.  The RCMP alleged that the defendants were part of a failed bribery scheme by CryptoMetrics Canada to win a USD $100 million contract from Air India to supply facial-recognition software.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>CBC News: "Canadian accused of bribing Indian official" (June 30, 2010)</p><p>Ottawa Citizen: "Man charged with bribing foreign official" (July 1, 2010)</p><p>Ottawa Sun: "Canadian accused of trying to bribe Indian officials" (July 1, 2010)</p><p><a href="file.asp?id=1022">RCMP Press Release (June 30, 2010)</a></p><p>The Globe and Mail: "RCMP charge Canadian in foreign-bribery crackdown" (July 2, 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

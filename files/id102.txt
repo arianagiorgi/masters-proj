@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192148jq4p4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19214852g54" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GIFFEN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(102)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921483178b" width="415" height="61" /></div>
+    
+        <h1>GIFFEN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Mercator (New York-based merchant bank founded in 1984 for the purpose of arranging transactions in the Soviet Union)<br />James H. Giffen (Chairman, Chief Executive Officer and principal shareholder of Mercator) <br />J. Bryan Williams (attorney in Virginia and former senior executive at Mobil Oil Corp.)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil exploration and production
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        James Giffen and Mercator, a New York-based merchant bank, represented and advised the Republic of Kazakhstan in connection with the sale of the Kazakh oil fields from 1995 to 1999.  On 4 August 2003, Giffen was indicted for bribing Kazakh officials in violation of the FCPA; defrauding the Republic of Kazakhstan in violation of the mail and wire fraud statutes; money laundering to further and conceal the bribery and fraud; and tax-related offenses.  <br /><br />According to the indictment, Giffen paid more than USD 80 million in bribes to the President of Kazakhstan, Nursultan Nazarbayev, and two other Kazakh officials, making payments into Swiss bank accounts he created in the names of offshore companies owned by those officials or members of their families.  The payments came out of either fees that Giffen and Mercator received in oil deals they brokered for the Republic of Kazakhstan or from escrow accounts holding payments due the Republic from oil transactions.  The bribes were, at times, concealed as loans or as payments of consultancy fees.  The funds in these accounts were allegedly used to pay for the personal expenses of Kazakh officials and their family members, including tuition, jewelry, vacations and credit card bills.  Giffen also allegedly provided a variety of luxury items (including speed boats, snowmobiles, jewelry and fur coats) free of charge to senior Kazakh officials.  Between 1994 and 2000, Mercator received over USD 67 million in commission and fees for its work for the Republic.<br /><br />At trial, Giffen asserted the public authority defense, arguing that he committed the acts based on a grant of authority from the U.S. government, and moved to compel discovery of classified information related to his communications with certain U.S. agencies regarding his activities in Kazakhstan.  The district court denied the government's attempt to preclude Giffen's assertion of the public authority defense and introduction at trial of classified information in support of that defense.  The government appealed to the Second Circuit, which dismissed the appeal for lack of jurisdiction but provided a detailed discussion of the district court's rulings.  <br /><br />J. Bryan Williams was an attorney in Virginia and a former senior executive of Mobil Oil Corporation (now Exxon-Mobil).  He was responsible for Mobil's oil trading operations in the former Soviet Union, including Kazakhstan.  In 1995 and 1996, Williams represented Mobil in negotiations related to the company's acquisition of a 25% interest in Kazazhstan's large Tengiz oil field, as well as other Mobil projects in the country.  As part of the Tengiz deal, Williams received a USD 2 million kickback from Giffen.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Kazakh Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Alleged Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Over USD 80 million</td>
+<td style="text-align: center;">&nbsp;Mobil obtained a 25% interest in Kazakhstan's Tengiz oil field, as well as other oil deals; Mercator received over USD 67 million in commission and fees;&nbsp;Williams&nbsp;received a USD 2 million&nbsp;kickback</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 12 June 2003, Williams pleaded guilty to one count of conspiracty to defraud the Internal Revenue Service ("IRS") and one count of tax evasion.  He was sentenced to 46 months imprisonment and 3 years of supervised release.  He was also ordered to pay a USD 25,000 fine and USD 3.512 million in restitution to the IRS.  <br /><br />On 6 August 2010, Giffen pleaded guilty to one count of failing to disclose information on his income tax return. According to the DOJ Press Release, Giffen's personal income tax return for 1996 did not report his interest in and signing authority over a bank account in Switzerland held by Condor Capital Management, a company under his control. <br /><br />On the same day, Mercator pleaded guilty to one count of violating the FCPA and faces either a USD 2 million fine or a fine of up to twice the gross gain or loss resulting from the conduct. <br /><br />In a sentencing hearing on 19 November 2010, Giffen faced up to one year in prison and a USD 25,000 fine.  At the hearing, Giffen received no jail time or probation.  The judge appeared to agree with Giffen's assertions that his actions were sanctioned by the CIA, referring to Giffen as a "patriot."  Mercator was ordered to pay a USD 32,000 fine.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In order to rely on the public authority defense, the defendant must demonstrate that he disclosed to government officers his intention to commit the crimes charged in the indictment and that either (i) the government officers authorized him to commit the crimes charged (actual public authority) or (ii) he was induced to commit the acts based on the government's seeming authorization (entrapment by estoppel).  The defense cannot be based on the assertion that the defendant had an open-ended license to commit the crimes in the expectation of receiving subsequent authorization.</li><li>Changes in DOJ leadership can result in changes in prosecutorial priorities, as with the sudden reversal (and exit) of the DOJ's position in the Giffen case in 2010.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=633">DOJ Press Release (April 2, 2003)</a></p><p><a href="file.asp?id=634">Complaint: U.S. v. James H. Giffen (March 28, 2003)</a></p><p><a href="file.asp?id=635">Second Circuit Opinion: U.S. v. James H. Giffen (December 8, 2006)</a></p><p><a href="file.asp?id=642">Order re: Classified Documents: U.S. v. James H. Giffen (June 4, 2009)</a></p><p><a href="file.asp?id=636">Indictment: U.S. v. J. Bryan Williams (April 2, 2003)</a></p><p><a href="file.asp?id=637">Indictment: U.S. v. J. Bryan Williams (April 14, 2003)</a></p><p><a href="file.asp?id=638">Information: U.S. v. J. Bryan Williams (June 12, 2003)</a></p><p><a href="file.asp?id=639">Judgment: U.S. v. J. Bryan Williams (September 18, 2003)</a></p><p><a href="file.asp?id=640">Opinion & Order: Indictment: U.S. v. J. Bryan Williams (October 24, 2003)</a></p><p><a href="file.asp?id=641">Amendment Judgment: U.S. v. J. Bryan Williams (October 22, 2003)</a></p><p><a href="file.asp?id=1078">DOJ Press Release (August 6, 2010)</a></p><p><a href="file.asp?id=1079">Criminal Information: US v. James H. Giffen (August 6, 2010)</a></p><p><a href="file.asp?id=1080">Criminal Information: US v. Mercator Corp. (August 6, 2010)</a></p><p><a href="file.asp?id=1081">Plea Agreement: US v. James H. Giffen</a></p><p><a href="file.asp?id=1082">Plea Agreement: US v. Mercator Corp.</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

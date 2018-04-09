@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170651e3f31">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170651q4knd" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMERICAN BANK NOTE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(2)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170651c064d" width="415" height="61" /></div>
+    
+        <h1>AMERICAN BANK NOTE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        American Bank Note Holographics, Inc. ("ABNH")	<br />Joshua C. Cantor (former president and director of ABNH)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security hologram technologies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Robbinsville, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1996 through 1998, ABNH and Joshua Cantor, the former president and director of ABNH (and the former executive vice president of ABNH's parent, American Banknote Corporation ("ABN"), were involved in a scheme to fraudulently inflate the revenues and net income of ABNH and ABN in order to meet the earnings forecasts and condition the market for ABNH's initial public offering. <br /><br />In 1998, ABNH and Cantor violated the anti-bribery and books and records and internal controls provisions of the FCPA by making USD 239,000 in improper payments to one or more government officials in Saudi Arabia.  One of ABNH's sales agents had informed an ABNH employee of an opportunity to bid on a contract to produce holograms for a commemorative banknote for the Saudi Arabian Monetary Agency (SAMA).  In an effort to win the contract, Cantor, with the authorization of a senior officer and at his direction, authorized and directed an ABNH employee to wire USD 239,000 to a Swiss bank account for the benefit of the Director of the Issues and Vaults Department of SAMA and possibly other Saudi government officials.  The money was wired and ABNH accounted for this payment as a consulting fee.  This USD 239,000 payment comprised nearly 40% of the value of the contract being sought.  SAMA awarded the contract to ABNH, which subsequently supplied approximately 105 million holograms in connection with the commemorative banknote project.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Saudi Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 239,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contract worth USD 597,500</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 18 July 2001, without admitting or denying the allegations, ABNH consented to the entry of a cease-and-desist order enjoining the company from violating various federal securities laws, including the FCPA.  Additionally, the company consented to a USD 75,000 civil penalty. <br /><br />On 17 July 2001, Cantor pleaded guilty to a four-count information charging that he conspired to commit securities fraud, falsified corporate books and records, provided false statements to auditors, and violated the FCPA.  He has not yet been sentenced.<br /><br />On 10 April 2003, without admitting or denying the allegations, Cantor consented to an order permanently enjoining him from violating and/or aiding and abetting violations of various federal securities laws, including the FCPA.  Cantor also consented to a ten year officer and director bar.  This was a refiling of earlier charges against Cantor in 2001, which had been voluntarily dismissed without prejudice.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.   </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=18">SEC Litigation Release: April 10, 2003 (SEC Files Settled Financial Fraud and Foreign Corrupt Practices Act Action Against Joshua C. Cantor, Former Officer of American Bank Note Corporation and American Bank Note Holographics, Inc.)</a></p><p><a href="file.asp?id=19">Cease-and-Desist Order: In the Matter of American Bank Note Holographics, Inc.</a></p><p><a href="file.asp?id=21">Criminal Information: U.S. v. Joshua C. Cantor </a></p><p><a href="file.asp?id=22">Complaint: SEC v. Joshua C. Cantor</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842013ro5l">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184201f30l8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMERICAN BANK NOTE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(2)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842011gr63" width="415" height="61" /></div>
+    
+        <h1>AMERICAN BANK NOTE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        American Bank Note Holographics, Inc. ("ABNH")	<br />Joshua C. Cantor (former president and director of ABNH)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security hologram technologies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Robbinsville, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1996 through 1998, ABNH and Joshua Cantor, the former president and director of ABNH (and the former executive vice president of ABNH's parent, American Banknote Corporation ("ABN"), were involved in a scheme to fraudulently inflate the revenues and net income of ABNH and ABN in order to meet the earnings forecasts and condition the market for ABNH's initial public offering. <br /><br />In 1998, ABNH and Cantor violated the anti-bribery and books and records and internal controls provisions of the FCPA by making USD 239,000 in improper payments to one or more government officials in Saudi Arabia.  One of ABNH's sales agents had informed an ABNH employee of an opportunity to bid on a contract to produce holograms for a commemorative banknote for the Saudi Arabian Monetary Agency (SAMA).  In an effort to win the contract, Cantor, with the authorization of a senior officer and at his direction, authorized and directed an ABNH employee to wire USD 239,000 to a Swiss bank account for the benefit of the Director of the Issues and Vaults Department of SAMA and possibly other Saudi government officials.  The money was wired and ABNH accounted for this payment as a consulting fee.  This USD 239,000 payment comprised nearly 40% of the value of the contract being sought.  SAMA awarded the contract to ABNH, which subsequently supplied approximately 105 million holograms in connection with the commemorative banknote project.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Saudi Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 239,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contract worth USD 597,500</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 18 July 2001, without admitting or denying the allegations, ABNH consented to the entry of a cease-and-desist order enjoining the company from violating various federal securities laws, including the FCPA.  Additionally, the company consented to a USD 75,000 civil penalty. <br /><br />On 17 July 2001, Cantor pleaded guilty to a four-count information charging that he conspired to commit securities fraud, falsified corporate books and records, provided false statements to auditors, and violated the FCPA.  He has not yet been sentenced.<br /><br />On 10 April 2003, without admitting or denying the allegations, Cantor consented to an order permanently enjoining him from violating and/or aiding and abetting violations of various federal securities laws, including the FCPA.  Cantor also consented to a ten year officer and director bar.  This was a refiling of earlier charges against Cantor in 2001, which had been voluntarily dismissed without prejudice.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.   </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=18">SEC Litigation Release: April 10, 2003 (SEC Files Settled Financial Fraud and Foreign Corrupt Practices Act Action Against Joshua C. Cantor, Former Officer of American Bank Note Corporation and American Bank Note Holographics, Inc.)</a></p><p><a href="file.asp?id=19">Cease-and-Desist Order: In the Matter of American Bank Note Holographics, Inc.</a></p><p><a href="file.asp?id=21">Criminal Information: U.S. v. Joshua C. Cantor </a></p><p><a href="file.asp?id=22">Complaint: SEC v. Joshua C. Cantor</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920110kvk5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192011b4786" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AMERICAN BANK NOTE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(2)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920111575t" width="415" height="61" /></div>
+    
+        <h1>AMERICAN BANK NOTE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        American Bank Note Holographics, Inc. ("ABNH")	<br />Joshua C. Cantor (former president and director of ABNH)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Security hologram technologies
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Robbinsville, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1996 through 1998, ABNH and Joshua Cantor, the former president and director of ABNH (and the former executive vice president of ABNH's parent, American Banknote Corporation ("ABN"), were involved in a scheme to fraudulently inflate the revenues and net income of ABNH and ABN in order to meet the earnings forecasts and condition the market for ABNH's initial public offering. <br /><br />In 1998, ABNH and Cantor violated the anti-bribery and books and records and internal controls provisions of the FCPA by making USD 239,000 in improper payments to one or more government officials in Saudi Arabia.  One of ABNH's sales agents had informed an ABNH employee of an opportunity to bid on a contract to produce holograms for a commemorative banknote for the Saudi Arabian Monetary Agency (SAMA).  In an effort to win the contract, Cantor, with the authorization of a senior officer and at his direction, authorized and directed an ABNH employee to wire USD 239,000 to a Swiss bank account for the benefit of the Director of the Issues and Vaults Department of SAMA and possibly other Saudi government officials.  The money was wired and ABNH accounted for this payment as a consulting fee.  This USD 239,000 payment comprised nearly 40% of the value of the contract being sought.  SAMA awarded the contract to ABNH, which subsequently supplied approximately 105 million holograms in connection with the commemorative banknote project.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to <br />Saudi Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 239,000</p>
+</td>
+<td>
+<p style="text-align: center;">Contract worth USD 597,500</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 18 July 2001, without admitting or denying the allegations, ABNH consented to the entry of a cease-and-desist order enjoining the company from violating various federal securities laws, including the FCPA.  Additionally, the company consented to a USD 75,000 civil penalty. <br /><br />On 17 July 2001, Cantor pleaded guilty to a four-count information charging that he conspired to commit securities fraud, falsified corporate books and records, provided false statements to auditors, and violated the FCPA.  He has not yet been sentenced.<br /><br />On 10 April 2003, without admitting or denying the allegations, Cantor consented to an order permanently enjoining him from violating and/or aiding and abetting violations of various federal securities laws, including the FCPA.  Cantor also consented to a ten year officer and director bar.  This was a refiling of earlier charges against Cantor in 2001, which had been voluntarily dismissed without prejudice.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The SEC may wrap FCPA charges into a larger federal securities law enforcement action.   </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=18">SEC Litigation Release: April 10, 2003 (SEC Files Settled Financial Fraud and Foreign Corrupt Practices Act Action Against Joshua C. Cantor, Former Officer of American Bank Note Corporation and American Bank Note Holographics, Inc.)</a></p><p><a href="file.asp?id=19">Cease-and-Desist Order: In the Matter of American Bank Note Holographics, Inc.</a></p><p><a href="file.asp?id=21">Criminal Information: U.S. v. Joshua C. Cantor </a></p><p><a href="file.asp?id=22">Complaint: SEC v. Joshua C. Cantor</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924390uq56">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924393op57" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - JGC CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(294)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924393n2b5" width="415" height="61" /></div>
+    
+        <h1>JGC CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        JGC Corporation ("JGC")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global engineering company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Yokohama, Japan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        JGC Corporation was part of the four-company "TSKJ" joint venture [Technip of France; Snamprogetti Netherlands B.V. (a subsidiary of Saipem SpA of Italy); KBR of the U.S.; and JGC of Japan] that was alleged to have paid hundreds of millions in bribes to Nigerian officials between 1995 and 2004 in order to secure four engineering, procurement and construction (EPC) contracts for the development of liquefied natural gas facilities on Bonny Island in Nigeria.  The joint venture operated in Nigeria through three Portuguese special purpose corporations.  The value of the contracts to TSKJ was over USD $6 billion.   JGC allegedly authorized the joint venture's hiring of two agents - Jeffrey Tesler and Japanese trading company Marubeni Corporation - through which improper payments were made to various Nigerian government officials, including top-level executive branch officials.  The joint venture paid over USD $180 million to these two agents during the course of the bribery scheme.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Nigerian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">A portion of over USD $180 million paid to two agents</td>
+<td style="text-align: center;">Four EPC contracts, valued at USD $6 billion</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the Nigeria LNG bribery scandal first came to light during the course of investigations by French prosecutors into Elf-Aquitaine's operations in Asia and Africa. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 January 2011, JGC released a "Notice of Loss and Revision of Earnings Forecasts for Fiscal Year Ending March 2011," stating that it had set aside JPY 17.8 billion (approx. USD $218.4 million) in anticipation of settlement with the DOJ.  The company also set aside JPY 2.3 billion (USD $28.2 million) for settlement with the Nigerian authorities.<br /><br />On 6 April 2011, the DOJ filed a two-count criminal information charging JGC with with one count of conspiracy and one count of aiding and abetting violations of the FCPA.  JGC entered into a two-year deferred prosecution agreement with the DOJ, agreeing to pay a USD $218.8 million criminal fine and to retain an independent compliance consultant for a two-year term. <br /><br />African Development Bank<br /><br />On 21 March 2014, the African Development Bank levied a USD $5.2 million fine against JGC for corrupt practices in connection to contracts for natural gas production plants on Bonny Island, Nigeria from 1995 until 2004.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC will pursue FCPA violations committed by U.S. and foreign companies alike.</li><li>Information obtained by the DOJ and SEC from one cooperating company will likely be utilized to investigate and prosecute other entities implicated in the same or related conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1045">JGC Corporation - Consolidated Financial Statements - Summary (Annual Report for fiscal year ending March 31, 2010)</a></p><p>Bloomberg: "Nigeria Files Bribery Charges Against Former U.S. Vice President Cheney" (7 Dec. 2010)</p><p><a href="file.asp?id=1331">JGC Corporation: Notice on Loss and Revision of Earnings Forecasts (31 Jan. 2011)</a></p><p><a href="file.asp?id=1422">DOJ Press Release: JGC Corporation Resolves Foreign Corrupt Practices Act Investigation and Agrees to Pay a $218.8 Million Criminal Penalty (April 6, 2011)</a></p><p>Criminal Information: U.S. v. JGC Corporation (April 6, 2011)</p><p>Deferred Prosecution Agreement: U.S. v. JGC Corporation (April 6, 2011)</p><p><a href="file.asp?id=2504">ADB Fines JGC </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

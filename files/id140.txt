@@ -1,0 +1,186 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192222c7072">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192222588qm" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAE SYSTEMS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(140)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192222nbg72" width="415" height="61" /></div>
+    
+        <h1>BAE SYSTEMS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />Austria: Vienna Prosecution Office<br />South Africa: National Prosecuting Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BAE Systems plc ("BAE")<br />Red Diamond (a company registered in the British Virgin Islands; involved in the South Africa allegations)<br />John Bredenkamp (owner of Red Diamond; involved in the South Africa allegations)<br />Shailesh Vithlani  (involved in the Tanzania allegations)<br />Count Alfons Mensdorff-Pouilly (consultant and agent to BAE; involved in the Central/Eastern Europe allegations) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aerospace, defence and security products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hampshire, Farnborough, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Hungary<br />Tanzania<br />Austria<br />Czech Republic<br />Romania<br />Saudi Arabia<br />South Africa<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Saudi Arabia<br /><br />BAE Systems plc ("BAE") was subject to a UK Serious Fraud Office ("SFO") investigation which started in July 2004. The investigation related to BAE's activities in connection with a project known as "Al Yamamah," a government-to-government agreement in the 1980s and 1990s whereby the UK government arranged large arms sales to the government of Saudi Arabia, payment for which was linked to the supply of oil.  The project is said to have been worth over GBP 40 billion and was for primarily for the sale of Tornado aircraft and ancillary services to the Saudi government.<br /><br />Press reports contained many and varied allegations of corrupt conduct on the part of BAE and some of its employees, particularly in connection with alleged payments to Prince Bandar bin Sultan, the Saudi Ambassador to the United States between 1983 and 2005.  However, the SFO never charged anyone with any offense in connection with the investigation.<br /><br />Central/Eastern Europe and Africa<br /><br />In a press statement dated 1 October 2009, the SFO announced that it intended to seek the Attorney General's consent to prosecute BAE in relation to overseas corruption concerning its activities in Central and Eastern Europe and Africa.  <br /><br />In 2008 the SFO had opened a separate investigation related to contracts for Saab Gripen fighter jets that were supplied to the Czech, Hungarian and Austrian governments.  The SFO, in connection with these matters, interviewed both Julian Scopes (a BAE employee) and Count Alfons Mensdorff-Pouilly (a former consultant and agent to BAE in Central/Eastern Europe).  <br /><br />On 29 January 2010, the SFO charged Mensdorff-Pouilly with conspiracy to corrupt, contrary to section 1 of the Criminal Law Act 1977, in connection with his role as a BAE agent between 2002 and 2008. The SFO alleged that Mensdorff-Pouilly conspired with others to make corrupt payments to government officials and other agents in certain Eastern and Central European governments, including the Czech Republic, Hungary and Austria, as inducements to secure, or as rewards for having secured, contracts from those governments for BAE related to the SAAB/Gripen fighter jets.  Mensdorff-Pouilly was expected to face charges in Austria as well.<br /><br />It was also understood that there was an SFO investigation into the circumstances in which the Romanian government purchased two ex-UK Royal Navy frigates which were to be refurbished by BAE.<br /><br />In addition, it was understood that the SFO was investigating allegations concerned with a contract worth about GBP 3.2 billion for the supply of jet fighters and trainers, helicopters, and submarines to the South African government.  Press reports referred to John Bredenkamp and his company, Red Diamond, which is registered in the British Virgin Islands, as being involved as a "middle man."<br /><br />The SFO also investigated circumstances concerning the sale by BAE of an air traffic control system to Tanzania in 1999 through a former marketing adviser.  BAE is said to have paid GBP 7.7 million to two firms controlled by businessman Shailesh Vithlani in order to secure a GBP 28 million contract to supply radar equipment to the Tanzanian military.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p style="text-align: center;">USD 225 million (GBP 144 million)</p>
+</td>
+<td>
+<p>Sales of defense equipment and services to various foreign governments, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made in Connection with Gripen Lease Deal with Czech Republic and Hungary</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 27 million<br />[GBP 19 million]</p>
+</td>
+<td>
+<p style="text-align: center;">Service contracts in connection with Sweden's lease of Saab Gripen fighter jets to the Czech and Hungarian governments, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Saudi Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 30 million<br />[GBP 20 million]</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts related to the sale of Tornado aircraft and other defense materials to Saudi Arabia, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Companies Controlled by Shailesh Vithlani</strong></p>
+</td>
+<td>
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP 7.7 million</p>
+</td>
+<td>
+<p style="text-align: center;">GBP 28 million in radar contracts with the Tanzanian military</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It appears that investigative journalism by various British reporters first uncovered the conduct, prompting the SFO investigation.  The DOJ's investigation into BAE followed.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />The SFO opened an investigation into Al Yamamah sales to Saudi government in July 2004. It is understood that by 2005 concern had been expressed by UK government officials as to the impact that the investigation was having on national security because of the deterioration in relations with Saudi Arabia due to the investigation. It was thought that as the investigation progressed that the continued deterioration in the UK/Saudi relations could have resulted in the Saudi authorities deciding not to cooperate with the UK in the fight against terrorism. <br /><br />The difficulties with the Saudi authorities increased as the investigation progressed and greatly increased with an attempt by the SFO to gain access to Swiss bank accounts to see if payments had been made by BAE to any agent or public official of Saudi Arabia. The Director of the SFO ("the Director") was informed of the increasing difficulties with the Saudi authorities. He took advice from other officials and met on three occasions with the UK's Ambassador to Saudi Arabia. On 14 December 2006, the Director decided that the Al Yamamah investigation should be terminated because of the "need to safeguard national and international security."  The SFO denied that there were any commercial grounds for calling off the probe.<br /><br />The Director's decision was challenged by two not-for-profit organizations.  In a judgment given on 10 April 2008, the UK High Court found that the Director's decision to discontinue the investigation of the alleged corruption was unlawful. This was largely due to the fact that the High Court found that the Director had succumbed to threats made by Saudi officials.  The Court found that the Director was required to act independently and his actions should be independent of any influence either from the UK government or from threats issued by foreign government.  The Director appealed the matter to the House of Lords, which was then the final court of appeal for cases in England and Wales.  The House of Lord's judgment was published on 30 July 2008 and, in summary, held that the Director's decision was not unlawful as the polycentric character of the official decision making did not make it susceptible to judicial review.  It was not within either the constitutional function nor the practical competence of the Court to assess the merit of the decision made by the Director.  The person to whom the power to make a decision had been delegated had been given decision-making powers that were very broad and on unprescribed terms.  <br /><br />During the investigation allegations had been made against a number of individuals connected with BAE; it is presumed that the UK investigation into those associated allegations came to an end with the conclusion of the main Al Yamamah investigation.<br /><br />With regard to the SFO investigation into BAE's activities in Central and Eastern Europe and Africa, in the fall of 2009 the SFO had, after giving BAE a deadline in which to come to an agreement with the SFO, made a public announcement that it intended to seek the Attorney General's consent to prosecute BAE.  It was not clear from the press statement when papers were to be submitted to the Attorney General.  In the end, no prosecution occurred.  <br /><br />On 5 February 2010 the SFO announced that it has reached a settlement with BAE to end the long-running investigation into alleged bribery.  Under the settlement, BAE will plead guilty in the Crown Court to violating Section 221 of the Companies Act 1985 by failing to keep reasonably accurate accounting records in connection with commission payments made to a former marketing adviser that assisted the company in selling a radar system to the Tanzanian government in 1999.  The company agreed to pay a penalty of GBP 30 million (approximately USD 47 million), comprising a fine to be determined by the Crown Court and the balance to be made as a charitable donation for the benefit of Tanzania.  <br /><br />On 21 December 2010, Southwark Crown Court approved the plea agreement between BAE and the SFO, sentencing BAE to pay a GBP 500,000 (USD 775,000) fine, plus GBP 225,000 in costs incurred by the SFO.  BAE will make an ex gratia payment of GBP 29.5 million for the benefit of the people of Tanzania, through a mechanism yet to be determined.  This brings to an end the SFO's six-year investigation into foreign bribery allegations connected to BAE's defense contracts.  <br /><br />On 29 January 2010, the SFO had charged Count Alfons Mensdorff-Pouilly with conspiracy to corrupt, contrary to section 1 of the Criminal Law Act 1977, in connection with his role as a BAE agent in Central and Eastern Europe between 2002 and 2008.  Following the SFO's settlement with BAE on February 5, the SFO announced that its charges against Mensdorff-Pouilly would be withdrawn.  Mensdorff-Pouilly is still under investigation by Austrian prosecutors and may still face charges there.  <br /><br />On 15 March 2012, the SFO, BAE, and the Department for International Development (DFID) signed a Memorandum of Understanding, requiring BAE to pay GBP 29.5 million plus accrued interest for educational projects in Tanzania.  The sum will be used to purchase the following goods and services:  textbooks for all 16,000 primary schools in the country (benefiting 8.3 million children); teachers' guides and syllabi for 175,000 primary school teachers; desks for schools in nine of the neediest districts (GBP 5 million).  The Director of the Serious Fraud Office, Richard Alderman, expressed satisfaction at the arrangement, saying, "This agreement is a first for the SFO which piloted it through the UK legal system. It provides a satisfactory outcome for all concerned but most of all for the Tanzanian people and I am personally delighted that SFO staff were able to achieve this."<br /><br />United States<br /><br />On 5 February 2010, BAE also reached a settlement with the U.S. Department of Justice (“DOJ”).  Under the settlement, BAE agreed to plead guilty to one charge of conspiring to make false statements to the U.S. government in connection with certain regulatory filings and undertakings.  The Company agreed to pay a USD 400 million fine and to make additional commitments concerning its ongoing compliance.  The DOJ settlement covers misconduct related to BAE's business activities in multiple countries, including the company's involvement in Sweden's lease of Gripen fighter jets to the Czech Republic and Hungary in the late 1990s, as well as the company's "Al Yamamah" sales of Tornado aircraft and other defense materials to Saudi Arabia between the mid-1980s and early 2000s.<br /><br />According to the criminal information, from 2000 BAE agreed to and knowingly and willfully made certain false, inaccurate and incomplete statements to the U.S. government and failed to honor certain undertakings given to the U.S. government, as follows: (i) BAE agreed to create and implement policies and procedures to ensure compliance with the FCPA and OECD Anti-Bribery Convention, which it failed to comply with; (ii) BAE made false, inaccurate and incomplete statements to the U.S. government with regard to certain regulatory requirements, including applications for arms export licenses under the Arms Export Control Act ("AECA") and the International Traffic in Arms Regulations ("ITAR").  <br /><br />BAE failed to follow-through on commitments made to the Department of Defense and the DOJ in 2000 regarding the company's anti-bribery compliance program, as demonstrated by the company's internal controls failures that allowed substantial payments to third party "marketing advisers" around the world to go under-scrutinized.  Many of these payments were made through offshore shell entities and in circumstances where there was a high probability that a portion of the payments were being passed on to foreign officials to secure business for BAE.  The company took various measures to conceal its relationships with certain of these advisers and its undisclosed payments to them, including by maintaining the adviser contracts and related materials in secretive legal trusts in offshore locations.  According to the criminal information, after making representations to the U.S. government regarding its anti-bribery compliance program in 2000, BAE made payments of over GBP 135 million and USD 14 million to certain of its marketing advisers through an offshore entity in the British Virgin Islands.<br /><br />BAE also made false statements to the Department of State by failing to disclose commission payments made to third parties who assisted in the sale of defense articles abroad.  With regard to the lease of Saab Gripen fighter jets by the Swedish government to the Czech Republic and Hungary - for which BAE provided various marketing services - the company caused false statements to be made in export license applications.  BAE made over GBP 19 million to an individual to help promote the deals in circumstances where there was a high probability that part of the payments would be used to favor BAE in the tender process.  BAE did not subject these payments to proper review and scrutiny and caused the Swedish government to omit the payments in its export license applications made to the Department of State.   <br /><br />Finally, the criminal information also discusses a series of undisclosed payments made to Saudi officials in connection with BAE's sale of Tornado aircraft and other defense materials under the "Al Yamamah" arrangement between the UK and Saudi governments since the mid-1980's.  Over the course of the arrangement, BAE provided substantial benefits to one key Saudi official (believed to be Prince Bandar bin Sultan) and his associates, for which no adequate review, verification or due diligence was conducted.  Such benefits included over USD 5 million in invoices submitted between May 2001 and early 2002 for travel, lodging, security services, real estate, automobiles and personal items.  BAE also used intermediaries and shell entities to conceal various payments to certain advisers that assisted in securing contracts related to the Saudi fighter deal.  Between May 2001 and early 2002, BAE transferred over GBP 10 million and over USD 9 million to a Swiss bank account controlled by an intermediary in circumstances demonstrating a high probability that the intermediary would transfer a part of the sums to the key Saudi official.  <br /><br />According to the criminal information, the various false statements made to the U.S. government resulted in a USD 200 million gain for BAE.  <br /><br />On 1 March 2010, BAE formally pleaded guilty as planned in the U.S. District Court in the District of Columbia, with the court approving the DOJ settlement and sentencing the company to pay a USD 400 million criminal fine. Under the terms of the plea agreement, BAE agreed to retain an independent compliance monitor for a three year term to assess the company's compliance program.  The monitor was to be retained within 90 days of the agreement, but BAE missed this deadline due to disagreements with the DOJ over the candidates put forward.  On 4 June 2010, the court granted BAE a 90-day extension for appointing a monitor.  In August, BAE finally appointed British attorney David Gold of Herbert Smith LLP as its corporate monitor.  <br /><br />In a related export controls enforcement action, on 16 May 2011, BAE entered into a Consent Agreement with the US Department of State's Directorate of Defense Trade Controls (DDTC) related to 2,591 ITAR violations.  BAE agreed to pay USD 79 million in civil penalties and to undertake extensive remedial compliance measures over a 4 year period.  Three non-US BAE affiliates were barred from receiving export licenses.  The case is unique in that it involves violations by a non-US person of ITAR Part 129 (brokering provisions) and Part 130 violations due to a failure to submit reports of commissions paid.  <br /><br />Austria<br /><br />The Vienna Prosecution Office investigated the case against Alfons Mensdorff-Pouilly and eventually brought charges against the Count for acting as a middleman for BAE to pay 12.6 million euros in bribes in order to obtain contracts for the sale of weapons systems in Central and Eastern Europe.<br /><br />On 17 January 2013, Mensdorff-Pouilly was acquitted, as the prosecution had not proved the money laundering and perjury charges that had been brought.  The prosecutor noted that he had declined to bring bribery charges because of lack of proof regarding the recipients of the bribes.<br /><br />South Africa<br /><br />According to press reports on 15 October 2010, South African authorities had closed their decade-long investigation into BAE's alleged bribery of South African officials in connection with sales of fighter jets and other defense equipment.  The investigation would have reportedly taken at least another five years to complete and was not in the best interests of the public, according to Anwa Dramat, the head of the Hawks investigative unit in the National Prosecuting Authority.<br /><br />According to press reports on 15 September 2011, President Zuma will be setting up a commission of inquiry to look into the broader scandal.
+		<h2>COMPLIANCE MONITOR</h2>
+        David Gold (formerly a senior partner with Herbert Smith LLP)
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>National security and foreign policy considerations may play a role in UK and U.S. government determinations to investigate and prosecute foreign bribery.</li><li>Notably, the DOJ did not charge BAE with violations of the FCPA.  Neither the SFO or DOJ settlement contain any charges of bribery against the company.</li><li>The follow-on US Department of State enforcement action demonstrates the increasing interplay between export control and anti-bribery law.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=686">House of Lords Judgment: 30 July 2008</a></p><p><a href="file.asp?id=579">SFO Press Release: 1 October 2009</a></p><p><a href="file.asp?id=682">SFO Press Release: 29 January 2010</a></p><p><a href="file.asp?id=683">SFO Press Release: 5 February 2010</a></p><p><a href="file.asp?id=684">SFO Press Release: 5 February 2010 (Pouilly)</a></p><p><a href="file.asp?id=685">BAE Press Release: 5 February 2010</a></p><p><a href="file.asp?id=687">Criminal Information: U.S. v. BAE Systems plc </a></p><p><a href="file.asp?id=1096">Sentencing Memo: U.S. v. BAE Systems plc (22 February 2010)</a></p><p><a href="file.asp?id=702">DOJ Press Release: March 1, 2010 (BAE Systems PLC Pleads Guilty and Ordered to Pay $400 Million Criminal Fine)</a></p><p><a href="file.asp?id=1095">Plea Agreement: U.S. v. BAE Systems plc (1 March 2010)</a></p><p><a href="file.asp?id=1093">Judgment: U.S. v. BAE Systems plc (2 March 2010)</a></p><p><a href="file.asp?id=1002">Order Granting Extension for Monitor Appointment: U.S. v. BAE Systems plc (4 June 2010)</a></p><p>Bloomberg Businessweek: "South African Say BAE Graft Probe to Take Years" (8 Sept. 2010)</p><p>Bloomberg: "South Africa Halts Its Decade-Long Probe Into Arms Deal Graft Allegations" (15 Oct. 2010)</p><p>Financial Times: "Judge condemns BAE plea deal" (20 Dec. 2010)</p><p>BusinessWeek: "BAE Sentenced to $775,000 Fine to End Bribery Probe" (20 Dec. 2010)</p><p><a href="file.asp?id=1266">BAE Press Release: 21 December 2010</a></p><p><a href="file.asp?id=1267">SFO Press Release: 21 Dec. 2010</a></p><p><a href="file.asp?id=1268">Regine v. BAE Systems plc - Note for Opening (20 Dec. 2010)</a></p><p><a href="file.asp?id=1269">BAE Charge - Statement of Offence (20 Dec. 2010)</a></p><p><a href="file.asp?id=1270">BAE - SFO Settlement Agreement (Feb. 2010)</a></p><p><a href="file.asp?id=1507">BAE - DDTC Charging Letter (May 2011)</a></p><p><a href="file.asp?id=1508">BAE - DDTC Consent Agreement (16 May 2011)</a></p><p><a href="file.asp?id=1509">BAE - DDTC Order (16 May 2011)</a></p><p>Defense News: "S. Africa Reopens Probe Into Gripen Bribes: Report" (31 July 2011)</p><p>Financial Times: "Zuma sets up corruption probe" (15 Sept. 2011)</p><p><a href="file.asp?id=1735">BAE Systems - SFO Press Release (15 March 2012), BAE Systems will pay towards educating children in Tanzan</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

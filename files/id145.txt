@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192226s44ce">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192226afz88" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AUSTRALIAN WHEAT BOARD</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(145)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1922260ghf3" width="415" height="61" /></div>
+    
+        <h1>AUSTRALIAN WHEAT BOARD</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Australia: Securities and Investments Commission<br />Australia: Federal Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AWB Limited ("Australian Wheat Board" or "AWB")<br />AWB International Limited ("AWBI"), a subsidiary of AWB<br />Iraqi Grains Board ("IGB")<br />Alia, a Jordanian trucking company<br />Tigris Petroleum Corporation Limited ("Tigris")<br />Andrew Alexander Lindberg, former Managing Director of AWB (resigned February 2006)<br />Trevor Flugge, the former Chairman of AWB<br />Paul Ingleby, former Chief Financial Officer of AWB<br />Peter Geary, former Group General Manager Trading of AWB<br />Charles Stott, former General Manager of International Sales and Marketing for AWB (2001-2006)<br />Michael Long, former General Manager of International Sales and Marketing for AWB (2001-2006)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Wheat exports
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Melbourne, Australia
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Australian Securities and Exchange Commission ("ASIC") and Australian Federal Police ("AFP") investigated allegations that the Australian Wheat Board paid around AUD 300 million kickbacks to the Iraqi regime under Saddam Hussein during the United Nations Oil-for-Food Program in order to secure wheat contracts valued at over AUD 1 billion.  The payments were allegedly disguised as trucking fees paid through a Jordanian trucking company.<br /><br />AWB's internal investigation, entitled "Project Rose," revealed that trucking fees paid to the Jordanian trucking company, Alia, varied from between USD 12 per tonne to USD 47.75 per tonne for shipments of wheat within Iraq between July 1999 to December 2002.<br /><br />The investigation was been fraught with controversy over ASIC and AFP's handling of the matter.  The AFP investigation in particular was said to be under-funded and under-resourced. <br /><br />Various civil cases appear to be underway against AWB directors for breach of fiduciary duties in connection with the allegations, but no criminal charges have been brought.  <br /><br />AWB was acquired by Agrium, the Canadian fertilizer producer, in October 2010. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments</strong> <strong>to Iraqi Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;AUD 300 million<br /></td>
+<td style="text-align: center;">Wheat contracts worth over AUD 1 billion (approximately 90% of Iraqi wheat market at the time)<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including AWB.  It is likely that the release of the Independent Inquiry Committee's report prompted the investigation.  Allegations had been made by U.S. Wheat Associates of impropriety in relation to AWB's wheat export to Iraq and AWB's involvement in the Oil-for-Food Program ("OFFP"). The Iraqi Director General of Planning and Follow-up had informed the IIC that no company was exempt from paying a 10% kickback to the Government of Iraq, AWB was unlikely to have been exempt.  Moreover, the Iraqi Minister of Trade had told IIC that AWB had always made its kickback payments through Alia.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The AFP reportedly closed its investigation in August 2009.  ASIC has slowly made progress in its civil cases against former AWB directors.<br /><br />Lindberg Prosecution<br /><br />On 31 May 2012, ASIC announced "a significant milestone" in its case against Andrew Alexander Lindberg, former Managing Director of AWB.  At a hearing, Lindberg admitted to four violations of the Corporations Act of 2001 arising out of the organization's supply of wheat under the Oil-for-Food Program and in the subsequent investigation by AWB.<br /><br />The four violations acknowledged by Lindberg are described in an ASIC press release:   Allegations had been made publicly regarding the Iraq transactions, leading to the commencement of Project Rose, the code name for AWB's internal investigation into AWB's wheat exports to Iraq, in June 2003.  The investigation covered sales between 1999 and 2002, including inland transport of wheat within Iraq.  Lindberg's first admitted contravention was his failure to inform the Project Rose investigators that the information they needed might be accessible through interviews with former, not current, AWB employees and the former Chairman, and that these individuals had not been interviewed. <br /><br />Lindberg's second contravention is the failure to ascertain whether AWB's decision to help the Tigris Petroleum Corporation Limited to recover a debt owed to it by the Iraqi Grains Board violated UN Security Council resolutions, and whether the UN knew of the plan to help Tigris recover the debt.<br /><br />The third contravention acknowledged by Lindberg is that he knew that AWB had been paid an inflated price designed to cover the Tigris debt, from a UN escrow account.  Moreover, a December 2004 agreement between AWB and Tigris failed to reveal that AWB had helped Tigris recover its debt in exchange for a USD 500,000 fee, showing instead that Tigris had rendered services to help procure contracts for the sale of AWB wheat to Iraq, and that AWB would pay a USD 7,087,202 "service fee" to Tigris.  This was the amount payable to Tigris after the deduction of the USD 500,000.  The agreement described the USD 500,000 as a "success fee."  Lindberg's fault was in his failure to inform the AWB that the USD 8 million Tigris debt had been recovered from UN accounts through the inflation of sales prices for AWB wheat.  Lindberg also failed to reveal the existence of the Tigris agreement.<br /><br />The fourth contravention acknowledged by Lindberg is that he was on the conference call for a meeting with AWB's in-house and external lawyers on 20 February 2005, at which reference was made to allegations that AWB paid a 10% mark-up to the IGB through Alia;  furthermore, Lindberg was present at a meeting with the attorneys at which the 10% mark-up was questioned specifically and in detail.  Eight days later, on 28 February 2005, Lindberg was interviewed by investigators representing the UN Independent Inquiry Committee ("IIC").  He was specifically informed that the Iraqi Minister of Trade had told the IIC that all suppliers under the OFFP had paid kickbacks to the Iraqi government, that AWB was the biggest supplier, that it always paid a 10% "after sales service" fee through Alia.  And yet, between February and September 2005, Lindberg did not inform the AWB board of the information conveyed to him by the IIC, and the serious allegations therein.<br /><br />Mr. Lindberg agreed to a fine of AUD 100,000 and disqualification from managing corporations until 15 September 2014.  The Supreme Court of Victoria entered the order confirming this sentence on 9 August 2012.  The judge noted that Lindberg's  "contraventions did not involve deliberate wrongful acts, dishonesty or any moral turpitude but that Mr Lindberg had nonetheless 'failed to perform his duties as a reasonable director or officer would in his situation.'"<br /><br />Ingleby Prosecution<br /><br />On 13 June 2012, a second AWB defendant admitted to breach of fiduciary duty.  In a civil action brought by ASIC against former AWB CFO Paul John Ingleby, violations of section 180(1) of the Corporations Act of 2001 were confirmed.  Ingleby acknowledged that between December 2001 and September 2004, he knew that AWB's trade was conducted under the OFFB, which prohibited direct payments to the Iraqi government.  He nevertheless co-authorized payments to the Jordanian trucking company, Alia for Transportation, despite having information available to raise questions as to the legitimacy of these fees, and furthermore took no steps to ascertain whether indeed payments were being made to the government of Iraq.  <br /><br />On 10 August 2012, the judge found Ingelby in contravention of Section 180(1) of the Corporations Act 2001 (Corporations Act) and ordered that he be disqualified from managing corporations until 31 December 2012 and pay a pecuniary penalty of AUD 10,000.  The penalty was less severe than anticipated, as both ASIC and Mr Ingleby had recommended  a disqualification of 15 months and apenalty of AUD 40,000.   On 27 August 2012, ASIC filed a notice of appeal against the court's judgment, claiming (1) that the penalties it had recommended were within the range of penalties appropriate to Ingleby's contravention, and (2) Ingleby had agreed that such penalties were appropriate, in the joint statement he signed and submitted, with ASIC, to the court.<br /><br />Other Prosecutions<br /><br />ASIC's proceedings against the four other named former officers of AWB are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The Australian government was criticized domestically and internationally for its handling of the AWB investigation and its apparent lack of commitment to the enforcement of the foreign bribery statute enacted in 1999.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Australian: "Federal police drop AWB investigation" (29 Aug. 2009)</p><p>The Sydney Morning Herald: "ASIC under fire over AWB investigations" (23 November 2009)</p><p>The Age: "Court lifts stay order on AWB civil actions" (3 Aug. 2010)</p><p><a href="file.asp?id=1850">AWB - Australian Securities and Investments Commission (Lindberg) (31 May 2012)</a></p><p><a href="file.asp?id=1856">AWB - ASIC Press Release (13 June 2012), Former AWB Chief Financial Officer acknowledges breaching legal duties</a></p><p><a href="file.asp?id=1926">AWB - ASIC Press Release (9 August 2012), Former AWB managing director found to have breached his duties</a></p><p><a href="file.asp?id=1928">AWB - ASIC Press Release (10 August 2012),  Former AWB Chief Financial Officer found to have breached duties (Ingleby)</a></p><p><a href="file.asp?id=1939">AWB - ASIC Press Release (27 August 2012), ASIC appeals against penalties imposed on former AWB chief financial officer</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

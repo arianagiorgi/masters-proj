@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192610mo8zz">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19261030753" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MTS SYSTEMS CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(401)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192610g8q76" width="415" height="61" /></div>
+    
+        <h1>MTS SYSTEMS CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        MTS Systems Corporation ("MTS")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provides mechanical test systems, material testing, fatigue testing and tensile testing services as well as motion simulation system and calibration services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Eden Prairie, Minnesota, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        South Korea<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In the Company's Form 8-K submitted to the U.S. Securities and Exchange Commission ("SEC") on 27 March 2012, the Company noted that it was investigating "certain gift, travel, entertainment and other expenses that may have been improperly incurred in connection with some of the Company's operations in the Asia Pacific region.  The investigation has focused on possible violations of Company policy, corresponding internal control issues and any possible violations of applicable law, including the Foreign Corrupt Practices Act."  The statement went on to note that remedial action had been taken in the interim, including enhancing internal controls and dismissing "certain persons formerly employed in its Korea office."  The statement was repeated in the Company's SEC Form 10-Q filed on 3 May 2012 and its 10-Q filed on 31 December 2012.<br /><br />The information was voluntarily disclosed by MTS to the SEC and the U.S. Department of Justice ("DOJ"), as well as to the United States Air Force, pursuant to an earlier agreement stemming from an Air Force debarment of MTS, which was removed on 19 September 2011 after the Company signed an agreement to hire a compliance monitor, impose tighter ethics, compliance and training programs.  The earlier investigation cost the Company USD 6 million in expenses in 2011, as well as USD 9 million in lost business opportunities attributable to the Air Force suspension.  The 6-month suspension was imposed because MTS had not disclosed a 2008 guilty plea to having made false statements on export applications in 2003.  In that case, MTS had been fined USD 400,000 following a guilty plea in march 2008, for submitting false export license applications for proposed shipments to India (the Company failed to disclose that its equipment was designed for testing in a nuclear plant).<br /><br />In its SEC Form 10-Q filed on 6 May 2013, MTS said that it presented the results of its internal investigation to the SEC and DOJ on 16 January 2013. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unknown
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1787">MTS: SEC Form 8-K (27 March 2012)</a></p><p><a href="file.asp?id=1839">MTS: SEC Form 10-Q (3 May 2012)</a></p><p><a href="file.asp?id=2117">MTS: SEC Form 10-Q (31 December 2012)</a></p><p><a href="file.asp?id=2266">MTS: SEC Form 10-Q (6 May 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

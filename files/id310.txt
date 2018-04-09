@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192452mnw7i">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924522g4e7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HUNTSMAN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(310)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924522uh6j" width="415" height="61" /></div>
+    
+        <h1>HUNTSMAN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Hunstman Corporation ("Huntsman")<br />Petro Araldite Pvt. Ltd. (Huntsman joint venture in India)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global chemical manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Salt Lake City, Utah, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Huntsman described its investigation as follows in its SEC Form 10-K filed on 17 February 2011:<br /><br />"During the third quarter of 2010, we completed an internal investigation of the operations of Petro Araldite Pvt. Ltd. ('PAPL'), our majority owned joint venture in India. PAPL manufactures base liquid resins, base solid resins and formulated products in India. The investigation initially focused on allegations of illegal disposal of hazardous waste and waste water discharge and related reporting irregularities. Based upon preliminary findings, the investigation was expanded to include a review of the production and off-book sales of certain products and waste products. The investigation included the legality under Indian law and U.S. law, including the U.S. Foreign Corrupt Practices Act, of certain payments made by employees of the joint venture to government officials in India. Records at the facility covering nine months in 2009 and early 2010 show that less than $11,000 in payments were made to officials for that period; in addition, payments in unknown amounts may have been made by individuals from the facility in previous years.<br /><br />"In May and July 2010, PAPL fully disclosed the environmental noncompliance issues to the local Indian environmental agency, the Tamil Nadu Pollution Control Board ('TNPCB'). All environmental compliance and reporting issues have been addressed to the agency's satisfaction other than the use of freshwater for the dilution of waste water effluent discharges and the remediation of several off-site solid waste disposal areas. Also in May 2010, we voluntarily contacted the SEC and the DOJ to advise them of our investigation and that we intend to cooperate fully with each of them. We met with the SEC and the DOJ in early October to discuss this matter and continue to cooperate with these agencies. Steps have been taken to halt all known illegal or improper activity. These steps included the termination of employment of management employees as appropriate. In November 2010, directions were received from TNPCB to submit a plan for the remediation of the off-site waste disposal areas.        <br /><br />"No conclusions can be drawn at this time as to whether any government agencies will open formal investigations of these matters or what remedies such agencies may seek. Governmental agencies could assess material civil and criminal penalties and fines against PAPL and potentially against us and could issue orders that adversely affect the operations of PAPL. We cannot, however, determine at this time the magnitude of the penalties and fines that could be assessed, the total costs to remediate the prior noncompliance or the effects of implementing any necessary corrective measures on the PAPL's operations."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td>USD 11,000</td>
+<td>Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+         In its SEC Form 10-Q filed on 1 August 2012, the Company announced that the FCPA investigation had been closed:  "In May 2012, the SEC and DOJ notified us that they would not recommend any enforcement action be taken against our Company in this matter." 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Relatively small amounts paid to officials over a short period of time may not suffice to precipitate enforcement action by U.S. authorities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1216">Huntsman Corporation - SEC Form 10-Q (November 4, 2010)</a></p><p><a href="file.asp?id=1399">Huntsman Corporation - SEC Form 10-K (17 Feb. 2011)</a></p><p><a href="file.asp?id=1925">Huntsman - SEC Form 10-Q (1 August 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184255r9u3h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-18425570zgg" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FIAT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(63)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842556y9ey" width="415" height="61" /></div>
+    
+        <h1>FIAT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Fiat S.p.A. ("Fiat")<br />Iveco S.p.A. (wholly-owned subsidiary of Fiat) ("Iveco")<br />CNH Global N.V. (majority-owned Dutch subsidiary of Fiat) ("CNH Global")<br />CNH Italia S.p.A. (wholly-owned subsidiary of CNH Global) ("CNH Italia")<br />CNH France S.A. (wholly-owned subsidiary of CNH Global) ("CNH France")<br />Case France S.A. (wholly-owned subsidiary of CNH Global) ("Case France")<br />New Holland Italia S.p.A. (wholly-owned subsidiary of CNH Global) ("New Holland Italia")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of industrial, construction and agricultural equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Turin, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged two Fiat subsidiaries, Iveco S.p.A. and CNH Italia S.p.A., with conspiracy to commit wire fraud and to violate the books and records provisions of the FCPA in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  The DOJ charged a third Fiat subsidiary, CNH France S.A., with conspiracy to commit wire fraud in connection with similar conduct.  <br /><br />Between 2000 and 2002, Iveco, CNH Italia and CNH France paid a total of approximately USD 4.4 million in kickbacks to the Iraqi government by inflating the price of contracts by 10% before submitting the contracts to the U.N. for approval.  Iveco and CNH Italia inaccurately recorded the kickbacks as commissions and service fees for its agents in its books and records.<br /><br />The SEC charged Fiat S.p.A. and CNH Global N.V. with violating the FCPA's books and records and internal controls provisions in connection with the approximately USD 4.3 million in kickbacks paid by the companies subsidiaries (Iveco, Case France and New Holland Italia) to the Iraqi government between 2000 and 2003 under the U.N. Oil for Food Program.  The kickbacks were characterized as after-sales service fees ("ASSFs") and paid through intermediaries to Iraqi-controlled bank accounts in Jordan and elsewhere.  The kickbacks were incorrectly recorded on the companies books and records as legitimate commissions to their agents or distributors, or were not recorded at all.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made or Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.4 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of industrial, construction and agricultural equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Fiat subsidiaries.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 December 2008, Fiat entered into a three-year deferred prosecution agreement with the DOJ, acknowledging responsibility for the actions of its three subsidiaries and agreeing to pay a USD 7,000,000 criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, Fiat consented to the entry of a permanent injunction enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Fiat was ordered to disgorge USD 5,309,632 in profits plus USD 1,899,510 in pre-judgment interest, and to pay a civil penalty of USD 3,600,000.  <br /><br />On 5 March 2012, the government filed an unopposed motion to dismiss the criminal information against Iveco, CNH Italy and CNH France, on the grounds that the terms of the Deferred Prosecution Agreement had been satisfied. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA's books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=91">DOJ Press Release: December 22, 2008 (Fiat Agrees to $7 Million Fine in Connection with Payment of $4.4 Million in Kickbacks by Three Subsidiaries Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=92">SEC Litigation Release: December 22, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against Fiat S.p.A. and CNH Global N.V. For Improper Payments to Iraq Under the U.N. Oil for Food Program — Fiat Agrees to Pay Over $10 Million in</a></p><p><a href="file.asp?id=93">Deferred Prosecution Agreement (December 22, 2008)</a></p><p><a href="file.asp?id=94">Criminal Information: U.S. v. Iveco S.p.A.</a></p><p><a href="file.asp?id=95">Criminal Information: U.S. v. CNH France S.A.</a></p><p><a href="file.asp?id=96">Criminal Information: U.S. v. CNH Italia S.p.A.</a></p><p><a href="file.asp?id=97">Complaint: SEC v. Fiat S.p.A. and CNH Global N.V. (December 22, 2008)</a></p><p><a href="file.asp?id=1800">Fiat (Iveco, CNH France, CNH Italy) - Motion to dismiss (5 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921128bg5w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192112i6428" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FIAT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(63)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1921128u8tx" width="415" height="61" /></div>
+    
+        <h1>FIAT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Fiat S.p.A. ("Fiat")<br />Iveco S.p.A. (wholly-owned subsidiary of Fiat) ("Iveco")<br />CNH Global N.V. (majority-owned Dutch subsidiary of Fiat) ("CNH Global")<br />CNH Italia S.p.A. (wholly-owned subsidiary of CNH Global) ("CNH Italia")<br />CNH France S.A. (wholly-owned subsidiary of CNH Global) ("CNH France")<br />Case France S.A. (wholly-owned subsidiary of CNH Global) ("Case France")<br />New Holland Italia S.p.A. (wholly-owned subsidiary of CNH Global) ("New Holland Italia")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of industrial, construction and agricultural equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Turin, Italy
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ charged two Fiat subsidiaries, Iveco S.p.A. and CNH Italia S.p.A., with conspiracy to commit wire fraud and to violate the books and records provisions of the FCPA in connection with the companies activities under the United Nations ("U.N.") Oil for Food Program.  The DOJ charged a third Fiat subsidiary, CNH France S.A., with conspiracy to commit wire fraud in connection with similar conduct.  <br /><br />Between 2000 and 2002, Iveco, CNH Italia and CNH France paid a total of approximately USD 4.4 million in kickbacks to the Iraqi government by inflating the price of contracts by 10% before submitting the contracts to the U.N. for approval.  Iveco and CNH Italia inaccurately recorded the kickbacks as commissions and service fees for its agents in its books and records.<br /><br />The SEC charged Fiat S.p.A. and CNH Global N.V. with violating the FCPA's books and records and internal controls provisions in connection with the approximately USD 4.3 million in kickbacks paid by the companies subsidiaries (Iveco, Case France and New Holland Italia) to the Iraqi government between 2000 and 2003 under the U.N. Oil for Food Program.  The kickbacks were characterized as after-sales service fees ("ASSFs") and paid through intermediaries to Iraqi-controlled bank accounts in Jordan and elsewhere.  The kickbacks were incorrectly recorded on the companies books and records as legitimate commissions to their agents or distributors, or were not recorded at all.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments Made or Promised to the Iraqi Government</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 4.4 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts for the sale of industrial, construction and agricultural equipment, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Independent Inquiry Committee into the U.N. Oil-for-Food Program named a large number of companies believed to have paid kickbacks to the former Iraqi regime, including Fiat subsidiaries.  It is likely that the release of the Independent Inquiry Committees report prompted the DOJ and SEC's investigation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 December 2008, Fiat entered into a three-year deferred prosecution agreement with the DOJ, acknowledging responsibility for the actions of its three subsidiaries and agreeing to pay a USD 7,000,000 criminal fine.  <br /><br />On the same day, without admitting or denying the SEC's allegations, Fiat consented to the entry of a permanent injunction enjoining the company from future violations of the FCPA's books and records and internal controls provisions.  Fiat was ordered to disgorge USD 5,309,632 in profits plus USD 1,899,510 in pre-judgment interest, and to pay a civil penalty of USD 3,600,000.  <br /><br />On 5 March 2012, the government filed an unopposed motion to dismiss the criminal information against Iveco, CNH Italy and CNH France, on the grounds that the terms of the Deferred Prosecution Agreement had been satisfied. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments made to foreign governments and not to specific foreign officials fall outside the scope of the FCPA's anti-bribery provisions; still, the FCPA's books and records and internal controls provision apply and the DOJ may utilize other laws, such as the mail and wire fraud statutes, to prosecute the conduct.  </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=91">DOJ Press Release: December 22, 2008 (Fiat Agrees to $7 Million Fine in Connection with Payment of $4.4 Million in Kickbacks by Three Subsidiaries Under the U.N. Oil for Food Program)</a></p><p><a href="file.asp?id=92">SEC Litigation Release: December 22, 2008 (SEC Files Settled Books and Records and Internal Controls Charges Against Fiat S.p.A. and CNH Global N.V. For Improper Payments to Iraq Under the U.N. Oil for Food Program — Fiat Agrees to Pay Over $10 Million in</a></p><p><a href="file.asp?id=93">Deferred Prosecution Agreement (December 22, 2008)</a></p><p><a href="file.asp?id=94">Criminal Information: U.S. v. Iveco S.p.A.</a></p><p><a href="file.asp?id=95">Criminal Information: U.S. v. CNH France S.A.</a></p><p><a href="file.asp?id=96">Criminal Information: U.S. v. CNH Italia S.p.A.</a></p><p><a href="file.asp?id=97">Complaint: SEC v. Fiat S.p.A. and CNH Global N.V. (December 22, 2008)</a></p><p><a href="file.asp?id=1800">Fiat (Iveco, CNH France, CNH Italy) - Motion to dismiss (5 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

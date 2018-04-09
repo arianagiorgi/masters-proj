@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192616cc4ho">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192616ty913" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - GRIFFITHS ENERGY INTERNATIONAL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(408)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19261687906" width="415" height="61" /></div>
+    
+        <h1>GRIFFITHS ENERGY INTERNATIONAL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />Canada: Royal Canadian Mounted Police<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Griffiths Energy International ("Griffiths Energy")<br />Griffiths Energy (Chad) Limited (wholly owned subsidiary of Griffiths Energy in Chad)<br />PetroChad (Mangara) Limited (wholly owned subsidiary of Griffiths Energy in Chad)<br />Griffiths Energy (DOH) Ltd. (wholly owned subsidiary of Griffiths Energy in Chad)<br />Société des Hydrocarbures du Tchad (state-owned oil company of Chad)<br />Nouracham Niam (the wife of Chad's Ambassador to Canada Mahamoud Adam Bechir)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        International exploration and development company focused on oil activities in Chad
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Calgary, Alberta, Canada
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Chad<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2011, the Company entered into three Production Sharing Contracts with the government of Chad.  Those negotiating the contract on behalf of the company were Brad Griffiths, founder of the company, and one of his business partners, Naeem Tyab.  Both spent six months in 2008 establishing contacts within Chad's embassy and inquiring about oil and gas leases in the African country.<br /><br />In an agreed Statement of Facts, read in court on 22 January 2013 and attached to this entry, Griffiths Energy acknowledged that it initially attempted to enter into a consulting agreement for USD 2 million dated 30 August 2009 with an entity called Ambassade du Tchad LLC.  The services covered in the contract were allegedly described as "advisory, logistics, operational and other assistance" regarding Griffiths Energy's projects in Chad.<br /><br />The statement of facts also revealed that Griffiths Energy's outside legal counsel advised against this contract as paying off ambassador Mahamoud Adam Bechir, who was based in Washington, DC, was improper because he was a government official.  That agreement was then terminated.  <br /><br />Instead, Griffiths Energy paid a fee to a company owned by the ambassador's wife.  On 15 September 2009, a second consulting agreement, with terms identical to the first contract, was entered into between Griffiths Energy and an entity named Chad Oil Consulting LLC, an entity wholly-owned by Ms. Nouracham Niam, the wife of Chad's Canadian Ambassador Mahamoud Adam Bechir.   Ms. Niam signed the agreement that guaranteed USD 2 million in cash if the company was given exclusive resources in two regions. The parties also entered into a separate subscription agreement granting 1,600,000 founders' shares in Griffiths to Ms. Niam. <br /><br />In January 2011, Griffiths Energy's subsidiary, Griffiths Energy (Chad) Limited, was awarded the resources rights and entered into the Doseo/Borogop Production Sharing Contract with the Republic of Chad.  On 7 February 2011, outside counsel confirmed receipt of the USD 2 million payment from Griffiths Energy owed to Chad Oil Consulting LLC and subsequently deposited into the Company's bank account in Washington, DC.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Chadian Officials</strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;CAD 2 million and Griffiths Energy founders' shares sold at a significant discount<br /></td>
+<td style="text-align: center;">Assistance with acquiring oil and gas concessions in Chad <br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Effective 1 July 2011, an entirely new management team was hired to manage Griffiths Energy and several new independent directors were appointed.  The board became aware of these agreements in the course of conducting due diligence in anticipation of its Initial Public Offering which was due to take place prior to 31 December 2011.  The Company announced in November 2011 that it had disclosed to U.S. and Canadian authorities an internal investigation it was then conducting.  <br /><br />In a press release "Not for dissemination in the United States" and dated 15 May 2012, the Company noted its commitment to providing full cooperation, stating, "This investigation has been concluded and Griffiths Energy is in the process of sharing the results of the investigation with the appropriate authorities and does not intend to provide further public disclosure on the matter at this time. The investigation was supervised by a Special Committee of the Board of Directors and conducted by external legal counsel.  Since new management and directors joined the Company in July 2011, Griffiths Energy has undertaken significant initiatives to establish corporate governance and internal controls consistent with industry best practices."<br /><br />According to the Company's 15 January 2013 press statement, "in May 2012, following conclusion of its internal investigation, Griffiths Energy disclosed that it was voluntarily sharing the results with appropriate authorities."   Those authorities included the Royal Canadian Mounted Police, the Public Prosecution Service of Canada and the U.S. Department of Justice.  The company then began providing thousands of pages of documents to investigators.  These communications also included legally privileged communications between Griffiths Energy and its former outside legal advisers.   <br /><br />The company reportedly spent CAD 5 million on legal and accounting expenses on the internal investigation, and had to write off approximately CAD 1.8 million in sunk pre-IPO expenses (the company voluntarily decided to withdraw its IPO after self-reporting the matter).
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The Company was charged by the Public Prosecution Service of Canada on 15 January 2013 with one count under section 3(1)(b) of Canada's Corruption of Foreign Public Officials Act.  On 22 January 2013, the Company pleaded guilty to the charge and agreed to pay a CAD 10.35 million fine.   <br /><br />The statement of facts noted that "the sentence imposed takes into consideration steps already taken by GEI to reduce the likelihood of it committing a subsequent related offence.  Those steps include the adoption of a robust anti-corruption compliance program and the strengthening of existing internal controls."<br /><br />On 25 January 2013 Justice Scott Brooker of Alberta's Queen's Bench agreed on the USD 9 million fine, plus the 15 percent victim fine surcharge, which he said reflected the severity of the offense.<br /><br />Crown prosecutor Robert Sigurdson also reportedly told journalists after the 22 January 2013 hearing that he expects the United States to back off its Griffiths Energy investigation now that Canada has dealt with the charges.<br /><br />According to news reports in Chad on 26 January 2013, (a day after the sentencing in Canada against Griffiths Energy), Chad's President Idriss Deby Itno immediately fired Mahamoud Adam Bechir from his post as Chadian Ambassador to South Africa.  As of 30 January 2013, the South African government labeled the post as vacant on their official website. <br /><br />The Globe and Mail reported on 22 March 2013 that Canadian authorities are seeking to force Ms. Nouracham Niam to disgorge the founders' shares she purchased at a discount from Griffiths Energy.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The charge against Griffiths Energy under Canada's Corruption of Foreign Public Officials Act indicates that the Canadian government may be increasing its pursuit of corruption by Canadian companies abroad.  In the past, Canada has been criticized, notably by the OECD, for lagging behind international efforts to curb international corruption.  The Griffiths Energy case marks the fourth time that a company has been charged under the CFPOA, and is also the largest fine the Royal Canadian Mounted Police has ever garnered regarding foreign corruption.</li><li>The Griffiths Energy case is also the first time that a Canadian company has self-reported acts of bribery abroad.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2096">Griffiths Energy - Press Release (15 May 2012)</a></p><p><a href="file.asp?id=2097">Final Agreed Statement of Facts (14 January 2013)</a></p><p><a href="file.asp?id=2095">Griffiths Energy - Press release (15 January 2013)</a></p><p>The Globe and Mail: "Hunt for Griffiths bribery gains turns to former ambassador's wife" (22 March 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

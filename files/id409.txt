@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19261757c6z">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192617h7511" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TURKCELL ILETISIM HIZMETLERI A.S.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(409)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926178zveb" width="415" height="61" /></div>
+    
+        <h1>TURKCELL ILETISIM HIZMETLERI A.S.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Turkcell Iletisim Hizmetleri A.S. ("Turkcell")<br />Fintur Holdings B.V. ("Fintur"), 41.45% owned by Turkcell, 58.55% by TeliaSonera<br />GSM Kazakhstan ("KCell"), a subsidiary of Fintur<br />TeliaSonera
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecom
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Istanbul, Turkey
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In its SEC Form 20-F filed on 20 April 2012, Turkcell describes its expanding business ventures in Turkey and in Azerbaijan, Georgia, Kazakhstan, Moldova, Northern Cyprus, Ukraine, Belarus and Germany.  Turkcell also put investors on notice of potential risks, explaining, "We have also entered into and are exploring new investment opportunities, primarily in emerging markets such as the CIS region, Eastern Europe, the Middle East, the Balkans and North Africa. Along with Turkey, these countries are generally considered by international investors to be emerging markets. . . . Their legal systems, including telecommunications regulations, are relatively underdeveloped, their economies have only recently begun to open to market principles and their respective institutions and commercial practices are weaker and less developed. Some of these countries also suffer from relatively high rates of fraud and corruption."<br /><br />Turkcell then describes potentially improper payments made in connection with the operations of a mobile operator called GSM Kazakhstan ("KCell"), in Kazakhstan.  The chain of ownership of KCell is as follows:  Turkcell owns 41.45% of Fintur Holdings B.V. (TeliaSonera holds the remaining 58.55%).  Fintur owns 51% of KCell (with the state telecom company, Kazakhtelecom, owning 49%).  In recent months, Turkcell's board of directors discussed the bribery allegations; the board of directors asked for an independent investigation.  Meanwhile, TeliaSonera began its own investigation at the behest of the Fintur board of directors.  Although at the date of filing, the Fintur board had completed its internal investigation, and the allegations have not been substantiated, "no assurance can be given that there will not be further requests for investigation." These allegations were not mentioned in the Company's SEC Form 6-K filed only a few days later, on 4 May 2012. <br /><br />A 4 January 2013 story from the online news source Quartz initially listed Turkcell as the subject of an FCPA investigation. According to a note posted on 10 January 2013, "[a] representative for the company contacted us to say that its inclusion was based on a misunderstanding of a disclosure in company filings (pdf, p. 19), and that while KCell, a Kazakhstan operator in which Turkcell has a minority share, is under investigation, Turkcell itself is not. We have therefore removed it."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Kazakh Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation appears to be ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1827">Turkcell: SEC Form 20-F (20 April 2012)</a></p><p><a href="file.asp?id=1828">Turkcell: SEC Form 6-K (4 May 2012)</a></p><p>Quartz: "Foreign bribery probes spread as firms start ratting on each other" (4 January 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

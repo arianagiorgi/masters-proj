@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19260859cvm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19260880x5g" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - IDT CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(399)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19260805689" width="415" height="61" /></div>
+    
+        <h1>IDT CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        IDT Corporation<br />Télécommunications d'Haïti  ("Teleco")<br />Mont Salem, shell company in the Turks and Caicos<br />D. Michael Jewett<br />Jean René Duperval, Haiti Teleco executive convicted on 12 March 2012 of receiving bribes from US telecommunications companies
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Newark, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The Company noted in its SEC Form 10-Q filed on 12 March 2012, that "On April 1, 2004, D. Michael Jewett, a former employee with whom the Company entered into a confidential settlement agreement in November 2010, sent a copy of the complaint he had filed against the Company to the United States Attorney's Office. In the complaint, Jewett had alleged, among other things, that improper payments were made to foreign officials in connection with an IDT Telecom contract. As a result, the Department of Justice ('DOJ'), the SEC and the United States Attorney in Newark, New Jersey conducted an investigation of this matter.  The Company and the Audit Committee of the Company's Board of Directors initiated independent investigations, by outside counsel, regarding certain of the matters raised in the Jewett complaint and in these investigations. Neither the Company's nor the Audit Committee's investigations have found any evidence that the Company made any such improper payments to foreign officials. The Company continues to cooperate with these investigations, which the SEC and DOJ have confirmed are still ongoing."<br /><br />Press reports link IDT to the Haiti Teleco bribery case (see Compendium summary for Haiti Teleco), in which a US company is alleged to have paid kickbacks to former president Jean Bertrand Aristide of Haiti, through a shell company in the Turks and Caicos, in order to secure telecommunications contracts in Haiti.  A contract signed by IDT and Teleco stipulates lower payments than other  US telecoms were paying, and may have violated US communications laws.  IDT was fined USD 1.3 million by the Federal Communications Commission ("FCC") in July 2008 for failing to file its Haiti contracts with the FCC, but it ultimately made a "voluntary contribution" of USD 400,000 to the US Treasury, and published a new code of conduct, in lieu of the fine.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Whistleblower complaint sent to the US attorney's office in New Jersey in April 2004 by IDT's former Caribbean manager, who claimed that he was fired for refusing to pay bribes to Haitian officials.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In March 2013, the company was informed by the DOJ and SEC that they had closed their two-year investigations into possible FCPA violations.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1786">IDT - SEC Form 10Q (12 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Technology/Software</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

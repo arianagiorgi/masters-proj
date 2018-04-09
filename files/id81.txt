@@ -1,0 +1,246 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184312wde99">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184312gq560" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - STATOIL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(81)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184312c6kc5" width="415" height="61" /></div>
+    
+        <h1>STATOIL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Norway: National Authority for Investigation and Prosecution of Economic and Environmental Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Statoil ASA ("Statoil")<br />Horton Investments Ltd. ("Horton")<br />Dillinger Company Finance Inc. ("Dillinger")<br />Richard John Hubbard (former Executive Vice President International of Statoil)<br />Mehdi Hashemi (Iranian citizen)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas rights in Iran
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stavanger, Norway
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iran<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2000 and 2001, Statoil, a Norwegian oil and gas company that is traded on the New York Stock Exchange, sought to expand its international business.  At the time, the company decided to focus its international business development initiatives on Iran, specifically on winning contracts to develop the South Pars oil field, one of the largest natural gas fields in the world.  The Statoil executive who was hired to direct the Company's International Exploration and Production Department worked to develop relationships with Iranian officials at the National Iranian Oil Company ("NIOC"), the state-owned oil company, and its wholly-owned subsidiaries, including the Iranian Fuel Consumption Optimizing Organization ("IFCOO").  <br /><br />Statoil identified the head of the IFCOO as a possible contact to help win the contract to develop the South Pars field.  The Iranian official's father was a former president of Iran who also led the Expediency Council, a government body that mediates between politically-elected officials in Iran and the clerically-controlled sections of the government.  Statoil determined that this official was an advisor to Iran's Oil Minister and came from a powerful family. <br /><br />In 2001 the official visited Statoil's facility in Norway.  Executives knew of the official's influence and described the official's family in an internal memorandum as controlling oil and gas contract awards in Iran. <br /><br />Richard John Hubbard was Executive Vice President International of Statoil in Stavanger, Norway from 2000 until mid-September 2003.  In this capacity he negotiated an agreement with Horton, a consulting company registered in Turks and Caicos Islands in June 2002 ("the Agreement"), whereby Horton was to perform certain consulting services for Statoil.  According to clause 3 of the Agreement, the agreement should continue in full force and effect for a period of 11 years unless terminated in accordance with clause 10 of the Agreement.  <br /><br />For the consulting services Statoil was to pay a total of USD 15,200,000 over a period of 11 years, of which USD 200,000 would fall due 14 days after the entering into of the Agreement and USD 5,000,000 was to be paid on December 31, 2002.  In the period starting on 1 January 2003 and ending on 31 December 2012, Statoil was to pay an annual amount of USD 1,000,000, due on June 30 of each calendar year.<br /><br />Statoil paid USD 200,000 to Horton in June 2002 and paid another USD 5,000,000 in January 2003.  The payments were made to a Swiss bank account held by Dillinger Company Finance Inc.  Statoil did not pay the annual amount of USD 1,000,000 due on 30 June 2003 because they tried to reach an agreement with Horton to redirect the payments owed under the Agreement.  The Agreement was, however, maintained as it was.  On 6 September 2003, Hubbard had a conversation with a Horton representative during which it was agreed that Horton was to be registered in Great Britain and that all following payments to be made by Statoil under the Agreement should be made to a British bank account.<br /><br />The Agreement had, in fact, been initiated by the Iranian citizen Mehdi Hashemi.  The payments made under the Agreement were used to pay Hashemi and/or other persons to use their influence on persons involved in the decision-making processes of relevance to Statoil's business in Iran, including the process of assigning contracts to the various market operators within the oil and gas sector.<br /><br />The Agreement was terminated on 10 September 2003 after the terms of the Agreement were disclosed in the press by the Norwegian financial newspaper Dagens Nringsliv.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iranian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 5.2 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contract to develop the South Pars oil and gas field, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2003, Statoil's internal audit department reported the USD 5.2 million in commission payments to the company's chief financial officer.  Statoil's security group then began an investigation into the commission payments and prepared an internal investigative report, which stated that there was a strong  indication of the consultant being involved in corrupt-like practices.  Statoil's senior management failed to take appropriate action even after the security groups report.  The security group and chief internal auditor then reported their finding to the Chairman of the Board, who told them to investigate further and work with the CEO to resolve the issue.  The CEO suspended payments under the consulting contract later in 2003 after the security group presented its findings to him, but refused to terminate the contract. <br /><br />On 6 September 2003, the Norwegian press learned of the contract, which Statoil terminated four days later.  The executive who entered into the contract and the Chairman of the Board resigned, as did the CEO after the Board of Directors expressed no confidence in him.  The Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crimes ("Okokrim"), the SEC and the DOJ began their investigations after the conduct was reported in the press. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Norwegian Enforcement<br /><br />The Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crimes ("Okokrim") seized documents from Statoil's offices and, on 29 June 2004, imposed approximately USD 3 million in penalties under Norway's Trading in Influence statute. Okokrim also charged the executive responsible for international business development and imposed a USD 30,000 penalty.  Statoil and the senior executives paid the penalties without admitting or denying the conduct. <br /><br />In October 2004, Statoil accepted a NOK 20,000,000 criminal fine issued by Okokrim's District Attorneys Office for violating the anti-bribery provisions of the Norwegian Criminal Act article 276(c).<br /><br />U.S. Enforcement<br /><br />The SEC began its investigation on 23 September 2003.  On 13 October 2006, without admitting or denying the charges, Statoil consented to the entry of a cease-and-desist order enjoining the company from future violations of the FCPA and requiring the company to disgorge USD 10.5 million and appoint an independent compliance consultant.  The SEC noted Statoil's extensive cooperation with their investigation, including providing documents that were protected by the attorney-client privilege and its  implementation of a robust remedial program. <br /><br />Statoil entered into a three-year deferred prosecution agreement with the DOJ on the same date, under which the company agreed to an additional USD 10.5 million criminal penalty and appoint an independent compliance consultant.  USD 3 million of the criminal penalty was deemed satisfied by the penalty paid to the Okokrim.  In its press release, the DOJ highlighted that the FCPA applies to foreign issuers and emphasized its commitment to prosecute international businesses over which it has jurisdiction. <br /><br />On 18 November 2009, upon motion by the DOJ, the U.S. District Court for the Southern District of New York dismissed with prejudice the charges against Statoil, finding that the company had fully complied with all of its obligations under its deferred prosecution agreement, including the obligation to adopt the compliance-related recommendations of the compliance consultant. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Joseph Warin
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Foreign companies with shares traded on U.S. stock exchanges are subject to the FCPA, even if they have no other ties to the United States.</li><li>U.S. enforcement authorities will prosecute companies that have already faced enforcement action for the same conduct in other countries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2021">Statoil (Norway) - Statoil Press Release (14 October 2004)</a></p><p><a href="file.asp?id=581">Deferred Prosecution Agreement: U.S. v. Statoil, ASA (11 October 2006)</a></p><p><a href="file.asp?id=273">Cease-and-Deist Order: In the Matter of Statoil, ASA (13 October 2006)</a></p><p><a href="file.asp?id=271">DOJ Press Release: "U.S. Resolves Probe Against Oil Company that Bribed Iranian Official" (13 October 2006)</a></p><p><a href="file.asp?id=272">SEC Press Release: "SEC Sanctions Statoil for Bribes to Iranian Government Official" (13 October 2006)</a></p><p><a href="file.asp?id=274">Criminal Information: United States v. Statoil, ASA (13 October 2007)</a></p><p><a href="file.asp?id=2020">Statoil (Norway) - Okokrim Press Release (21 September 2009)</a></p><p><a href="file.asp?id=580">DOJ Press Release: "Statoil ASA Satisfies Obligations Under Deferred Prosecution Agreement and Foreign Bribery Charges Are Dismissed" (19 November 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921290lptv">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192129y428e" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - STATOIL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(81)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192129wyy7p" width="415" height="61" /></div>
+    
+        <h1>STATOIL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Norway: National Authority for Investigation and Prosecution of Economic and Environmental Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Statoil ASA ("Statoil")<br />Horton Investments Ltd. ("Horton")<br />Dillinger Company Finance Inc. ("Dillinger")<br />Richard John Hubbard (former Executive Vice President International of Statoil)<br />Mehdi Hashemi (Iranian citizen)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas rights in Iran
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Stavanger, Norway
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iran<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2000 and 2001, Statoil, a Norwegian oil and gas company that is traded on the New York Stock Exchange, sought to expand its international business.  At the time, the company decided to focus its international business development initiatives on Iran, specifically on winning contracts to develop the South Pars oil field, one of the largest natural gas fields in the world.  The Statoil executive who was hired to direct the Company's International Exploration and Production Department worked to develop relationships with Iranian officials at the National Iranian Oil Company ("NIOC"), the state-owned oil company, and its wholly-owned subsidiaries, including the Iranian Fuel Consumption Optimizing Organization ("IFCOO").  <br /><br />Statoil identified the head of the IFCOO as a possible contact to help win the contract to develop the South Pars field.  The Iranian official's father was a former president of Iran who also led the Expediency Council, a government body that mediates between politically-elected officials in Iran and the clerically-controlled sections of the government.  Statoil determined that this official was an advisor to Iran's Oil Minister and came from a powerful family. <br /><br />In 2001 the official visited Statoil's facility in Norway.  Executives knew of the official's influence and described the official's family in an internal memorandum as controlling oil and gas contract awards in Iran. <br /><br />Richard John Hubbard was Executive Vice President International of Statoil in Stavanger, Norway from 2000 until mid-September 2003.  In this capacity he negotiated an agreement with Horton, a consulting company registered in Turks and Caicos Islands in June 2002 ("the Agreement"), whereby Horton was to perform certain consulting services for Statoil.  According to clause 3 of the Agreement, the agreement should continue in full force and effect for a period of 11 years unless terminated in accordance with clause 10 of the Agreement.  <br /><br />For the consulting services Statoil was to pay a total of USD 15,200,000 over a period of 11 years, of which USD 200,000 would fall due 14 days after the entering into of the Agreement and USD 5,000,000 was to be paid on December 31, 2002.  In the period starting on 1 January 2003 and ending on 31 December 2012, Statoil was to pay an annual amount of USD 1,000,000, due on June 30 of each calendar year.<br /><br />Statoil paid USD 200,000 to Horton in June 2002 and paid another USD 5,000,000 in January 2003.  The payments were made to a Swiss bank account held by Dillinger Company Finance Inc.  Statoil did not pay the annual amount of USD 1,000,000 due on 30 June 2003 because they tried to reach an agreement with Horton to redirect the payments owed under the Agreement.  The Agreement was, however, maintained as it was.  On 6 September 2003, Hubbard had a conversation with a Horton representative during which it was agreed that Horton was to be registered in Great Britain and that all following payments to be made by Statoil under the Agreement should be made to a British bank account.<br /><br />The Agreement had, in fact, been initiated by the Iranian citizen Mehdi Hashemi.  The payments made under the Agreement were used to pay Hashemi and/or other persons to use their influence on persons involved in the decision-making processes of relevance to Statoil's business in Iran, including the process of assigning contracts to the various market operators within the oil and gas sector.<br /><br />The Agreement was terminated on 10 September 2003 after the terms of the Agreement were disclosed in the press by the Norwegian financial newspaper Dagens Nringsliv.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to the Iranian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over USD 5.2 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contract to develop the South Pars oil and gas field, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2003, Statoil's internal audit department reported the USD 5.2 million in commission payments to the company's chief financial officer.  Statoil's security group then began an investigation into the commission payments and prepared an internal investigative report, which stated that there was a strong  indication of the consultant being involved in corrupt-like practices.  Statoil's senior management failed to take appropriate action even after the security groups report.  The security group and chief internal auditor then reported their finding to the Chairman of the Board, who told them to investigate further and work with the CEO to resolve the issue.  The CEO suspended payments under the consulting contract later in 2003 after the security group presented its findings to him, but refused to terminate the contract. <br /><br />On 6 September 2003, the Norwegian press learned of the contract, which Statoil terminated four days later.  The executive who entered into the contract and the Chairman of the Board resigned, as did the CEO after the Board of Directors expressed no confidence in him.  The Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crimes ("Okokrim"), the SEC and the DOJ began their investigations after the conduct was reported in the press. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Norwegian Enforcement<br /><br />The Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crimes ("Okokrim") seized documents from Statoil's offices and, on 29 June 2004, imposed approximately USD 3 million in penalties under Norway's Trading in Influence statute. Okokrim also charged the executive responsible for international business development and imposed a USD 30,000 penalty.  Statoil and the senior executives paid the penalties without admitting or denying the conduct. <br /><br />In October 2004, Statoil accepted a NOK 20,000,000 criminal fine issued by Okokrim's District Attorneys Office for violating the anti-bribery provisions of the Norwegian Criminal Act article 276(c).<br /><br />U.S. Enforcement<br /><br />The SEC began its investigation on 23 September 2003.  On 13 October 2006, without admitting or denying the charges, Statoil consented to the entry of a cease-and-desist order enjoining the company from future violations of the FCPA and requiring the company to disgorge USD 10.5 million and appoint an independent compliance consultant.  The SEC noted Statoil's extensive cooperation with their investigation, including providing documents that were protected by the attorney-client privilege and its  implementation of a robust remedial program. <br /><br />Statoil entered into a three-year deferred prosecution agreement with the DOJ on the same date, under which the company agreed to an additional USD 10.5 million criminal penalty and appoint an independent compliance consultant.  USD 3 million of the criminal penalty was deemed satisfied by the penalty paid to the Okokrim.  In its press release, the DOJ highlighted that the FCPA applies to foreign issuers and emphasized its commitment to prosecute international businesses over which it has jurisdiction. <br /><br />On 18 November 2009, upon motion by the DOJ, the U.S. District Court for the Southern District of New York dismissed with prejudice the charges against Statoil, finding that the company had fully complied with all of its obligations under its deferred prosecution agreement, including the obligation to adopt the compliance-related recommendations of the compliance consultant. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Joseph Warin
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Foreign companies with shares traded on U.S. stock exchanges are subject to the FCPA, even if they have no other ties to the United States.</li><li>U.S. enforcement authorities will prosecute companies that have already faced enforcement action for the same conduct in other countries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2021">Statoil (Norway) - Statoil Press Release (14 October 2004)</a></p><p><a href="file.asp?id=581">Deferred Prosecution Agreement: U.S. v. Statoil, ASA (11 October 2006)</a></p><p><a href="file.asp?id=273">Cease-and-Deist Order: In the Matter of Statoil, ASA (13 October 2006)</a></p><p><a href="file.asp?id=271">DOJ Press Release: "U.S. Resolves Probe Against Oil Company that Bribed Iranian Official" (13 October 2006)</a></p><p><a href="file.asp?id=272">SEC Press Release: "SEC Sanctions Statoil for Bribes to Iranian Government Official" (13 October 2006)</a></p><p><a href="file.asp?id=274">Criminal Information: United States v. Statoil, ASA (13 October 2007)</a></p><p><a href="file.asp?id=2020">Statoil (Norway) - Okokrim Press Release (21 September 2009)</a></p><p><a href="file.asp?id=580">DOJ Press Release: "Statoil ASA Satisfies Obligations Under Deferred Prosecution Agreement and Foreign Bribery Charges Are Dismissed" (19 November 2009)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

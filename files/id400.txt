@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192609698h9">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926095epx9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - KOCH INDUSTRIES, INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(400)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192609pbm40" width="415" height="61" /></div>
+    
+        <h1>KOCH INDUSTRIES, INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Koch Industries, Inc.<br />Leon Mausen, former General Manager and business director of Koch Glitsch France<br />Koch Glitsch France, a subsidiary of the Koch Chemical Technology Group<br />Koch Chemical Technology Group ("KCTG")<br />Ludmilla Egorova-Farines, former KCTG ethics manager
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Diversified manufacturer of chemicals, pollution control equipment, energy, chemical fibers, and fertilizer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Wichita, Kansas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Morocco<br />Algeria<br />Egypt<br />India<br />Nigeria<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Leon Mausen, an employee of Koch's French affiliate, Koch Glitsch, is alleged to have made improper payments to secure contracts in Algeria, Egypt, India, Morocco, Nigeria, and Saudi Arabia.  When Mausen was dismissed, he brought a claim in the French labor court.  The court affirmed the dismissal for cause, but it was reversed because more than 60 days had elapsed between the termination and discovery of the cause.  A dispute between the Company and its former ethics manager, Ludmilla Egorova-Farines, about how and when the conduct was discovered and reported, remains unresolved, but the time frame for discovery was between May and September 2008, while the improper payments are alleged to have been made from 2002 through 2008.<br /><br />Mausen is alleged to have paid a 23% commission to one of its sales agents, in order that the agent pay an employee of an unnamed state-run company in Egypt.  Similar events are said to have taken place in Saudi Arabia.  The allegations also state that Koch-Glitsch gave envelopes stuffed with cash to a Moroccan company in order to secure a contract with the Moroccan government; and likewise in Nigeria.  An extra 2% is said to have been added to a contract with a private company in India, in order to pay an unnamed individual.  Excessive payments also took place in Algeria.  In the wrongful termination case brought by Mausen against the Company, the labor court noted that "It was not Mr. Mausen alone was was giving authorizations," and that Mausen had not acted on his own.<br /><br />There have also been media reports that the Company has evaded US export laws by using foreign subsidiaries to make petrochemical-equipment sales to Iran.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

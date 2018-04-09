@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921591x3m6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19215976x5d" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALCATEL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(115)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192159g9nms" width="415" height="61" /></div>
+    
+        <h1>ALCATEL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />France: Investigating Magistrate<br />Costa Rica: Public Prosecutor's Office<br />Malaysia: Anti-Corruption Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Alcatel, S.A. (now Alcatel-Lucent, S.A. following Alcatel's merger with Lucent Technologies, Inc. in November 2006) ("Alcatel")<br />Alcatel CIT S.A. (wholly-owned French subsidiary of Alcatel; now known as Alcatel-Lucent France S.A) ("Alcatel CIT")<br />Alcatel Standard A.G. (wholly-owned Swiss subsidiary of Alcatel; now known as Alcatel-Lucent Trade International A.G.) ("Alcatel Standard")<br />Alcatel de Costa Rica S.A. (wholly-owned Costa Rican subsidiary of Alcatel; now known as Alcatel Centroamerica S.A.) ("Alcatel de Costa Rica")<br />Alcatel SEL, A.G. (wholly-owned German subsidiary of Alcatel; now known as Alcatel-Lucent Deutschland A.G.) ("Alcatel SEL")<br />Alcatel Network (M) Sdn Bhd (majority-owned subsidiary of Alcatel in Malaysia) ("Alcatel Malaysia")<br />Christian Sapsizian (former deputy vice president for Alcatel CIT)<br />Edgar Valverde Acosta (former senior country officer for Alcatel de Costa Rica who reported to Christian Sapsizian)<br />Radziah Ani (former regional customer account leader for Alcatel Malaysia)<br />Mohd Asri Idris, Telekom Malaysia Bhd assistant manager alleged to have taken a bribe<br />Radziah Ani, former Alcatel employee accused of giving a bribe
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global provider of telecommunications equipment and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />Uganda<br />Honduras<br />Mali<br />French Polynesia<br />Ivory Coast<br />Angola<br />Bangladesh<br />Costa Rica<br />Ecuador<br />Malaysia<br />Nigeria<br />Taiwan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The U.S. Department of Justice (“DOJ”) and U.S. Securities and Exchange Commission (“SEC”) alleged that, from December 2001 through June 2006, Alcatel, through its subsidiaries, made millions of dollars in improper payments to government officials in order to obtain and retain business in Costa Rica, Honduras, Malaysia and Taiwan.  The company also allegedly violated the FCPA's internal controls and books and records provisions in connection with its hiring of third-party agents in Kenya, Nigeria, Bangladesh, Ecuador, Nicaragua, Angola, Ivory Coast, Uganda and Mali.  Alcatel admitted that the company earned approximately USD 48.1 million in profits overall as a result of these improper payments.<br /><br />Costa Rica<br /><br />In Costa Rica, Alcatel CIT won three contracts worth a combined total of more than USD 300 million as a result of improper payments to government officials and from which Alcatel earned over USD 23 million in profits.  Alcatel CIT wired more than USD 18 million to two consultants in Costa Rica, which had been retained by Alcatel Standard, in connection with obtaining business in the country.  The consultants then passed on around half the amount to various Costa Rican government officials in order to assist Alcatel CIT and Alcatel de Costa Rica in obtaining and retaining business from Costa Rica's Instituto Costarricense de Electricidad ("ICE").  The consultants submitted phony invoices to Alcatel CIT, and payments were approved by senior Alcatel executives despite clear indications that the consultants were performing little or no legitimate work.  This case settled in 2011.<br /><br />Honduras<br /><br />In Honduras, Alcatel Standard hired a consultant who was a perfume distributor with no experience in telecommunications, but who was personally selected by the brother of a senior Honduran government official.  Executives at Alcatel CIT knew that a significant portion of the money paid to the consultant would be given to the family of the senior Honduran official in exchange for favorable treatment of Alcatel CIT.  As a result, Alcatel CIT was able to retain five telecommunications contracts from Empresa Hondurefia de Telecomunicaciones ("Hondutel"), worth approximately USD 47 million and from which Alcatel earned USD 870,000.<br /><br />Taiwan<br /><br />In Taiwan, Alcatel Standard retained two consultants on behalf of Alcatel SEL A.G. to assist in obtaining an axle counting contract from the Taiwan Railway Administration worth approximately USD 19.2 million. The two consultants were paid more than USD 950,000 by Alcatel, despite the fact that neither consultant had telecommunications experience.  Alcatel Standard’s alleged purpose for hiring the consultants was so that Alcatel SEL could funnel payments through the consultants to Taiwanese legislators who could influence the award of the contract.  Alcatel SEL also covered inappropriate travel and entertainment expenses for a Taiwanese minister's trip to Germany.  Alcatel won the contract, earning approximately USD 4.34 million in profits.<br /><br />Malaysia<br /><br />In Malaysia, Alcatel Malaysia employees and Alcatel Standard consultants made improper payments to government officials in order to obtain confidential information that led to the company winning a tender from Telekom Malasia, valued at approximately USD 85 million.  On 5 March 2013, several Alcatel employees were arrested, bringing the investigation to a close.<br /><br />Alcatel S.A.'s American Depository Receipts ("ADRs") were traded on the New York Stock Exchange until 30 November 2006, the date on which Alcatel merged with Lucent Technologies, Inc. to become Alcatel-Lucent, S.A.  After the merger, the company's shares were traded on the Paris Euronext exchange and as ADRs on the NYSE.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>Over USD 8 million</td>
+<td>
+<p style="text-align: center;">USD 48.1 million in profits</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Alcatel describes the origins and development of the matter at length in its 2009 Consolidated Financial Statements (see attached).  The company's investigation, and those by the U.S. and French governments, were initially prompted by an investigation launched by Costa Rican prosecutors in October 2004 regarding payments allegedly made by consultants on behalf of Alcatel CIT to various Costa Rican officials. <br /><br />According to the DOJ press release, Alcatel initially was inadequately cooperative with the DOJ investigation into the matter.  Following the merger, the company substantially improved its cooperation.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        US Prosecution of Individuals<br /><br />On 20 November 2006, Christian Sapsizian, a French citizen, was arrested at Miami International Airport when his flight landed from Panama on the way to Paris.  He was indicted on 19 December 2006 on charges of violating the FCPA and money laundering.  A ten-count superseding indictment was handed down on March 20, 2007.  On 6 June 2007, Sapsizian pleaded guilty to conspiring to violate the FCPA and one substantive FCPA violation.  He was sentenced to 30 months in prison and three years supervised release on 23 September 2008.  The court also ordered him to forfeit USD 261,500.  Sapsizian admitted that from February 2000 through September 2004, he conspired with Valverde and others to make millions of dollars in bribe payments to Costa Rican officials in order to obtain a telecommunications contract on behalf of Alcatel.  In its plea agreement with Sapsizian, the government agreed not to charge him with FCPA violations related to corrupt payments in other parts of Latin America. <br /><br />On 20 March 2007, Edgar Valverde Acosta, a Costa Rican citizen, was indicted for violating the FCPA.  He remains a fugitive.<br /><br />DOJ and SEC Settlements<br /><br />On 27 December 2010, the DOJ filed a criminal information in U.S. District Court for the Southern District of Florida charging Alcatel with one count of violating the internal control provisions of the FCPA and one count of violating the books and records provisions of the FCPA.  The DOJ and Alcatel agreed to resolve the charges by entering into a deferred prosecution agreement for a term of three years.  The DOJ also filed a criminal information charging three subsidiaries - Alcatel-Lucent France S.A. (formerly known as Alcatel CIT S.A.), Alcatel-Lucent Trade International A.G. (formerly known as Alcatel Standard A.G.) and Alcatel Centroamerica S.A. (formerly known as Alcatel de Costa Rica S.A.) - with conspiring to violate the FCPA's anti-bribery, books and records, and internal controls provisions.  Each of the three subsidiaries agreed to plead guilty to the charges.  Alcatel and the three subsidiaries agreed to pay a combined USD 92 million criminal fine.  Alcatel also agreed to retain an independent compliance monitor (who is a French national) for a three year period.  The settlement and guilty pleas were finalized in Miami federal court on 1 June 2011. <br /><br />Also on 27 December 2010, the SEC filed a settled civil enforcement action in the U.S. District Court for the Southern District of Florida to resolve charges that Alcatel violated the FCPA's anti-bribery, books and records, and internal controls provisions.  Alcatel agreed to pay USD 45,372,000 in disgorgement and prejudgment interest.<br /><br />French Investigation<br /><br />The French Investigating Magistrate (Tribunal de grande instance de Paris) appears to be continuing its investigation into the activities of Alcatel-Lucent France in Costa Rica, Kenya, Nigeria and French Polynesia.  <br /><br />Costa Rican Investigation<br /><br />The Public Prosecutor's Office in Costa Rica opened investigations into company employees as well as the government officials who were the recipients of the alleged bribes.  Alcatel reportedly made a USD 10 million payment in January 2010 to the Costa Rican government for "societal damages," settling the government's case against the company.  On 27 April 2011, Former President Miguel Angel Rodriguez was convicted of accepting at least USD 800,000 in bribes from Alcatel and was sentenced to a five year prison term.  Eight other people charged along with the ex-president were reportedly convicted as well and sentenced to varying terms.<br /><br />In Alcatel-Lucent's SEC Form 6-K filed on 8 August 2012, the company added, "ICE on May 3, 2012 filed before the Tribunal Contencioso Administrativo y Civil de Hacienda of Costa Rica a new claim against a number of Alcatel-Lucent legal entities with regards to the corruption matter that was investigated by and settled with the Costa Rican and United States authorities. The ICE claim totals 14 million euros. No reserves have been booked as it is Alcatel-Lucent's position that this matter has been fully settled with the Costa Rican Prosecution Office in 2010."<br /><br />Malaysian Investigation<br /><br />According to press reports on 25 March 2011, Malaysian authorities also began investigating Alcatel in December 2010 following the company's settlement with the U.S. government.  <br /><br />According to press reports on 19 July 2011, Radziah Ani - a former regional customer account leader for Alcatel Malaysia - was charged by Malaysian prosecutors under the Anti Corruption Act of 1997, with bribing a Telekom Malaysia assistant manager.  <br /><br />On 13 August 2012, the Court in Malaysia announced that the prima facie case against Radziah had been proved, and that she would now be required to enter her defense.  Radziah is accused of offering a RM 25,000 bribe to Telekom Malaysia Bhd assistant manager Mohd Asri Idris so that the latter would provide information about an ongoing tender at that time (2006) for the supply of Wideband Code Division Multiple Access Mobile Communications Systems.  The tender, which was ultimately awarded to Alcatel, was valued at RM 320 million (approx. USD 106 million). The offense is alleged to have been committed at the Shangri-la Hotel in Jalan Sultan Ismail on 17 February 2006. <br /><br />Trial is scheduled to resume on 19 September 2012.<br /><br />Meanwhile, Telekom Malaysia and mobile operator Axiata Group Bhd (Celcom) have reportedly barred Alcatel from bidding for new tenders for a year as a result of the matter.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The U.S. government will indict and arrest non-U.S. citizens for FCPA violations.</li><li>Foreign companies with certain types of ADRs traded on U.S. stock exchanges are subject to the FCPA as U.S. issuers.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=330">DOJ Press Release: December 19, 2006 (Former Alcatel CIT Executive is indicted for Alleged Bribes to Costa Rican Officials to Obtain Mobile Telephone Contract)</a></p><p><a href="file.asp?id=1088">DOJ Press Release: March 20, 2007 (Two Former Alcatel Executives Indicted for Allegedly Bribing Costa Rican Officials to Obtain a Telecommunications Contract)</a></p><p><a href="file.asp?id=329">DOJ Press Release: June 7, 2007 (Former Alcatel Executive Pleads Guilty to Participation in Payment of $2.5 Million in Bribes to Senior Costa Rican Officials to Obtain a Mobile Telephone Contract)</a></p><p><a href="file.asp?id=328">DOJ Press Release: September 23, 2008 (Former Alcatel CIT Executive Sentenced for Paying $2.5 Million in Bribes to Senior Costa Rican Officials)</a></p><p><a href="file.asp?id=1087">Criminal Complaint: U.S. v. Christian Sapsizian (December 5, 2006)</a></p><p><a href="file.asp?id=575">Superseding Indictment: United States v. Christian Sapsizian et al (March 20, 2007)</a></p><p><a href="file.asp?id=331">Plea Agreement: United States v. Christian Sapsizian (June 6, 2007)</a></p><p><a href="file.asp?id=1090">Indictment: U.S. v. Christian Sapsizian (December 20, 2006)</a></p><p><a href="file.asp?id=1092">Motion for Downward Departure on Sentencing: DOJ v. Christian Sapsizian (September 18, 2008)</a></p><p><a href="file.asp?id=1091">Judgment: U.S. v. Christian Sapsizian (September 25, 2008)</a></p><p><a href="file.asp?id=576">Notice of Fugitive Status: United States v. Edgar Valverde Acosta (June 14, 2007)</a></p><p><a href="file.asp?id=695">Alcatel-Lucent Consolidated Financial Statements 2009 (February 11, 2010)</a></p><p>Global Post: "Trial of Ex-President of Costa Rica Under Way" (19 April 2010)</p><p><a href="file.asp?id=1274">DOJ Press Release: December 27, 2010 (Alcatel-Lucent S.A. and Three Subsidiaries Agree to Pay $92 Million to Resolve Foreign Corrupt Practices Act Investigation)</a></p><p><a href="file.asp?id=1275">SEC Litigation Release: December 27, 2010 (SEC Files Settled Foreign Corrupt Practices Act Charges Against Alcatel-Lucent, S.A. With Total Disgorgement and Criminal Fines of Over $137 Million)</a></p><p><a href="file.asp?id=1276">Complaint: SEC v. Alcatel-Lucent S.A. (December 27, 2010)</a></p><p><a href="file.asp?id=1277">Criminal Information: U.S. v. Alcatel-Lucent, S.A. (December 27, 2010)</a></p><p><a href="file.asp?id=1278">Deferred Prosecution Agreement: U.S. v. Alcatel-Lucent, S.A. (December 20, 2010)</a></p><p><a href="file.asp?id=1279">Criminal Information: U.S. v. Alcatel-Lucent France, S.A., et al (December 27, 2010)</a></p><p><a href="file.asp?id=1280">Plea Agreement: U.S. v. Alcatel Centroamerica, S.A. (December 20, 2010)</a></p><p>Yahoo News: "Costa Rican ex-president found guilty of corruption" (27 April 2011)</p><p>Washington Post: "Alcatel finalizes US settlement for foreign bribes; $137M in penalties and fines" (June 1, 2011)</p><p>Forbes: "Ex-Alcatel official in Malaysia charged with graft" (19 July 2011)</p><p>The Star: "Former Alcatel Network employee charged with bribery" (19 July 2011)</p><p><a href="file.asp?id=1935">Alcatel-Lucent SEC Form 6-K (8 August 2012)</a></p><p><a href="file.asp?id=1936">Alcatel-Lucent - SEC Form 20-F (21 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

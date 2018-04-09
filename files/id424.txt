@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192630e595s">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926308o34h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CHINA NATIONAL PETROLEUM  CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(424)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19263040sa8" width="415" height="61" /></div>
+    
+        <h1>CHINA NATIONAL PETROLEUM  CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        China: State Administration for Industry and Commerce <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        China National Petroleum Corp. ("CNPC")<br />PetroChina (a wholly owned subsidiary of CNPC)<br />Kunlun Energy<br />State Development and Investment Corp ("SDIC"), China's largest investment firm<br />Zhou Yongkang, a member of the nine-member Politburo Standing Committee<br />Royal Dutch Shell PLC<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Integrated oil and gas company (production and supply),  oilfield service provider, engineering construction contractor
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 26 August 2013, in a one-sentence statement, China's Ministry of Supervision said  it was investigating Wang Yongchun, a vice president at state-owned China National Petroleum Corp. for "severe disciplinary violations." It didn't disclose more details, but such phrasing is typically used by Chinese officials when investigating cases of alleged corruption.  The allegations stemmed from CNPC's close ties to Sudanese President Omar Hassan al-Bashir, who has been indicted on war crimes charges.  <br /><br />According to the Wall Street Journal, Mr. Wang met with energy officials visiting from Indonesia and South Sudan to discuss upstream oil-and-gas development, according to an internal CNPC newsletter.<br /><br />Earlier in 2013, he finished a four-day tour of CNPC's operations in China's northeastern Heilongjiang province with the company's No. 2 official, Liao Yongyuan.<br /><br />The investigation of Mr. Wang comes after the antigraft agency launched a similar probe in May targeting Liu Tienan, one of 10 deputy directors at China's top economic-planning body. Mr. Liu was head of the National Energy Administration from 2008 until March, when he was replaced. Mr. Liu was expelled from China's Communist Party this month and is under investigation for bribe-taking, according to the country's official Xinhua news agency. Mr. Liu wasn't available for comment.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;</td>
+<td width="50%">&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Investigations appear to be ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ff33;">Energy Trade</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

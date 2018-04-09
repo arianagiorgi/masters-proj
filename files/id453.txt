@@ -1,0 +1,125 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192656mgvi5">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192656b744s" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ROLLS-ROYCE HOLDINGS PLC</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(453)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192656w9i50" width="415" height="61" /></div>
+    
+        <h1>ROLLS-ROYCE HOLDINGS PLC</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />India: Central Bureau of Investigation<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Rolls-Royce Holdings plc ("Rolls-Royce")<br />Rolls-Royce Aerospace (division of Rolls-Royce)<br />Tommy Suharto (son of former long-term president of Indonesia)<br />Sudhir Choudhrie (an Indian-born donor to Britain's Liberal Democrats, the junior coalition partner)<br />Bhanu Choudhrie (executive director of C&C Alpha Group Ltd. and son of Sudhir Choudhrie)<br />C&C Alpha Group Ltd., which invests in aviation, utilities and other industries
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Civil aerospace, defense aerospace, marine propulsion systems and power generation equipment manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Brazil<br />China<br />India<br />Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        INDONESIA<br /><br />According to Reuters, Mr. Suharto, son of former long-term president of Indonesia, allegedly received a payment of USD $20 million and a car in exchange for securing a contract for Rolls-Royce to supply engines to Garuda, the Indonesian national airline.  Mr. Suharto denied these allegations.<br /><br /><br />CHINA<br /><br />In an article published on 6 January 2013, U.K.-based Telegraph reported that Rolls Royce faced accusations of bribing a Chinese airline executive.  An executive who worked for both airlines allegedly acted as a middleman, receiving improper payments and facilitating the sale of aircraft engines worth USD $2 billion.  The executive is alleged to have been arrested by Chinese authorities in 2011.<br /><br /><br />INDIA<br /><br />On 3 March 2014, India's defense ministry confirmed that it is investigating the USD $1.2 billion deal Rolls Royce made with state-run Hindustan Aeronautics Limited. The Central Bureau of Investigation ("CBI") will investigate whether Hindustan Aeronautics Limited's deal to purchase jet engines from Rolls-Royce had breached bribery laws. Prosecutors added that it will look into USD $80 million worth of alleged kickbacks.<br /><br /><br />UNITED STATES<br /><br />On 5 March 2014, Rolls Royce announced that the U.S. Department of Justice ("DOJ") launched an informal investigation following allegations that its executives bribed officials in Indonesia, China and India in order to win lucrative contracts.<br /><br /><br />BRAZIL<br /><br />Former Petrobras executive Pedro Barusco told Brazilian police as part of a plea bargain that he received at least $200,000 in bribes from Rolls-Royce while he was at Petrobras. The bribes, which were paid through an agent, were made to ensure that Rolls-Royce received a $100 million contract from Petrobras.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Indonesian Officials<br /></strong></td>
+<td width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>&nbsp;USD $20 million and a car<br /></td>
+<td>&nbsp;Contract to supply engines to Indonesian national airline<br /></td>
+</tr>
+</tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%"><strong>Approximate Alleged Payments to Brazilian Officials<br /></strong></td>
+<td width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td>&nbsp;USD $200,000<br /></td>
+<td>&nbsp;USD $100 million contract<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Media reports claim that a whistleblower who had worked for the Company came forward with allegations concerning transactions in Indonesia.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        UNITED KINGDOM <br /><br />In a press release on 6 December 2012, Rolls Royce announced that it voluntarily disclosed information relating to concerns about bribery and corruption involving intermediaries in overseas markets to the U.K. Serious Fraud Office ("SFO").  The company claimed it made the disclosures following a request for information from the SFO about allegations of malpractice in Indonesia and China. <br /><br />On 23 December 2013, Rolls Royce announced that the SFO opened a formal investigation into allegations of bribery and corruption in China and Indonesia.  <br /><br />The SFO arrested two men on 12 February 2014 in connection with the Rolls Royce corruption investigation in Asia -- Bhanu Choudhrie, executive director of C&C Alpha Group Ltd., and his father, Sudhir Choudhrie.  No charges were filed, and the Choudhries denied any wrongdoing.  In July 2014, bail was lifted for the two men, and according to The Sunday Times, they are not expected to play a further role in the inquiry.  <br /><br />The SFO investigation is ongoing.<br /><br /><br />UNITED STATES<br /><br />On 5 March 2014, Rolls Royce announced that the U.S. Department of Justice ("DOJ") launched an informal investigation following allegations that its executives bribed officials in Indonesia, China and India in order to win lucrative contracts.<br /><br />The DOJ investigation is ongoing.<br /><br /><br />INDIA<br /><br />The CBI investigation is ongoing.  On 17 September 2014, India announced that it was lifting the ban against Rolls Royce, and will allow the company to bid on its tenders.<br /><br /><br />BRAZIL<br /><br />While Rolls-Royce was named by a Petrobras executive as having paid bribes, Rolls-Royce stated in February 2015 that it has not been approached by Brazilian authorities.<br /><br /><br />INTERNAL<br /><br />In January 2013, Rolls Royce announced the appointment of Lord Gold, a well known attorney, to lead a review of the Company's compliance policies and procedures.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2069">Rolls-Royce Press Release: "Rolls-Royce reports to the SFO" (6 December 2012)</a></p><p><a href="file.asp?id=2086">Rolls-Royce Press Release: "Rolls-Royce announces the appointment of Lord Gold" (10 January 2013)</a></p><p>Financial Times: "SFO weighs deal to end Rolls-Royce probe" (22 March 2013)</p><p><a href="file.asp?id=2463">Reuters SFO Opens Formal Investigations into Rolls Royce</a></p><p><a href="file.asp?id=2469">Telegraph - Rolls-Royce in China bribery allegations</a></p><p><a href="file.asp?id=2470">Reuters - Suharto Denies Taking 20 Million Bribe</a></p><p><a href="file.asp?id=2483">Rolls Royce Faces Investigation in India</a></p><p><a href="file.asp?id=2484">Rolls Royce Faces DOJ Investigation</a></p><p>The Independent: "Petrobras scandal gives Rolls-Royce a new headache" (17 February 2015)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

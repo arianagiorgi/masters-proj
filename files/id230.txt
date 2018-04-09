@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19234300ahw">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192343jw602" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TRANSOCEAN / GLOBAL SANTA FE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(230)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192343vk477" width="415" height="61" /></div>
+    
+        <h1>TRANSOCEAN / GLOBAL SANTA FE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Transocean Ltd. ("Transocean")<br />Transocean Inc. (Caymans Island subsidiary of Transocean)<br />GlobalSantaFe Corporation (merged with Transocean Ltd. in 2007) (“GlobalSantaFe”)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global provider of offshore oil drilling services and equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Vernier, Switzerland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On November 4, 2010, the DOJ charged Transocean Inc., a Caymans Island subsidiary of Transocean Ltd., with conspiring to violate the FCPA's anti-bribery and books and records provisions; violating the anti-bribery provision; and aiding and abetting the violation of the books and records provisions.  The SEC charged Transocean Inc. with violations of the FCPA's anti-bribery, books and records, and internal controls provisions in connection with the above-mentioned payments, as well as various other improper or questionable payments.  <br /><br />From at least 2002 through 2007, Transocean Inc. made at least USD 90,000 in improper payments through its customs brokers to Nigerian customs officials to circumvent Nigerian customs regulations in order to extend the temporary importation status of its drilling rigs, to obtain false paperwork associated with its drilling rigs and to obtain inward clearance authorizations for its rigs and a bond registration.  Transocean Inc. also made improper payments to Nigerian government officials through Panalpina World Transport Holding Ltd.'s Pancourier express courier service in order to expedite the import of various goods, equipment and materials into Nigeria; in most instances, customs duties for these items were not paid by either Panalpina or Transocean Inc.  In addition, Transocean made improper payments through Panalpina to Nigerian government officials to expedite the delivery of medicine and other materials into the country. Transocean Inc.'s alleged total gains from the conduct were approximately USD 5,981,693.<br /><br />The SEC also separately charged GlobalSantaFe with FCPA violations in connection  with the company's activities in Nigeria prior to its merger with Transocean.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to&nbsp;Nigerian Customs&nbsp;Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>At least USD 90,000</td>
+<td>
+<p>Circumvention of Nigerian customs regulations, which resulted in gains of approximately USD 5,981,693</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Transocean described the (at the time, ongoing) investigation as follows in its 2009 SEC Form 10-K:<br /><br />“Failure to comply with the U.S. Foreign Corrupt Practices Act could result in fines, criminal penalties, drilling contract terminations and an adverse effect on our business. <br /><br />As an international company, we are subject to many laws and regulations, including but not limited to the U.S. Foreign Corrupt Practices Act (“FCPA”). We are currently involved in several investigations by the U.S. Department of Justice and the SEC involving our operations and whether or not we or any of our employees have violated the FCPA. We cannot predict the ultimate outcome of any current or future investigations, the total costs to be incurred in completing such investigations, the potential impact on personnel, the effect of implementing any further measures that may be necessary to ensure full compliance with applicable laws or to what extent, if at all, we could be subject to fines, sanctions or other penalties which could be material under certain circumstances. <br /><br />Our current investigations include a review of amounts paid to and by customs brokers in connection with the obtaining of permits for the temporary importation of vessels and the clearance of goods and materials. These permits and clearances are necessary in order for us to operate our vessels in certain jurisdictions. There is a risk that we may not be able to obtain import permits or renew temporary importation permits in West African countries, including Nigeria, in a manner that complies with the FCPA. As a result, we may not have the means to renew temporary importation permits for rigs located in the relevant jurisdictions as they expire or to send goods and equipment into those jurisdictions, in which event we may be forced to terminate the pending drilling contracts and relocate the rigs or leave the rigs in these countries and risk permanent importation issues, either of which could have an adverse effect on our financial results. In addition, termination of drilling contracts could result in damage claims by customers. Following the completion of existing investigations, we will continue to be subject to the FCPA and these risks. See “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Outlook–Regulatory Matters.”…<br /><br />...Regulatory matters—In June 2007, GlobalSantaFe’s management retained outside counsel to conduct an internal investigation of its Nigerian and West African operations, focusing on brokers who handled customs matters with respect to its affiliates operating in those jurisdictions and whether those brokers have fully complied with the U.S. Foreign Corrupt Practices Act (“FCPA”) and local laws. GlobalSantaFe commenced its investigation following announcements by other oilfield service companies that they were independently investigating the FCPA implications of certain actions taken by third parties in respect of customs matters in connection with their operations in Nigeria, as well as another company’s announced settlement implicating a third party handling customs matters in Nigeria. In each case, the customs broker was reported to be Panalpina Inc., which GlobalSantaFe used to obtain temporary import permits for its rigs operating offshore Nigeria. GlobalSantaFe voluntarily disclosed its internal investigation to the U.S. Department of Justice (the “DOJ”) and the Securities and Exchange Commission (“SEC”) and, at their request, expanded its investigation to include the activities of its customs brokers in certain other African countries. The investigation is focusing on whether the brokers have fully complied with the requirements of their contracts, local laws and the FCPA and GlobalSantaFe’s possible involvement in any inappropriate or illegal conduct in connection with such brokers. In late November 2007, GlobalSantaFe received a subpoena from the SEC for documents related to its investigation. In addition, the SEC advised GlobalSantaFe that it had issued a formal order of investigation. After the completion of the merger with GlobalSantaFe, outside counsel began formally reporting directly to the audit committee of our board of directors. Our legal representatives are keeping the DOJ and SEC apprised of the scope and details of their investigation and producing relevant information in response to their requests. <br /><br />On July 25, 2007, our legal representatives met with the DOJ in response to a notice we received requesting such a meeting regarding our engagement of Panalpina Inc. for freight forwarding and other services in the U.S. and abroad. The DOJ informed us that it was conducting an investigation of alleged FCPA violations by oil service companies who used Panalpina Inc. and other brokers in Nigeria and other parts of the world. We developed an investigative plan which has continued to be amended and which would allow us to review and produce relevant and responsive information requested by the DOJ and SEC. The investigation was expanded to include one of our agents for Nigeria. This investigation and the legacy GlobalSantaFe investigation are being conducted by outside counsel who reports directly to the audit committee of our board of directors. The investigation has focused on whether the agent and the customs brokers have fully complied with the terms of their respective agreements, the FCPA and local laws and the company’s and its employees’ possible involvement in any inappropriate or illegal conduct in connection with such brokers and agent. Our outside counsel has coordinated their efforts with the DOJ and the SEC with respect to the implementation of our investigative plan, including keeping the DOJ and SEC apprised of the scope and details of the investigation and producing relevant information in response to their requests. The SEC has also now issued a formal order of investigation in this case and issued a subpoena for further information, including information related to the U.S. Treasury Department’s Office of Foreign Assets Control (“OFAC”) investigation described below. <br /><br />Our internal compliance program has detected a potential violation of U.S. sanctions regulations in connection with the shipment of goods to our operations in Turkmenistan. Goods bound for our rig in Turkmenistan were shipped through Iran by a freight forwarder. Iran is subject to a number of economic regulations, including sanctions administered by OFAC, and comprehensive restrictions on the export and re-export of U.S.-origin items to Iran. Iran has been designated as a state sponsor of terrorism by the U.S. State Department. Failure to comply with applicable laws and regulations relating to sanctions and export restrictions may subject us to criminal sanctions and civil remedies, including fines, denial of export privileges, injunctions or seizures of our assets. See “Item 1A. Risk Factors–Our non-U.S. operations involve additional risks not associated with our U.S. operations.” We have self-reported the potential violation to OFAC and retained outside counsel who conducted an investigation of the matter and submitted a report to OFAC. <br /><br />We are continuing to cooperate with the DOJ, SEC and OFAC. We expect these investigations will continue to result in the incurrence of significant legal fees and related expenses as well as involve significant management time. We cannot predict the ultimate outcome of these investigations, the total costs to be incurred in completing the investigations, the potential impact on personnel, the effect of implementing any further measures that may be necessary to ensure full compliance with applicable laws or to what extent, if at all, we could be subject to fines, sanctions or other penalties. In response to these investigations, we have implemented measures to strengthen and expand our compliance program and training.<br /><br />In addition, from time to time, we receive inquiries from governmental regulatory agencies regarding our operations around the world, including inquiries with respect to types of matters similar to those described above. To the extent appropriate under the circumstances, we investigate such matters, respond to such inquiries and cooperate with the regulatory agencies. Although we are unable to predict the outcome of any of these matters, we do not expect the liability, if any, resulting from these inquiries to have a material adverse effect on our consolidated statement of financial position, results of operations or cash flows.”<br /><br />To this statement the company added, in its SEC Form 10-K filed on 27 February 2012, that it had also received an SEC subpoena regarding posssible OFAC violations in Myanmar.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 4, 2010, Transocean Inc. and the DOJ entered into a deferred prosecution agreement that requires, among other things, Transocean Inc. to pay a USD 13.44 million criminal penalty.<br /><br />On the same day, without admitting or denying the SEC's allegations, Transocean Inc. consented to the entry of a court order permanently enjoining it from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  The company was ordered to pay USD 5,981,693 in disgorgement, plus prejudgment interest of USD 1,283,387.<br /><br />Also on the same day, without admitting or denying the SEC's allegations, GlobalSantaFe consented to the entry of a court order permanently enjoining it from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  The company was ordered to pay disgorgement of USD 2,694,405, prejudgment interest of USD 1,063,760, and a civil penalty of USD 2.1 million.<br /><br />On January 13, 2011, it was reported that Nigeria's Economic and Financial Crimes Commission (EFCC) had detained twelve oil-industry employees, including two Transocean employees, in connection with the agency's investigation into the bribery scheme.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>DOJ/SEC investigations can spring from the agencies' investigations of business partners or competitors of the affected entities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=845">Transocean: SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1191">DOJ Press Release: November 4, 2010 (Oil Services Companies and a Freight Forwarding Company Agree to Resolve Foreign Bribery Investigations and to Pay More Than $156 Million in Criminal Penalties)</a></p><p><a href="file.asp?id=1192">SEC Litigation Release: November 4, 2010 (SEC Charges Transoceanfor Bribery Scheme in Nigeria - Transocean to Pay Disgorgement and Civil Penalties of $7,265,080)</a></p><p><a href="file.asp?id=1193">Complaint: SEC v. Transocean Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1194">SEC Litigation Release: November 4, 2010 (SEC Charges GlobalSantaFe Corp. With Bribery and Other FCPA Violations)</a></p><p><a href="file.asp?id=1195">Complaint: SEC v. GlobalSantaFe Corp. (November 4, 2010)</a></p><p><a href="file.asp?id=1199">Criminal Information: U.S. v. Transocean Inc. (November 4, 2010)</a></p><p><a href="file.asp?id=1200">Deferred Prosecution Agreement: U.S. v. Transocean Inc. (October 21, 2010)</a></p><p>Bloomberg Businessweek: "Nigeria Arrests 12 in $100 Million Oil Bribery Probe" (13 January 2011)</p><p>WSJ: "Nigeria Arrests 12 Oil Executives Over Alleged Bribery" (13 January 2011)</p><p>African Manager: "Nigeria's anti-graft agency seizes 12 oil chiefs over US$ 100m bribery scam" (13 January 2011)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

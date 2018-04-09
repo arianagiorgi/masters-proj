@@ -1,0 +1,226 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843287w29h">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184328507i5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SILICON CONTRACTORS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(100)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184328k3hy0" width="415" height="61" /></div>
+    
+        <h1>SILICON CONTRACTORS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Silicon Contractors, Inc. (formerly known as Tech-Sil, Inc.) ("Silicon")<br />Herbert D. Hughes (officer of Silicon)<br />Ronald R. Richardson (officer of Silicon)<br />Richard L. Noble (officer of Silicon)<br />John Sherman (officer of Silicon)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture, sale and installation of radiation and fire-stop penetration seals for use in nuclear power plants
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On June 27, 1985, Silicon was charged with violating the anti-bribery provisions of the FCPA in connection with a $132,000 improper payment made by a Silicon officer to one or more officials at the Comision Federal de Electricidad ("CFE"), Mexico's state-owned electric monopoly on June 27, 1980.  The payment was made to influence the award of a contract to manufacture and install radiation and fire-stop penetration seals for a nuclear power plant in Laguna Verde, Mexico.<br /><br />The DOJ brought a civil injunctive action against Hughes, Richardson, Noble and Sherman, officers of Silicon, for their roles in the scheme.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Mexican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;$132,000</td>
+<td style="text-align: center;">&nbsp;Nuclear power plant contract</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The corporation pleaded guilty to one count of violating the FCPA's anti-bribery provisions, agreed to a permanent civil injunction, and was fined $150,000.<br /><br />In a related civil case, Hughes, Richardson, Noble and Sherman agreed to the entry of permanent injunctions prohibiting them from future violations of the FCPA.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ can bring either criminal or civil charges for violations of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=652">Information: U.S. v. Silicon Contractors, Inc. (June 27, 1985)</a></p><p><a href="file.asp?id=653">Judgment: U.S. v. Silicon Contractors, Inc. (July 10, 1985)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921461jv59">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921461r482" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SILICON CONTRACTORS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(100)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192146607m0" width="415" height="61" /></div>
+    
+        <h1>SILICON CONTRACTORS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Silicon Contractors, Inc. (formerly known as Tech-Sil, Inc.) ("Silicon")<br />Herbert D. Hughes (officer of Silicon)<br />Ronald R. Richardson (officer of Silicon)<br />Richard L. Noble (officer of Silicon)<br />John Sherman (officer of Silicon)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture, sale and installation of radiation and fire-stop penetration seals for use in nuclear power plants
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On June 27, 1985, Silicon was charged with violating the anti-bribery provisions of the FCPA in connection with a $132,000 improper payment made by a Silicon officer to one or more officials at the Comision Federal de Electricidad ("CFE"), Mexico's state-owned electric monopoly on June 27, 1980.  The payment was made to influence the award of a contract to manufacture and install radiation and fire-stop penetration seals for a nuclear power plant in Laguna Verde, Mexico.<br /><br />The DOJ brought a civil injunctive action against Hughes, Richardson, Noble and Sherman, officers of Silicon, for their roles in the scheme.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Approximate Alleged Payments to Mexican Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>&nbsp;Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;$132,000</td>
+<td style="text-align: center;">&nbsp;Nuclear power plant contract</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The corporation pleaded guilty to one count of violating the FCPA's anti-bribery provisions, agreed to a permanent civil injunction, and was fined $150,000.<br /><br />In a related civil case, Hughes, Richardson, Noble and Sherman agreed to the entry of permanent injunctions prohibiting them from future violations of the FCPA.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ can bring either criminal or civil charges for violations of the FCPA.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=652">Information: U.S. v. Silicon Contractors, Inc. (June 27, 1985)</a></p><p><a href="file.asp?id=653">Judgment: U.S. v. Silicon Contractors, Inc. (July 10, 1985)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192321bu3ss">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192321m6gm1" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MAXWELL TECHNOLOGIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(206)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19232191g0p" width="415" height="61" /></div>
+    
+        <h1>MAXWELL TECHNOLOGIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Maxwell Technologies, Inc. ("Maxwell")<br />Maxwell Technologies S.A. (wholly-owned Swiss subsidiary) ("Maxwell SA")<br />Alain Riedo (general manager of Maxwell Technologies' Swiss subsidiary)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Producer of microelectronics and power storage systems
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Diego, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Maxwell's wholly-owned Swiss subsidiary, Maxwell Technologies S.A., allegedly paid more than USD 2.5 million to its Chinese sales agent from July 2002 through May 2009, which the agent used to pay bribes to officials at Chinese state-owned entities in order to secure and retain contracts to supply high voltage capacitors.  <br /><br />The payments were classified in invoices as either "Extra Amount" or "Special Arrangement" fees.  According to court documents, a Maxwell SA executive approved sales contracts with the Chinese customers knowing that the purchase orders had been inflated by 20%, with the 20% to be paid as bribes.  The improper payments were recorded as sales commission expenses in Maxwell's financial records.<br /><br />As a result of the improper payments, Maxwell SA was awarded contracts that generated over USD 15 million in revenues and USD 5.6 million in profits.<br /><br />On 11 October 2013, a Swiss citizen who was the general manager of Maxwell Technologies' Swiss subsidiary was indicted for bribing officials at state-owned companies in China.  Alain Riedo was charged in San Diego with nine counts of violating the FCPA, conspiracy, falsifying records, and evading Maxwell's internal controls.  Mr. Riedo allegedly approved sales contracts with Chinese state-owned entities he knew were inflated by 20% to cover the bribes.  The extra money paid by the Chinese customers was sent by Mr. Riedo to bank accounts in China and Hong Kong controlled by an agent retained by Maxwell, according to the indictment. The agent then passed the bribes to individuals at the China companies.<br /><br />According to the DOJ, Mr. Riedo is at large.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>A portion of USD 2.5 million paid to Chinese agent</p>
+</td>
+<td>
+<p>Contracts worth over USD 15 million in revenues and USD 5.6 million in profits</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to court documents, certain former U.S. officers and senior managers of Maxwell had knowledge of the bribes paid by Maxwell SA and its agent since at least November 2002.  The company allegedly did nothing to stop these payments until questions resurfaced in late 2008 and again in February 2009.  It appears that Maxwell initiated an internal investigation in March 2009, correcting the mischaracterization of the sales commissions in its records in its Form 10-Q filing on 31 March.  Around that time, the company made a voluntary disclosure to the DOJ and SEC.<br /><br />Maxwell described the ongoing investigation as follows in 2009 SEC Form 10-K:<br /><br />"As a result of our international operations, we are subject to the FCPA, which prohibits companies from making improper payments to foreign officials for the purpose of obtaining or keeping business. As a result of an internal review, we are currently conducting an inquiry into the nature of certain payments made to our former independent sales agent in China with respect to sales of our high voltage capacitor products produced by our Swiss subsidiary. These payments equaled them difference between our quoted price for certain products and the amount that the independent sales agent was able to sell such products to certain customers in China. These payments had previously been recorded as commissions; however, a portion of those payments may actually have been rebated directly or indirectly to customers. We recorded commissions to the agent of $585,000, $1.8 million and $653,000 for the years ended December 31, 2009, 2008 and 2007, respectively. These commissions were based on sales of $3.1 million, $8.2 million and $3.4 million for the years ended December 31, 2009, 2008 and 2007, respectively. These amounts are recorded as a reduction to revenue for the periods presented. In 2008, these amounts were recorded as commission expense and were included in selling, general and administrative expense in the condensed consolidated statement of operations. This independent sales agent also worked as an independent sales agent for Metar (see Note 13 of Notes to Consolidated Financial Statements, included in Part II, Item 8 of this report). We terminated our relationship with this independent sales agent as of May 20, 2009. <br /><br />"We are in the process of evaluating how these payments should be treated for FCPA purposes, which could harm our business. Our internal review is focused on a thorough examination of all of our international operations and business practices, as well as a review of our compliance programs. We have taken certain remedial actions, including terminating our relationship with the independent sales agent in China as well as terminating our relationship with Metar, which could harm our business. <br /><br />"We have not yet completed our internal review. As we progress, we are voluntarily sharing information related to our internal review with the Securities and Exchange Commission ('SEC') and Department of Justice ('DOJ') and have provided certain documents as requested by the SEC in connection with their review of this matter. In the event that our internal review or any governmental investigation identifies violations of law, the DOJ, the SEC or other governmental authorities could seek civil and/or criminal sanctions, including monetary fines and penalties, against the Company and/or its employees, as well as additional changes to our business practices and compliance programs, which could have a material adverse effect on our business, results of operations or financial condition.<br /><br />"In the fourth quarter of 2009 and in connection with our internal review of the matters described above, we recorded an accrual of $9.3 million for the potential settlement with the SEC and DOJ. The amount we recorded was based on our estimation of loss as required under U.S. Generally Accepted Accounting Principles ('GAAP') and discussions with both government agencies. These discussions have resulted in our estimate of a potential settlement range of $9.3 million to $20.0 million. The top end of the range of $20.0 million represents the combined first offer of settlement recently put forth by the relevant governmental agencies. Discussions with the SEC and DOJ are ongoing in an effort to resolve these matters, but whether agreement can be reached and on what terms, is uncertain. The amount of any disgorgements, penalties and/or fines that we could face depends on a number of eventual factors which are not currently known to us or have not yet been resolved with the relevant government authorities, including findings by relevant authorities regarding the amount, nature and scope of any improper payments, the amount of any pecuniary gain involved, our ability to pay, and the level of cooperation provided to government authorities during the investigations. There can be no assurance that a settlement will be reached at all, or that any final settlement amount will not be more or less than our accrual of $9.3 million. Actual payments to the government agencies in connection with any settlement could have a material adverse effect on our business, results of operations or financial condition."<br /><br />Maxwell provided the following update regarding its settlement negotiations with the SEC and DOJ in a SEC Form 8-K released on 29 July 2010:<br /><br />"As previously disclosed in its public filings, the company has engaged in settlement discussions with the Securities and Exchange Commission (SEC) and the Department of Justice (DOJ) with regard to the ongoing FCPA investigations involving Maxwell's Swiss subsidiary, Maxwell S.A. The company has negotiated an agreement in principle with the SEC to resolve the ongoing FCPA investigation for a<br />payment of approximately $6.35 million, with half to be paid upon signing and the remaining half on the one year anniversary of signing, as well as certain other non financial settlement terms. The settlement with the SEC remains subject to final approval of the Commission. Settlement discussions with the DOJ are ongoing, and the company is awaiting a response to its offer to the DOJ to settle the ongoing investigation for $6.35 million. Prior discusssions with the DOJ have indicated that they would accept a settlement offer of $8.0 million, but as indicated earlier, we are continuing our discussions with the DOJ and are awaiting a response to our most recent offer. The DOJ has also previously indicated that settlement terms could include a payment plan over a period of up to three years. The company anticipates that it will have to pay interest on any deferred amounts due in both the SEC and DOJ settlement agreements. In Q409, the company accrued $9.3 million<br />for a potential settlement, and has accrued an additional $3.4 million in Q210 to reflect the full amount of its pending settlement offers to the SEC and DOJ. However, there can be no assurance that the settlement with the SEC will be approved or that the company will be able to settle with the DOJ for $6.35 million."<br /><br />On 30 July 2010, Maxwell released a second Form 8-K, clarifying certain statements made in the 29 July 2010 release:<br /><br />"In a press release issued on July 29, 2010, Maxwell Technologies (Nasdaq: MXWL) provided information regarding the status of its negotiations with the Department of Justice (DOJ) to reach a settlement of alleged violations of the U.S. Foreign Corrupt Practices Act (FCPA). After further discussions with the DOJ, the Company is clarifying its earlier disclosure as follows:  'The Department of Justice has not indicated a specific settlement amount or other terms that would be acceptable to settle the ongoing investigation of alleged FCPA violations. As with all potential settlements with the DOJ, there are numerous other aspects of the settlement, in addition to the monetary penalties, that also need to be resolved.'"
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 31 January 2011, Maxwell reached a settlement with DOJ and SEC.  The DOJ filed a criminal information charging the company with one count of violating the FCPA's anti-bribery provisions and one count of violating the books and records provisions.  Maxwell entered into a three-year deferred prosecution agreement with the DOJ and agreed to pay a USD 8 million criminal fine, to be paid in three installments over approximately two years.  Without admitting or denying the SEC's allegations, Maxwell consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records, internal control and disclosure provisions.  Maxwell was ordered to pay USD 5,654,576 in disgorgement, and USD 696,314 in prejudgment interest to be paid in two installments over one year.  The company also agreed to implement enhancements to its compliance program and internal controls, to report periodically to the agencies regarding its compliance efforts and to cooperate with the agencies' ongoing investigations.  <br /><br />On 11 October 2013, Alain Riedo was charged in San Diego with nine counts of violating the FCPA, conspiracy, falsifying records, and evading Maxwell's internal controls.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Based on court documents, it seems likely that at least one Maxwell officer or manager will face FCPA charges.  The DOJ and SEC's investigation into other wrongdoers connected to the matter remains ongoing.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=819">Maxwell Technologies - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=1054">Maxwell Technologies - SEC Form 8-K (July 29, 2010)</a></p><p><a href="file.asp?id=1055">Maxwell Technologies - SEC Form 8-K (July 30, 2010)</a></p><p><a href="file.asp?id=1324">DOJ Press Release: January 31, 2011 (Maxwell Technologies Inc. Resolves Foreign Corrupt Practices Act Investigation and Agrees to Pay $8 Million Criminal Penalty)</a></p><p><a href="file.asp?id=1325">SEC Litigation Release: January 31, 2011 (SEC Charges Maxwell Technologies Inc. for Bribery in China - Maxwell to Pay Over $6.3 Million in Disgorgement and Interest)</a></p><p><a href="file.asp?id=1326">Complaint: SEC v. Maxwell Technologies Inc. (January 31, 2011)</a></p><p><a href="file.asp?id=1334">Criminal Information: U.S. v. Maxwell Technologies, Inc. (January 31, 2011)</a></p><p><a href="file.asp?id=1335">Deferred Prosecution Agreement: U.S. v. Maxwell Technologies, Inc. (January 31, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

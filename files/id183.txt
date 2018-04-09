@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192300ro054">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923003b5m2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AVON PRODUCTS INC.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(183)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192300ggg3d" width="415" height="61" /></div>
+    
+        <h1>AVON PRODUCTS INC.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Avon Products, Inc. ("Avon")<br />Avon Products China ("Avon China"), subsidiary of Avon
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Direct seller of cosmetics and beauty-related items
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Japan<br />Unspecified<br />Argentina<br />Brazil<br />China<br />India<br />Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In February, 2011, Avon first disclosed an internal investigation into possible Foreign Corrupt Practices Act ("FCPA") violations in China to the U.S. Securities and Exchange Commission (“SEC”) and U.S. Department of Justice (“DOJ”).  In its SEC Form 10-K filed on February 24, 2011, the company stated that the internal investigation had begun in June 2008.  Avon’s internal investigation ultimately expanded beyond China, with the assistance of outside counsel, to additional jurisdictions, including but not limited to Japan, Argentina, Brazil, India and Mexico.  On 1 August 2012, Avon announced that it was negotiating a settlement with U.S. authorities.<br /><br />Media reports suggested that Avon may have uncovered millions of dollars in questionable payments to officials in the listed countries.  The company stated that it was conducting compliance reviews regarding possible violations of the FCPA and related U.S. and foreign laws in a number of countries, which were selected to represent different geographic segments where the company operates.  Avon asserted, in 2011, that its investigation was focused on expenses and books and records processes, specifically as related to travel, entertainment, gifts, use of third-party vendors and consultants and related due diligence, joint ventures and acquisitions, and payments to third-parties.  In particular, the company was reviewing those processes in connection with business dealings from as early as 2004, with foreign governments and their employees.  Avon’s Senior Vice President, Western Europe, Middle East & Africa, Asia Pacific and China was placed on administrative leave in connection with the internal investigation relating to the China operations.<br /><br />On 26 October 2011, the SEC issued a subpoena, specifically requesting a 2005 internal audit report. The audit is alleged to have found several hundred thousand dollars in questionable payments to Chinese officials and third-party consultants in 2005. It came as Avon was pursuing a license to conduct door-to-door sales in China. Some of the payments allegedly were recorded on invoices as gifts for government officials.  The 2005 audit report is alleged to contradict the Company’s statement that it uncovered the potential violations in 2008.<br /><br />According to the SEC’s complaint filed in U.S. District Court for the Southern District of New York on 17 December 2014, the improper payments occurred from 2004 to 2008.  Avon management allegedly learned about potential FCPA problems at the subsidiary through an internal audit report in late 2005.  Avon management consulted an outside law firm, directed that reforms be instituted at the subsidiary, and sent an internal audit team to follow up.  Ultimately, however, no such reforms were allegedly instituted at the Chinese subsidiary.  Avon allegedly did not begin an internal investigation in 2008 after its CEO received a letter from a whistleblower.<br /><br />According to the SEC's Complaint, near the end of 2005, an Avon internal audit team reported potential issues concerning things of value provided to Chinese government officials. However, Avon allegedly failed to implement remedial measures sufficient to address the issues. Similar issues related to Avon China were allegedly raised at the end of 2006.  According to the SEC's complaint, responsive remedial measures were again not implemented.  The SEC alleged that Avon’s books and records failed to accurately record the details and purpose of the payments, and, that payments were concealed by falsely recording the transactions as employee business expenses or as reimbursement of a third-party vendor. <br /><br />According to the SEC's complaint: <br /><br />- Avon China provided cash and things of value, including gifts, travel, and entertainment, to various Chinese government officials, including government officials responsible for awarding a test license, and subsequently a direct sales business license, that would allow the company to utilize direct door-to-door selling in China.  <br /><br />- Avon China adopted an internal "no penalty policy" and  provided cash and things of value to Chinese government officials to avoid fines and other penalties in order to maintain a good corporate image. <br /><br />- Avon China paid a third-party consultant for purportedly legitimate interactions with government officials, even though Avon China management allegedly knew the consultant's invoices were often false and could not point to legitimate services provided by the consultant. <br /><br />- At times, Avon China made payments to suppress negative news in state-owned media and to obtain competitor information. <br /><br />- Avon China provided cash to government officials on behalf of other Avon subsidiaries in China. <br /><br />Representative Gifts, Travel and Hospitality:<br /><br />(1) Gifts totaling USD $400,000, in addition to at least USD $1.7 million worth of Avon products. Approximately USD $70,000 to USD $90,000 in tickets or corporate boxes at the China Open tennis tournament, given to AIC and other government officials in 2004 and 2005 "to thank them for their support." During these years, Avon Products China was a corporate sponsor of the tournament and received the tickets as part of that sponsorship. Avon China also provided government officials with gifts that included Louis Vuitton merchandise, Gucci bags, and Tiffany pens. <br /><br />(2) USD $93,000 for an eighteen-day, all-expenses-paid trip to the United States by Guangdong Food and Drug Administration officials, in December 2005 and January 2006, that included one half-day of visiting Avon's research facilities in Suffern, NY.<br /><br />(3) USD $328,000 for three-to-five days of travel by more than 200 AIC officials to visit Avon China's Guangzhou property, with one half-day at that property and the remainder of the time spent touring resort areas in southern China. <br /><br />(4) USD $23,000 for travel and expenses for government journalists to attend the ceremony at which Avon China launched its direct selling test.<br /><br />(5) USD $22,000 for a trip by a provincial governor to Hong Kong without any Avon business purpose.  Avon China also sponsored trips of AIC officials to Europe during this period. However, no records can be located that show the expenses for these trips. <br /><br />(6) On occasion, an AIC official would request that Avon China sponsor an activity in lieu of paying a fine related to the direct selling or Beauty Boutique business.  <br /><br />(7) Rather than having a news story appear in the Economic Information Daily alleging that Avon China had unlawfully recruited students to be sales promoters, Avon China, at the behest of the publication's editor, paid USD $81,000 to sponsor an article<br />contest at that publication. <br /><br />(8) Employees at Avon China also made payments to state-owned media to purchase advertising, in order to avoid negative news articles. During the relevant period, Avon China made approximately 16 purchases of advertising totaling USD $41,000 to avoid negative press. <br /><br />(9) Employees of Avon China made a cash payment of approximately USD $12,500 to an AIC official in Hunan Province to avoid a fine. The official told Avon China that the AIC did not have a bank account and directed Avon China to wire the funds to his personal bank account, structured in several deposits to avoid Chinese bank reporting regulations. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD $8 million</p>
+</td>
+<td>
+<p>Awarded a test license and the first official direct selling business license in China&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The company reported that the internal investigation was triggered by an employee who sent a letter in 2008 to Chief Executive Andrea Jung alleging improper spending on travel for Chinese government officials.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        U.S.<br /><br />On 26 October 2011, the Company received a subpoena from the SEC.  On 13 February 2012, the Department of Justice submitted information to a grand jury focusing on whether Avon executives ignored the company's internal audit findings for 2005, indicating that employees in China may have bribed officials there, or actively hid the audit findings.<br /><br />In a press release SEC Form 8-K dated 5 October 2012, the Company announced Andrea Jung, Executive Chairman of the Company, would step down as Executive Chairman and as a member of the Board of Directors on 31 December 2012, noting that Fred Hassan would replace her and that Jung would become Senior Advisor to the Board.  Vice chairman Charles Cramb was fired on 31 January 2012 in connection with the allegations of bribery.<br /><br />In a public filing, SEC Form 10-Q, dated 1 August 2013, the Company announced that it had substantially completed its internal investigation and compliance reviews, and unsuccessfully tried to settle for USD $12 million with the SEC and DOJ.  <br /><br />As of February 2014, Avon had spent USD $340 million in legal and other costs associated with its internal investigation. <br /><br />On 17 December 2014, the SEC charged Avon with violating the FCPA by failing to put controls in place to detect and prevent payments and gifts to Chinese government officials from employees and consultants at its subsidiary in China.  Avon agreed to pay a total of USD $135 million to settle the SEC’s charges and a parallel case announced  by the DOJ and the U.S. Attorney’s Office for the Southern District of New York.  <br /><br />Avon, which neither admitted nor denied the allegations, agreed to pay disgorgement of $52,850,000 in benefits resulting from the alleged misconduct plus prejudgment interest of USD $14,515,013.13 for a total of more than USD $67.36 million to the SEC.  In the parallel DOJ criminal matter, Avon entities agreed to pay USD $67,648,000 in penalties.  Avon also is required to retain an independent compliance monitor to review its FCPA compliance program for a period of 18 months, followed by an 18-month period of self-reporting on its compliance efforts.<br /><br />Civil Suits<br /><br />On 16 March 2012, Avon shareholders filed a class action lawsuit alleging that Avon’s corporate culture was “actively hostile to effective compliance measures.”  The complaint alleged that "Avon executives bribed government officials responsible for China's ‘direct sales’ licensing process in 2005 and/or 2006," that Avon executives "(1) paid third-party intermediaries substantial sums to schedule meetings between [Avon’s former chief executive officer and chairman of the board, Andrea] Jung and high-level Chinese government ministers; (2) repeatedly treated Chinese licensing officials to 'dinner and karaoke'; and (3) paid Chinese government officials and other employees to attend some Avon press conferences."  The complaint also alleged that, in 2006, "a former Avon auditor revealed that his or her supervisor, Avon's Global Internal Audit Director, Fabian LaPresa ('LaPresa'), received additional severance benefits – which only [former vice chairman, Charles] Cramb could have approved – after LaPresa threatened senior management that he would leak to the SEC an internal audit report in his possession reflecting bribes Avon executives made to Chinese government officials."<br /><br />In another lawsuit, shareholder-plaintiffs filed a motion in court to be allowed to examine Avon's books and records to identify "mismanagement and breaches of fiduciary duties" by the Board and executives in connection with the China bribery.
+		<h2>COMPLIANCE MONITOR</h2>
+        Yes, for a period of 18 months
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>A delayed response to potential FCPA violations may result in additional years of misconduct and cost companies greater fines.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=792">Avon - SEC Form 10-K (2009)</a></p><p><a href="file.asp?id=831">Avon - SEC Form 10-Q (Mar. 31, 2010)</a></p><p><a href="file.asp?id=1355">Avon - SEC Form 10-K (24 Feb. 2011)</a></p><p><a href="file.asp?id=1627">Avon - SEC Form 10-Q (27 Oct. 2011)</a></p><p><a href="file.asp?id=1742">Avon - SEC Form 8-K (27 Oct. 2011)</a></p><p><a href="file.asp?id=1743">Avon - Class Action Complaint (6 July 2011)</a></p><p><a href="file.asp?id=1744">Avon - Amended Complaint in Class Action (16 March 2012)</a></p><p><a href="file.asp?id=1906">Avon - SEC Form 10-Q (1 August 2012)</a></p><p><a href="file.asp?id=1995">Avon - Press Release (5 October 2012), Executive Chairman Andrea Jung to Step Down from Board at Year End</a></p><p><a href="file.asp?id=1996">Avon - SEC Form 8-K (5 October 2012)</a></p><p><a href="file.asp?id=2390">Avon - SEC Form 10-Q (1 August 2013)</a></p><p><a href="file.asp?id=2607">SEC Compliant Avon (12 17 2014)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #666633;">Retail</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

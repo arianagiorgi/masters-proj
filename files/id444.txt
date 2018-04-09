@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1926499qk3s">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926495833b" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TULLOW OIL </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(444)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19264961x6x" width="415" height="61" /></div>
+    
+        <h1>TULLOW OIL </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tullow Oil plc<br />Tullow Uganda Operations Pty Ltd.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil and gas exploration, development and production
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Uganda<br /><br />In a special parliamentary session held in October 2011, MP Gerald Kuruhanga accused Prime Minister Amama Mbabazi, Minister of Foreign Affairs Sam Kutesa, and the Minister of Internal Affairs, Hillary Onek, of receiving millions of dollars in bribes from executives at Tullow Oil.  <br /><br />Kutesa is alleged to have received EUR 17 million through a company owned by him, East African Development Company of Kenya.  The funds are alleged to have been transferred from Tullow's bank account in Malta via a bank in Dubai to Kutesa's account in at EFK Bank in Zurich.<br /><br />Onek, who was Minister of Energy at the time, is alleged to have received three transfers of EUR 500,000 in June and July of 2010 to an account in Dubai, and two additional transfers of EUR 1.5 million and EUR 3 million in July and August 2010.<br />Allegations against Mbabazi, who was Minister of Security at the time of the alleged bribery, are more vague.<br /><br />Other allegations include involvement by the prime minister's daughter, Nina Mbabazi, and a company called Mineral Services Ltd, in corrupt contracts with Tullow.   <br /><br />In April 2012, Tullow publicly denied the allegations in a meeting with parliamentarians and on its website, claiming that the accusations were based on forged documents. Tullow is also apparently in possession of an email from the Serious Fraud Office in which the SFO declines to investigate the allegations.<br /><br />Guinea<br /><br />On 13 March 2014, Tullow declared force majeure on its offshore exploration block in Guinea following the disclosure that its partner, U.S.-based Hyperdynamics Corporation, is under investigation by the U.S. Department of Justice ("DOJ") and U.S. Securities and Exchange Commission ("SEC") for possible violations of the Foreign Corrupt Practices Act ("FCPA").  In November 2013, Hyperdynamics disclosed that it received a subpoena from the DOJ with respect to some charitable donations that may have implicated the FCPA.  In a statement made to Oil Patch Laws, Tullow said it "has decided that it cannot proceed with activities on the [exploration] license until these issues are resolved."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Approximate Alleged Payments to Foreign Officials<br /></strong></td>
+<td style="text-align: center;" width="50%">&nbsp;<strong>Business Advantage Allegedly Obtained<br /></strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Some of the allegations were brought following the disclosure of documents from the U.S. embassy voicing concerns about possible bribery involving specific government ministers.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing.<br /><br />Tullow responded to the October 2011 accusations in Parliament by submitting documents in response to the Parliamentary Ad-Hoc Committee's requests.  Later, the Company stated that the documents purporting to show money transfers to the three three officials through bank accounts in Malta and the UK were forged.  The Company also submitted statements by the Maltese and London police saying that the documents were forged; it also submitted a letter from the SFO stating that the SFO had elected not to investigate the allegations against Tullow.  A press statement was made available on Tullow's website in April 2012.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2039">Tullow - Written Submissions of Tullow Oil to Ad Hoc Committee, Uganda (11 April 2012)</a></p><p><a href="file.asp?id=2040">Tullow - Tullow Press Statement (April 2012), Ad Hoc Committee</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

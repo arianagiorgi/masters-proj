@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192420k94z4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924209gi5r" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MIAO KEYIN</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(272)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192420wj50e" width="415" height="61" /></div>
+    
+        <h1>MIAO KEYIN</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Ethiopia: Revenues and Customs Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Miao Keyin (Chinese businessman working in Ethiopia; employer not named)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Import of goods for a blanket factory
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        China
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Ethiopia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        A Chinese businessman, Miao Keyin, was arrested and charged by the Ethiopian Revenues and Customs Authority ("ERCA") for bribing an Ethiopian customs official to avoid paying the appropriate duty on six containers of cargo being imported for a blanket factory.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Ethiopian Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ETB 200,000 (approximately USD 14,700)</p>
+</td>
+<td>
+<p>Clearing goods through customs without paying the appropriate duty of ETB 1.6 billion</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        According to press reports, on 27 March 2009, the 10th Criminal Bench at the Federal First Instance Court in Ethiopia found Miao Keyin guilty on two counts of importing undeclared goods and of bribing a customs officer.  He was sentenced to a 15-year prison term.  The company he worked for was unnamed.  <br /><br />The court also found Mesfin Zebene, an Ethiopian customs official, guilty of attempt to receive bribes and for failure to report to superiors on the inconsistency of the goods brought in and what was declared to customs on the commercial invoices.  He was sentenced to a 10-year prison term.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>allAfrica.com: "Ethiopia: Federal Court Hands Chinese 15 Years Sentence for Customs Fraud" (6 April 2009)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

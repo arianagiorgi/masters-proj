@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192539nol8z">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192539xkxh9" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ORACLE CORPORATION</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(365)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192539n957d" width="415" height="61" /></div>
+    
+        <h1>ORACLE CORPORATION</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Oracle Corporation ("Oracle")<br />Oracle India Private Limited ("Oracle India"), Oracle's Indian subsidiary
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Software development and sales and some computer hardware
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Redwood City, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />India<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        India Allegations<br /><br />Specific allegations contained in the SEC's complaint claim that Oracle India negotiated contracts with entities of the Indian government for the purchase of software licenses and services.  Oracle India then employed local distributors with whom the government entities would place their orders pursuant to the negotiations.  The distributors would buy the licenses directly from Oracle and then resell them to the government customers at the higher prices that had been negotiated through Oracle India.  On 14 occasions, Oracle India employees, and set aside the margin.  Oracle India employees would then instruct the distributors to use the set aside funds to pay third parties, some of whom were not on Oracle's approved vendor list, and some of which did not exist as legitimate businesses.<br /><br />According to the complaint, Oracle should have recorded the set aside funds as assets in Oracle's corporate books, but Oracle India did not record the income properly as prepaid marketing expenses.  The complaint states that Oracle India's distributors were paid a total of at least USD 6.7 million for these contracts, USD 4.5 of which was recorded as revenue for Oracle, leaving USD 2.2 million in set aside funds.<br /><br />An example described in the complaint involved a USD 3.9 million contract with the Ministry of Information Technology and Communications.  The distributor only used USD 2.1 million of this amount to pay Oracle India, setting aside USD 1.7 million for later use as "marketing development" funds.  The distributor kept USD 151,000 as payment for its services.<br /><br />The complaint notes that the procedure used violated Oracle's internal corporate policies.<br /><br />A few months later, an Oracle India submitted eight bogus invoices to the distributor, requesting the payment of amounts ranging between USD 110,000 and USD 396,000 to third party vendors.  These payments were made, although the invoices were false and the third party vendors did not provide any goods or services.<br /><br />The complaint suggests that the funds paid pursuant to these invoices "created the potential that they could be used for bribery or embezzlement."  The complaint further alleges that this potential for corruption was created because Oracle lacked the proper controls to prevent Oracle India's employees from creating the set aside funds.  The complaint states that Oracle knew that "distributor discounts created a margin of cash from which distributors received payments for their services,"  but that prior to 2009, the Company failed to compare the distributors' margins against the end user prices.  The complaint also alleges that the Company failed to "seek transparency in or audit third party payments made by distributors on Oracle India's behalf."<br /><br />Other Allegations<br /><br />Press reports suggested in 2011 that the Department of Justice is investigating the company's software sales to governments in various countries West Africa.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Company discovered irregularities in India while conducting routine audits of its Asia division.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        India Allegations<br /><br />The SEC filed a complaint against Oracle in the U.S. District Court for the Northern District of California on 16 August 2012, alleging that between 2005 and 2007, employees of Oracle India set aside some of the proceeds from sales of software to the government of India, allowing the money to be used for bribery or embezzlement.  Over a dozen transactions were structured in this way, and USD 2.2 million were set aside.<br /><br />The senior Channel Sales Manager for Oracle India resigned in November 2007.  Following an audit by Oracle's  Asia Division, four other Oracle India employees were dismissed for allowing or actively participating in Oracle India to set aside funds through its distributors.<br /><br />Once the problem of the “parked funds” was discovered by Oracle, the Company conducted additional due diligence on its partner transactions in India, creating greater transparency; the Company terminated its relationship with the suspect distributor, and instructed other distributors not to allow funds to be set aside.  Oracle also enhanced its anti-corruption training programs.<br /><br />The SEC requests that the court enjoin further books and records violations by the Company, and that Oracle be made to pay a civil monetary penalty pursuant to Section 21(d)(3) of the Exchange Act [15 U.S.C. Section 78u(d)(3)].<br /><br />On the same day the SEC Complaint was filed, the Company agreed to pay a civil penalty of USD 2 million to settle the charges.  Oracle neither admitted nor denied the allegations.<br /><br />In announcing the settlement, the SEC noted, "The settlement takes into account Oracle's voluntary disclosure of the conduct in India and its cooperation with the SEC's investigation, as well as remedial measures taken by the company, including firing the employees involved in the misconduct and making significant enhancements to its FCPA compliance program."<br /><br />Other Allegations<br /><br />The investigation is ongoing.  Oracle has yet to make a public announcement confirming or denying the press reports.  For example, in Oracle's SEC Form 10-Q filed on 23 March 2012, there is no mention of an FCPA investigation.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1937">Oracle - SEC Press Release (16 August 2012)</a></p><p><a href="file.asp?id=1938">Oracle - SEC Complaint (16 August 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

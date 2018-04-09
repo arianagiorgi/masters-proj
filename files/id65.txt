@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184256r8kn6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842565r1u5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHERING-PLOUGH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(65)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18425646b45" width="415" height="61" /></div>
+    
+        <h1>SCHERING-PLOUGH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schering-Plough Corporation ("Schering-Plough")<br />Schering-Plough Poland (branch office of Schering-Plough Central East AG, a wholly-owned Swiss subsidiary of Schering-Plough) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of oncology products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kenilworth, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Poland<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1999 until 2002, the manager of Schering-Plough Poland's oncology unit allegedly made a series of payments totaling approximately USD 76,000 to the Chudow Castle Foundation ("the Foundation").  These payments were allegedly made at the request of the Director of Silesian Health Fund, one of 16 regional government health authorities in Poland, who founded and served as president of the Foundation.  <br /><br />According the SEC complaint, the Schering-Plough Poland manager arranged a total of 13 payments, some of which were structured to be below the manager's approval level.  In addition, the manager provided false justifications for the donations on documents he submitted to Schering-Plough's finance department, including describing the payments as covering fight against viral hepatitis, financing screening examinations to detect skin cancer, and support actions of Foundation in preventing infectious diseases of the liver.  In fact, the Foundations mission was to restore castles and other historic sites in Silesia and it did not provide health care services or medical treatments.  In addition, the SEC stated that while these payments were classified as donations on the Company's books and records, they were really dues that were required in order to obtain the Director's assistance. <br /><br />According to the SEC, Schering-Plough Poland made more payments to the Foundation than to any other organizations during the time period in question.  At the same time, the Company noticed a substantial increase in sales of two of its oncology products, Intron A and Temodal.  By 2002, 53 percent of Intron A and 40 percent of Temodal sales in Poland were in Silesia. <br /><br />The SEC noted that Schering-Plough's policies and procedures did not require due diligence on organizations prior to making charitable contributions.  In addition, the SEC stated that Schering-Plough should have known that there were potential FCPA issues with payments to the Foundation because: (i) the Foundation is not a healthcare related entity; (ii) the amount of payments to the Foundation in relation to Schering-Plough's budget for donations; (iii) the structuring of the payments, which allowed the manager to exceed his spending allowance; and  (iv) the Director was both the founder of the foundation and a Polish government official. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Amount of contributions to the Chudow Castle Foundation</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Approximately USD 76,000</p>
+</td>
+<td>
+<p style="text-align: center;">Increased sales of two oncology products in Silesia</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified<br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 June 2004, without admitting or denying the SEC's allegations, Schering-Plough consented to the entry of a cease-and-desist order enjoining Schering-Plough from committing future violations of the FCPA's books and records and internal controls provisions.  Schering-Plough also agreed to appoint an independent consultant and to pay a USD 500,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Charitable donations can form the basis for an FCPA violation.</li><li>Parent companies' responsibilities under the FCPA's recordkeeping provisions extend to the books and records of their subsidiaries.</li><li>FCPA compliance policies and procedures should require employees to conduct due diligence prior to making promotional or charitable donations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=246">SEC Litigation Release: "SEC Files Enforcement Action Against Schering-Plough Corporation for Foreign Corrupt Practices Act Violations" (9 June 2004)</a></p><p><a href="file.asp?id=247">Complaint: SEC v. Schering-Plough Corporation (9 June 2004)</a></p><p><a href="file.asp?id=248">Cease-and-Desist Order: In the Matter of Schering-Plough Corporation (9 June 2004)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #000000;">Charities</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921135537k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192113n29mp" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHERING-PLOUGH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(65)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192113a01n3" width="415" height="61" /></div>
+    
+        <h1>SCHERING-PLOUGH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schering-Plough Corporation ("Schering-Plough")<br />Schering-Plough Poland (branch office of Schering-Plough Central East AG, a wholly-owned Swiss subsidiary of Schering-Plough) 
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of oncology products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Kenilworth, New Jersey, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Poland<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From 1999 until 2002, the manager of Schering-Plough Poland's oncology unit allegedly made a series of payments totaling approximately USD 76,000 to the Chudow Castle Foundation ("the Foundation").  These payments were allegedly made at the request of the Director of Silesian Health Fund, one of 16 regional government health authorities in Poland, who founded and served as president of the Foundation.  <br /><br />According the SEC complaint, the Schering-Plough Poland manager arranged a total of 13 payments, some of which were structured to be below the manager's approval level.  In addition, the manager provided false justifications for the donations on documents he submitted to Schering-Plough's finance department, including describing the payments as covering fight against viral hepatitis, financing screening examinations to detect skin cancer, and support actions of Foundation in preventing infectious diseases of the liver.  In fact, the Foundations mission was to restore castles and other historic sites in Silesia and it did not provide health care services or medical treatments.  In addition, the SEC stated that while these payments were classified as donations on the Company's books and records, they were really dues that were required in order to obtain the Director's assistance. <br /><br />According to the SEC, Schering-Plough Poland made more payments to the Foundation than to any other organizations during the time period in question.  At the same time, the Company noticed a substantial increase in sales of two of its oncology products, Intron A and Temodal.  By 2002, 53 percent of Intron A and 40 percent of Temodal sales in Poland were in Silesia. <br /><br />The SEC noted that Schering-Plough's policies and procedures did not require due diligence on organizations prior to making charitable contributions.  In addition, the SEC stated that Schering-Plough should have known that there were potential FCPA issues with payments to the Foundation because: (i) the Foundation is not a healthcare related entity; (ii) the amount of payments to the Foundation in relation to Schering-Plough's budget for donations; (iii) the structuring of the payments, which allowed the manager to exceed his spending allowance; and  (iv) the Director was both the founder of the foundation and a Polish government official. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Amount of contributions to the Chudow Castle Foundation</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Approximately USD 76,000</p>
+</td>
+<td>
+<p style="text-align: center;">Increased sales of two oncology products in Silesia</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified<br /><br />
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 June 2004, without admitting or denying the SEC's allegations, Schering-Plough consented to the entry of a cease-and-desist order enjoining Schering-Plough from committing future violations of the FCPA's books and records and internal controls provisions.  Schering-Plough also agreed to appoint an independent consultant and to pay a USD 500,000 civil penalty. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Charitable donations can form the basis for an FCPA violation.</li><li>Parent companies' responsibilities under the FCPA's recordkeeping provisions extend to the books and records of their subsidiaries.</li><li>FCPA compliance policies and procedures should require employees to conduct due diligence prior to making promotional or charitable donations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=246">SEC Litigation Release: "SEC Files Enforcement Action Against Schering-Plough Corporation for Foreign Corrupt Practices Act Violations" (9 June 2004)</a></p><p><a href="file.asp?id=247">Complaint: SEC v. Schering-Plough Corporation (9 June 2004)</a></p><p><a href="file.asp?id=248">Cease-and-Desist Order: In the Matter of Schering-Plough Corporation (9 June 2004)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #000000;">Charities</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

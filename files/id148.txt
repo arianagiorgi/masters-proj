@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19222970u48">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192229z613v" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TECHNIP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(148)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192229sfa3f" width="415" height="61" /></div>
+    
+        <h1>TECHNIP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />France: Investigating Magistrate<br />Nigeria: Economic and Financial Crimes Commission<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Technip S.A. ("Technip")<br />KBR<br />JGC Corporation<br />Snamprogetti Netherlands B.V.
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global engineering, construction and services company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Paris, France
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nigeria<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Technip was part of the four-company "TSKJ" joint venture (comprised of Technip of France; Snamprogetti Netherlands B.V. of the Netherlands; KBR of the U.S.; and JGC Corporation of Japan).  TSKJ allegedly paid hundreds of millions in bribes to Nigerian officials between 1995 and 2004 in order to secure four engineering, procurement and construction contracts for the development of liquefied natural gas facilities on Bonny Island in Nigeria.  The joint venture operated in Nigeria through three Portuguese special purpose corporations.  The value of the contracts to TSKJ was over USD 6 billion.   <br /><br />Technip allegedly authorized the joint venture's hiring of two agents - Jeffrey Tesler and Japanese trading company Marubeni Corporation - who allegedly made improper payments to various Nigerian government officials, including top-level executive branch officials.  The joint venture allegedly paid over USD 180 million to the two agents during the course of the bribery scheme.  <br /><br />Technip is a U.S. issuer by virtue of its American Depository Receipts ("ADRs"), which were traded on the New York Stock Exchange from 2001 until 2007.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Nigerian Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong><br /></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;A portion of over USD 180 million paid to two agents</td>
+<td style="text-align: center;">Four EPC contracts, valued at USD 6 billion</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, the Nigeria LNG bribery scandal first came to light during the course of investigations by French prosecutors into Elf-Aquitaine's operations in Asia and Africa.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United States <br /><br />In February 2009 Halliburton and KBR settled FCPA charges related to its involvement in the scheme, resulting in USD 579 million in combined penalties.  The DOJ and SEC have been investigating other joint venture partners since.  <br /><br />On 12 February 2010, Technip announced in its fourth quarter earnings release that the company had reserved EUR 245 million for an exceptional charge related to a potential settlement of FCPA offenses with the DOJ and SEC in connection with its role in the TSKJ joint venture in Nigeria (subject of the Halliburton/KBR settlement in February 2009).  According to Technip, the EUR 245 million reflects the estimated costs of resolution of the matter based on the current status of the ongoing discussions.  The company stated that it did not expect a criminal conviction for its role in the joint venture.<br /><br />On 28 June 2010, the Department of Justice filed a deferred prosecution agreement and two-count information against Technip in U.S. District Court for the Southern District of Texas, charging the company with one count of conspiracy and one count of violating the FCPA.  Under the terms of the two-year deferred prosecution agreement, Technip agreed to pay a USD $240 million criminal fine, to retain an independent compliance monitor for a two-year period, and to cooperate with the DOJ in its ongoing investigations.<br /><br />On the same day, Technip reached a settlement of a related civil complaint with the SEC.  Without admitting or denying the SEC's allegations, Technip agreed to the entry of a court order permanently enjoining it from future violations of the FCPA's anti-bribery, books and records, and internal controls provisions.  Technip agreed to pay USD 98 million in disgorgement of profits and pre-judgment interest.  <br /><br />Nigeria<br /><br />The press reported that Nigeria's Economic and Financial Crimes Commission ("EFCC") had arrested ten Halliburton employees in Nigeria during a raid of the offices of Halliburton Energy Services Nigeria Limited in Lagos on 25 November 2010.   The EFCC also arrested one employee each from Saipem Contracting Nigeria and Technip Offshore Nigeria.  On 7 December 2010, the EFCC reportedly filed corruption charges against Halliburton, former U.S. Vice President Dick Cheney (who was the CEO of Halliburton during the period at issue), Albert Stanley (former CEO of KBR), David Lesar (current CEO of Halliburton) and William Utt (current CEO of KBR).  Technip, Snamprogetti and JGC Corp. were reportedly also charged on the same day.  The case number is Federal Republic of Nigeria v. Halliburton and others, CV/435/10, High Court of Justice, Abuja Judicial Division (Abuja).<br /><br />According to press reports, on 15 December 2010, Halliburton and the EFCC reached a USD $250 million settlement agreement to resolve the charges.  Halliburton will pay USD $120 million in penalties and USD $130 million in frozen assets in Switzerland will be repatriated to Nigeria.  In exchange, Nigeria dropped the charges.  Former U.S. President George H. W. Bush and former Secretary of State James Baker reportedly assisted with the negotiations.  <br /><br />On 20 December 2010, Saipem announced that Snamprogetti had entered into a settlement agreement and non-prosecution agreement with the Federal Government of Nigeria to resolve the investigation.  Snamprogetti agreed to the payment of a criminal penalty of USD $30 million, along with USD $2.5 million in reimbursement for legal costs and expenses incurred by the Nigerian authorities.  Nigeria agreed to dismiss all charges against Snamprogetti and to renounce to any civil claims and criminal charges in any jurisdiction.<br /><br />France<br /><br />According to several news sources, on 30 January 2013, Technip's former General Manager, Jean-Marie Deseilligny, was found guilty by a Paris court in relation to the Bonny Island affair and ordered to pay a EUR 10,000 fine.  That same day, Technip's former commercial manager for Africa, Etienne Gory, was sentenced by the Paris court to a EUR 5,000 fine.  These fines fell short of the EUR 100,000 fine that prosecutors had reportedly requested.<br /><br />African Development Bank<br /><br />On 21 March 2014, the African Development Bank levied a USD $5.3 million fine against Technip for corrupt practices in connection to contracts for natural gas production plants on Bonny Island, Nigeria from 1995 until 2004.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ and SEC will pursue FCPA violations committed by U.S. and foreign companies alike.</li><li>Information obtained by the DOJ and SEC from one cooperating company will likely be utilized to investigate and prosecute other entities implicated in the same or related conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=690">Technip Press Release: "Charge for Potential Resolution of the TSKJ Nigeria Matter in the US; Q4-09 Operating Performance Above Expectations" (12 February 2010)</a></p><p><a href="file.asp?id=1011">DOJ Press Release: "Technip S.A. Resolves Foreign Corrupt Practices Act Investigation and Agrees to Pay $240 Million Criminal Penalty" (28 June 2010)</a></p><p><a href="file.asp?id=1012">SEC Litigation Release: "SEC Charges Technip with Foreign Bribery and Related Accounting Violations; Technip to Pay $98 Million in Disgorgement and Prejudgment Interest; Company Also to Pay a Criminal Penalty of $240 Million" (28 June 2010)</a></p><p><a href="file.asp?id=1013">Complaint: SEC v. Technip (28 June 2010)</a></p><p><a href="file.asp?id=1035">Consent and Final Judgment: SEC v. Technip (28 June 2010)</a></p><p><a href="file.asp?id=1038">Technip: Criminal Information (28 June 2010)</a></p><p><a href="file.asp?id=1037">Technip: Deferred Prosecution Agreement (28 June 2010)</a></p><p>Reuters: "Nigeria Detains 12 in Halliburton Bribery Case" (27 November 2010)</p><p>Bloomberg: "Nigeria in Negotiations With Technip, Eni and JGC to Settle Bribery Case" (7 December 2010)</p><p>Bloomberg: "Nigeria Files Bribery Charges Against Former U.S. Vice President Cheney" (7 December 2010)</p><p><a href="file.asp?id=2105">Bloomberg: "French Court Fines Two For Bribing Nigerians" (30 January 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

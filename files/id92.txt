@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1843212utpn">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184321311lx" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(92)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18432190a0t" width="415" height="61" /></div>
+    
+        <h1>AON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Financial Services Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Aon Corporation <br />Aon Limited (UK brokerage subsidiary of Aon Corporation)<br />Instituto Nacional de Seguros (state-owned insurance company in Costa Rica), ("INS")<br />Alexander Howden (UK brokerage acquired by Aon Limited in 1997)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Risk management and insurance brokerage
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Chicago, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bulgaria<br />Burma (Myanmar)<br />Bangladesh<br />Costa Rica<br />Egypt<br />Indonesia<br />Panama<br />United Arab Emirates<br />Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        UK Investigation<br /><br />The UK Financial Services Authority ("FSA") found that, between 14 January 2005 and 30 September 2007, Aon Limited failed to properly assess the risks involved in its dealings with overseas firms and individuals who helped it win business, and failed to implement effective controls to mitigate corruption risks.  <br /><br />Aon Limited was found to be in breach of Principle 3 of the Financial Services and Markets Act 2000 by failing to take reasonable care to organise and control its affairs responsibly and failing to implement adequate risk management systems.  In particular, the procedures in place did not require adequate levels of due diligence to be carried out before entering relationships or making payments to intermediaries.  <br /><br />Aon Limited failed to monitor its relationships with its intermediaries in respect of the specific risk of bribery.  Further, Aon Limited did not provide its staff in relevant business divisions with sufficient guidance and training on bribery and corruption risks in relation to dealing with intermediaries.  Aon Limited also failed to ensure that the committee appointed to oversee the relevant risks received adequate management information and/or routinely assessed whether bribery and corruption risks were being managed effectively.<br /><br />Prior to 2005, an Aon Limited predecessor company had been aware of the potential for inappropriate payments to be made.  In 2000 an Aon Limited predecessor had been fined GBP 300,000 and censured by the Lloyd's Disciplinary Board, which found that two predecessor companies had failed "to have adequate systems and procedures in place to prevent the matters … from occurring or to discover them when they did occur. The procedures for authorisation of payments were defective and the checks carried out by those signing the authorisation forms were inadequate."  As a result of the matters that were dealt with by the Disciplinary Board and other matters that had been discovered, Aon Limited did strengthen its compliance processes and procedures and provided some training.  However, the strengthened procedures and training proved to be inadequate.<br /><br />Aon Limited made various potentially inappropriate payments to a number of intermediaries amounting to USD 2.5 million and EUR 3.4 million during the period between January 2005 and the end of September 2007.  These payments related to the activities of Aon Limited as an insurance broker and, in particular, in relation to customers who were state owned and involved in obtaining insurance including in relation to energy and aviation risks. <br /><br />Aon Limited conducted an internal investigation and subsequently instructed outside accountants and lawyers to assist with a further investigation. <br /><br />Over the relevant period, the FSA recorded that 66 potentially inappropriate payments amounting to approximately USD 2.5 million and EUR 3.4 million may have been made to nine intermediaries.<br /><br />U.S. Investigation<br /><br />Concurrently, the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") investigated these allegations.  The U.S. investigation focused on Aon's United Kingdom subsidiary, Aon Limited, and how it administered certain training and education funds in connection with its reinsurance business with Instituto Nacional De Seguros (INS), Costa Rica's state-owned insurance company.  Between 1997 and 2005, Aon Limited used a significant portion of the funds to reimburse INS officials for non-training related activity, including travel with spouses to overseas tourist destinations, or for uses that could not be determined from Aon's books and records and which did not provide any business purpose for the expenditures. <br /><br />Aon's subsidiaries made over USD 3.6 million in improper payments to various parties between 1983 and 2007 as a means of obtaining or retaining insurance business in those countries. The complaint alleges that some of the improper payments were made directly or indirectly to foreign government officials who could award business directly to Aon subsidiaries, who were in position to influence others who could award business to Aon subsidiaries, or who could otherwise provide favorable business treatment for the company's interests. The complaint alleges that these payments were not accurately reflected in Aon's books and records, and that Aon failed to maintain an adequate internal control system reasonably designed to detect and prevent the improper payments.<br /><br />According to the Commission's complaint, the improper payments made by Aon's subsidiaries fall into two general categories: (i) training, travel, and entertainment provided to employees of foreign government-owned clients and third parties; and (ii) payments made to third-party facilitators. Aon subsidiaries made these payments in various countries around the world, including Costa Rica, Egypt, Vietnam, Indonesia, United Arab Emirates, Myanmar, and Bangladesh. The complaint alleges that Aon realized over USD 11.4 million in profits from these improper payments.<br /><br />In the Company's SEC form 10-K for 2011, filed on 24 February 2012, a statement describing the conclusion of the investigations is repeated:  <br /><br />"Following inquiries from regulators, the Company commenced an internal review of its compliance with certain U.S. and non-U.S. anti-corruption laws, including the U.S. Foreign Corrupt Practices Act ('FCPA'). In January 2009, Aon Limited, Aon's principal U.K. brokerage subsidiary, entered into a settlement agreement with the Financial Services Authority ('FSA') to pay a £5.25 million fine arising from its failure to exercise reasonable care to establish and maintain effective systems and controls to counter the risks of bribery arising from the use of overseas firms and individuals who helped it win business. On December 20, 2011, Aon entered into settlement agreements with the U.S. Department of Justice ('DOJ') and the U.S. Securities and Exchange Commission ('SEC'). Both settlements arose from and related to the making of improper payments, directly and through third parties, to government officials, the failure to maintain accurate books and records and the failure to maintain sufficient internal controls to prevent violations of the FCPA. The DOJ settlement involved a Non-Prosecution Agreement and also consisted of a monetary penalty in the amount of $1.8 million. The SEC settlement required Aon to pay a total of $14.5 million in disgorgement and prejudgment interest. Under the Non-Prosecution Agreement, Aon must bring to the DOJ's attention all criminal conduct by, or criminal investigations of, Aon or any of its senior managerial employees that comes to the attention of Aon or its senior management, as well as any administrative proceeding or civil action brought by any U.S. or foreign governmental authority that alleges fraud or corruption by or against Aon."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nine Intermediaries in&nbsp;Five Countries</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 2.5 million and EUR 3.4 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 7.1 million and EUR 1 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments by Aon Limited According to SEC Complaint</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 3.6 million&nbsp;</p>
+</td>
+<td>
+<p style="text-align: center;">USD 11.4 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Aon Limited, being a regulated entity under the UK's anti-money laundering legislation, is required to file Suspicious Activity Reports ("SARs") on discovering activities that fall within the definition of "money laundering."  The relevant payments were such that Aon Limited was required to make a SAR to the UK's Serious Organised Crime Agency ("SOCA").  The information contained within these disclosures was also disclosed to the FSA, by whom Aon Limited is regulated. <br /><br />Specifically, in June 2006, in connection with the departure of former brokers, Aon Limited became aware of a number of potentially inappropriate payments that may have been made in connection to its energy reinsurance business in Indonesia, and conducted an internal review of the matter.  The Indonesian payments were again been brought to Aon Limited's attention by the Indonesian authorities in April 2007.  Aon Limited then treated these payments as suspicious. <br /><br />After another group of suspicious transactions relating to business in Bahrain came to Aon Limited's attention in May 2007.  Aon Limited's Board then promptly reported the Bahrain and Indonesia payments to SOCA and the FSA. <br /><br />In January 2008, Aon Limited instructed a firm of accountants to conduct an extensive past payments review which covered all payments made by Aon Limited to overseas third parties between 1 January 2002 and 31 December 2007. This review identified a further number of payments made by Aon Limited to overseas third parties which were potentially inappropriate, some of which resulted in further notifications to SOCA. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />On 6 January 2009, the FSA issued a Final Notice and imposed a penalty of GBP 5.25 million on Aon Limited.  The FSA investigation was settled at an early stage, allowing for a 30% discount.  But for Aon Limited's cooperation and prompt settlement, the financial penalty that would have been imposed by the FSA would have been GBP 7.5 million.  <br /><br />The FSA recognized that Aon Limited's senior management had taken steps to mitigate the seriousness of its failings.  Aon Limited had promptly reported the matter to SOCA and the FSA after discovering two groups of potentially improper payments.  On discovery of the third case Aon Limited had established a dedicated steering committee which reported directly to its Board and this committee had overall responsibility for reviewing both the inappropriate payments and the systems and controls related to intermediaries.  Aon Limited had instructed a leading firm of accountants to review its systems and controls in place to control the payments to intermediaries.  Aon Limited implemented the short recommendations made by the external accountants.  Aon Limited also retained its law firms to carry out detailed investigations of potentially inappropriate payments and, where appropriate, had taken responsive action including termination or other disciplinary action against staff.  <br /><br />Aon Limited, in conjunction with Aon Corporation, designed and implemented a global anti-corruption program described by the FSA as a "model of best practices that other firms may wish to adopt."  Contained within that program was a general prohibition on the use of intermediaries whose only service was to obtain and retain business solely through client introduction in countries where the risk of corrupt practices was anything other than low.  Both Aon Limited and Aon Corporation have implemented robust risk based procedures to review all its existing and proposed relationships with intermediaries.  Further, both Aon Limited and Aon Corporation have taken significant actions to ensure a clear anti-corruption compliance culture within the business.  Top-down management-led initiatives designed to ensure a significant change in the culture of the organization globally have been implemented.  Both Aon Limited and Aon Corporation have also strengthened their processes and controls in relation to the use of intermediaries, and implemented other elements of a best practices compliance program, including customized enhanced training.<br /><br />United States<br /><br />In 2011, AON entered into a non-prosecution agreement with the DOJ and agreed to pay a USD 1.76 million penalty to resolve violations of the FCPA (see below).  Aon also reached a settlement with the SEC and agreed to pay approximately USD 14.5 million in disgorgement and prejudgment interest. <br /><br />Aon Corporation described the now concluded investigation by the DOJ and SEC as follows in its SEC Form 10-K filed on 25 February 2011: <br /><br />"Following inquiries from regulators, the Company commenced an internal review of its compliance with certain U.S. and non-U.S. anti-corruption laws, including the U.S. Foreign Corrupt Practices Act ('FCPA'). In January 2009, Aon Limited, Aon's principal U.K. brokerage subsidiary, entered into a settlement agreement with the Financial Services Authority ('FSA') to pay a £5.25 million fine arising from its failure to exercise reasonable care to establish and maintain effective systems and controls to counter the risks of bribery arising from the use of overseas firms and individuals who helped it win business. The U.S. Securities and Exchange Commission ('SEC') and the U.S. Department of Justice ('DOJ') continue to investigate these matters. Aon is fully cooperating with these investigations and has agreed with the U.S. agencies to toll any applicable statute of limitations pending completion of the investigations. Based on current information, the Company is unable to predict at this time when the SEC and DOJ matters will be concluded, or what regulatory or other outcomes may result."<br /><br />U.S. Enforcement Result for Costa Rica<br /><br />On 20 December 2011, Aon Corporation entered into a Non Prosecution Agreement ("NPA") with the DOJ, settling all claims regarding the company's conduct in Costa Rica.  The DOJ noted that it "enters into this Non-Prosecution Agreement based, in part, on the following factors: (a) Aon's extraordinary cooperation with the Department and the U.S. Securities and Exchange Commission ("SEC"); (b) Aon's timely and complete disclosure of the facts described in Appendix A as well as facts relating to Aon's improper payments in Bangladesh, Bulgaria, Egypt, Indonesia, Myanmar, Panama, the United Arab Emirates, and Vietnam that it discovered during its thorough investigation of its global operations; (c) the early and extensive remedial efforts undertaken by Aon, including the substantial improvements the company has made to its anti-corruption compliance procedures; (d) the prior financial penalty of £5.25 million paid to the United Kingdom's Financial Services Authority ("FSA") by Aon Limited, a U.K. subsidiary of Aon, in 2009, covering the conduct in Bangladesh, Bulgaria, Indonesia, Myanmar, the United Arab Emirates, and Vietnam; and (c) the FSA's close and continuous supervisory oversight over Aon Limited."<br /><br />The NPA stipulates that Aon pay a "substantially reduced" fine of USD 1,764,000, based on the DOJ's intention "to credit meaningfully Aon for its extraordinary cooperation with the Department, including its thorough investigation of its global operations and complete disclosure of facts to the Department, and its early and extensive remediation," taking into account also the prior assessment of a larger fine by the FSA in the UK for conduct in countries other than Costa Rica.  <br /><br />The duration of the NPA is two years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Full cooperation and early settlement with the FSA may result in a significant reduction in penalty imposed.</li><li>In the regulated world, if something goes wrong, the presumption of the regulator will be that the systems and controls designed to mitigate the risk of that happening are inadequate, and it will require proof of a well documented and impressive system to rebut that presumption.</li><li>The standard of compliance and training which has been adopted by Aon Limited, and approved by the FSA, is a good indication as to the level of adequate procedure which a business will need to have in place in order to be able to rely on the defence of adequate procedures to corporate offence within the UK's Bribery Act.</li><li>In determining what level of fine to impose, the FSA is required to consider all the relevant circumstances of the case, and may take into account: (i) deterrence; (ii) the nature, seriousness and impact of the breach in question; (iii) the extent to which the breach was deliberate or reckless; (iv) the size, financial resources and other circumstances of the firm; (v) the amount of benefit gained or loss avoided; (vi) conduct following the breach; and (vii) other action taken by the FSA (or a previous regulator).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=191">FSA Final Notice: 6 January 2009</a></p><p><a href="file.asp?id=588">Aon Press Release: 8 January 2009 (Aon Limited Confirms Settlement of GBP 5.25m with FSA)</a></p><p><a href="file.asp?id=589">FSA Press Release: 8 January 2009 (FSA fines Aon Limited GBP 5.25m for failings in its anti-bribery and corruption systems and controls)</a></p><p><a href="file.asp?id=775">Aon Corporation: SEC Form 10-K (26 Feb. 2010)</a></p><p><a href="file.asp?id=1387">Aon Corporation - SEC Form 10-K (25 Feb. 2011)</a></p><p><a href="file.asp?id=1668">Aon - DOJ Press Release (20 Dec 2011)</a></p><p><a href="file.asp?id=1669">Aon - SEC Litigation Release (20 Dec 2011)</a></p><p><a href="file.asp?id=1761">Aon - SEC Form 10-K (24 Feb. 2012)</a></p><p><a href="file.asp?id=1821">Aon - Non Prosecution Agreement (20 December 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192139uo07w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921391s1h2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AON</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(92)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192139qn578" width="415" height="61" /></div>
+    
+        <h1>AON</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />United Kingdom: Financial Services Authority<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Aon Corporation <br />Aon Limited (UK brokerage subsidiary of Aon Corporation)<br />Instituto Nacional de Seguros (state-owned insurance company in Costa Rica), ("INS")<br />Alexander Howden (UK brokerage acquired by Aon Limited in 1997)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Risk management and insurance brokerage
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Chicago, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bulgaria<br />Burma (Myanmar)<br />Bangladesh<br />Costa Rica<br />Egypt<br />Indonesia<br />Panama<br />United Arab Emirates<br />Vietnam<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        UK Investigation<br /><br />The UK Financial Services Authority ("FSA") found that, between 14 January 2005 and 30 September 2007, Aon Limited failed to properly assess the risks involved in its dealings with overseas firms and individuals who helped it win business, and failed to implement effective controls to mitigate corruption risks.  <br /><br />Aon Limited was found to be in breach of Principle 3 of the Financial Services and Markets Act 2000 by failing to take reasonable care to organise and control its affairs responsibly and failing to implement adequate risk management systems.  In particular, the procedures in place did not require adequate levels of due diligence to be carried out before entering relationships or making payments to intermediaries.  <br /><br />Aon Limited failed to monitor its relationships with its intermediaries in respect of the specific risk of bribery.  Further, Aon Limited did not provide its staff in relevant business divisions with sufficient guidance and training on bribery and corruption risks in relation to dealing with intermediaries.  Aon Limited also failed to ensure that the committee appointed to oversee the relevant risks received adequate management information and/or routinely assessed whether bribery and corruption risks were being managed effectively.<br /><br />Prior to 2005, an Aon Limited predecessor company had been aware of the potential for inappropriate payments to be made.  In 2000 an Aon Limited predecessor had been fined GBP 300,000 and censured by the Lloyd's Disciplinary Board, which found that two predecessor companies had failed "to have adequate systems and procedures in place to prevent the matters … from occurring or to discover them when they did occur. The procedures for authorisation of payments were defective and the checks carried out by those signing the authorisation forms were inadequate."  As a result of the matters that were dealt with by the Disciplinary Board and other matters that had been discovered, Aon Limited did strengthen its compliance processes and procedures and provided some training.  However, the strengthened procedures and training proved to be inadequate.<br /><br />Aon Limited made various potentially inappropriate payments to a number of intermediaries amounting to USD 2.5 million and EUR 3.4 million during the period between January 2005 and the end of September 2007.  These payments related to the activities of Aon Limited as an insurance broker and, in particular, in relation to customers who were state owned and involved in obtaining insurance including in relation to energy and aviation risks. <br /><br />Aon Limited conducted an internal investigation and subsequently instructed outside accountants and lawyers to assist with a further investigation. <br /><br />Over the relevant period, the FSA recorded that 66 potentially inappropriate payments amounting to approximately USD 2.5 million and EUR 3.4 million may have been made to nine intermediaries.<br /><br />U.S. Investigation<br /><br />Concurrently, the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") investigated these allegations.  The U.S. investigation focused on Aon's United Kingdom subsidiary, Aon Limited, and how it administered certain training and education funds in connection with its reinsurance business with Instituto Nacional De Seguros (INS), Costa Rica's state-owned insurance company.  Between 1997 and 2005, Aon Limited used a significant portion of the funds to reimburse INS officials for non-training related activity, including travel with spouses to overseas tourist destinations, or for uses that could not be determined from Aon's books and records and which did not provide any business purpose for the expenditures. <br /><br />Aon's subsidiaries made over USD 3.6 million in improper payments to various parties between 1983 and 2007 as a means of obtaining or retaining insurance business in those countries. The complaint alleges that some of the improper payments were made directly or indirectly to foreign government officials who could award business directly to Aon subsidiaries, who were in position to influence others who could award business to Aon subsidiaries, or who could otherwise provide favorable business treatment for the company's interests. The complaint alleges that these payments were not accurately reflected in Aon's books and records, and that Aon failed to maintain an adequate internal control system reasonably designed to detect and prevent the improper payments.<br /><br />According to the Commission's complaint, the improper payments made by Aon's subsidiaries fall into two general categories: (i) training, travel, and entertainment provided to employees of foreign government-owned clients and third parties; and (ii) payments made to third-party facilitators. Aon subsidiaries made these payments in various countries around the world, including Costa Rica, Egypt, Vietnam, Indonesia, United Arab Emirates, Myanmar, and Bangladesh. The complaint alleges that Aon realized over USD 11.4 million in profits from these improper payments.<br /><br />In the Company's SEC form 10-K for 2011, filed on 24 February 2012, a statement describing the conclusion of the investigations is repeated:  <br /><br />"Following inquiries from regulators, the Company commenced an internal review of its compliance with certain U.S. and non-U.S. anti-corruption laws, including the U.S. Foreign Corrupt Practices Act ('FCPA'). In January 2009, Aon Limited, Aon's principal U.K. brokerage subsidiary, entered into a settlement agreement with the Financial Services Authority ('FSA') to pay a £5.25 million fine arising from its failure to exercise reasonable care to establish and maintain effective systems and controls to counter the risks of bribery arising from the use of overseas firms and individuals who helped it win business. On December 20, 2011, Aon entered into settlement agreements with the U.S. Department of Justice ('DOJ') and the U.S. Securities and Exchange Commission ('SEC'). Both settlements arose from and related to the making of improper payments, directly and through third parties, to government officials, the failure to maintain accurate books and records and the failure to maintain sufficient internal controls to prevent violations of the FCPA. The DOJ settlement involved a Non-Prosecution Agreement and also consisted of a monetary penalty in the amount of $1.8 million. The SEC settlement required Aon to pay a total of $14.5 million in disgorgement and prejudgment interest. Under the Non-Prosecution Agreement, Aon must bring to the DOJ's attention all criminal conduct by, or criminal investigations of, Aon or any of its senior managerial employees that comes to the attention of Aon or its senior management, as well as any administrative proceeding or civil action brought by any U.S. or foreign governmental authority that alleges fraud or corruption by or against Aon."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Nine Intermediaries in&nbsp;Five Countries</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 2.5 million and EUR 3.4 million</p>
+</td>
+<td>
+<p style="text-align: center;">USD 7.1 million and EUR 1 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments by Aon Limited According to SEC Complaint</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 3.6 million&nbsp;</p>
+</td>
+<td>
+<p style="text-align: center;">USD 11.4 million (revenue)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Aon Limited, being a regulated entity under the UK's anti-money laundering legislation, is required to file Suspicious Activity Reports ("SARs") on discovering activities that fall within the definition of "money laundering."  The relevant payments were such that Aon Limited was required to make a SAR to the UK's Serious Organised Crime Agency ("SOCA").  The information contained within these disclosures was also disclosed to the FSA, by whom Aon Limited is regulated. <br /><br />Specifically, in June 2006, in connection with the departure of former brokers, Aon Limited became aware of a number of potentially inappropriate payments that may have been made in connection to its energy reinsurance business in Indonesia, and conducted an internal review of the matter.  The Indonesian payments were again been brought to Aon Limited's attention by the Indonesian authorities in April 2007.  Aon Limited then treated these payments as suspicious. <br /><br />After another group of suspicious transactions relating to business in Bahrain came to Aon Limited's attention in May 2007.  Aon Limited's Board then promptly reported the Bahrain and Indonesia payments to SOCA and the FSA. <br /><br />In January 2008, Aon Limited instructed a firm of accountants to conduct an extensive past payments review which covered all payments made by Aon Limited to overseas third parties between 1 January 2002 and 31 December 2007. This review identified a further number of payments made by Aon Limited to overseas third parties which were potentially inappropriate, some of which resulted in further notifications to SOCA. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        United Kingdom<br /><br />On 6 January 2009, the FSA issued a Final Notice and imposed a penalty of GBP 5.25 million on Aon Limited.  The FSA investigation was settled at an early stage, allowing for a 30% discount.  But for Aon Limited's cooperation and prompt settlement, the financial penalty that would have been imposed by the FSA would have been GBP 7.5 million.  <br /><br />The FSA recognized that Aon Limited's senior management had taken steps to mitigate the seriousness of its failings.  Aon Limited had promptly reported the matter to SOCA and the FSA after discovering two groups of potentially improper payments.  On discovery of the third case Aon Limited had established a dedicated steering committee which reported directly to its Board and this committee had overall responsibility for reviewing both the inappropriate payments and the systems and controls related to intermediaries.  Aon Limited had instructed a leading firm of accountants to review its systems and controls in place to control the payments to intermediaries.  Aon Limited implemented the short recommendations made by the external accountants.  Aon Limited also retained its law firms to carry out detailed investigations of potentially inappropriate payments and, where appropriate, had taken responsive action including termination or other disciplinary action against staff.  <br /><br />Aon Limited, in conjunction with Aon Corporation, designed and implemented a global anti-corruption program described by the FSA as a "model of best practices that other firms may wish to adopt."  Contained within that program was a general prohibition on the use of intermediaries whose only service was to obtain and retain business solely through client introduction in countries where the risk of corrupt practices was anything other than low.  Both Aon Limited and Aon Corporation have implemented robust risk based procedures to review all its existing and proposed relationships with intermediaries.  Further, both Aon Limited and Aon Corporation have taken significant actions to ensure a clear anti-corruption compliance culture within the business.  Top-down management-led initiatives designed to ensure a significant change in the culture of the organization globally have been implemented.  Both Aon Limited and Aon Corporation have also strengthened their processes and controls in relation to the use of intermediaries, and implemented other elements of a best practices compliance program, including customized enhanced training.<br /><br />United States<br /><br />In 2011, AON entered into a non-prosecution agreement with the DOJ and agreed to pay a USD 1.76 million penalty to resolve violations of the FCPA (see below).  Aon also reached a settlement with the SEC and agreed to pay approximately USD 14.5 million in disgorgement and prejudgment interest. <br /><br />Aon Corporation described the now concluded investigation by the DOJ and SEC as follows in its SEC Form 10-K filed on 25 February 2011: <br /><br />"Following inquiries from regulators, the Company commenced an internal review of its compliance with certain U.S. and non-U.S. anti-corruption laws, including the U.S. Foreign Corrupt Practices Act ('FCPA'). In January 2009, Aon Limited, Aon's principal U.K. brokerage subsidiary, entered into a settlement agreement with the Financial Services Authority ('FSA') to pay a £5.25 million fine arising from its failure to exercise reasonable care to establish and maintain effective systems and controls to counter the risks of bribery arising from the use of overseas firms and individuals who helped it win business. The U.S. Securities and Exchange Commission ('SEC') and the U.S. Department of Justice ('DOJ') continue to investigate these matters. Aon is fully cooperating with these investigations and has agreed with the U.S. agencies to toll any applicable statute of limitations pending completion of the investigations. Based on current information, the Company is unable to predict at this time when the SEC and DOJ matters will be concluded, or what regulatory or other outcomes may result."<br /><br />U.S. Enforcement Result for Costa Rica<br /><br />On 20 December 2011, Aon Corporation entered into a Non Prosecution Agreement ("NPA") with the DOJ, settling all claims regarding the company's conduct in Costa Rica.  The DOJ noted that it "enters into this Non-Prosecution Agreement based, in part, on the following factors: (a) Aon's extraordinary cooperation with the Department and the U.S. Securities and Exchange Commission ("SEC"); (b) Aon's timely and complete disclosure of the facts described in Appendix A as well as facts relating to Aon's improper payments in Bangladesh, Bulgaria, Egypt, Indonesia, Myanmar, Panama, the United Arab Emirates, and Vietnam that it discovered during its thorough investigation of its global operations; (c) the early and extensive remedial efforts undertaken by Aon, including the substantial improvements the company has made to its anti-corruption compliance procedures; (d) the prior financial penalty of £5.25 million paid to the United Kingdom's Financial Services Authority ("FSA") by Aon Limited, a U.K. subsidiary of Aon, in 2009, covering the conduct in Bangladesh, Bulgaria, Indonesia, Myanmar, the United Arab Emirates, and Vietnam; and (c) the FSA's close and continuous supervisory oversight over Aon Limited."<br /><br />The NPA stipulates that Aon pay a "substantially reduced" fine of USD 1,764,000, based on the DOJ's intention "to credit meaningfully Aon for its extraordinary cooperation with the Department, including its thorough investigation of its global operations and complete disclosure of facts to the Department, and its early and extensive remediation," taking into account also the prior assessment of a larger fine by the FSA in the UK for conduct in countries other than Costa Rica.  <br /><br />The duration of the NPA is two years.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Full cooperation and early settlement with the FSA may result in a significant reduction in penalty imposed.</li><li>In the regulated world, if something goes wrong, the presumption of the regulator will be that the systems and controls designed to mitigate the risk of that happening are inadequate, and it will require proof of a well documented and impressive system to rebut that presumption.</li><li>The standard of compliance and training which has been adopted by Aon Limited, and approved by the FSA, is a good indication as to the level of adequate procedure which a business will need to have in place in order to be able to rely on the defence of adequate procedures to corporate offence within the UK's Bribery Act.</li><li>In determining what level of fine to impose, the FSA is required to consider all the relevant circumstances of the case, and may take into account: (i) deterrence; (ii) the nature, seriousness and impact of the breach in question; (iii) the extent to which the breach was deliberate or reckless; (iv) the size, financial resources and other circumstances of the firm; (v) the amount of benefit gained or loss avoided; (vi) conduct following the breach; and (vii) other action taken by the FSA (or a previous regulator).</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=191">FSA Final Notice: 6 January 2009</a></p><p><a href="file.asp?id=588">Aon Press Release: 8 January 2009 (Aon Limited Confirms Settlement of GBP 5.25m with FSA)</a></p><p><a href="file.asp?id=589">FSA Press Release: 8 January 2009 (FSA fines Aon Limited GBP 5.25m for failings in its anti-bribery and corruption systems and controls)</a></p><p><a href="file.asp?id=775">Aon Corporation: SEC Form 10-K (26 Feb. 2010)</a></p><p><a href="file.asp?id=1387">Aon Corporation - SEC Form 10-K (25 Feb. 2011)</a></p><p><a href="file.asp?id=1668">Aon - DOJ Press Release (20 Dec 2011)</a></p><p><a href="file.asp?id=1669">Aon - SEC Litigation Release (20 Dec 2011)</a></p><p><a href="file.asp?id=1761">Aon - SEC Form 10-K (24 Feb. 2012)</a></p><p><a href="file.asp?id=1821">Aon - Non Prosecution Agreement (20 December 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

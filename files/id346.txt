@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925233hh2j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192523cg8fh" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BAXTER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(346)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192523heyh6" width="415" height="61" /></div>
+    
+        <h1>BAXTER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Baxter International Inc. ("Baxter")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceuticals and medical equipment
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Deerfield, Illinois, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 3 May 2011, Baxter announced, in its Form 10-Q, that the U.S. Department of Justice ("DOJ") and the U.S. Securities and Exchange Commission ("SEC") requested the company provide information about its business activities as part of a broader review of industry practices in connection with the FCPA.  <br /><br />In August 2013, Baxter told the Wall Street Journal that following whistleblower complaints, it investigated allegations and found improper expense payments by a Chinese joint venture after employees of the venture, Guangzhou Baxter Qiaoguang Healthcare Co., reported problems internally in July 2012.  According to the Wall Street Journal, "Baxter disciplined the venture's leadership, conducted new training and enhanced its controls and monitoring of interactions with Chinese health-care professionals, according to people familiar with the matter."<br /><br />On 21 February 2014, Baxter announced, in its Form 10-K, that the DOJ and SEC declined to prosecute the case.<br />
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Baxter said it received internal complaints in July 2012 and conducted an investigation. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 21 February 2014, Baxter announced, in its Form 10-K, that the DOJ and SEC declined to prosecute the case against Baxter.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Voluntary disclosures and prompt remediation may contribute to a decision to decline prosecution by the U.S. authorities.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1481">Baxter: SEC Form 10-Q (3 May 2011)</a></p><p><a href="file.asp?id=1779">Baxter: SEC Form 10-K (23 February 2012)</a></p><p><a href="file.asp?id=2480">WSJ - Baxter Probes Chinese Payments</a></p><p><a href="file.asp?id=2481">WSJ - Double Declination for Baxter</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Health Care</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

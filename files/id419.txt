@@ -1,0 +1,102 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192625y69po">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1926250l7xa" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DEUTSCHE POST AG - DHL</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(419)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1926258m372" width="415" height="61" /></div>
+    
+        <h1>DEUTSCHE POST AG - DHL</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Deutsche Post AG<br />DHL<br />Tengizchevroil (a partnership for the development of the Tengiz and Korolev oil fields)<br />Chevron<br />ExxonMobil<br />KazMunaiGas (Kazakhstan's state-owned oil company)<br />LukArco (a subsidiary of OAO Lukoil Holdings)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Postal and logistics services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Bonn, Germany
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kazakhstan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the Wall Street Journal, a whistleblower delivered an email to DHL and the companies in the consortium in April 2012, alleging that the Tengizchevroil consortium had been making improper payments to Kazakh customs officials since 2004. The purpose of the payments was to allow shipments to pass through customs in spite of small paperwork errors; without the payments, the errors could have caused significant delays in the importation of necessary supplies by these companies.  The whistleblower also alleged that DHL regularly pays "convoy bribes" on behalf of Tengizchevroil, often amounting to bribes of USD 150 to USD 300 paid to customs officials and offficial escorts required by Kazakh law, to ensure that shipments would not be delayed. <br /><br />In May 2013, Tengizchevroil hired U.S. law firm King & Spalding LLP to conduct an internal investigation into allegations received from an anonymous tipster, according to  emails reviewed by Dow Jones. The whistleblower has threatened to disclose the alleged FCPA related violations to the U.S. Department of Justice.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        Approximate Alleged Payments to Foreign Officials Business Advantage Allegedly Obtained   Unspecified Unspecified
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In March 2012, a whistleblower sent an email to major oil companies operating in Kazakhstan  alleging that Chevron, Eni, Lukoil and BG Group have been using DHL since 2004 to make improper payments to Kazakh customs officials.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Investigations ongoing
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

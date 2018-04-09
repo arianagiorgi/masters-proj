@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1925227271y">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192522w3e2d" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - YARA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(345)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192522dfug4" width="415" height="61" /></div>
+    
+        <h1>YARA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Norway: National Authority for Investigation and Prosecution of Economic and Environmental Crime<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Yara International ASA ("Yara")<br />Balderton Fertilisers, a Swiss commodities trading company, at one time joint venture with Yara (2006-2010), now wholly owned by Yara<br />Libyan Norwegian Fertilizer Co. ("Lifeco")<br />Bernt Reitan (chairman of Yara)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Global chemical company, whose products include mineral fertilizers and industrial gases 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Oslo, Norway
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        India<br />Libya<br />Russia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 8 April 2011, Yara self-reported alleged bribery violations and initiated an external investigation involving the Norwegian National Authority for Investigation and Prosecution of Economic and Environmental Crime ("Okokrim"). In a press release issued on May 12, 2011, the company explained that Okokrim was examining violations of the Norwegian penal code paragraph 276a, cf paragraph 276b, based on alleged foreign bribery violations in connection with Yara's activities in Libya and India between 2006 and 2008.  The company further explained that the investigation, which had originally involved only transactions in Libya, had expanded to include transactions that took place In India between 2006 and 2008 as well.  The Indian matter involved a possible USD $1 million payment related to joint venture efforts. <br /><br />According to the indictment by Okokrim, USD $12 million in bribes were allegedly paid by a Swiss subsidiary to senior government officials between 2004 and 2009 in India, Libya and Russia.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Indian Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Sought</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">USD 12 million to a third party</td>
+<td style="text-align: center;"><span class="body-main">Joint venture for the production and sale of fertilizer</span></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The company discovered the bribes in 2011 and reported them to Norwegian authorities, consistent with its zero tolerance for graft, it said Wednesday.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 January 2014, Yara was fined USD $48 million by Norwegian authorities for paying USD $12 million in bribes between 2004 and 2009, the company said Wednesday. The company admitted bribing senior government officials in India and Libya, including an oil minister of former Libyan leader Muammar Gaddafi.<br /><br />On 17 January 2014, Norwegian police indicted four former executives of Yara, including the former chief executive and top legal counsel, charging them with paying USD $8 million in bribes in Libya and India. According to the indictment, the defendants allegedly bribed Muammar Gaddafi's oil minister and relatives of an official in India's Ministry of Chemicals and Fertilizers. <br /><br />On 14 April 2014, Mr. Reitan stepped down from his position as chairman at Yara following the bribery fine.<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Failure to conduct due diligence or otherwise seek to determine whether there is a legitimate business purpose for payments may lead to significant penalties. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1475">Yara International ASA - Press Release - 12 May 2011</a></p><p><a href="file.asp?id=1748">Yara - Press release (23 Marchy 2012), Yara has uncovered further unacceptable payments</a></p><p><a href="file.asp?id=1819">Yara - First Quarter 2012 Report</a></p><p><a href="file.asp?id=2471">Yara - USD 48.5 million Fine by Norway </a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

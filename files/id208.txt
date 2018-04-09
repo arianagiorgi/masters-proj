@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192323x2w5k">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192323sskqp" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MORGAN STANLEY (Peterson)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(208)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192323357gp" width="415" height="61" /></div>
+    
+        <h1>MORGAN STANLEY (Peterson)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Morgan Stanley & Co., Inc.<br />Garth R. Peterson, former Managing Director of Morgan Stanley<br />Yongye Enterprise (Group) Co. ("Yongye")<br />Asiasphere Holdings Ltd., a British Virgin Islands company<br />Jin Lin Tiandi Holding Company, a Cayman Islands company<br />Paraplay, a British Virgin Islands company<br />Jin Lin Tiandi Serviced Apartment Management Co. Ltd., a Chinese company<br />Sky Luck Property Corp., a British Virgin Islands company<br />Strong Man Ltd., a British Virgin Islands company<br />King Project Limited, a Hong Kong company<br />Chinese official, chairman of Yongye<br />Canadian attorney
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Financial services including institutional securities, financial advisory services, global wealth management, asset management and mutual funds
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New York, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Morgan Stanley described the ongoing investigation as follows in its SEC Form 10-K filed on 28 February 2011:<br /><br />"As disclosed in February 2009, the Company uncovered actions initiated by an employee based in China in an overseas real estate subsidiary that appear to have violated the Foreign Corrupt Practices Act. The Company terminated the employee, reported the activity to appropriate authorities and is cooperating with investigations by the United States Department of Justice and the SEC."<br /><br />An identical statement was made in the Company's 10-K filing for 2011, filed on 27 February 2012.<br /><br />In a civil complaint filed by the SEC on 25 April 2012, the SEC alleged the Garth Peterson, an employee in the real estate investment and fund advisory business of Morgan Stanley & Co., Inc., acquired millions of dollars worth of real estate for himself, for the former Chairman of a Chinese state-owned entity, Yongye Enterprise (Group) Co.  The company served as the real estate development arm for the Luwan District Government in Shanghai. The complaint alleges that in addition to conducting the real estate transactions, Peterson enriched himself and the Yongye official by USD 1.8 million.  In exchange for the payments, the Chinese official helped Peterson obtain business for Morgan Stanley.  This violated Sections 13(b)(5) and 30A of the Securities Exchange Act of 1934, thus constituting a violation of the FCPA. <br /><br />Peterson, a US citizen who lived in Asia and speaks Chinese, headed Morgan Stanley's Shanghai office beginning when it opened in 2006; he became a Managing Director of Morgan Stanley in 2007, and was terminated in 2008 following discovery of the inappropriate conduct.<br /><br />Real estate transactions at Morgan Stanley were conducted by wholly-owned investment advisory companies called funds, two of which were involved in the transactions at issue:  MSREF IV International and MSREF V International.  Yongye would take a small part in joint real estate ventures, in exchange for helping the JV partner to obtain licensing from the local government.<br /><br />Along with a Canadian attorney who acted on behalf of Asiasphere, Peterson and the Chinese official used a British Virgin Islands entity called Asiasphere* Holdings Ltd., misrepresenting to Morgan Stanley that Asiasphere was an offshore subsidiary of Yongye.  Peterson made a point of telling his colleagues at Morgan Stanley that the company owed a favor to Yongye for obtaining all the Chinese government approvals to close a large real estate deal (called the Cavity deal).  Asiasphere bought 12% of Jin Lin Tiandi Holding Company, a Cayman Islands company.**<br /><br />Morgan Stanley performed due diligence on Yongye, its chairman (the Chinese official), as well as its two offshore entities.  During the process, the Canadian attorney misrepresented to Morgan Stanley that Asiasphere was owned by Yongye, writing falsely, "I confirm…that Asiasphere Holdings Limited is 100% beneficially owned by Shanghai Yongye Enterprise (Group) Co., Ltd, a PRC company whose legal address is 32nd floor, 138 Huai Hai Zong Lu, Shanghai, China."<br /><br />Peterson and the Canadian attorney also acquired an interest in other Morgan Stanley fund real estate transactions.  MSREF V sold 10% of the Project 138 (The Shanghai Square Infiniti Mall) to a Shanghai investor, who sold 1% of his interest to Peterson and the Canadian attorney, who concealed this from Morgan Stanley.<br />In other real estate transactions facilitated by Chinese official, Peterson arranged "3-2-1" deals:  Morgan Stanley would sell the Chinese official a 3% interest in each deal he facilitated for Morgan Stanley, receiving payment for only 2%.  Peterson called the difference a "finder's fee" for the Chinese official.  When a Morgan Stanley controller told Peterson to abandon the arrangement because of bribery implications, Peterson waited until the official retired from Yongye, oversaw the payment by Morgan Stanley of a USD 2.2 million finder's fee to the Shanghai investor; the Shanghai investor gave USD of this to Peterson, who in turn gave about USD 700,000 to the Chinese official.<br /><br />The complaint details Morgan Stanley's FCPA training program, in which Peterson participated (at least seven times between 2002 and 2008).  The company specifically informed Peterson that Yangye employees were foreign government officials for purposes of the FCPA.<br /><br />*Ownership and control of Asiasphere was as follows:   Asiasphere was 47% owned by the Chinese official, and 53% by Peterson and the Canadian attorney (43% was owned by Peterson, 10% by the Canadian attorney).  The 53% was held by the two individuals through their ownership in another BVI company called Strong Man Ltd, in which Peterson held 81% and the Canadian attorney 19%.  Peterson's 81% interest in Strong Man was controlled either by Peterson directly or through another BVI company called Paraplay.<br /><br />** Jin Lin Tiandi owned the Shanghai Jin Lin Tiandi Serviced Apartments as follows:  Jin Lin Tiandi Holding Company owned 100% of a BVI company called Sky Luck Property Corp.  Sky Luck owned 100% of King Project Limited, a Hong Kong company.  King Project owned 100% of Shanghai Jin Lin Tiandi Serviced Apartment Management Co. Ltd., a Chinese company that owned 100% of the Shanghai Jin Lin Tiandi Serviced Apartments in Shanghai.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Approximately USD 1.8 million</p>
+</td>
+<td>
+<p>The company received permits and licenses obtained for real estate development; Peterson received at least USD 3.4 million worth of real estate holdings</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The Company discovered Peterson's conduct and terminated him in 2008 and reported the conduct to the SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As a result of the SEC civil Complaint, Garth Peterson was barred from working in the securities industry forever.  He was ordered to pay a civil penalty, to disgorge ill-gotten gains, and a receiver was appointed following the freezing of Peterson's interest in Shanghai Jin Lin Tiandi Serviced Apartments.<br /><br />Specifically, Peterson consented to a court order requiring him to disgorge USD 254,589 and relinquish to a court-appointed receiver the interest he secretly acquired from Morgan Stanley's fund in the Jin Lin Tiandi Serviced Apartments. Peterson's interest has a current estimated value of approximately USD 3.4 million. <br /><br />Also on 25 April 2012, Garth Peterson pleaded guilty to a one-count criminal information for conspiracy to evade the internal accounting controls required of Morgan Stanley in order to comply with the FCPA.  Peterson could have faced a maximum of 5 years in prison and a fine of USD 250,000 or two times his gross gain from the criminal offense.  But on 13 August 2012, the U.S. District Court for the Eastern District of New York sentenced Peterson to 9 months in prison. <br /><br />The DOJ declined to prosecute Morgan Stanley, based on the Company's "system of internal controls, which provided reasonable assurances that its employees were not bribing government officials."
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>It is possible that a company may not be held responsible for FCPA violations committed by an employee if the employee has received compliance training, the company's controller discovers FCPA-risky transactions and advises the employee of the risk, terminating the transaction before it was completed, and upon discovery of additional inappropriate conduct, terminating the employee and making voluntary disclosure to the SEC.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=821">Morgan Stanley SEC Form 10-K (2009)</a></p><p>Reuters: "A Morgan Stanley Star Falls in China" (November 10, 2009)</p><p><a href="file.asp?id=1801">Morgan Stanley - Complaint (25 April 2012) - Garth Peterson</a></p><p><a href="file.asp?id=1802">Morgan Stanley - SEC Press Release 2012-78 (25 April 2012), SEC Charges Former Morgan Stanley Executive with FCPA</a></p><p><a href="file.asp?id=1804">Morgan Stanley - DOJ Press Release (26 April 2012), Former Morgan Stanley Managing Director Pleads Guilty for Role in Evading Internal Controls Required by FCPA</a></p><p><a href="file.asp?id=1806">Morgan Stanley - DOJ Press Release (26 April 2012), Former Morgan Stanley Managing Director Pleads Guilty for Role in Evading Internal Controls Required by FCPA</a></p><p><a href="file.asp?id=1807">Morgan Stanley - Form 10-K (28 Feb 2011)</a></p><p><a href="file.asp?id=1954">Morgan Stanley - DOJ Sentencing Memo (13 August 2012), Garth Peterson</a></p><p><a href="file.asp?id=1955">Morgan Stanley - Criminal Information (April 2012), DOJ v. Garth Peterson</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Financial Services</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

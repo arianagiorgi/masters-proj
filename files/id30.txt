@@ -1,0 +1,489 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707162q03p">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170716t1633" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PATRIA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(30)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1707167sv66" width="415" height="61" /></div>
+    
+        <h1>PATRIA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: National Bureau of Investigation<br />Austria: Vienna Prosecution Office<br />Slovenia: Office of the State Prosecutor General<br />Finland: Office of the Prosecutor General<br />Croatia: State's Attorney's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Patria Oyj ("Patria")<br />Patria Vehicles Oy (dba Patria Land & Armament Oy, a subsidiary of Patria)<br />Former President and CEO of Patria, as well as other executives<br />Janez Jansa (former Prime Minister of Slovenia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of military vehicles and armaments
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />Slovenia<br />Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Slovenia and Egypt<br /><br />In May 2008, the National Bureau of Investigation ("NBI") in Finland announced its pre-trial investigations concerning former Patria Vehicles Oy's vehicle sale in Slovenia in 2006 and former Patria Vammas Oy's gun-howitzer sale in Egypt in 1999 due to suspected bribery and other malpractices.  <br /><br />The sale to the Slovenian Ministry of Defence covered vehicles and mortars to the Slovenian Army.  In Egypt, Patria's sale covered heavy artillery pieces to the Egyptian armed forces. <br /><br />The NBI suspects that, in order to win the competitive tend for the purchase of 135 armored vehicles valued at EUR 280 million, Patria made improper payments to certain officials of the Slovenian Ministry of Defence totaling EUR 21 million.  <br /><br />The NBI suspects that Patria used bribes also in the Egyptian gun-howitzer deal.  The pre-trial investigations regarding suspected bribery in both sales are still ongoing.<br /><br />In January 2011, it was reported that a leaked Slovenian indictment translated for the Finnish News Agency (STT) indicated that investigators had tracked the millions of euros in suspected Patria bribes to Slovenian officials to an airport near Vienna, and an Austrian company and a Thai businessman were allegedly involved. Austrian, Croatian and Finnish officials reportedly had formed a joint investigation team to look into allegations and Finland requested investigative help from the Thai authorities.  The Slovenia's State Prosecutor reportedly is investigating Patria as well.  <br /><br />In a press release announcing bribery and commercial espionage charges against Patria on 18 December 2012, the Finnish Office of the Prosecutor General detailed some of the allegations against Patria:  the former CEOs of Patria Oyj and Patria Vehicles Oy and four Patria employees suspected of having promised to give or given bribes in the form of commissions through intermediaries to secure contracts with Slovenian public officials and military officers -- including the Prime Minister and Deputy Chief of General Staff.  The bribes are alleged to have been built into commission payments of up to 10% of the total sale of over EUR 160 million.<br /><br />The trial against six former executives of the Finnish Patria company began in August 2013 for a contentious sale of armored vehicles to the Slovenian army and with Croatia.  The six individuals are accused of offering a bribe to Slovenian public officials so that Patria would be awarded the job of supplying the Slovenian and Croatian armies with armored vehicles. <br /><br />Croatia<br /><br />According to press reports on 3 January 2011, the NBI has also begun a bribery investigation into Patria's sales in 2007 of armored vehicles to the Croatian government, valued at EUR 112 million. In January 2011, Finnish police arrested a former Patria executive for attempted bribery of unnamed Croatian officials. The executive is suspected of having bribed Croatian officials during the sale of Patria's armored vehicles to Croatia, which bought 84 armored vehicles for EUR 112 million in 2007. According to a report by Finland's Yle Uutiset on 13 June 2013, the NBI's lead investigator said that the amount of the alleged bribes was EUR 1.5 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Slovenian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 21 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 280 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Croatian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 1.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 112 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is possible that the initial disclosures were made by Wolfgang Riedl, who served as Patria's go-between person in both the Slovenia and the Croatia sales.<br /><br />After some of the "commission" payments had been made, another attempt to transfer money in Austria was suspected of being money laundering.  This precipitated a joint investigation among Finnish, Austrian and Slovenian authorities.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Croatia<br /><br />In February 2010 the Croatian State Attorney's Office requested information about Patria from the Finnish authorities.  Also in 2010, the Croatian Chief State Prosecutor's Office and Finnish and Austrian prosecutors set up a joint team of investigators.<br /><br />Finland<br /><br />In November 2008, the Helsinki District Court ruled that Jorma Wiitakorpi, former CEO of the Patria Group, should be remanded in custody following his arrest by the National Bureau of Investigation ("NBI") on suspicion of corporate espionage and aggravated bribery.  The authorities also requested a remand for Veijo Varis , a member of the management team of Patria.  Wiitakorpi  denied any wrongdoing, and Patria's internal investigation found no indication of illegal action.  Wiitakorpi, however, had to leave Patria in August 2008, although he remained in the employ of Patria in an advisory capacity.  <br /><br />According to press reports, on 23 June 2010 the Finnish Prosecutor-General's office announced that it was charging four Patria executives, as well as one Egyptian citizen, with aggravated bribery and accounting fraud in connection with alleged bribes paid to Egyptian officials.  Charges were also brought against Patria.<br /><br />According to press reports, in June 2011, the Pirkanmaa District Court found the four current or former Patria employees guilty of a number of counts of accounting fraud and complicity in those offenses, sentencing them to suspended prison terms.  Both the prosecutor and defendants are appealing to the Court of Appeal.  The prosecutor reportedly argues that the men should have been convicted of aggravated bribery and sentenced to tougher terms.  Patria itself reportedly was not found guilty of any wrongdoing; however, the company is appealing against legal costs incurred.<br /><br />In a press release on 18 December 2012, the Finnish Office of the Prosecutor General announced that the Finnish Prosecution Service had brought charges of aggravated bribery and business espionage against the former CEOs of Patria Oyj and Patria Vehicles Oy, and four employees of the Patria Group in connection with the sale of Patria AMV armored vehicles to Slovenia in 2006.<br /><br />According to a Reuters report from 28 June 2013, Finnish prosecutors announced that they would charge three unnamed former Patria executives with bribery of Croatian officials. <br /><br />Slovenia<br /><br />Slovenia issued an indictment in the Patria case against the then and incumbent prime minister Janez Jansa and four other persons in 2011. Reuters reported on 5 June 2013 that Jansa has been sentenced to two years in prison and that two co-defendants pleaded guilty and received sentences of 22 months. The story says that Jansa is planning on appealing the decision against him.<br /><br />Austria<br /><br />According to a Reuters story from 5 June 2013, an Austrian citizen has been convicted for corruption involving the Patria allegations.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Poliisi: "Patria Vehicles Oy:n ja Slovenian valtion v&auml;lisen kaupan esitutkinta jatkuu" (19 August 2008)</p><p>Slovenian Press Agency: "Report: Patria Bribery Investigation Stuck" (22 January 2009)</p><p>Defense Talk: "Patria Suspends Armoured Vehicle Production in Slovenia" (4 September 2009)</p><p>Helsingin Sanomat: "Four Finns face bribery charges over Patria cannon deal" (24 June 2010)</p><p>Bloomberg: "Finland expands Patria bribery probe to Croatia" (3 January 2011)</p><p>Helsinki Times: "Patria cash trail runs cold at Vienna airport - Indictment" (3 January 2011)</p><p>Helsingin Sanomat: "Patria bribery case proceeds to Court of Appeal" (17 August 2011)</p><p><a href="file.asp?id=2081">Patria Press Release: "Finnish Prosecution Service has brought charges of aggravated bribery and business" (18 December 2012)</a></p><p>Yle Uutiset: "Four ex-Patria employees suspects in Croatian bribery case" (13 June 2013)</p><p>Reuters: "Three ex-Patria executives charged over Croatia bribes: prosecutors" (28 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184225p57b8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184225tdn75" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PATRIA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(30)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184225a74ti" width="415" height="61" /></div>
+    
+        <h1>PATRIA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: National Bureau of Investigation<br />Austria: Vienna Prosecution Office<br />Slovenia: Office of the State Prosecutor General<br />Finland: Office of the Prosecutor General<br />Croatia: State's Attorney's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Patria Oyj ("Patria")<br />Patria Vehicles Oy (dba Patria Land & Armament Oy, a subsidiary of Patria)<br />Former President and CEO of Patria, as well as other executives<br />Janez Jansa (former Prime Minister of Slovenia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of military vehicles and armaments
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />Slovenia<br />Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Slovenia and Egypt<br /><br />In May 2008, the National Bureau of Investigation ("NBI") in Finland announced its pre-trial investigations concerning former Patria Vehicles Oy's vehicle sale in Slovenia in 2006 and former Patria Vammas Oy's gun-howitzer sale in Egypt in 1999 due to suspected bribery and other malpractices.  <br /><br />The sale to the Slovenian Ministry of Defence covered vehicles and mortars to the Slovenian Army.  In Egypt, Patria's sale covered heavy artillery pieces to the Egyptian armed forces. <br /><br />The NBI suspects that, in order to win the competitive tend for the purchase of 135 armored vehicles valued at EUR 280 million, Patria made improper payments to certain officials of the Slovenian Ministry of Defence totaling EUR 21 million.  <br /><br />The NBI suspects that Patria used bribes also in the Egyptian gun-howitzer deal.  The pre-trial investigations regarding suspected bribery in both sales are still ongoing.<br /><br />In January 2011, it was reported that a leaked Slovenian indictment translated for the Finnish News Agency (STT) indicated that investigators had tracked the millions of euros in suspected Patria bribes to Slovenian officials to an airport near Vienna, and an Austrian company and a Thai businessman were allegedly involved. Austrian, Croatian and Finnish officials reportedly had formed a joint investigation team to look into allegations and Finland requested investigative help from the Thai authorities.  The Slovenia's State Prosecutor reportedly is investigating Patria as well.  <br /><br />In a press release announcing bribery and commercial espionage charges against Patria on 18 December 2012, the Finnish Office of the Prosecutor General detailed some of the allegations against Patria:  the former CEOs of Patria Oyj and Patria Vehicles Oy and four Patria employees suspected of having promised to give or given bribes in the form of commissions through intermediaries to secure contracts with Slovenian public officials and military officers -- including the Prime Minister and Deputy Chief of General Staff.  The bribes are alleged to have been built into commission payments of up to 10% of the total sale of over EUR 160 million.<br /><br />The trial against six former executives of the Finnish Patria company began in August 2013 for a contentious sale of armored vehicles to the Slovenian army and with Croatia.  The six individuals are accused of offering a bribe to Slovenian public officials so that Patria would be awarded the job of supplying the Slovenian and Croatian armies with armored vehicles. <br /><br />Croatia<br /><br />According to press reports on 3 January 2011, the NBI has also begun a bribery investigation into Patria's sales in 2007 of armored vehicles to the Croatian government, valued at EUR 112 million. In January 2011, Finnish police arrested a former Patria executive for attempted bribery of unnamed Croatian officials. The executive is suspected of having bribed Croatian officials during the sale of Patria's armored vehicles to Croatia, which bought 84 armored vehicles for EUR 112 million in 2007. According to a report by Finland's Yle Uutiset on 13 June 2013, the NBI's lead investigator said that the amount of the alleged bribes was EUR 1.5 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Slovenian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 21 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 280 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Croatian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 1.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 112 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is possible that the initial disclosures were made by Wolfgang Riedl, who served as Patria's go-between person in both the Slovenia and the Croatia sales.<br /><br />After some of the "commission" payments had been made, another attempt to transfer money in Austria was suspected of being money laundering.  This precipitated a joint investigation among Finnish, Austrian and Slovenian authorities.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Croatia<br /><br />In February 2010 the Croatian State Attorney's Office requested information about Patria from the Finnish authorities.  Also in 2010, the Croatian Chief State Prosecutor's Office and Finnish and Austrian prosecutors set up a joint team of investigators.<br /><br />Finland<br /><br />In November 2008, the Helsinki District Court ruled that Jorma Wiitakorpi, former CEO of the Patria Group, should be remanded in custody following his arrest by the National Bureau of Investigation ("NBI") on suspicion of corporate espionage and aggravated bribery.  The authorities also requested a remand for Veijo Varis , a member of the management team of Patria.  Wiitakorpi  denied any wrongdoing, and Patria's internal investigation found no indication of illegal action.  Wiitakorpi, however, had to leave Patria in August 2008, although he remained in the employ of Patria in an advisory capacity.  <br /><br />According to press reports, on 23 June 2010 the Finnish Prosecutor-General's office announced that it was charging four Patria executives, as well as one Egyptian citizen, with aggravated bribery and accounting fraud in connection with alleged bribes paid to Egyptian officials.  Charges were also brought against Patria.<br /><br />According to press reports, in June 2011, the Pirkanmaa District Court found the four current or former Patria employees guilty of a number of counts of accounting fraud and complicity in those offenses, sentencing them to suspended prison terms.  Both the prosecutor and defendants are appealing to the Court of Appeal.  The prosecutor reportedly argues that the men should have been convicted of aggravated bribery and sentenced to tougher terms.  Patria itself reportedly was not found guilty of any wrongdoing; however, the company is appealing against legal costs incurred.<br /><br />In a press release on 18 December 2012, the Finnish Office of the Prosecutor General announced that the Finnish Prosecution Service had brought charges of aggravated bribery and business espionage against the former CEOs of Patria Oyj and Patria Vehicles Oy, and four employees of the Patria Group in connection with the sale of Patria AMV armored vehicles to Slovenia in 2006.<br /><br />According to a Reuters report from 28 June 2013, Finnish prosecutors announced that they would charge three unnamed former Patria executives with bribery of Croatian officials. <br /><br />Slovenia<br /><br />Slovenia issued an indictment in the Patria case against the then and incumbent prime minister Janez Jansa and four other persons in 2011. Reuters reported on 5 June 2013 that Jansa has been sentenced to two years in prison and that two co-defendants pleaded guilty and received sentences of 22 months. The story says that Jansa is planning on appealing the decision against him.<br /><br />Austria<br /><br />According to a Reuters story from 5 June 2013, an Austrian citizen has been convicted for corruption involving the Patria allegations.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Poliisi: "Patria Vehicles Oy:n ja Slovenian valtion v&auml;lisen kaupan esitutkinta jatkuu" (19 August 2008)</p><p>Slovenian Press Agency: "Report: Patria Bribery Investigation Stuck" (22 January 2009)</p><p>Defense Talk: "Patria Suspends Armoured Vehicle Production in Slovenia" (4 September 2009)</p><p>Helsingin Sanomat: "Four Finns face bribery charges over Patria cannon deal" (24 June 2010)</p><p>Bloomberg: "Finland expands Patria bribery probe to Croatia" (3 January 2011)</p><p>Helsinki Times: "Patria cash trail runs cold at Vienna airport - Indictment" (3 January 2011)</p><p>Helsingin Sanomat: "Patria bribery case proceeds to Court of Appeal" (17 August 2011)</p><p><a href="file.asp?id=2081">Patria Press Release: "Finnish Prosecution Service has brought charges of aggravated bribery and business" (18 December 2012)</a></p><p>Yle Uutiset: "Four ex-Patria employees suspects in Croatian bribery case" (13 June 2013)</p><p>Reuters: "Three ex-Patria executives charged over Croatia bribes: prosecutors" (28 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920424bj47">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192042a69d8" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PATRIA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(30)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192042o755u" width="415" height="61" /></div>
+    
+        <h1>PATRIA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: National Bureau of Investigation<br />Austria: Vienna Prosecution Office<br />Slovenia: Office of the State Prosecutor General<br />Finland: Office of the Prosecutor General<br />Croatia: State's Attorney's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Patria Oyj ("Patria")<br />Patria Vehicles Oy (dba Patria Land & Armament Oy, a subsidiary of Patria)<br />Former President and CEO of Patria, as well as other executives<br />Janez Jansa (former Prime Minister of Slovenia)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of military vehicles and armaments
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />Slovenia<br />Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Slovenia and Egypt<br /><br />In May 2008, the National Bureau of Investigation ("NBI") in Finland announced its pre-trial investigations concerning former Patria Vehicles Oy's vehicle sale in Slovenia in 2006 and former Patria Vammas Oy's gun-howitzer sale in Egypt in 1999 due to suspected bribery and other malpractices.  <br /><br />The sale to the Slovenian Ministry of Defence covered vehicles and mortars to the Slovenian Army.  In Egypt, Patria's sale covered heavy artillery pieces to the Egyptian armed forces. <br /><br />The NBI suspects that, in order to win the competitive tend for the purchase of 135 armored vehicles valued at EUR 280 million, Patria made improper payments to certain officials of the Slovenian Ministry of Defence totaling EUR 21 million.  <br /><br />The NBI suspects that Patria used bribes also in the Egyptian gun-howitzer deal.  The pre-trial investigations regarding suspected bribery in both sales are still ongoing.<br /><br />In January 2011, it was reported that a leaked Slovenian indictment translated for the Finnish News Agency (STT) indicated that investigators had tracked the millions of euros in suspected Patria bribes to Slovenian officials to an airport near Vienna, and an Austrian company and a Thai businessman were allegedly involved. Austrian, Croatian and Finnish officials reportedly had formed a joint investigation team to look into allegations and Finland requested investigative help from the Thai authorities.  The Slovenia's State Prosecutor reportedly is investigating Patria as well.  <br /><br />In a press release announcing bribery and commercial espionage charges against Patria on 18 December 2012, the Finnish Office of the Prosecutor General detailed some of the allegations against Patria:  the former CEOs of Patria Oyj and Patria Vehicles Oy and four Patria employees suspected of having promised to give or given bribes in the form of commissions through intermediaries to secure contracts with Slovenian public officials and military officers -- including the Prime Minister and Deputy Chief of General Staff.  The bribes are alleged to have been built into commission payments of up to 10% of the total sale of over EUR 160 million.<br /><br />The trial against six former executives of the Finnish Patria company began in August 2013 for a contentious sale of armored vehicles to the Slovenian army and with Croatia.  The six individuals are accused of offering a bribe to Slovenian public officials so that Patria would be awarded the job of supplying the Slovenian and Croatian armies with armored vehicles. <br /><br />Croatia<br /><br />According to press reports on 3 January 2011, the NBI has also begun a bribery investigation into Patria's sales in 2007 of armored vehicles to the Croatian government, valued at EUR 112 million. In January 2011, Finnish police arrested a former Patria executive for attempted bribery of unnamed Croatian officials. The executive is suspected of having bribed Croatian officials during the sale of Patria's armored vehicles to Croatia, which bought 84 armored vehicles for EUR 112 million in 2007. According to a report by Finland's Yle Uutiset on 13 June 2013, the NBI's lead investigator said that the amount of the alleged bribes was EUR 1.5 million.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Slovenian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 21 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 280 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Egyptian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to&nbsp;Croatian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">EUR 1.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales valued at EUR 112 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        It is possible that the initial disclosures were made by Wolfgang Riedl, who served as Patria's go-between person in both the Slovenia and the Croatia sales.<br /><br />After some of the "commission" payments had been made, another attempt to transfer money in Austria was suspected of being money laundering.  This precipitated a joint investigation among Finnish, Austrian and Slovenian authorities.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Croatia<br /><br />In February 2010 the Croatian State Attorney's Office requested information about Patria from the Finnish authorities.  Also in 2010, the Croatian Chief State Prosecutor's Office and Finnish and Austrian prosecutors set up a joint team of investigators.<br /><br />Finland<br /><br />In November 2008, the Helsinki District Court ruled that Jorma Wiitakorpi, former CEO of the Patria Group, should be remanded in custody following his arrest by the National Bureau of Investigation ("NBI") on suspicion of corporate espionage and aggravated bribery.  The authorities also requested a remand for Veijo Varis , a member of the management team of Patria.  Wiitakorpi  denied any wrongdoing, and Patria's internal investigation found no indication of illegal action.  Wiitakorpi, however, had to leave Patria in August 2008, although he remained in the employ of Patria in an advisory capacity.  <br /><br />According to press reports, on 23 June 2010 the Finnish Prosecutor-General's office announced that it was charging four Patria executives, as well as one Egyptian citizen, with aggravated bribery and accounting fraud in connection with alleged bribes paid to Egyptian officials.  Charges were also brought against Patria.<br /><br />According to press reports, in June 2011, the Pirkanmaa District Court found the four current or former Patria employees guilty of a number of counts of accounting fraud and complicity in those offenses, sentencing them to suspended prison terms.  Both the prosecutor and defendants are appealing to the Court of Appeal.  The prosecutor reportedly argues that the men should have been convicted of aggravated bribery and sentenced to tougher terms.  Patria itself reportedly was not found guilty of any wrongdoing; however, the company is appealing against legal costs incurred.<br /><br />In a press release on 18 December 2012, the Finnish Office of the Prosecutor General announced that the Finnish Prosecution Service had brought charges of aggravated bribery and business espionage against the former CEOs of Patria Oyj and Patria Vehicles Oy, and four employees of the Patria Group in connection with the sale of Patria AMV armored vehicles to Slovenia in 2006.<br /><br />According to a Reuters report from 28 June 2013, Finnish prosecutors announced that they would charge three unnamed former Patria executives with bribery of Croatian officials. <br /><br />Slovenia<br /><br />Slovenia issued an indictment in the Patria case against the then and incumbent prime minister Janez Jansa and four other persons in 2011. Reuters reported on 5 June 2013 that Jansa has been sentenced to two years in prison and that two co-defendants pleaded guilty and received sentences of 22 months. The story says that Jansa is planning on appealing the decision against him.<br /><br />Austria<br /><br />According to a Reuters story from 5 June 2013, an Austrian citizen has been convicted for corruption involving the Patria allegations.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Poliisi: "Patria Vehicles Oy:n ja Slovenian valtion v&auml;lisen kaupan esitutkinta jatkuu" (19 August 2008)</p><p>Slovenian Press Agency: "Report: Patria Bribery Investigation Stuck" (22 January 2009)</p><p>Defense Talk: "Patria Suspends Armoured Vehicle Production in Slovenia" (4 September 2009)</p><p>Helsingin Sanomat: "Four Finns face bribery charges over Patria cannon deal" (24 June 2010)</p><p>Bloomberg: "Finland expands Patria bribery probe to Croatia" (3 January 2011)</p><p>Helsinki Times: "Patria cash trail runs cold at Vienna airport - Indictment" (3 January 2011)</p><p>Helsingin Sanomat: "Patria bribery case proceeds to Court of Appeal" (17 August 2011)</p><p><a href="file.asp?id=2081">Patria Press Release: "Finnish Prosecution Service has brought charges of aggravated bribery and business" (18 December 2012)</a></p><p>Yle Uutiset: "Four ex-Patria employees suspects in Croatian bribery case" (13 June 2013)</p><p>Reuters: "Three ex-Patria executives charged over Croatia bribes: prosecutors" (28 June 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

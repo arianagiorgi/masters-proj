@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192324026b8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192324k8cb2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - NABORS INDUSTRIES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(209)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192324v0ous" width="415" height="61" /></div>
+    
+        <h1>NABORS INDUSTRIES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Nabors Industries Ltd. ("Nabors Industries")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil drilling contractor 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Hamilton, Bermuda
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Algeria<br />Kazakhstan<br />Nigeria<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Nabors Industries described the allegations in its Form 10-K submitted to the U.S. Securities & Exchange Commission ("SEC") on 1 March 2011:<br /><br />"On July 5, 2007, we received an inquiry from the U.S. Department of Justice relating to its investigation of one of our vendors and compliance with the Foreign Corrupt Practices Act. The inquiry relates to transactions with and involving Panalpina, which provides freight-forwarding and customs-clearance services to some of our affiliates. To date, the inquiry has focused on transactions in Kazakhstan, Saudi Arabia, Algeria and Nigeria. The Audit Committee of our Board of Directors engaged outside counsel to review some of our transactions with this vendor. The Audit Committee has received periodic updates at its regularly scheduled meetings and the Chairman of the Audit Committee has received updates between meetings as circumstances warrant. The investigation includes a review of certain amounts paid to and by Panalpina in connection with obtaining permits for the temporary importation of equipment and clearance of goods and materials through customs. Both the SEC and the Department of Justice have been advised of the Company's investigation. The ultimate outcome of this investigation or the effect of implementing any further measures that may be necessary to ensure full compliance with applicable laws cannot be determined at this time."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SEC investigation was concluded in April 2012, as explained in the Company's SEC Form 10-Q filed on 2 November 2012:<br /><br />"On July 5, 2007, we received an inquiry from the U.S. Department of Justice relating to its investigation of one of our vendors and compliance with the Foreign Corrupt Practices Act. . . . Both the SEC and the Department of Justice have been advised of the results of our investigation. The SEC has advised us in April 2012 that it concluded its review of this matter and does not intend to recommend any enforcement action against us. Although the Department of Justice has not concluded its inquiry, we do not anticipate that its final determination will have an adverse effect on the Company."<br /><br />In its Form 8-K submitted to the SEC on 15 February 2013, Nabors Industries stated that the U.S. Department of Justice ("DOJ") notified the Company that "it has concluded its inquiry, also without recommending any enforcement action against us." 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An SEC or DOJ investigation into bribery allegations does not necessarily result in FCPA enforcement actions or penalties.</li><li>While the reasons for these declinations are unknown, the result nonetheless underscores the importance of internal investigations and cooperation with enforcement agencies.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=822">Nabors Industries - SEC Form 10-K (26 February 2010)</a></p><p><a href="file.asp?id=1403">Nabors Industries - SEC Form 10-K (1 March 2011)</a></p><p><a href="file.asp?id=2035">Nabors Industries - SEC Form 10-Q (2 November 2012)</a></p><p><a href="file.asp?id=2145">Nabors Industries - SEC Form 8-K (15 February 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

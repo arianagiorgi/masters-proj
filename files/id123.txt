@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192207u18y6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922076p012" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - HOLCAR OIL CORP.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(123)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19220791u63" width="415" height="61" /></div>
+    
+        <h1>HOLCAR OIL CORP.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Holcar Oil Corporation ("Holcar")<br />Roy J. Carver (Chairman and President of Holcar)<br />R. Eugene Holley (Vice President of Holcar)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oil exploration and drilling
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Cayman Islands, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Qatar<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ alleged that Carver and Holley, as officers of Holcar Oil Corporation, violated the FCPA's anti-bribery provisions in connection with improper payments made to a government official in Qatar between 1975 and 1978 in order to secure an oil concession agreement.<br /><br />In 1975, Carver and Holley met in Doha with an official of the government of Qatar, Ali Jaidah , to discuss the possibility of granting an oil concession.  Ali Jaidah, then Director of Petroleum Affairs, informed them that he would approve the concession if they provided him with a substantial payment of money.  In October 1985, Carver and Holley established a company called Holcar Oil Corporation in the Cayman Islands to use as a vehicle for the purpose of exploiting the concession.<br /><br />In November 1985, during a visit to Qatar, Ali Jaidah informed Carver and Holley they would need to pay him USD 1.5 million in return for his cooperation and that the funds were to be deposited in his brother's Swiss bank account.  Carter and Holley acquiesced to the demand and transferred USD 1.5 million to the bank account.  As a result, in January 1976 the government of Qatar entering into an oil drilling concession agreement with Holcar.<br /><br />In mid-1977, after running into technical difficulties related to extracting the oil, Carver and Holley sought additional financing.  In December 1977, Holcar entered into an agreement with Attock Oil Corporation ("Attock"), a Pakistani firm, whereby Attock would undertake the refinancing of the drilling concession operations in exchange for Holcar stock.  The agreement with Attock was contingent on Holcar renewing its concession with the government of Qatar.  <br /><br />In January 1978, Qatar's new Director of Petroleum Affairs, Abdullah Sallat, told Holcar that the government would not renew the concession due to Holcar's failure to development the oil field.  Carver and Holley then pursued, unsuccessfully, several diplomatic channels in an effort to salvage the deal.  Their efforts included asking the U.S. Ambassador to Qatar, Andrew Killgore, and an American foreign service officer, Thomas Wukitsch, to name Qatari officials from whom they might buy influence in order to secure the renewal of the concession.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Qatari Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Oil drilling concession contract, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified, but presumably the DOJ's investigation began soon after Carver disclosed the initial USD 1.5 million payment to the U.S. ambassador and foreign service officer.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 9 April 1979, without admitting or denying the DOJ's allegations, Carver and Holley each consented to the entry of a final judgment permanently enjoining them from future violations of the FCPA.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The DOJ will investigate and prosecute individual wrongdoers for violations the FCPA, at times along with, or exclusive of, the corporate entity involved. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=348">Complaint for Permanent Injunction: U.S. v. Roy J. Carver and R. Eugene Holley (April 9, 1979)</a></p><p><a href="file.asp?id=349">Consent and Stipulation: Roy J. Carver (April 9, 1979)</a></p><p><a href="file.asp?id=350">Consent and Stipulation: R. Eugene Holley (April 9, 1979)</a></p><p><a href="file.asp?id=351">Final Judgment of Permanent Injunction: U.S. v. Roy J. Carver and R. Eugene Holley (April 9, 1979)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

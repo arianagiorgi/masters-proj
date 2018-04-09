@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192509pogg8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19250921j7l" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - TYSON FOODS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(330)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1925098h59c" width="415" height="61" /></div>
+    
+        <h1>TYSON FOODS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Tyson Foods, Inc. ("Tyson Foods")<br /> Tyson de Mexico (Tyson's wholly-owned Mexican subsidiary)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Large processor and marketer of poultry, beef and pork products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Springdale, Arkansas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Mexico<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to court documents, from 2004 to 2006, Tyson Foods's Mexican subsidiary, Tyson de Mexico, made between USD 90,000 and 100,000 in improper payments to two government-employed veterinarians who inspected two of its chicken processing plants in Gomez Palacio, Mexico. The payments allegedly were made so that the veterinarians would not disrupt the operations of the meat-production facilities.  As a result, Tyson Foods realized net profits of more than USD 880,000 from export sales from its Tyson de Mexico facilities in fiscal years 2004, 2005 and 2006.<br /><br />The payments were made directly to the veterinarians and indirectly through their wives, who Tyson de Mexico listed on its payroll even though neither performed any services for the company. In June 2004, a Tyson de Mexico plant manager allegedly discovered the wives on the payroll and informed a Tyson Foods accountant. After subsequent meetings involving Tyson Foods and Tyson International officials, the payroll payments to the spouses were replaced with invoice payments to one of the veterinarians - an approach that was approved by an executive of Tyson International. It was not until two years after Tyson Foods officials first learned about the subsidiary’s improper payments that its counsel instructed Tyson de Mexico to cease.<br /><br />The payments were improperly recorded as legitimate expenses in Tyson de Mexico’s books and records and included in its reported financial results for fiscal years 2004, 2005 and 2006. The subsidiary's financial results were, in turn, a component of Tyson Foods’ consolidated financial statements filed with the SEC for those years.<br /><br />[Companies exporting meat products from Mexico must participate in an inspection program supervised by the Mexican Department of Agriculture. The inspection program at each facility is supervised by an on-site veterinarian employed by the government to ensure that all exports conform to Mexican health and safety laws.]
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Alleged Payments to&nbsp;Mexican Officials</td>
+<td style="text-align: center;" width="50%">Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">Between USD 90,000&nbsp;and 100,000</td>
+<td style="text-align: center;">USD 880,000 in net profits from export sales</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Tyson Foods described the ongoing investigation as follows in its SEC Form 10-Q filed on February 4, 2011:<br /><br />"In November 2006, the Audit Committee of our Board of Directors engaged outside counsel to conduct a review of certain payments that had been made by one of our subsidiaries in Mexico, including payments to individuals employed by Mexican governmental bodies. The payments, the amount of which we believe are immaterial, were discontinued in November 2006. We voluntarily informed the Securities and Exchange Commission and the U.S. Department of Justice of our review and preliminary findings. As part of our commitment to full cooperation with the government's review of this matter, we have held meetings with the relevant governmental authorities, which we believe have resulted in significant progress towards resolution of this matter. We do not expect this resolution to have a material impact on our consolidated financial statements."
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On February 10, 2011, the DOJ filed a criminal information in the U.S. District Court for the District of Columbia charging Tyson Foods with conspiracy to violate the FCPA and substantive violations of the FCPA.  Tyson Foods entered into a two-year deferred prosecution agreement with the DOJ, agreeing to pay a USD 4 million criminal fine, implement rigorous internal controls and cooperate fully with the DOJ.  <br /><br />On the same day, Tyson Foods, without admitting or denying the SEC's allegations, consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  Tyson Foods agreed to disgorge more than USD 1.2 million in profits and pre-judgment interest.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Bribe payments made to influence regulatory inspectors fall under the FCPA's "obtaining or retaining business" element.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1338">Tyson Foods - SEC Form 10-Q (4 Feb. 2011)</a></p><p><a href="file.asp?id=1341">DOJ Press Release: February 10, 2011 (Tyson Foods Inc. Agrees to Pay $4 Million Criminal Penalty to Resolve Foreign Bribery Allegations)</a></p><p><a href="file.asp?id=1342">SEC Press Release: February 10, 2011 (SEC Charges Tyson Foods with FCPA Violations)</a></p><p><a href="file.asp?id=1343">Complaint: SEC v. Tysons Foods, Inc. (February 10, 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19235626c0q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923569xt3t" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - AFFILIATED COMPUTER SERVICES</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(244)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192356n5jh8" width="415" height="61" /></div>
+    
+        <h1>AFFILIATED COMPUTER SERVICES</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Canada: Royal Canadian Mounted Police<br />Canada: Office of the Attorney General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Affiliated Computer Services, Inc. ("ACS")<br />ACS Public Sector Solutions Inc. (wholly-owned subsidiary of ACS in Canada) ("PSS")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Photo enforcement services for law enforcement 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Dallas, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Canada<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        ACS and PSS were accused of providing certain non-monetary benefits (hockey tickets and the possibility of post-retirement employment) to two police officers in Edmonton, Canada between 1998 and 2004 in order to secure support for extending a contract to manage the City of Edmonton's red light camera and photo radar program.  In February 2006, Alberta Crown Prosecutors charged ACS and PSS with providing secret commissions.  The charge against ACS was withdrawn by the Alberta Crown Prosecutor in October 2006.  In August 2007, the secret commissions charge was also withdrawn against PSS.  However, new charges were laid alleging that PSS was a party to a breach of trust and that it unlawfully offered benefits.<br /><br />The two police officers were charged with breach of trust and accepting secret commissions. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Canadian Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Several hockey tickets worth in excess of CAD 100 each and the possibility of post-retirement employment with the company</p>
+</td>
+<td>
+<p>The renewal of an existing contract for five years and with three further five-year options; if all options were exercised, the contract value&nbsp;was estimated at&nbsp;CAD 90 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, in 2004 the Edmonton Sun newspaper wrote an article criticizing the approval process of the contract between ACS and the police department.  After the article, the newspaper received an anonymous e-mail containing allegations of misconduct.  A further story resulted. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The charge against ACS was withdrawn by the Alberta Crown Prosecutor on 31 October 2006.  In November 2007, following a Preliminary Inquiry, the Provincial Court of Alberta dismissed all charges against PSS for the reasons enumerated in the attached ruling.  At the conclusion of the Preliminary Inquiry, the Alberta Crown Prosecutor had already advised the Court that he was withdrawing the allegation relating to the possibility of post-retirement employment.<br /><br />The Court found that there was no evidence and no reasonable inference that the alleged benefits were provided in to order to secure improper support for continuing the contract and that there was also no evidence and no reasonable inference that the conduct of the PSS employees at issue should be attributed to the company itself (no PSS employees were ever charged in connection with the matter).<br /><br />In separate proceedings in September 2007 and October 2008, after a full trial on the merits, the Edmonton police officers were also found innocent of any misconduct.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Canadian law is quite strict with respect to the provision of benefits to government officials. The mere provision of a benefit to a federal or provincial government official may be an offence, even if the benefit is not in consideration for an act, omission or influence by the government official. Accordingly, companies or individuals may inadvertently contravene Canadian legal requirements without intent to unduly influence the official.  As such, significant prudence is required when dealing with Canadian government officials.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>TheNewspaper.com: "Canada: ACS, Cops Charged in Camera Bribery Scandal" (17 February 2006)</p><p>The Edmonton Journal: "Phoenix trip among alleged perks" (10 June 2006)</p><p><a href="file.asp?id=919">The Provincial Court of Alberta: Ruling (13 November 2007)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Technology/Software</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

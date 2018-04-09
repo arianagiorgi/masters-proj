@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184325p97g1">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843258150u" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DOBB WHITE & CO.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(96)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1843259g2yh" width="415" height="61" /></div>
+    
+        <h1>DOBB WHITE & CO.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Dobb White & Co. (accountancy practice)<br />Nigel Heath (solicitor and middleman for Dobb White & Co.)<br />Shinder Singh Gangar (partner in Dobb White & Co.)<br />Alan White (partner in Dobb White & Co.)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        High-yield investment products 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Leicester, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United States<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In late 1990s and early 2000s, Alan White and Shinder Gangar were partners in an accountancy practice known as Dobb White & Co.  The firm had offices in the UK located in Leicester and Nottingham.  In addition to providing accountancy services, they ran a transatlantic pyramid scheme.  <br /><br />It appears that the scheme was a series of elaborate, and apparently plausible, ponzi schemes.  Deposits were accepted from clients who were promised substantial return on their funds, often 40% per annum and even, in some cases, as high as 160%.  An English solicitor Nigel Heath worked with Dobb White & Co. as a middleman introducing potential clients. <br /><br />The investment scheme had a U.S. connection through an investment scheme known as the Pavasseur programme.  This programme was operated and controlled by an American citizen named Terry Dowdell who purported to be able to generate substantial profits by trading in bonds.  In 1999, arrangements were made by White and Gangar to invest monies with Pavasseur.  Substantial monies were transferred and a balance sheet dated 3 May 2002 (which was falsified) showed that at that time just over USD 100 million was owed by Dobb White to its clients and of that sum over USD 78 million was said to be held in an account with Pavasseur.  It is estimated that the total value of the fraud exceeded USD 200 million.<br /><br />Enforcement action was taken against Alan White and Shinder Gangar in the U.S. Bank accounts were frozen.  Nigel Heath then conspired with Shinder Gangar an Alan White to bribe U.S. officials in an attempt to get Bank accounts in the U.S. unfrozen. <br /><br />Heath, Gangar and White believed that they had paid, in total, USD 250,000 into an account for the purpose of paying a substantial bribe to an unnamed U.S. government official. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD 250,000</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Unfreezing of bank accounts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The investigation into the affairs of Shinder Gangar, Alan White and Nigel Heath started in September 2002 and arose from a separate SFO investigation into Michael Summers and others.  On 28 April 2006, Summers was convicted in a separate SFO fraud case and sentenced to four years imprisonment and ordered to pay GBP 4 million in confiscation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 February 2008, Shinder Singh Gangar and Alan White were convicted and both men received seven and a half years imprisonment in total.  They were sentenced to six years for conspiracy to defraud and eighteen months for conspiracy to corrupt.  The sentences were to be served consecutively.  In addition, they were disqualified from being directors for twelve years. <br /><br />Nigel Heath pleaded guilty to a charge of conspiracy to commit corruption and on 17 October 2008 was sentenced to six months imprisonment.  He had previously been struck off as a solicitor by the Law Society in 2007 as a result of his acting as a middle-man in relation to high yield investment products. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Nigel Heath's sentence was substantially lower than sentences imposed upon Shinder Singh Gangar and Alan White, presumably because he pleaded guilty. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192142u379w">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1921427yl11" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DOBB WHITE & CO.</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(96)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192142m898h" width="415" height="61" /></div>
+    
+        <h1>DOBB WHITE & CO.</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Dobb White & Co. (accountancy practice)<br />Nigel Heath (solicitor and middleman for Dobb White & Co.)<br />Shinder Singh Gangar (partner in Dobb White & Co.)<br />Alan White (partner in Dobb White & Co.)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        High-yield investment products 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Leicester, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        United States<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In late 1990s and early 2000s, Alan White and Shinder Gangar were partners in an accountancy practice known as Dobb White & Co.  The firm had offices in the UK located in Leicester and Nottingham.  In addition to providing accountancy services, they ran a transatlantic pyramid scheme.  <br /><br />It appears that the scheme was a series of elaborate, and apparently plausible, ponzi schemes.  Deposits were accepted from clients who were promised substantial return on their funds, often 40% per annum and even, in some cases, as high as 160%.  An English solicitor Nigel Heath worked with Dobb White & Co. as a middleman introducing potential clients. <br /><br />The investment scheme had a U.S. connection through an investment scheme known as the Pavasseur programme.  This programme was operated and controlled by an American citizen named Terry Dowdell who purported to be able to generate substantial profits by trading in bonds.  In 1999, arrangements were made by White and Gangar to invest monies with Pavasseur.  Substantial monies were transferred and a balance sheet dated 3 May 2002 (which was falsified) showed that at that time just over USD 100 million was owed by Dobb White to its clients and of that sum over USD 78 million was said to be held in an account with Pavasseur.  It is estimated that the total value of the fraud exceeded USD 200 million.<br /><br />Enforcement action was taken against Alan White and Shinder Gangar in the U.S. Bank accounts were frozen.  Nigel Heath then conspired with Shinder Gangar an Alan White to bribe U.S. officials in an attempt to get Bank accounts in the U.S. unfrozen. <br /><br />Heath, Gangar and White believed that they had paid, in total, USD 250,000 into an account for the purpose of paying a substantial bribe to an unnamed U.S. government official. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">&nbsp;USD 250,000</p>
+</td>
+<td>
+<p style="text-align: center;">&nbsp;Unfreezing of bank accounts</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The investigation into the affairs of Shinder Gangar, Alan White and Nigel Heath started in September 2002 and arose from a separate SFO investigation into Michael Summers and others.  On 28 April 2006, Summers was convicted in a separate SFO fraud case and sentenced to four years imprisonment and ordered to pay GBP 4 million in confiscation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 22 February 2008, Shinder Singh Gangar and Alan White were convicted and both men received seven and a half years imprisonment in total.  They were sentenced to six years for conspiracy to defraud and eighteen months for conspiracy to corrupt.  The sentences were to be served consecutively.  In addition, they were disqualified from being directors for twelve years. <br /><br />Nigel Heath pleaded guilty to a charge of conspiracy to commit corruption and on 17 October 2008 was sentenced to six months imprisonment.  He had previously been struck off as a solicitor by the Law Society in 2007 as a result of his acting as a middle-man in relation to high yield investment products. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Nigel Heath's sentence was substantially lower than sentences imposed upon Shinder Singh Gangar and Alan White, presumably because he pleaded guilty. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		Not available
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Financial Services</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

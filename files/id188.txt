@@ -1,0 +1,123 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192304hk288">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1923042f5ih" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BLACKWATER (now ACADEMI)</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(188)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1923042585v" width="415" height="61" /></div>
+    
+        <h1>BLACKWATER (now ACADEMI)</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Xe Services, LLC (formerly Blackwater Worldwide) ("Blackwater")<br />Academi (formerly Blackwater, also formerly Xe Services; the company is now headquartered in Arlington County, Virginia)<br />EP Aviation LLC<br />Aviation Worldwide Services LLC<br />Air Quest, Inc.<br />Presidential Airways, Inc.<br />STI Aviation, Inc.<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Provider of military and defense training services 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Moyock, North Carolina, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />Jordan<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, in 2009 the DOJ launched an investigation into possible FCPA violations by Blackwater in connection with approximately USD 1 million in payments allegedly provided to Iraqi officials following the 2007 Nisour Square incident in which Blackwater security guards fatally shot 17 Iraqis.  In January 2009, the U.S. Department of State said it would not renew its security contract with Blackwater, which was due to run out in May 2009, because the Iraqi government had revoked the company's license to operate in the country.  Blackwater allegedly used a victim compensation fund to pay bribes to Iraqi officials in order to secure a new operating license.  Others reports attribute the funds to compensation granted to the victims of the shooting.  <br /><br />On 16 April 2010, the former president of Blackwater, three other former employees and one current employee were indicted on charges related to the company's improper registration and storage of automatic machine guns.  According to the indictment, the defendants purchased over 200 short barrels to install into long-barreled rifles for use in Iraq and Afghanistan. They also allegedly gave several guns to Jordanian officials in an attempt to secure a lucrative contract with the Jordanian government, later falsifying forms submitted to the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Iraqi Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Sought</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>USD 1 million</p>
+</td>
+<td>
+<p>Attempt to obtain a license from Iraqi government to continuing operating in Iraq</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Corruption Investigation <br /><br />On 19 July 2012, the DOJ wrote a letter to Academi saying that it had closed its investigation into the bribery allegations.  The DOJ noted, "We have taken this step based on a number of factors, including...the investigation undertaken by Academi and the steps taken by the company to enhance its anti-corruption compliance program."<br /><br />Export and Firearms Charges<br /><br />On 7 August 2012, Blackwater/Academi entered into a three year Deferred Prosecution Agreement, and agreed to pay a USD 7.5 million fine for various non-FCPA violations (subject to a USD 2.5 million credit for compliance expenditures), and USD 42 million in a State Department fine for violations of  the Arms Export Control Act and the International Trafficking in Arms Regulations.  Among other allegations, the Company acknowledged trying to operate in Sudan in violation of trade sanctions and export restrictions.  Specifically, the company sold satellite communications devices in Sudan in 2005.  It also acknowledged having employed European nationals to construct armored personnel carriers without obtaining the requisite permits, and it exported arms and ammunition to Iraq and Afghanistan.<br /><br />The DPA includes the imposition of an export compliance monitor.<br /><br />The Company admitted to having violated the International Emergency Economic Powers Act (IEEPA) by shipping short-barreled rifles, fully automatic weapons, armored helicopters, armored personnel carriers, by providing training of foreign nationals without a license, and commiting firearms violations, resulting in 17 criminal charges against the company.  A portion of the allegations were subsumed under a non-prosecution agreement applicable to EP Aviation LLC; Aviation Worldwide Services LLC; Air Quest, Inc., Presidential Airways, Inc.; and STI Aviation, Inc.<br /><br />Among the facts stated in the FBI's bill of information and admitted by the Company are FCPA violations:<br /><br />"[C]ounts 13 through 17 allege that the company falsely represented to the Bureau of Alcohol, Tobacco, Firearms, and Explosives that five firearms were owned by certain individuals when the weapons had, in fact, been given as a gift to the King of Jordan and/or his traveling entourage in June 2005."
+		<h2>COMPLIANCE MONITOR</h2>
+        Export compliance monitor required for non-FCPA DPA
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>Main Justice: February 1, 2010 (Justice Department Probes Blackwater Bribery Allegations)</p><p>NY Times: January 31, 2010 (U.S. Examines Whether Blackwater Tried Bribery)</p><p><a href="file.asp?id=1933">Blackwater - FBI Press Release (7 August 2012), Blackwater Charged and Enters Deferred Prosecution Agreement</a></p><p><a href="file.asp?id=1934">Blackwater - Deferred Prosecution Agreement (7 August 2012) (Non-FCPA)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192518mgk93">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192518mjiq6" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MARK JESSOP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(340)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-19251816y6q" width="415" height="61" /></div>
+    
+        <h1>MARK JESSOP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United Kingdom: Serious Fraud Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Mark Rodney Jessop <br />Dr. Janan Matloob (Iraqi middleman in Jordan who facilitated some of Jessop's contracts with the Iraqi government)<br />Dr. Ishan Ibrahim (local Iraqi agent used by Jessop)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Surgical instruments and other medical goods
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Mark Rodney Jessop, a UK citizen, initially sold medical goods to the Iraqi market as an employee of a British surgical instruments company.  Later, he sold through his own companies after setting up JJ Bureau Ltd and Opthalmedex Ltd in 1987, of which he was sole director.  While these two entities became the principal vehicles for his business activity in Iraq, Jessop also acted as an agent for other suppliers, negotiating contracts with the Iraqi government on their behalf.<br /><br />The Iraqi State Company for Marketing Drugs and Medical Appliances, known as Kimadia, awarded 54 medical goods contracts to Jessop between 1996 and 2003, valued at USD 12.3 million.  According to the SFO, Jessop was the most active supplier of medical goods in contract numbers. <br /><br />In August 2000, the Iraqi government imposed a policy that prices for United Nations Oil for Food contracts be uplifted to allow for a 10% kickback to the regime, with the kickbacks typically described on pro forma invoices as "after sales service fees."  Mark Jessop accepted the contracts on this basis, admitting that he provided nearly EUR 104,649 in kickbacks the Iraqi government, with a further EUR 235,237 outstanding following military intervention in March 2003.   <br /><br />The contracts and kickback payments were facilitated either by an old business contact, Dr. Janan Matloob, an Iraqi living in Jordan, or through an Iraqi agent, Dr. Ishan Ibrahim, whose business, Beja Scientific Office, was authorized by Kimadia to represent foreign firms. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Iraqi Government</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;EUR 104,649 (with EUR 235,237 outstanding at time of military intervention in March 2003)<br /></td>
+<td style="text-align: center;">Contracts for the supply of medical goods<br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The UK Serious Fraud Office (SFO) commenced an investigation in 2007 into UK entities and businessmen that may have violated sanctions regulations in connection with their activities in Iraq during the UN Oil for Food program.  A special UN Independent Inquiry Committee had published a report in October 2005 detailing the widespread manipulation of the program.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The SFO charged Mark Jessop in November 2009.  On 13 April 2011, in Southwark Crown Court, Jessop pleaded guilty and admitted to ten counts of engaging in activities to make funds available to the Iraqi Government in contravention of The Iraq (United Nations Sanctions) Order 2000 (Statutory Instrument 3241), which made it a criminal offense to do so without a license granted by HM Treasury.  He was sentenced to 24 weeks imprisonment and ordered to pay GBP 150,000 to the Development Fund for Iraq and pay prosecution costs of GBP 25,000.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The UK SFO has pursued both companies and individuals involved in breaches of the United Nations sanctions against Iraq in the early 2000s.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1442">SFO Press Release (13 April 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

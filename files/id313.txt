@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1924558v2gh">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1924552aw2o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCANIA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(313)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924554kfp4" width="415" height="61" /></div>
+    
+        <h1>SCANIA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Sweden: Prosecution Authority, Anti-Corruption Unit<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Scania AB ("Scania")<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Heavy-truck and bus manufacturer
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Sodertalje, Sweden
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Iraq<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 1 November 2010, a Swedish prosecutor revealed that Scania did business with Saddam Hussein's regime through Tunisian and Russian companies, and that kickbacks of at least USD 5 million were paid for contracts worth about USD 70 million.  The prosecutor provided information to the U.S. Department of Justice, as Scania was listed on a U.S. stock exchange prior to 2002, including the relevant period for oil-for-food violations.  According  to press reports, managers at Scania may be charged by prosecutors in connection with alleged bribes paid to the Iraqi regime of Saddam Hussein during the United Nations Oil-for-Food Program in the early 2000s.  <br /><br />During 2010 Scania became the subject of an investigation being carried out by a British public authority, the Office of Fair Trading (OFT), and during 2011 of an investigation being carried out by the European Commission, concerning alleged inappropriate cooperation. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong><br /></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Approximately $5 million</td>
+<td style="text-align: center;">Approximately $70 million <br /></td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        According to press reports on 19 January 2011, Swedish prosecutors called Scania's Chief Executive Officer, Leif Oestling, in for questioning in connection with the matter.  In June 2011, Oestling filed a complaint with Sweden's Chancellor of Justice (Justitiekanslern), alleging that the prosecutor illegally leaked confidential information about the investigation, and damaged Oestling's reputation.  Oestling was eventually not charged, and on 5 May 2011, his contract as President and CEO of Scania was extended through 31 March 2015.<br /><br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>The Local: "Scania accused of Iraq oil-for-food bribes" (1 Nov. 2010)</p><p>Bloomberg: "Scania CEO Faces Questioning on Iraq Sanctions, Dagens Reports" (19 January 2011)</p><p><a href="file.asp?id=2022">Scania - Press Release (5 May 2011), Leif Oestling's contract extended</a></p><p><a href="file.asp?id=2023">Scania - Press Release (16 September 2010), Scania's distributor in the UK investigated by OFT</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #ffcc00;">Oil-for-Food</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

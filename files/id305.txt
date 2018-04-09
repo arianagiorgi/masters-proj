@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192448hp303">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192448850bh" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCHLUMBERGER</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(305)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192448ewrqa" width="415" height="61" /></div>
+    
+        <h1>SCHLUMBERGER</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Schlumberger N.V. (also known as Schlumberger Limited) ("Schlumberger")<br />Zonic Invest ltd.<br />Tawfiq Saleh Abdullah Saleh, nephew of president Ali Saleh and director of Zonic<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Oilfield services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Houston, Texas, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Yemen<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Schlumberger described its ongoing FCPA investigation as follows in its SEC Form 10-K filed on 4 February 2011:<br /><br />"In 2007, Schlumberger received an inquiry from the United States Department of Justice ("DOJ") related to the DOJ's investigation of whether certain freight forwarding and customs clearance services of Panalpina, Inc., and other companies provided to oil and oilfield service companies, including Schlumberger, violated the Foreign Corrupt Practices Act. Schlumberger is cooperating with the DOJ. Schlumberger is cooperating with the governmental authorities and is currently unable to predict the outcome of this matter."<br /><br />According to a press report published on 8 October 2010, the DOJ has started looking into potential FCPA violations in connection with a joint Data Bank Development Project project between Schlumberger and the Yemeni government.  The company reportedly hired a local firm called Zonic Invest Ltd. at the request of Yemen's Petroleum Exploration and Production Authority, prior to the agency signing off on the project.  According to the press report, Zonic was run by Tawfiq Saleh Abdullah Saleh, the nephew of Yemeni President Ali Abdullah Saleh and the firm received a USD 500,000 signing bonus, plus other compensation, from Schlumberger in exchange for facilitating the deal.<br /><br />Schlumberger has not yet disclosed the investigation involving Yemen or commented on the specific press report.   The company's Director of Compliance, Dianne Ralston, was quoted as stating that Schlumberger "has an embedded, robust culture of accountability and compliance, training our employees to report concerns, thoroughly investigating issues raised and taking appropriate action. This is a long-term commitment Schlumberger has made everywhere we operate around the world." <br /><br />In addition, the Company disclosed possible sanctions violations: <br /><br />"In 2009, Schlumberger learned that United States officials began a grand jury investigation and an associated regulatory inquiry, both related to certain Schlumberger operations in specified countries that are subject to United States trade and economic sanctions. Also in 2009, prior to being acquired by Schlumberger, Smith received an administrative subpoena with respect to its historical business practices in certain countries that are subject to United States trade and economic sanctions. Schlumberger is cooperating with the governmental authorities."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In the Company's SEC Form 10-Q filed on 24 November 2012, the original FCPA disclosure statement was repeated, followed by: <br /><br />"In October 2012, Schlumberger was advised by the DOJ that it has closed its inquiry as it relates to Schlumberger."<br />
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>An extensive investigation involving several companies in multiple jurisdictions may not result in FCPA enforcement actions against each company.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1163">Schlumberger - SEC Form 10-Q (July 29, 2010)</a></p><p>Wall Street Journal: "Oil-Field Giant in Bribery Probe" (October 8, 2010)</p><p><a href="file.asp?id=1405">Schlumberger - SEC Form 10-K (4 Feb. 2011)</a></p><p><a href="file.asp?id=1818">Schlumberger - SEC Form 10-K (1 February 2012)</a></p><p><a href="file.asp?id=2031">Schlumberger - SEC Form 10-Q (24 October 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #996600;">Customs</span><br /><span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

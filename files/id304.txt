@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192447u36cw">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192447f2mlm" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - CB RICHARD ELLIS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(304)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192447bar9n" width="415" height="61" /></div>
+    
+        <h1>CB RICHARD ELLIS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        CB Richard Ellis Group, Inc. ("CBRE")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Commercial real estate services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        CBRE initially disclosed the FCPA investigation in its SEC Form 10-K filed on 1 March 2010.  The company provided the following update in its SEC Form 8-K released on 5 October 2010: <br /><br />"As a result of an internal investigation that began in the first quarter of 2010, the Company determined that some of its employees in certain of its offices in China made payments in violation of Company policy to local governmental officials, including payments for non−business entertainment and in the form of gifts. The payments the Company discovered are minor in amount and the Company believes relate to only a few discrete transactions involving immaterial revenues. Nonetheless, the Company believes that the payments may have been in violation of the U.S. Foreign Corrupt Practices Act or other applicable laws. Consequently, the Company voluntarily disclosed these events to the U.S. Department of Justice (the 'DOJ') and the Securities and Exchange Commission (the 'SEC') on February 27, 2010 and has continued to cooperate with both the DOJ and the SEC in connection with this investigation. The Company engaged outside counsel to investigate these events and has implemented thorough remedial measures.<br /><br />"In addition, in the third quarter of 2010, the Company began another internal investigation, with the assistance of outside counsel, involving the use of a third party agent in connection with a purchase in 2008 of an investment property in China for one of the funds the Company manages through its Global Investment Management business. This investigation is ongoing and at this point the Company is unable to predict the duration, scope or results thereof. In light of the Company's cooperation with the DOJ and the SEC as described above, the Company voluntarily notified both agencies of this separate internal investigation and will report back to them when the Company has more information."<br /><br />In its SEC Form 10-K filed on 1 March 2011, CBRE reported that its investigation had concluded and the DOJ and SEC declined to take any enforcement action against the company: <br /><br />"We have concluded our previously disclosed internal investigation relating to activities by some of our employees in certain of our offices in China that raised issues with respect to the U.S. Foreign Corrupt Practices Act. The U.S. Department of Justice and the U.S. Securities and Exchange Commission have also closed their review of such matters without any action."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        As discussed above, CBRE has concluded its internal investigation and the DOJ and SEC closed their inquiries without taking enforcement action against the company.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Where a company discovers potential violations through its own compliance processes, voluntarily discloses to the government, conducts a thorough investigation and fully cooperates, it is possible that the enforcement agencies will decline to pursue an enforcement action against the company.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1160">CBRE - SEC Form 8-K (Oct. 5, 2010)</a></p><p><a href="file.asp?id=1162">CBRE - SEC Form 10-K (Mar. 1, 2010)</a></p><p><a href="file.asp?id=1361">CBRE - SEC Form 10-K (1 Mar. 2011)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #006600;">Property Development/Real Estate</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

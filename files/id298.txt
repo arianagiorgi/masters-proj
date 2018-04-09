@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192442om61t">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192442408x2" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - SCICLONE</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(298)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1924425l3sy" width="415" height="61" /></div>
+    
+        <h1>SCICLONE</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        SciClone Pharmaceuticals, Inc. ("SciClone")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Foster City, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        SciClone described the ongoing investigation as follows in its SEC Form 10-K filed on March 17, 2011:<br /><br />"In August 2010, we received notices of investigations by U.S. government agencies that relate to our operations in China including compliance with the FCPA and we subsequently initiated an internal investigation regarding these matters. In connection with the formal, non public SEC investigation, the SEC issued a subpoena to us requesting documents regarding a range of matters including but not limited to documents relating to potential payments or transfer of anything of value to regulators and government-owned entities in China; documents relating to bids or contracts with state or government-owned entities in China; documents relating to intermediary or local agent of the Company in China; documents regarding the Company’s ethics and anti-corruption policies, training, and audits; and documents relating to certain Company financial and other disclosures made by the Company. The DOJ is currently conducting an investigation of us in connection with compliance with the FCPA, as to which they have advised us that the DOJ has information about the Company’s practices suggesting possible violations. We have been cooperating with, and will continue to cooperate with, the investigations by and inquiries from the SEC and DOJ. In response to these matters, our board of directors has appointed a special committee of independent directors to oversee our response to the government inquiry. Based on an initial review, the special committee is conducting an independent investigation as to matters reflected in and arising from the SEC and DOJ investigations including, but not limited to, certain sales and marketing matters in China, in order to evaluate whether any violation of the FCPA or other laws occurred. We are unable to predict what consequences, if any, that any investigation by any regulatory agency or by our special committee may have on us. These and any other regulatory investigations and our cooperation with them will result in substantial legal and accounting expenses, and could divert management’s attention from other business concerns and harm our business. If we fail to comply with regulations or to carry out controls on our Chinese or other foreign operations in a manner that satisfies all applicable laws, our business would be harmed. Any civil or criminal action commenced against us by a regulatory agency could result in administrative orders against us, the imposition of significant penalties and/or fines against us, and/or the imposition of civil or criminal sanctions against certain of our officers, directors and/or employees. The investigations, results of the investigations, or remedial actions we may take, if any, as a result of such investigations, may adversely affect our business in China. If we are subject to an adverse finding resulting from the SEC and DOJ investigations, or from our own independent investigation, we could be required to pay damages or penalties or have other remedies imposed upon us. In addition, we could incur additional expenses related to fines, or to remediative measures including if we determine that our compliance programs, internal controls or disclosure controls are not effective. The period of time necessary to resolve our independent investigation, and the investigation by the DOJ and the SEC is uncertain, and these matters could require significant management and financial resources which could otherwise be devoted to the operation of our business.<br /><br />We are taking actions to improve our practices and policies regarding compliance with law, and have identified a material weakness in our internal control over financial reporting relating to our implementation of our policy on compliance with laws.<br /><br />We have consistently maintained a policy that our employees comply with all applicable laws. However, in the course of evaluating our existing training, policies and internal controls over financial reporting and expense approval and expense reimbursement practices, and of the matters brought to the attention of management by the special committee, we determined that our guidelines, employee training and expense approval practices and our internal controls with respect to certain matters, including the payment for, or reimbursement of, third party gifts, travel expenses, honoraria and sponsorship of certain third party events required improvements in order to provide reasonable assurance that our policy on compliance with applicable laws was effective. In addition, management determined that we had a material weakness in our internal control over financial reporting as of December 31, 2010 relating to our implementation of our policy on compliance with laws.<br /><br />During the first quarter of fiscal 2011, we initiated or commenced various remediation efforts to provide reasonable assurance of our implementation of our policy on compliance with laws, including the FCPA and other anti-bribery laws as described in "Management’s Annual Report on, and Changes in, Internal Control over Financial Reporting". As a result of adopting new practices, guidelines and other measures, certain of our sales and marketing practices will change. In particular these actions will impose restrictions and limitations on certain expenses including payments for, or reimbursement of, third-party gifts, travel expenses, honoraria and sponsorships of medical, scientific or other third party events. Our efforts to implement these changes will require substantial effort and expense, and changes in types or amount of expenses we’ll pay or reimburse could adversely affect our ability to generate revenue."<br /><br />The company is also the subject of a variety of shareholder class action and derivative lawsuits based on the alleged misconduct.  These suits are discussed in the attached SEC Form 10-K.  On October 12, 2011, SciClone announced that it had reached a preliminary settlement of the derivative litigation. <br /><br />In its SEC Form 10-Q filed on 8 August 2013, the Company stated that it received a second subpoena from the SEC in the fourth quarter of its fiscal 2012.  "In the Company's 10-Q for the period ending September 30, 2012, filed with the SEC on November 9, 2012, the Company disclosed, among other things, a non-cash impairment loss to fully write down the value of intangible assets recorded as part of the NovaMed acquisition; a remeasurement of the valuation of the contingent consideration expense recorded as part of the NovaMed acquisition; a significant increase in ZADAXIN channel inventory levels; and internal control issues primarily within the NovaMed organization that were concluded to represent a material weakness in internal control over financial reporting.  Following our disclosure of these items, the Company received a subpoena from the SEC requesting documents related to these and various other matters regarding the NovaMed acquisition and the Company's operations in China.  After review of the subpoena, and in order to respond to inquiries from the DOJ and SEC and to determine if any wrong-doing occurred, the Audit Committee determined to undertake an additional independent investigation as to additional matters, including, but not limited to, matters related to our acquisition of NovaMed and FCPA matters, and certain sales and marketing expenses." 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to&nbsp;Chinese Officials</strong></td>
+<td width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">&nbsp;Unspecified</td>
+<td>&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigations are ongoing.  On 17 March 2014, SciClone said it reserved USD $2 million for penalties related to the ongoing FCPA probe.  While the company said that a settlement of that size was "probable," it didn't not have any prediction about the exact fines that could be imposed or the timing of a resolution. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1075">SciClone - SEC Form 10-Q (August 2010)</a></p><p><a href="file.asp?id=1409">SciClone - SEC Form 10-K (17 March 2011)</a></p><p><a href="file.asp?id=1632">SciClone News Release: 12 Oct. 2011 (SciClone Pharmaceuticals Announces Preliminary Settlement of Stockholder Derivative Litigation)</a></p><p><a href="file.asp?id=1633">SciClone - SEC Form 8-K (12 Oct. 2011)</a></p><p><a href="file.asp?id=1634">SciClone - SEC Form 8-K (20 Oct. 2011)</a></p><p><a href="file.asp?id=2403">SciClone - SEC Form 10-Q (8 August 2013)</a></p><p><a href="file.asp?id=2517">SEC Form 10-K 2014 SciClone</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

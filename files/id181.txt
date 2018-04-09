@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192258p6a11">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192258ndxqm" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ASTRAZENECA</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(181)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192258jz7vt" width="415" height="61" /></div>
+    
+        <h1>ASTRAZENECA</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />Korea: Fair Trade Commission<br />India: Central Bureau of Investigation<br />Serbia: Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        AstraZeneca PLC ("AstraZeneca," "AZ")<br />Nenad Borojevic (director of the Institute for Oncology and Radiology)<br />AstraZeneca India Pharma Limited ("AZ India," a Bangalore-based subsidiary of AZ)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Pharmaceutical products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Croatia<br />Serbia<br />China<br />India<br />Italy<br />Russia<br />Slovakia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Croatia, Italy, Russia and Slovakia<br /><br />AstraZeneca describes the ongoing investigation as follows in its Annual Report released on 25 March 2010.  In its U.S. Securities and Exchange Commission (“SEC”) Form 10-K for 2011, filed in March 2012, the Company repeated that investigations are underway, including with regard to conduct in China. <br /><br />"In October 2006, AstraZeneca received from the SEC a letter requesting documents related to its business activities in Croatia, Italy, Russia and Slovakia for the period 1 October 2003 to the present. The SEC's request generally seeks documents concerning any payments to doctors or government officials and related internal accounting controls. The request also seeks policies, correspondence, audits and other documents concerning compliance with the Foreign Corrupt Practices Act, as well as any allegations or communications with prosecutors' offices relating to corruption or bribery of doctors or government officials. AstraZeneca has produced documents in response to this request. It is not currently possible to predict the outcome of this inquiry."<br /><br />China<br /><br />In its Annual Report released on 14 March 2011, AstraZeneca provided the following update: <br /><br />"In connection with its investigation into Foreign Corrupt Practices Act issues in the pharmaceutical industry, AstraZeneca has received inquiries from the US Department of Justice and SEC regarding, among other things, sales practices, internal controls, certain distributors and interactions with healthcare providers in several countries. AstraZeneca is co-operating with these inquiries. AstraZeneca is investigating indications of inappropriate in certain countries, including China. These investigations are ongoing, and it is not currently possible to predict the scope, duration or outcome of these matters, including the extent to which, if at all, they will result in any liability to AstraZeneca."<br /><br />Serbia<br /><br />In a filing with the SEC on 7 November 2011, AstraZeneca disclosed an additional matter involving prosecutors in Serbia:<br /><br />"In August 2011, AstraZeneca UK Limited's Representative Office in Belgrade, Serbia was served with a criminal indictment relating to allegations that local employees of AstraZeneca made allegedly improper payments to physicians at the Institute of Oncology and Radiology of Serbia.  AstraZeneca has filed a number of preliminary procedural objections, which ask the Serbian criminal court to dismiss the indictment against the Representative Office."<br /><br />India<br /><br />In the Company's SEC Form 20-F filed on 28 March 2012, and subsequent quarterly reports filed during 2012, an investigation initiated by the Central Bureau of Investigation of India is described.  A First Information Request was filed against AstraZeneca in February 2012,  and against public officials of the Central Procurement Agency of the Delhi Directorate of Health Services (DHS).  The authorities claim that AstraZeneca submitted a false affidavit in a tender for meropenem, stating that the prices quoted were not higher than rates given to other governmental, semi-governmental, autonomous or public sector hospitals, institutions or organisations, but that in fact AstraZeneca sold the same medicine at a lower rate to another hospital, resulting in a loss to the DHS. <br /><br />Media reports on 26 April 2012 indicate that the CBI filed a criminal information request in February against AZ and against public officials of the Central Procurement Agency of the Delhi Directorate of Health Services.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Unspecified</p>
+</td>
+<td>
+<p>Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Serbia<br /><br />Police received a tip-off in March 2007 regarding alleged misconduct by Nenad Borojevic, head of the Institute of Oncology and Radiology in Belgrade, leading to his indictment for the receipt of bribes.  Later, police are said to have received information from the former mistress of an unnamed individual accused in the case, who provided detailed information about the bribery scheme.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The FCPA investigations are ongoing.<br /><br />Serbia<br /><br />In June 2010, Nenad Borojevic was arrested, along with four other individuals, and charged with a criminal conspiracy centered on the receipt of kickbacks from drug companies given in exchange for the use of cancer drugs produced by the companies, which included Roche Holding, Erbitux and Merck KgaA (Germany).  Later, AstraZeneca Plc, Sanofi SA and Actavis confirmed the receipt of criminal indictments related to these allegations.  In addition to the companies above, PharmaSwiss (a subsidiary of Valeant Pharmaceuticals International, Inc.) was apparently also involved.  <br /><br />In addition to Borjevic, Zoran Bekic, former head of the Pediatric Ward of the Institute for Oncology and Radiology, and Jasmina Gutovic, a representative of Merck, were charged in the conspiracy.<br /><br />Goran Orlic, a representative of Actavis who admitted participating in the scheme, received immunity in exchange for his testimony.<br /><br />Borojevic committed suicide on 10 January 2012.  Although he had denied all of the charges against him, the media had painted a harsh picture of the doctor.<br /><br />Gutovic left Merck in June 2011.  She entered a plea bargain with prosecutors but will be sentenced only when all defendants have been tried.<br /><br />Svetlana Vukajlovic, former head of the Department of Health Insurance, which approves pharmaceutical and other purchases by state-run medical institutions, was charged in September 2011 with corruption based on other facts.<br /><br />Korea<br /><br />In the Company's annual report for 2011, it also noted that it had received an administrative fine of KRW 1,512 million (USD 1.24 million) from the Korean Fair Trade Commission in September 2011, following an investigation of a number of companies for unfair trade practices related to interactions between the local pharmaceutical industry and Korean healthcare providers.  The KFTC claimed that AstraZeneca induced prescriptions through improper marking to physicians in 2006 and 2007, and also acknowledged that the practice ended in 2007 when the Company implemented a more comprehensive compliance program.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=790">AstraZeneca - SEC Form 20-F (25 Mar. 2010)</a></p><p><a href="file.asp?id=1388">AstraZeneca - Annual Report (14 March 2011)</a></p><p><a href="file.asp?id=1641">AstraZeneca - SEC Form 6-K (7 Nov. 2011)</a></p><p><a href="file.asp?id=1770">AstraZeneca - SEC Form 20-K, Annual Report for period ending 31 December 2011 (28 March 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Formal Proceedings</span><br /><span style="color: #006600;">Health Care</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

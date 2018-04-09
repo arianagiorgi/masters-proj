@@ -1,0 +1,363 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1707154l56x">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170715luo87" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WÄRTSILÄ </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(29)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170715hlj54" width="415" height="61" /></div>
+    
+        <h1>WÄRTSILÄ </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: District Court of Mustasaari<br />Finland: Office of the Prosecutor General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wärtsilä Corporation ("Wärtsilä")<br />Wärtsilä Finland Oy ("Wärtsilä Finland," Vaasa-based subsidiary of Wärtsilä)<br />Former Senior Manager of Wärtsilä Finland
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Power solutions for marine and energy markets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On October 23, 2009, charges of aggravated bribery were brought against Wärtsilä Finland's former Senior Manager at the District Court of Mustasaari in Finland.  The public prosecutor also demanded a corporate fine of at least EUR 500,000 from Wärtsilä's subsidiary, Wärtsilä Finland, in the same context.  <br /><br />The alleged bribes were supposedly made in connection with a power plant tender in Kenya in 1997.  The power plant was delivered in 2001.  The public prosecutor claimed that the Senior Manager made improper payments amounting to EUR 3.4 million to a Kenyan officer working as the Managing Director and President of the Kenya Power and Lighting Company.  <br /><br />In addition to the corporate fine, the public prosecutor has demanded the economic benefits from the project, EUR 3.4 million, to be forfeited to the State. Wärtsilä considers the demands unfounded and Wärtsilä Finland's former Senior Manager has denied the charges brought against him.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Payments Allegedly Made to Kenyan Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EUR 3.4 million</p>
+</td>
+<td>
+<p>Contract for construction of a power plant</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 18, 2009, the District Court of Mustasaari found the former Senior Manager of Wärtsilä Finland not guilty of aggravated bribery. The court also dismissed the related demand for a corporate fine against Wärtsilä Finland.<br /><br />On September 22, 2010, the Vaasa Court of Appeals decided to refer the criminal case against the former Senior Manager back to the Ostrobothnia District Court. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1382">W&auml;rtsil&auml; Press Release: "Former employee of W&auml;rtsil&auml; not guilty" (18 December 2009)</a></p><p><a href="file.asp?id=1383">W&auml;rtsil&auml; Press Release: "Demand for corporate fine against W&auml;rtsil&auml; Finland returned to district court" (22 September 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842246w4dm">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184224q6y1h" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WÄRTSILÄ </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(29)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-18422430218" width="415" height="61" /></div>
+    
+        <h1>WÄRTSILÄ </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: District Court of Mustasaari<br />Finland: Office of the Prosecutor General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wärtsilä Corporation ("Wärtsilä")<br />Wärtsilä Finland Oy ("Wärtsilä Finland," Vaasa-based subsidiary of Wärtsilä)<br />Former Senior Manager of Wärtsilä Finland
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Power solutions for marine and energy markets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On October 23, 2009, charges of aggravated bribery were brought against Wärtsilä Finland's former Senior Manager at the District Court of Mustasaari in Finland.  The public prosecutor also demanded a corporate fine of at least EUR 500,000 from Wärtsilä's subsidiary, Wärtsilä Finland, in the same context.  <br /><br />The alleged bribes were supposedly made in connection with a power plant tender in Kenya in 1997.  The power plant was delivered in 2001.  The public prosecutor claimed that the Senior Manager made improper payments amounting to EUR 3.4 million to a Kenyan officer working as the Managing Director and President of the Kenya Power and Lighting Company.  <br /><br />In addition to the corporate fine, the public prosecutor has demanded the economic benefits from the project, EUR 3.4 million, to be forfeited to the State. Wärtsilä considers the demands unfounded and Wärtsilä Finland's former Senior Manager has denied the charges brought against him.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Payments Allegedly Made to Kenyan Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EUR 3.4 million</p>
+</td>
+<td>
+<p>Contract for construction of a power plant</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 18, 2009, the District Court of Mustasaari found the former Senior Manager of Wärtsilä Finland not guilty of aggravated bribery. The court also dismissed the related demand for a corporate fine against Wärtsilä Finland.<br /><br />On September 22, 2010, the Vaasa Court of Appeals decided to refer the criminal case against the former Senior Manager back to the Ostrobothnia District Court. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1382">W&auml;rtsil&auml; Press Release: "Former employee of W&auml;rtsil&auml; not guilty" (18 December 2009)</a></p><p><a href="file.asp?id=1383">W&auml;rtsil&auml; Press Release: "Demand for corporate fine against W&auml;rtsil&auml; Finland returned to district court" (22 September 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192041173q4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192041aon95" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - WÄRTSILÄ </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(29)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192041i2eiz" width="415" height="61" /></div>
+    
+        <h1>WÄRTSILÄ </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Finland: District Court of Mustasaari<br />Finland: Office of the Prosecutor General<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Wärtsilä Corporation ("Wärtsilä")<br />Wärtsilä Finland Oy ("Wärtsilä Finland," Vaasa-based subsidiary of Wärtsilä)<br />Former Senior Manager of Wärtsilä Finland
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Power solutions for marine and energy markets
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Helsinki, Finland
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Kenya<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On October 23, 2009, charges of aggravated bribery were brought against Wärtsilä Finland's former Senior Manager at the District Court of Mustasaari in Finland.  The public prosecutor also demanded a corporate fine of at least EUR 500,000 from Wärtsilä's subsidiary, Wärtsilä Finland, in the same context.  <br /><br />The alleged bribes were supposedly made in connection with a power plant tender in Kenya in 1997.  The power plant was delivered in 2001.  The public prosecutor claimed that the Senior Manager made improper payments amounting to EUR 3.4 million to a Kenyan officer working as the Managing Director and President of the Kenya Power and Lighting Company.  <br /><br />In addition to the corporate fine, the public prosecutor has demanded the economic benefits from the project, EUR 3.4 million, to be forfeited to the State. Wärtsilä considers the demands unfounded and Wärtsilä Finland's former Senior Manager has denied the charges brought against him.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table style="text-align: center;" border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p><strong>Approximate Payments Allegedly Made to Kenyan Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EUR 3.4 million</p>
+</td>
+<td>
+<p>Contract for construction of a power plant</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On December 18, 2009, the District Court of Mustasaari found the former Senior Manager of Wärtsilä Finland not guilty of aggravated bribery. The court also dismissed the related demand for a corporate fine against Wärtsilä Finland.<br /><br />On September 22, 2010, the Vaasa Court of Appeals decided to refer the criminal case against the former Senior Manager back to the Ostrobothnia District Court. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1382">W&auml;rtsil&auml; Press Release: "Former employee of W&auml;rtsil&auml; not guilty" (18 December 2009)</a></p><p><a href="file.asp?id=1383">W&auml;rtsil&auml; Press Release: "Demand for corporate fine against W&auml;rtsil&auml; Finland returned to district court" (22 September 2010)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

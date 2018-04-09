@@ -1,0 +1,119 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192257ea4u6">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192257zii6t" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - ALLIED DEFENSE GROUP</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(180)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192257isw73" width="415" height="61" /></div>
+    
+        <h1>ALLIED DEFENSE GROUP</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        The Allied Defense Group, Inc. ("Allied Defense Group")<br />Mecar USA<br />Chemring Group Plc. (signed an agreement to purchase Allied Defense in June 2010)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Ammunitions Manufacturer 
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Vienna, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />Gabon<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        Allied Defense Group, an ammunition manufacturer, received a subpoena from the U.S. Department of Justice (“DOJ”) in January 2010 after an employee of a subsidiary was arrested in connection with a massive foreign bribery sting operation. The U.S. Securities and Exchange Commission (“SEC”) subsequently opened its own investigation. The agencies were investigating whether the company had run afoul of the FCPA, which prohibits improper payments to foreign officials in exchange for a business advantage.<br /><br />Allied Defense Group’s former employee, Marc Morales, was charged in 2009 along with 21 executives in the defense products industry with participating in a scheme to pay a USD $1.5 million bribe to the defense minister of Gabon in order to win a USD $15 million contract to outfit the country’s national guard. But the deal was a ruse, with Federal Bureau of Investigation agents posing as representatives of the Gabonese defense minister. No officials from the West African nation were involved.  In November 2012, the SEC told Allied Defense Group it had decided against bringing charges.<br /><br />In September 2010, London-based Chemring Group PLC acquired all of Allied Defense Group's assets.  Allied Defense Group delayed its dissolution filing until the resolution of all matters concerning the DOJ, whose investigation was ongoing at that point.   <br /><br />In November 2012, the SEC sent Allied Defense Group a declination.<br /><br />On 8 August 2013, Allied Defense Group reported that the DOJ made its determination to drop the investigation and Allied Defense Group was able to file for dissolution.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The FCPA Sting Operation in which Morales was arrested resulted in acquittals or dismissals for all 22 individual defendants, in February 2012.  On 26 March 2012, the Company's Board of Directors wrote to its shareholders:  "In late February 2012 the DOJ dismissed charges against all of the individuals indicted as a result of the FCPA 'sting' operation, including the former employee of MECAR USA.  The Company has subsequently requested that DOJ consider the company's status in its investigation so that the Company may move forward with distributions to our shareholders."<br /><br />In November 2012, the SEC sent Allied Defense Group a declination.  On 8 August 2013, the DOJ finished its investigations, allowing Allied Defense Group to complete dissolution.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=985">Allied Defense Group - SEC Form 10-K (7 Apr. 2010)</a></p><p>Telegraph: "Chemring halts deal on corruption probe" (1 June 2010)</p><p><a href="file.asp?id=1386">Allied Defense Group - SEC Form 10-K (17 Mar. 2011)</a></p><p><a href="file.asp?id=1765">Allied Defense Group - SEC Form 10-K (23 March 2012)</a></p><p><a href="file.asp?id=1766">Allied Defense Group - Letter to Shareholders (26 March 2012)</a></p><p><a href="file.asp?id=2059">Allied Defense Group - Letter to Shareholders (14 November 2012)</a></p><p><a href="file.asp?id=2060">Allied Defense Group - SEC Form 10-Q (14 November 2012)</a></p><p><a href="file.asp?id=2401">ADG Shareholder Letter (15 August 2013)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

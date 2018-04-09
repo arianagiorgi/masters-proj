@@ -1,0 +1,121 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1922153dfu4">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1922153iyou" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PORTS ENGINEERING CONSULTANTS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(132)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192215e84wz" width="415" height="61" /></div>
+    
+        <h1>PORTS ENGINEERING CONSULTANTS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Overman Associates (Virginia Beach-based engineering firm) ("Overman")<br />Overman de Panama (holding company for Overman's investments in Panama)<br />Ports Engineering Consultants Corporation (Panamanian affiliate of Overman) ("PECC")<br />Soderville Corporation (majority shareholder of PECC; Panama shell company owned by the Administrator of Panama's National Ports Authority)<br />Warmspell Corporation (shareholder of PECC; British Islands corporation controlled by relatives of Deputy Administrator of Panama's National Ports Authority)<br />Charles Paul Edward Jumet (Vice President and later President of PECC; Vice President of Overman de Panama; Vice President of Overman)<br />John W. Warwick (former President of PECC; President of Overman de Panama; President of Overman)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Maritime engineering
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Virginia Beach, Virginia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Panama<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        The DOJ separately charged Charles Paul Edward Jumet and John W. Warwick with conspiring to violate the FCPA in connection with a conspiracy to secretly pay money to government officials in Panama in order to secure business for Ports Engineering Consultants Corporation ("PECC").  PECC was a Panamanian entity established by Jumet, Warwick, Overman Associates and Soderville Corporation, a shell corporation owned by a Panamanian official who was the Administrator of Panama's National Ports Authority.  It was allegedly created specifically for the purpose of corruptly obtaining a maritime contract from the Panamanian government.  From at least 1997 through approximately July 2003, Jumet, Warwick and others conspired to make improper payments totaling more than $200,000 to the former Administrator and Deputy Administrator of Panama’s National Ports Authority, as well as to a former, high-ranking elected executive official in Panama.<br /><br />Jumet, Warwick and others authorized payments to the Panamanian officials in order to obtain a concession for PECC to maintain lighthouses and buoys along Panama’s waterway.  In December 1997, the government awarded PECC a no-bid, 20-year concession to perform these functions.  In 2000, the Comptroller General’s Office in Panama suspended the contract while it investigated the government’s decision to award the contract to PECC without soliciting bids from any other firms.  In 2003, the Panama government resumed its contract with PECC.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Panamanian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over $200,000</p>
+</td>
+<td>
+<p style="text-align: center;">Award of a twenty-year no-bid maritime contract, resulting in approximately $18 million in revenue from 1997-2000</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In July 2004, the U.S. Department for Homeland Security, Immigration and Customs Enforcement began a criminal investigation into the matter.  The U.S. Federal Bureau of Investigation joined the investigation shortly thereafter.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On November 13, 2009, Jumet pleaded guilty to a two-count information charging him with conspiracy to violate the FCPA and making a false statement.  Under his plea agreement, Jumet has agreed to cooperate with the DOJ in its ongoing investigation.  On April 19, 2010, Jumet was sentenced to 87 months in prison, followed by three years of supervised release.  He was also ordered to pay a $15,000 fine.  The prison sentence is the longest ever imposed for violating the FCPA.<br /><br />On December 15, 2009, Warwick was indicted by a federal grand jury for conspiracy to violate the FCPA.  On February 10, 2010 he pleaded guilty to the one-count indictment.  Under his plea agreement Warwick agreed to forfeit $331,000, which represents the proceeds that he and his engineering firm received as a result of the contracts awarded to PECC by the Panamanian government. On June 25, 2010, Warwick was sentenced 37 months in prison to be followed by two years of supervised release; he was also ordered to forfeit $331,000 in proceeds of the crime.<br /><br />The conspiracy counts Jumet and Warwick face carry a maximum penalty of five years in prison and a fine of the greater of $250,000 or twice the gross gain or loss from the scheme. Jumet's false statement count carries a maximum penalty of five years in prison and a fine of $250,000.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>When investigating potential FCPA violations, the DOJ may first prosecute an individual wrongdoer in order to obtain his/her cooperation with its ongoing investigation into the corporate entities and other individuals involved in the alleged conduct.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=454">DOJ Press Release: November 13, 2009 (Virginia Resident Pleads Guilty to Bribing Panamanian Officials for Maritime Contract)</a></p><p><a href="file.asp?id=455">Criminal Information: U.S. v. Charles Paul Edward Jumet (November 10, 2009)</a></p><p><a href="file.asp?id=569">Statement of Facts: U.S. v. Charles Paul Edward Jumet (November 13, 2009)</a></p><p><a href="file.asp?id=570">Plea Agreement: U.S. v. Charles Paul Edward Jumet (November 13, 2009)</a></p><p><a href="file.asp?id=619">DOJ Press Release: December 15, 2009 (Virginia Resident Charged with Conspiring to Bribe Former Panamanian Government Officials for Maritime Contract)</a></p><p><a href="file.asp?id=629">Indictment: U.S. v. John W. Warwick (December 15, 2009)</a></p><p><a href="file.asp?id=688">DOJ Press Release: February 10, 2010 (Virginia Resident Pleads Guilty to Bribing Former Panamanian Government Officials in Connection with Maritime Contract)</a></p><p><a href="file.asp?id=1144">Statement of Facts: U.S. v John W. Warwick (February 10, 2010)</a></p><p><a href="file.asp?id=689">Plea Agreement: U.S. v. John W. Warwick (February 10, 2010)</a></p><p><a href="file.asp?id=1143">Change of Plea: U.S. v John W. Warwick (February 10, 2010)</a></p><p><a href="file.asp?id=784">DOJ Press Release: April 19, 2010 (Virginia Resident Sentenced to 87 Months in Prison for Bribing Foreign Government Officials)</a></p><p><a href="file.asp?id=1007">DOJ Press Release: June 25, 2010 (Virginia Resident Sentenced to 37 Months in Prison for Bribing Foreign Government Officials)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Engineering/Construction</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

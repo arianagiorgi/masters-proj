@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192700l6360">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192700g06j7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - FOXCONN </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(457)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192700wrsp2" width="415" height="61" /></div>
+    
+        <h1>FOXCONN </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        China: People's Procuratorate<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Hon Hai Precision Industry Co., Ltd.<br />Foxconn International Holdings Ltd., a Cayman Islands corporation ("Foxconn") (Foxconn is the trade name commonly used by Hon Hai)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Electronics contract manufacturing company
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        New Taipei City, Taiwan
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the New York Times, on 13 January 2013, Foxconn said that it was investigating whether its employees had accepted bribes from supply-chain partners.  The company said that an internal investigation had uncovered possible wrongdoing in the supply chain and that those findings had been shared with the authorities in China.<br /><br />Foxconn, which is based in Taiwan but has production facilities throughout China, did not offer details about the nature of the investigation or how the problem was uncovered. But, the Taiwan edition of Next Magazine reported that a Foxconn executive in the coastal Chinese city of Shenzhen had been detained by the police on bribery allegations.<br /><br />In its report, Next magazine said an executive at Foxconn’s operation in Shenzhen had been detained after being accused of asking for bribes from suppliers, and that two executives overseeing the company’s production of Apple products had left their positions in recent months.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">&nbsp;Amount of Alleged Payments</td>
+<td width="50%">&nbsp;Benefits Conferred</td>
+</tr>
+<tr>
+<td>&nbsp;Unspecified</td>
+<td>&nbsp;Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Self-report.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        Internal and Chinese investigations ongoing.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>TBD</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=2444">Foxconn Begins Investigations</a></p><p><a href="file.asp?id=2445">Hon Hai Cooperating with China Bribery Probe</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Manufacturer/Service Provider</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

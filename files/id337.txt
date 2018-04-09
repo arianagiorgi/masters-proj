@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192515l573j">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192515hes28" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIALOGIC / VERAZ NETWORKS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(337)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192515571gv" width="415" height="61" /></div>
+    
+        <h1>DIALOGIC / VERAZ NETWORKS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Dialogic Inc. ("Dialogic")<br />Veraz Networks, Inc. ("Veraz")<br />(Veraz merged into Dialogic in 2010)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Hardware and software systems for Internet Protocol (IP)-based communications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        San Jose, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Unspecified<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In June 2010, a California-based VOiP company called Veraz Networks, Inc. paid $300,000 to settle SEC charges that it violated the FCPA's books and records and internal controls provisions by making illegal payments to foreign officials in China and Vietnam.Veraz conducted a two-year internal investigation prior to its SEC settlement, and spent more than $2.5 million to investigate and handle the FCPA compliance issues.<br /><br />A few months after its SEC settlement, Veraz was acquired by another public company called Dialogic Inc., which announced that it was under investigation by the SEC in 2011.<br /><br />Dialogic described the ongoing investigation as follows in its SEC Form 10-K filed on 31 March 2011:<br /><br />"On March 28, 2011, we received a letter from the SEC informing us that the SEC was conducting an informal inquiry, or SEC Inquiry, and requesting that we preserve certain categories of records in connection with the SEC Inquiry. In a follow up discussion with the SEC on March 30, 2011, the SEC informed us that the inquiry related to allegations of improper revenue recognition and potential FCPA violations of the former Veraz Networks Inc. business during periods prior to completion of our business combination with Dialogic Corporation."<br /><br />To this statement, the Company added in its SEC Form 10-K filed on 16 April 2012, "Our Board of Directors, or the Board, appointed a committee to review these issues, with the aid of counsel, and to make recommendations to the Board as to what, if any, remedial actions would be appropriate. The committee engaged Sheppard Mullin Richter & Hampton LLP, or Sheppard Mullin, as outside counsel to the committee, The Board has taken the remedial actions recommended by Sheppard Mullin and the committee and we have updated and improved our compliance procedures. In addition, the Company produced documents to the Department of Justice, or DOJ, relating to the SEC Informal Inquiry. With our counsel, we continue to fully cooperate with the SEC and DOJ, in connection with the SEC Informal Inquiry. We have incurred and may continue to incur significant costs related to the SEC Informal Inquiry, which will have a material adverse effect on our financial condition and results of operations. Further, the SEC Informal Inquiry has caused and may continue to cause a diversion of management's time and attention which could also have a material adverse effect on our financial condition and results of operations.  <br /><br />"The SEC Informal Inquiry may turn into a formal investigation and result in charges filed against us and in fines or penalties." <br /><br />Prior to its merger with Dialogic in 2010, Veraz Networks settled its books and records case with the SEC, agreeing to pay USD 300,000 but not without admitting guilt to the allegations that Veraz representatives bribed officials in China and Vietnam to win business there.  The settlement dates to June 2010.<br /><br />As of 27 March 2013, Dialogic continues to be under investigation, and is undergoing a simultaneous internal investigation.  The company's SEC filings have thus far each contained disclosures that it has incurred "significant costs" associated with the investigations.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Foreign Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Please see above. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation is ongoing. <br /><br />Veraz previously settled FCPA charges with the SEC in June 2010 in connection with its activities in China and Vietnam.  [See Compendium summary titled "Veraz Networks"]
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In mergers and acquisitions, even if the acquired company has conducted an internal investigation and paid settlements related to FCPA violations, the acquiring company may still be hounded by successor liability.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1384">Dialogic - SEC Form 10-K (31 Mar. 2011)</a></p><p><a href="file.asp?id=1796">Dialogic - SEC Form 10-K (16 April 2012)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #ff99cc;">Ongoing U.S. FCPA Investigations</span><br /><span style="color: #006600;">Technology/Software</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

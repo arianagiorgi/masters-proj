@@ -1,0 +1,426 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1706545pk6q">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-17065487e7w" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BELLSOUTH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(6)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170654coz6d" width="415" height="61" /></div>
+    
+        <h1>BELLSOUTH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BellSouth Corporation ("BellSouth")<br />BellSouth International, Inc. (indirectly wholly-owned subsidiary of BellSouth) ("BSI")<br />Telcel, C.A. (BellSouth's Venezuelan subsidiary) ("Telcel")<br />Telefon&iacute;a Celular de Nicaragua, S.A. (BellSouths Nicaraguan subsidiary) ("Telefon&iacute;a")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Atlanta, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nicaragua<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the SEC's complaint, between September 1997 and August 2000, former senior management of BellSouth's Venezuelan subsidiary, TelCel, authorized payments totaling approximately USD 10.8 million to six offshore companies.  These payments were then improperly recorded as bona fide disbursements in Telcel's books and records, based on fictitious invoices.  Telcel's internal controls failed to detect the payments for at least two years and BellSouth was unable to reconstruct the circumstances or purpose of the Telcel payments, or identify their ultimate recipients.  The SEC noted that Telcel was Venezuela's leading wireless provider at the time and contributed more revenue to BellSouth's Latin American Group segment than any of its other Latin American operations.  <br />	<br />The SEC also alleged that BellSouth's Nicaraguan subsidiary, Telefon&iacute;a, improperly recorded payments made to the wife of the Nicaraguan legislator who chaired the Nicaraguan legislative committee overseeing telecommunications in the country.  BellSouth had acquired a 49% interest in Telefon&iacute;a in 1997 with an option to acquire an additional 40%.  BellSouth's subsidiary, BSI, obtained operating control of the company and its board.  BellSouth sought to exercise its 40% option but could only do so if Nicaragua repealed its law prohibiting majority foreign ownership in local telecommunications companies.  In October 1998, Telefon&iacute;a retained the legislator's wife (who had prior financial and operations experience in the telecommunications area, but no prior legislative experience) as a lobbyist for the repeal of the foreign ownership restriction.<br /><br />In May 1999, Telefon&iacute;a terminated the lobbyist and in June 1999 paid her a severance of USD 60,000, recording the sum as consulting services and a severance payment.  The legislative amendment to repeal the foreign ownership restriction was referred to the Nicaraguan National Assembly in September and was passed in December 1999.  BellSouth increased its ownership in Telefon&iacute;a to 89% in June 2000.       
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Offshore Companies</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 10,800,000</p>
+</td>
+<td>
+<p style="text-align: center;">N/A, but TelCel earned greater revenue than any other BellSouth operation in Latin America</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Wife of Nicaraguan Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 60,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of foreign ownership law, enabling majority ownership of Telefonia</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 January 2002, without admitting or denying the allegations, BellSouth settled a civil action with the SEC under which BellSouth was ordered to pay a USD 150,000 civil penalty.  BellSouth also consented to the entry of a cease-and-desist order in a related proceeding.  The SEC complaint and cease-and-desist order found that BellSouth violated the books and records and internal controls provisions of the FCPA.    
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to a relative of a foreign official can form the basis of FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=35">SEC Litigation Release: January 15, 2002 (SEC Settles Case Against BellSouth Corporation)</a></p><p><a href="file.asp?id=36">Cease-and-Desist Order: In the Matter of Bellsouth Corporation (January 15, 2002) </a></p><p><a href="file.asp?id=626">Complaint: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=627">Consent and Undertaking: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=628">Final Judgment: SEC v. Bellsouth Corporation (January 15, 2002)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184204vh610">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184204ery9l" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BELLSOUTH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(6)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842046d3a9" width="415" height="61" /></div>
+    
+        <h1>BELLSOUTH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BellSouth Corporation ("BellSouth")<br />BellSouth International, Inc. (indirectly wholly-owned subsidiary of BellSouth) ("BSI")<br />Telcel, C.A. (BellSouth's Venezuelan subsidiary) ("Telcel")<br />Telefon&iacute;a Celular de Nicaragua, S.A. (BellSouths Nicaraguan subsidiary) ("Telefon&iacute;a")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Atlanta, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nicaragua<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the SEC's complaint, between September 1997 and August 2000, former senior management of BellSouth's Venezuelan subsidiary, TelCel, authorized payments totaling approximately USD 10.8 million to six offshore companies.  These payments were then improperly recorded as bona fide disbursements in Telcel's books and records, based on fictitious invoices.  Telcel's internal controls failed to detect the payments for at least two years and BellSouth was unable to reconstruct the circumstances or purpose of the Telcel payments, or identify their ultimate recipients.  The SEC noted that Telcel was Venezuela's leading wireless provider at the time and contributed more revenue to BellSouth's Latin American Group segment than any of its other Latin American operations.  <br />	<br />The SEC also alleged that BellSouth's Nicaraguan subsidiary, Telefon&iacute;a, improperly recorded payments made to the wife of the Nicaraguan legislator who chaired the Nicaraguan legislative committee overseeing telecommunications in the country.  BellSouth had acquired a 49% interest in Telefon&iacute;a in 1997 with an option to acquire an additional 40%.  BellSouth's subsidiary, BSI, obtained operating control of the company and its board.  BellSouth sought to exercise its 40% option but could only do so if Nicaragua repealed its law prohibiting majority foreign ownership in local telecommunications companies.  In October 1998, Telefon&iacute;a retained the legislator's wife (who had prior financial and operations experience in the telecommunications area, but no prior legislative experience) as a lobbyist for the repeal of the foreign ownership restriction.<br /><br />In May 1999, Telefon&iacute;a terminated the lobbyist and in June 1999 paid her a severance of USD 60,000, recording the sum as consulting services and a severance payment.  The legislative amendment to repeal the foreign ownership restriction was referred to the Nicaraguan National Assembly in September and was passed in December 1999.  BellSouth increased its ownership in Telefon&iacute;a to 89% in June 2000.       
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Offshore Companies</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 10,800,000</p>
+</td>
+<td>
+<p style="text-align: center;">N/A, but TelCel earned greater revenue than any other BellSouth operation in Latin America</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Wife of Nicaraguan Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 60,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of foreign ownership law, enabling majority ownership of Telefonia</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 January 2002, without admitting or denying the allegations, BellSouth settled a civil action with the SEC under which BellSouth was ordered to pay a USD 150,000 civil penalty.  BellSouth also consented to the entry of a cease-and-desist order in a related proceeding.  The SEC complaint and cease-and-desist order found that BellSouth violated the books and records and internal controls provisions of the FCPA.    
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to a relative of a foreign official can form the basis of FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=35">SEC Litigation Release: January 15, 2002 (SEC Settles Case Against BellSouth Corporation)</a></p><p><a href="file.asp?id=36">Cease-and-Desist Order: In the Matter of Bellsouth Corporation (January 15, 2002) </a></p><p><a href="file.asp?id=626">Complaint: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=627">Consent and Undertaking: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=628">Final Judgment: SEC v. Bellsouth Corporation (January 15, 2002)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1920182v2uo">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192018e1492" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - BELLSOUTH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(6)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192018r1g85" width="415" height="61" /></div>
+    
+        <h1>BELLSOUTH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        BellSouth Corporation ("BellSouth")<br />BellSouth International, Inc. (indirectly wholly-owned subsidiary of BellSouth) ("BSI")<br />Telcel, C.A. (BellSouth's Venezuelan subsidiary) ("Telcel")<br />Telefon&iacute;a Celular de Nicaragua, S.A. (BellSouths Nicaraguan subsidiary) ("Telefon&iacute;a")<br /><br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Telecommunications
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Atlanta, Georgia, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Nicaragua<br />Venezuela<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to the SEC's complaint, between September 1997 and August 2000, former senior management of BellSouth's Venezuelan subsidiary, TelCel, authorized payments totaling approximately USD 10.8 million to six offshore companies.  These payments were then improperly recorded as bona fide disbursements in Telcel's books and records, based on fictitious invoices.  Telcel's internal controls failed to detect the payments for at least two years and BellSouth was unable to reconstruct the circumstances or purpose of the Telcel payments, or identify their ultimate recipients.  The SEC noted that Telcel was Venezuela's leading wireless provider at the time and contributed more revenue to BellSouth's Latin American Group segment than any of its other Latin American operations.  <br />	<br />The SEC also alleged that BellSouth's Nicaraguan subsidiary, Telefon&iacute;a, improperly recorded payments made to the wife of the Nicaraguan legislator who chaired the Nicaraguan legislative committee overseeing telecommunications in the country.  BellSouth had acquired a 49% interest in Telefon&iacute;a in 1997 with an option to acquire an additional 40%.  BellSouth's subsidiary, BSI, obtained operating control of the company and its board.  BellSouth sought to exercise its 40% option but could only do so if Nicaragua repealed its law prohibiting majority foreign ownership in local telecommunications companies.  In October 1998, Telefon&iacute;a retained the legislator's wife (who had prior financial and operations experience in the telecommunications area, but no prior legislative experience) as a lobbyist for the repeal of the foreign ownership restriction.<br /><br />In May 1999, Telefon&iacute;a terminated the lobbyist and in June 1999 paid her a severance of USD 60,000, recording the sum as consulting services and a severance payment.  The legislative amendment to repeal the foreign ownership restriction was referred to the Nicaraguan National Assembly in September and was passed in December 1999.  BellSouth increased its ownership in Telefon&iacute;a to 89% in June 2000.       
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Offshore Companies</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 10,800,000</p>
+</td>
+<td>
+<p style="text-align: center;">N/A, but TelCel earned greater revenue than any other BellSouth operation in Latin America</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Wife of Nicaraguan Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 60,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of foreign ownership law, enabling majority ownership of Telefonia</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Unspecified 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 15 January 2002, without admitting or denying the allegations, BellSouth settled a civil action with the SEC under which BellSouth was ordered to pay a USD 150,000 civil penalty.  BellSouth also consented to the entry of a cease-and-desist order in a related proceeding.  The SEC complaint and cease-and-desist order found that BellSouth violated the books and records and internal controls provisions of the FCPA.    
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Improper payments to a relative of a foreign official can form the basis of FCPA violations.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=35">SEC Litigation Release: January 15, 2002 (SEC Settles Case Against BellSouth Corporation)</a></p><p><a href="file.asp?id=36">Cease-and-Desist Order: In the Matter of Bellsouth Corporation (January 15, 2002) </a></p><p><a href="file.asp?id=626">Complaint: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=627">Consent and Undertaking: SEC v. Bellsouth Corporation (January 15, 2002)</a></p><p><a href="file.asp?id=628">Final Judgment: SEC v. Bellsouth Corporation (January 15, 2002)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #660000;">M&A</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #006600;">Transportation/Communications</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

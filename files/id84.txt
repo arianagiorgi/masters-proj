@@ -1,0 +1,284 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-18431586ngc">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-184315e832e" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LOCKHEED</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(84)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184315z57ws" width="415" height="61" /></div>
+    
+        <h1>LOCKHEED</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lockheed Corporation ("Lockheed")<br />Lockheed Aeronautical Systems Company (division of Lockheed) (Lockheed Aeronautical)<br />Lockheed Corporation International (wholly-owned subsidiary of Lockheed) ("Lockheed International")<br />Suleiman A. Nassar (former Regional Vice President for Lockheed International)<br />Allen R. Love (former Director of Middle East and North Africa Sales for Lockheed Aeronautical)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of military aircraft and related components
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Calabasas, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1987 through 1994, defendants Lockheed, Nassar, and Love conspired to make an series of improper payments to Dr. Leila I. Takla, a member of the Foreign Affairs Committee of Parliament in Egypt, in order to secure an Egyptian government contract for the purchase and sale of three C-130 aircrafts, which was funded by a U.S. grant under the Foreign Military Financing Program ("FMF").  The payments were intended to induce Takla to use her influence as a government official to affect the outcome and price of the contract awarded to Lockheed.  <br /><br />Lockheed wired the improper payments to a bank account in Switzerland to Dr. Leila Takla, Inc. (Takla, Inc.).  Takla, Inc. was established to facilitate payments from Lockheed to Takla after she entered into office.  Lockheed falsely described the payments variously as commissions, retainer fees, reimbursement for expenses/prior services, and termination fees and booked them to the "Sales Commission Clearing Account International" account and "Other Income and Deductions" account in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Takla, Inc., Company of Egyptian Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.8 million (offer)<br />USD 1 million (final payment)</p>
+</td>
+<td>
+<p style="text-align: center;">USD 78,983,575 (revenue)<br />USD 12,400,000 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Monthly Retainer Payments to Takla, Inc., Company of Egyptian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 129,000 (April 1987 &ndash; August 1990, corresponding to her time in office)</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The 1988 consultant agreement between Lockheed and Takla originally set aside a USD 1.8 million commission (USD 600,000 per aircraft), promised to Takla once the contract was awarded to Lockheed.  <br /><br />A year later, in 1989, the Defense Contract Auditing Agency ("DCAA"), a US government agency responsible for auditing defense contractors, discovered the agreement with Takla.  Upon this discovery, Lockheed attempted to deceive the DCAA in their investigation by providing false representations and certifications as to the price and terms of the agreement, as well as falsifying their book and records.<br /><br />Despite the audit and discovery, Lockheed and Takla continued to conspire to see the contract through.  When the contract was presented to the Egyptian government, the commission was omitted and a forfeiture letter from Takla was presented to further the conspiracy and to avoid further complications, which had arisen as a result of a government audit.  Lockheed was awarded the contract at a price of USD 78,983,575.  Of that, approximately USD 1 million in improper commission payments were made to Takla, disguised as a termination payment.<br /><br />However, the audit of 1989 led to the prosecution of Lockheed five years later.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 January 1995, the Lockheed Corporation pleaded guilty to one count of conspiracy to violate the FCPA.  Lockheed was assessed penalties of USD 24.8 million, double the amount of the profits (USD 12.4 million) earned by virtue of the illicit conduct and the maximum amount allowed by law.  The fine was comprised of a USD 21.8 million criminal fine and a USD 3 million civil penalty.  <br /><br />In January 1995, Love pleaded guilty to lying to investigators and was ordered to pay a USD 20,000 fine.<br /><br />Nassar, who is a Syrian citizen living in Switzerland, initially agreed to appear in court in June 1994 and the DOJ agreed not to seek his arrest and extradition from Europe.   Nassar fled to Syria, however, which has no extradition treaty with the U.S.  The DOJ proceeded to block the transfer of proceeds from Nassar's sale of two condominiums in Washington, DC and to freeze his worldwide assets.   In September 1994, the Syrian police arrested Nassar pursuant to an Interpol warrant and the Syrian government announced that it would try him in Syrian court for FCPA violations under the doctrine of extraterritoriality.  In July 1995, Nassar arranged to leave Syria and voluntarily enter U.S. custody.  <br /><br />In September 1995, Nassar pleaded guilty to two counts of violating the FCPA and was sentenced to an 18-month prison term.  The four months he served in a Syrian prison were to be deducted from his U.S. sentence.  Nassar was also ordered to pay a USD 125,000 criminal fine, to be paid from his frozen funds before they were released.  Nassar was the first person ever imprisoned for violating the FCPA.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Criminal fines for FCPA violations may be up to twice the benefit that the defendant sought to obtain by making the corrupt payment, under the Alternative Fines Act.</li><li>Corrupt payments intending to influence an act or decision of a foreign official include inducing the official to fail to perform his/her official duties as required by law.</li><li>Prison sentences for FCPA violations may be reduced by time served in jail or prison overseas.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=161">Indictment: U.S. v. Lockheed Corporation, Suleiman A. Nassar and Allen R. Love (June 22, 1994)</a></p><p><a href="file.asp?id=162">Judgment: U.S. v. Lockheed Corporation (January 27, 1995)</a></p><p>Kansas City Star : August 1, 1995 (Executive pleads guilty to bribery; He admits paying Egyptian politician to close Lockheed sale)</p><p>New York Times: January 28, 1995 (Company News)</p><p>U.S. Attorneys' Bulletin: December 1996 (The International Fugitive)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192131of1d7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192131ol1t7" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - LOCKHEED</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(84)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192131qggdv" width="415" height="61" /></div>
+    
+        <h1>LOCKHEED</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Lockheed Corporation ("Lockheed")<br />Lockheed Aeronautical Systems Company (division of Lockheed) (Lockheed Aeronautical)<br />Lockheed Corporation International (wholly-owned subsidiary of Lockheed) ("Lockheed International")<br />Suleiman A. Nassar (former Regional Vice President for Lockheed International)<br />Allen R. Love (former Director of Middle East and North Africa Sales for Lockheed Aeronautical)<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of military aircraft and related components
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Calabasas, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Egypt<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        From at least 1987 through 1994, defendants Lockheed, Nassar, and Love conspired to make an series of improper payments to Dr. Leila I. Takla, a member of the Foreign Affairs Committee of Parliament in Egypt, in order to secure an Egyptian government contract for the purchase and sale of three C-130 aircrafts, which was funded by a U.S. grant under the Foreign Military Financing Program ("FMF").  The payments were intended to induce Takla to use her influence as a government official to affect the outcome and price of the contract awarded to Lockheed.  <br /><br />Lockheed wired the improper payments to a bank account in Switzerland to Dr. Leila Takla, Inc. (Takla, Inc.).  Takla, Inc. was established to facilitate payments from Lockheed to Takla after she entered into office.  Lockheed falsely described the payments variously as commissions, retainer fees, reimbursement for expenses/prior services, and termination fees and booked them to the "Sales Commission Clearing Account International" account and "Other Income and Deductions" account in the company's books and records.
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr style="text-align: center;">
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Takla, Inc., Company of Egyptian Official</strong></p>
+</td>
+<td width="50%">
+<p><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1.8 million (offer)<br />USD 1 million (final payment)</p>
+</td>
+<td>
+<p style="text-align: center;">USD 78,983,575 (revenue)<br />USD 12,400,000 (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Monthly Retainer Payments to Takla, Inc., Company of Egyptian Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained<br /></strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 129,000 (April 1987 &ndash; August 1990, corresponding to her time in office)</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The 1988 consultant agreement between Lockheed and Takla originally set aside a USD 1.8 million commission (USD 600,000 per aircraft), promised to Takla once the contract was awarded to Lockheed.  <br /><br />A year later, in 1989, the Defense Contract Auditing Agency ("DCAA"), a US government agency responsible for auditing defense contractors, discovered the agreement with Takla.  Upon this discovery, Lockheed attempted to deceive the DCAA in their investigation by providing false representations and certifications as to the price and terms of the agreement, as well as falsifying their book and records.<br /><br />Despite the audit and discovery, Lockheed and Takla continued to conspire to see the contract through.  When the contract was presented to the Egyptian government, the commission was omitted and a forfeiture letter from Takla was presented to further the conspiracy and to avoid further complications, which had arisen as a result of a government audit.  Lockheed was awarded the contract at a price of USD 78,983,575.  Of that, approximately USD 1 million in improper commission payments were made to Takla, disguised as a termination payment.<br /><br />However, the audit of 1989 led to the prosecution of Lockheed five years later.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 27 January 1995, the Lockheed Corporation pleaded guilty to one count of conspiracy to violate the FCPA.  Lockheed was assessed penalties of USD 24.8 million, double the amount of the profits (USD 12.4 million) earned by virtue of the illicit conduct and the maximum amount allowed by law.  The fine was comprised of a USD 21.8 million criminal fine and a USD 3 million civil penalty.  <br /><br />In January 1995, Love pleaded guilty to lying to investigators and was ordered to pay a USD 20,000 fine.<br /><br />Nassar, who is a Syrian citizen living in Switzerland, initially agreed to appear in court in June 1994 and the DOJ agreed not to seek his arrest and extradition from Europe.   Nassar fled to Syria, however, which has no extradition treaty with the U.S.  The DOJ proceeded to block the transfer of proceeds from Nassar's sale of two condominiums in Washington, DC and to freeze his worldwide assets.   In September 1994, the Syrian police arrested Nassar pursuant to an Interpol warrant and the Syrian government announced that it would try him in Syrian court for FCPA violations under the doctrine of extraterritoriality.  In July 1995, Nassar arranged to leave Syria and voluntarily enter U.S. custody.  <br /><br />In September 1995, Nassar pleaded guilty to two counts of violating the FCPA and was sentenced to an 18-month prison term.  The four months he served in a Syrian prison were to be deducted from his U.S. sentence.  Nassar was also ordered to pay a USD 125,000 criminal fine, to be paid from his frozen funds before they were released.  Nassar was the first person ever imprisoned for violating the FCPA.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Criminal fines for FCPA violations may be up to twice the benefit that the defendant sought to obtain by making the corrupt payment, under the Alternative Fines Act.</li><li>Corrupt payments intending to influence an act or decision of a foreign official include inducing the official to fail to perform his/her official duties as required by law.</li><li>Prison sentences for FCPA violations may be reduced by time served in jail or prison overseas.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=161">Indictment: U.S. v. Lockheed Corporation, Suleiman A. Nassar and Allen R. Love (June 22, 1994)</a></p><p><a href="file.asp?id=162">Judgment: U.S. v. Lockheed Corporation (January 27, 1995)</a></p><p>Kansas City Star : August 1, 1995 (Executive pleads guilty to bribery; He admits paying Egyptian politician to close Lockheed sale)</p><p>New York Times: January 28, 1995 (Company News)</p><p>U.S. Attorneys' Bulletin: December 1996 (The International Fugitive)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

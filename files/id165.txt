@@ -1,0 +1,142 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192244g7r0n">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-19224461an3" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DEPUY </title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(165)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192244x9h60" width="415" height="61" /></div>
+    
+        <h1>DEPUY </h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />Greece: Athens Public Prosecutor's Office<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        DePuy International Limited (wholly owned subsidiary of Johnson & Johnson) ("DPI")<br />Robert John Dougall (former Director of Marketing at DPI)<br />Medec S.A. (Greek company owned by Nikolaos Karagiannis)<br />Nikolaos Karagiannis<br />Madison Management Limited (a company registered in the Isle of Man)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Manufacture and sale of orthopedic implants
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Leeds, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Greece<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 1 December 2009, the UK Serious Fraud Office ("SFO") issued a summons alleging that Robert John Dougall, former Director of Marketing at DePuy International Limited ("DPI"), conspired to corrupt in violation of the Criminal Law Act 1977 in connection with improper payments and other inducements allegedly made to Greek health care professionals between February 2002 and December 2005 (the health care system in Greece is public).  The improper payments to the Greek officials were allegedly made in order to secure sales of DPI's orthopedic products. <br /><br />Dougall appeared before District Judge Timothy Workman at City of Westminster Magistrates' Court on 1 December 2009 in response to the summons.  Following his appearance, he was released on unconditional bail.<br /><br />On 14 April 2010, Dougall was formally indicted in Southwark Crown Court before Justice Dean for conspiring, between 13 February 2002 and 1 January 2006, with DPI and others to make corrupt payments and/or give other inducements contrary to section 1 of the Prevention of Corruption Act 1906.  The payments/inducements were made through Greek agents to medical professionals in the public health care system in exchange for  the award of contracts for the supply of DPI's orthopedic products.  <br /><br />During the period in question, DPI advanced "commission" payments to its local Greek distributor, Medec S.A. (which was owned and run by Mr. Nikolaos Karagiannis), making the payments through an Isle of Man-registered company called Madison Management Limited (also owned by Karagiannis).  It was understood within DPI that Karagiannis would use a portion of those payments to induce or reward Greek surgeons to use DPI products.  DPI also made improper payments to Greek medical professionals through "cash incentives" or "Professional Education" (or "Prof Ed") funds, which typically constituted 20% of the value of the end-user sale price of DPI products. <br /><br />When, in 2004, DPI determined to terminate its intermediary relationships in Greece, Dougall indicated that this would result in a 95% loss in DPI's Greek turnover.  From February 2002 through December 2005, a total of GBP 4.5 million in improper payments were made.<br /><br />In 2011, Johnson & Johnson paid USD $70 million to resolve criminal and civil FCPA charges arising from DePuy's overseas bribery. Johnson & Johnson's U.K. subsidiary, DePuy International Limited, separately paid £4.8 (USD $7,864,559.18) to settle civil corruption charges brought by the Serious Fraud Office.<br /><br />On 12 February 2013, the Wall Street Journal reported that Greek authorities have brought criminal charges of bribery and money laundering against five DPI officials. The bribes allegedly were committed in transactions with Greek state hospital doctors between 1998 and 2006 in order to help promote DPI products. The alleged amount of the bribes exceeds EUR 16 million.<br /><br />[DPI's parent company had been acquired by Johnson & Johnson in 1999.]
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Greek Officials (Dougall)</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">GBP 4.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Contracts to supply orthopedic products, of unspecified value</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Greek Officials (5 DPI Officials)</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Over EUR 16 million</p>
+</td>
+<td>
+<p style="text-align: center;">DPI product promotion</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The case was referred to the SFO by the U.S. Department of Justice ("DOJ") in October 2007 and formally accepted by the SFO for investigation in March 2008.  <br /><br />In February 2007, Johnson & Johnson publicly disclosed that it had made a voluntary disclosure to the DOJ and U.S. Securities & Exchange Commission regarding possible improper payments made by subsidiaries in connection with medical device sales in two small market countries. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In 2011, Johnson & Johnson paid USD $70 million to resolve criminal and civil FCPA charges arising from DePuy's overseas bribery. Johnson & Johnson's U.K. subsidiary, DePuy International Limited, separately paid £4.8 (USD $7,864,559.18) to settle civil corruption charges brought by the Serious Fraud Office.<br /><br />According to a Wall Street Journal report from 12 February 2013, Greek authorities have charged five DPI executives with bribery and money laundering stemming from allegations of over EUR 16 million in bribes paid between 1998 and 2006 to state hospital doctors in order to promote DPI products. The executives were not named.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>This appears to be the first case in the UK where an individual has received a prison sentence in connection with a foreign bribery violation.</li><li>An individual defendant in a UK foreign bribery enforcement action may be given full cooperation credit and still receive a prison sentence.  While the UK Serious Fraud Office may recommend a suspended prison term or other disposition, the judge may determine an alternative penalty.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=596">SFO Press Release: "Former Vice President of DePuy International Ltd charged with corruption" (1 December 2009)</a></p><p><a href="file.asp?id=779">SFO Press Release: "British executive jailed for part in Greek healthcare corruption" (14 April 2010)</a></p><p><a href="file.asp?id=869">R v. Dougall: Court of Appeal Decision (13 May 2010)</a></p><p>Wall Street Journal: "Greek Prosecutors Bring Corruption Charges Over State Hospital Deals With DePuy" (12 February 2013)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

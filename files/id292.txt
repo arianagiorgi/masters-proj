@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192437c1831">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192437756pr" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PALMAT</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(292)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192437e1g28" width="415" height="61" /></div>
+    
+        <h1>PALMAT</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        Argentina: Federal Criminal Court, City of Buenos Aires<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Palmat International, Inc. (U.S.-based import/export services company with offices in Argentina and Venezuela) ("Palmat")<br />Various unnamed Argentine agribusiness firms
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Import/export services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Miami, Florida , United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Argentina<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        According to press reports, Argentine federal judge Julian Ercolini is leading an investigation into allegations of corruption involving the sale of agricultural machinery and beef by Argentine agribusiness firms to Venezuela under a USD 500 million agreement established in 2005 between the two governments.  Argentine government officials allegedly demanded kickbacks of 15-20% from Argentine businesses in order to facilitate the transactions with their Venezuelan counterparts.  <br /><br />The alleged kickbacks appear to have been concealed as "commissions" to intermediaries.  Judge Ercolini is reportedly focusing his investigation on two such intermediaries: Miami-based Palmat International, Inc. and Madero Trading S.A., headquartered in Buenos Aires.<br /><br />On 20 January 2012, Palmat and the Company's president and director, Robert J. Wellisch, filed a complaint in federal court to enjoin the U.S. government from disclosing the company’s U.S. banking records to the government of Argentina.  The plaintiffs allege that on 1 May 2010 the Ministry of Foreign Affairs of the Republic of Argentina requested that the U.S. grant access to the confidential banking records, pursuant to the Mutual Legal Assistance Treaty ("MLAT") between Argentina and the United States.  The request was denied as procedurally deficient, but was granted once it was re-filed. The plaintiffs filed their complaint in order to prevent the disclosure, on the grounds that it would violate their constitutional rights.  <br /><br />Palmat alleges that "Newspaper reporters have secured this information and have written several news articles regarding this investigation. In fact, confidential and private information regarding the bank account of Petitioners in the United States, including account numbers and routing codes, have appeared in the published press…. This disclosure also makes Petitioners and individuals associated with them targets of potential criminal activities, including the possibility of kidnapping, blackmail and extortion. In fact, close family relatives of Mr. Wellisch have been subjected to criminal activities, including kidnapping and even murder. It is believed that these criminal activities resulted from the direct disclosure of the financial information of Petitioners as the criminal activities took place shortly after its publication."<br /><br />The complaint offers the following underlying facts:  <br /><br />"The investigation being conducted in Argentina stems from the sale to Venezuela of agricultural equipment manufactured in Argentina (500 tractors, 240 harvesters and other machinery, the 'Equipment') pursuant to a treaty between Venezuela and Argentina. The Equipment was sold by 39 individual manufacturers and the sale was supported by the Association of Machinery Manufacturer of Argentina (Camara Argentina de Fabricantes de Maquinaria Agricola or 'CAFMA'), a trade association composed of the manufacturers of said Equipment. The investigation focuses on alleged bribes paid by the members of CAFMA to government officials in Argentina. The investigation originated from a statement by a purportedly anonymous declarant who claimed that bribes were paid to Argentine government officials in connection with the sales. The statement was subsequently ascribed to an individual named Rogelio Martinez. Suspiciously, Mr. Martinez has never appeared in the investigative proceedings and the address that appears in the public filings is a false address. Notwithstanding, a formal criminal investigation into the allegations of bribery was requested by a political coalition named Coalicion Civica. The request was granted, and in 2008 a judge in Buenos Aires, Argentina commenced an investigation of the allegations."<br /><br />Palmat continues the narrative, explaining that after four years of investigation, no wrongdoing was found:<br /><br />"The falsity of the allegations asserted against Palmat has been denounced by several officers of the Government of Argentina, none of whom participated in the underlying private transaction between Palmat and the Government of Venezuela. The Ombudsman of Argentina (known as the 'defender of the people') has explicitly stated that the allegations that bribes were paid in connection to the sale of the Equipment are false. Similarly, the Minister of Federal Planning, Public Investment, and Services of Argentina, Dr. Julio De Vido, said that allegations made to the effect that his office was engaged in any improper conduct in Venezuela are baseless. In fact, Minister De Vido has filed a civil case in Argentina for defamation. The allegations were also denied by Argentine businessman Eduardo Cabana and Jose Aizpon, who also testified under oath before the judge responsible for the investigation. In addition, in May and August of 2010, the current and past Directors of CAFMA testified that the contractual relationship between the manufacturer of the Equipment and Palmat was not tainted by any wrongdoing and was driven by the need to contract the services of an entity with the expertise in the field which could handle the procedures necessary to consummate the transaction. In conjunction with this testimony, the copies of the agreements entered into between Palmat and the Argentine agricultural machinery manufactures as well as copies of bank transfers in relation with the sales were produced by Palmat. The court received documentary evidence that the commissions received by Palmat in connection with the sales to Venezuela amounted to 9.74% of the total sales price, a commission level which is in line with industry standards for countries with high risk such as Venezuela and which is substantially lower than the 15 to 25% paid by CAFMA members for local sales in Argentina."
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%">Approximate Payments to Argentine Officials</td>
+<td style="text-align: center;" width="50%">Business Advantage Allegedly Obtained</td>
+</tr>
+<tr>
+<td style="text-align: center;">A portion of 15-20%&nbsp;"commission" payments</td>
+<td style="text-align: center;">Government assistance in securing exports of agricultural machinery and beef to Venezuela</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        The judicial investigation was launched toward the end of 2008 in response to corruption allegations against the administrations of Argentine President Cristina Fernández de Kirchner and her husband, Néstor Kirchner.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        The investigation remains ongoing. 
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined. </li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p>infosurhoy: "Julian Ercolini, an Argentine judge, investigates bribery accusations against officials" (3 June 2010)</p><p>El Universal: "Court to track money flow in alleged bribes on Argentine exports to Venezuela" (9 July 2010)</p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #993333;">Domestic Bribery Enforcement of Foreign Entities - Investigations</span><br /><span style="color: #660099;">Intermediaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

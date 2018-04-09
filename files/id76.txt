@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-184307s5wzu">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1843079o052" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIAGNOSTIC PRODUCTS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(76)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184307te9xk" width="415" height="61" /></div>
+    
+        <h1>DIAGNOSTIC PRODUCTS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Diagnostic Products Corporation ("DPC")<br />DPC (Tianjin) Co. Ltd. or DePu Biotechnological & Medical Products, Inc. (DPC's wholly-owned subsidiary in China) ("DePu")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of medical diagnostic test systems and related test kits
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        DPC, a publicly-traded company, established DePu in 1991 as a joint venture with a Chinese entity.  In 1997, DePu became DPC's wholly-owned subsidiary.  <br /><br />Beginning in 1991 and continuing until 2002, DePu's general manager caused approximately USD 1.6 million in commissions to be paid to laboratory technicians and doctors at state-owned hospitals in China.  The commission payments ranged from 3% to 10%, depending on the official, and were paid in cash and hand-delivered by DePu's sales staff.  <br /><br />The payments induced the Chinese officials to purchase DePu's products for use in their hospitals and resulted in approximately USD 2 million in profits for the company.  DePu's general manager recorded the payments as selling expenses on the company's books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,623,326</p>
+</td>
+<td>
+<p style="text-align: center;">USD 2 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In October 2002, DePu's auditors raised concerns regarding tax issues surrounding the commission payments.  In November 2002, DePu issued a report to DPC about the issue, which caused DPC to investigate and uncover the improper payments.  DPC implemented remedial measures and voluntarily disclosed the conduct to the DOJ and SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 May 2005, DePu pleaded guilty to violations of the FCPA.  Under the terms of the plea agreement, DePu was required to pay a USD 2 million criminal penalty.  <br /><br />On the same day, DPC, without admitting or denying the SEC's allegations, consented to the entry of a cease-and-desist order enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  DPC was required to pay USD 2,038,727 in disgorgement of profits, along with USD 749,895 in pre-judgment interest, for a total of USD 2,788,622.  <br /><br />The DOJ and SEC also required DPC to appoint an independent compliance consultant to audit the company's compliance program and monitor its implementation of new policies and procedures.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In order to avoid criminal penalties, U.S. companies that are subject to the FCPA can cause their foreign subsidiaries to plead guilty to criminal violations of the FCPA even when the U.S. enforcement authorities would not otherwise have jurisdiction over the foreign subsidiary.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=77">Cease-and-Desist Order: In the Matter of Diagnostic Products Corporation (May 20, 2005)</a></p><p><a href="file.asp?id=76">DOJ Press Release: May 20, 2005 (DPC Tianjin Ltd. Charged with Violating the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=632">Information: U.S. v. DPC (Tianjin) Co. Ltd. (May 20, 2005)</a></p><p><a href="file.asp?id=631">Plea Agreement: U.S. v. DPC (Tianjin) Co. Ltd. (May 20, 2005)</a></p><p><a href="file.asp?id=1103">Minutes of Change of Plea and Sentencing Hearing: U.S. v. DPC (Tianjin) Co. Ltd. (June 20, 2005)</a></p><p><a href="file.asp?id=1102">Judgment: U.S. v. DPC (Tianjin) Co. Ltd. (June 21, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19212435659">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192124u1g1o" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DIAGNOSTIC PRODUCTS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(76)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192124p617m" width="415" height="61" /></div>
+    
+        <h1>DIAGNOSTIC PRODUCTS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Diagnostic Products Corporation ("DPC")<br />DPC (Tianjin) Co. Ltd. or DePu Biotechnological & Medical Products, Inc. (DPC's wholly-owned subsidiary in China) ("DePu")
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sales of medical diagnostic test systems and related test kits
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Los Angeles, California, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        China<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        DPC, a publicly-traded company, established DePu in 1991 as a joint venture with a Chinese entity.  In 1997, DePu became DPC's wholly-owned subsidiary.  <br /><br />Beginning in 1991 and continuing until 2002, DePu's general manager caused approximately USD 1.6 million in commissions to be paid to laboratory technicians and doctors at state-owned hospitals in China.  The commission payments ranged from 3% to 10%, depending on the official, and were paid in cash and hand-delivered by DePu's sales staff.  <br /><br />The payments induced the Chinese officials to purchase DePu's products for use in their hospitals and resulted in approximately USD 2 million in profits for the company.  DePu's general manager recorded the payments as selling expenses on the company's books and records.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Chinese Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 1,623,326</p>
+</td>
+<td>
+<p style="text-align: center;">USD 2 million (profits)</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        In October 2002, DePu's auditors raised concerns regarding tax issues surrounding the commission payments.  In November 2002, DePu issued a report to DPC about the issue, which caused DPC to investigate and uncover the improper payments.  DPC implemented remedial measures and voluntarily disclosed the conduct to the DOJ and SEC.
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 20 May 2005, DePu pleaded guilty to violations of the FCPA.  Under the terms of the plea agreement, DePu was required to pay a USD 2 million criminal penalty.  <br /><br />On the same day, DPC, without admitting or denying the SEC's allegations, consented to the entry of a cease-and-desist order enjoining the company from committing future violations of the FCPA's anti-bribery, books and records and internal controls provisions.  DPC was required to pay USD 2,038,727 in disgorgement of profits, along with USD 749,895 in pre-judgment interest, for a total of USD 2,788,622.  <br /><br />The DOJ and SEC also required DPC to appoint an independent compliance consultant to audit the company's compliance program and monitor its implementation of new policies and procedures.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>In order to avoid criminal penalties, U.S. companies that are subject to the FCPA can cause their foreign subsidiaries to plead guilty to criminal violations of the FCPA even when the U.S. enforcement authorities would not otherwise have jurisdiction over the foreign subsidiary.</li><li>Parent companies are responsible for the inaccurate books and records of their subsidiaries.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=77">Cease-and-Desist Order: In the Matter of Diagnostic Products Corporation (May 20, 2005)</a></p><p><a href="file.asp?id=76">DOJ Press Release: May 20, 2005 (DPC Tianjin Ltd. Charged with Violating the Foreign Corrupt Practices Act)</a></p><p><a href="file.asp?id=632">Information: U.S. v. DPC (Tianjin) Co. Ltd. (May 20, 2005)</a></p><p><a href="file.asp?id=631">Plea Agreement: U.S. v. DPC (Tianjin) Co. Ltd. (May 20, 2005)</a></p><p><a href="file.asp?id=1103">Minutes of Change of Plea and Sentencing Hearing: U.S. v. DPC (Tianjin) Co. Ltd. (June 20, 2005)</a></p><p><a href="file.asp?id=1102">Judgment: U.S. v. DPC (Tianjin) Co. Ltd. (June 21, 2005)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Health Care</span><br /><span style="color: #0066ff;">Joint Venture</span><br /><span style="color: #ff0000;">Subsidiaries</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

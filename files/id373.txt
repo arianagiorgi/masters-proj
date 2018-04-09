@@ -1,0 +1,113 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-19254695c70">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192546cx9qp" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - DAHDALEH</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(373)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192546a5509" width="415" height="61" /></div>
+    
+        <h1>DAHDALEH</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United Kingdom: Serious Fraud Office<br />United Kingdom: Crown Prosecution Service<br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Victor Michael Phillip Dahdaleh<br />Aluminium Bahrain B.S.C. ("Alba")<br />Bruce Allen Hall<br />Dadco
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Aluminum production and supply
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        London, United Kingdom
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Bahrain<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On 24 October 2011, Victor Michael Phillip Dahdaleh, a British and Canadian national and international businessman, was arrested and charged with corruption offenses related to his role as an agent in Bahrain for US-aluminum producer Alcoa Inc.  Dahdaleh allegedly made improper payments between 2001 and 2005 to officials of Aluminium Bahrain B.S.C. ("Alba"), a majority state-owned smelting company in Bahrain, in connection with contracts to supply alumina shipped to Bahrain from Australia, among other contracts.   Dahdaleh was charged under the Prevention of Corruption Act and the Proceeds of Crime Act.<br /><br />Bruce Allen Hall, who had worked as Alba's CEO, was extradited from Australia after his arrest there in October 2011, and charged in London on 15 February 2012 with violations of the Prevention of Corruption Act and the Proceeds of Crime Act. <br /><br />On 5 November 2013, Dahdaleh went on trial in London for making "corrupt payments" of more than USD $65 million to the ex-chairman and chief executive of a Bahrain state-owned aluminum smelter.  Prosecutor Philip Shears told a jury at London's Southwark Crown Court the alleged bribes helped win more than USD $3 billion in business for companies Dahdaleh represented, including Alcoa.  Dahdaleh will argue that his payments to Sheikh Isa and Hall were essentially a tax or "government sponsorship" common in Bahrain, a report from Reuters said. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" width="50%"><strong>Approximate Alleged Payments to Bahraini Officials</strong></td>
+<td style="text-align: center;" width="50%"><strong>Business Advantage Allegedly Obtained</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">Unspecified</td>
+<td style="text-align: center;">Unspecified</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to the SFO press release: "The investigation by the Serious Fraud Office opened in July 2009 with assistance from the City of London Police Overseas Anti-Corruption Unit. Additionally the SFO has been in liaison with the US Department of Justice and with the Swiss authorities."<br /><br />Alcoa is currently under investigation by the DOJ and SEC in the US (see Compendium summary titled "Alcoa").  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        In October 2011, Bruce Allen Hall, former CEO of Alba, was extradited from Australia and charged in London on 15 February 2012 with violations of the Prevention of Corruption Act and the Proceeds of Crime Act. <br /><br />Victor Dahdeleh and co-defendent Bruce Allen Hall appeared in Southwark Crown Court on 2 March 2012.  Neither entered a plea.  Judge Alistair McCreath set conditions of their bail, including twice-weekly appearance at the local police station, and the a prohibition on either Dahdaleh or Hall contacting each other or any prosecution witnesses, either directly or indirectly, unless through their solicitors.  The two men appeared in court again later in March, and also on 16 April 2012, at which time the court did not require the entry of a plea but did set a provisional trial date for 8 April 2013.<br /><br />On 5 November 2013, Dahdaleh went on trial in London's Southwark Crown Court for making corrupt payments.  He is expected to plead not guilty and argue that his payments to Sheikh Isa and Hall were essentially a tax or ‘government sponsorship’ common in Bahrain.<br /><br />On 10 December 2013, the SFO announced “there is no longer a realistic prospect of conviction” of businessman Victor Dahdaleh for alleged bribery in Bahrain. The case collapsed under the weight of a cooperating witness who reversed his prior statements and two others who refused to show up in court to testify, the SFO said.
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>To be determined</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=1619">SFO Press Release (24 Oct. 2011)</a></p><p>Wall Street Journal: "U.K. Arrests Figure in Alcoa-Bahrain Bribery Probe" (24 Oct. 2011)</p><p><a href="file.asp?id=1719">Dahdaleh - Alba - SFO Press Release (15 February 2012), Bruce Hall charged with corruption and money laundering</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Extractive Industries</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #000066;">Non-U.S. Foreign Bribery Enforcement - Formal Proceedings</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

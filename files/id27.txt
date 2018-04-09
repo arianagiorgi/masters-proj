@@ -1,0 +1,432 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-170713m92i7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-170713o5t2q" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MONSANTO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(27)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-170713350sj" width="415" height="61" /></div>
+    
+        <h1>MONSANTO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Monsanto Company ("Monsanto")<br />Charles Michael Martin<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agricultural products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        St. Louis, Missouri, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2002, Charles Martin, Monsanto's Government Affairs Director for Asia, allegedly authorized the payment of USD 50,000 to a senior official at the Indonesian Ministry of Environment.  The purpose of the payment was to incentivize the official to repeal an environmental impact study that was required for the cultivation of genetically modified crops under Indonesian law.  According to the SEC's complaint against Mr. Martin, Monsanto retained the services of a consulting firm to lobby the Indonesian government to repeal the requirement for an environmental impact study.  When it became apparent that a repeal of the requirement was unlikely, Mr. Martin directed an employee working for the consulting firm to make a USD 50,000 payment to the senior Indonesia official. Mr. Martin agreed to pay the consulting firm a total of USD 66,000 disguised as a consulting fee.  The USD 66,000 included USD 50,000 for the improper payment and USD 16,000 to cover taxes that the consulting company would owe as a result of reporting USD 50,000 in income. The consulting firm then billed Monsanto for hours spent by the firms employees traveling on two trips to the United States, even though Monsanto paid the firm a retainer for its work rather than on an hourly basis. <br /><br />An employee with the consulting firm contacted the Indonesian official and discussed the offer to pay USD 50,000 for his help with repealing the environmental impact study.  The official said that he would assist with repealing the requirement at an appropriate time.  The official accepted the money; however, he never authorized repealing the environmental impact study.  Monsanto obtained no benefit as a result of the improper payment. <br /><br />In addition to the USD 50,000 payment, Monsanto's Indonesian affiliates made approximately USD 700,000 in improper payments to over 140 Indonesian government officials from 1997 until 2002.  The Indonesian affiliates made the payments through nominee companies that it established without Monsanto's knowledge. The nominee companies were purportedly created to hold pesticide product registrations. In fact, Monsanto's Indonesian affiliates used the nominee companies to inflate the sales value of Monsanto's products by over-invoicing. The Indonesian affiliates then used the money from these sales to pay Indonesian officials.  Examples of the improper payments include a USD 373,990 payment for a house that benefited the wife of an official from the Ministry of Agriculture, an USD 86,690 payment to an officials at the National Planning and Development Board, and payments for travel and gifts on behalf of various other Indonesian officials. These payments were improperly recorded in Monsanto's books and records. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payment to Indonesian Ministry of Environment Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 50,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of an environmental impact study</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payment to Various Other Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Approximately USD 700,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Monsanto became aware of possible financial irregularities within its Indonesian affiliates in 2001.   Monsanto subsequently began an internal investigation at the request of the Board of Directors.  Monsanto then voluntarily disclosed the potential violations to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 January 2005, Monsanto entered into a three-year deferred prosecution agreement with the DOJ for the payment to the official from the Ministry of the Environment.  Under the agreement, Monsanto agreed to pay USD 1 million in penalties, appoint an independent compliance monitor for a three-year period, and implement new anti-bribery policies and procedures.  <br /><br />On the same date, without admitting or denying the SEC's allegations, Monsanto consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA.  The company agreed to pay a USD 500,000 civil penalty and retain an independent compliance monitor for a three-year period to settle claims with the SEC.  In entering into the settlement, the SEC noted Monsanto's voluntary disclosure and cooperation with the government, and the remedial actions the company was taking in response to the activity, including: (i) revision of the accounting treatment of the payments to Indonesian officials; (ii) the termination of all Monsanto employees involved in improper financial activities or who failed to oversee financial activities; (iii) termination of Monsanto's relationship with the consulting firm; (iv) restructuring of its Indonesian affiliates; (v) the appointment of a new Director of Business Conduct; and (vi) implementation of a stronger FCPA compliance program. <br /><br />On 6 March 2007, without admitting or denying the SEC's allegations, Charles Martin consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA.  Martin paid a USD 30,000 civil penalty.<br /><br />On 5 March 2008, the U.S. District Court for the District of Columbia dismissed with prejudice the charges against Monsanto, the company having fully complied with the terms of its deferred prosecution agreement. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Timothy Dickinson
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The improper payment does not need to succeed in its purpose in order to violate the FCPA.</li><li>The FCPA covers payments made to obtain an improper business advantage, such as the repeal of an environmental impact study, in addition to corrupt payments connected to the award of government business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=195">DOJ Press Release: January 6, 2005 (Monsanto Company Charged with Bribing Indonesian Government Official: Prosecution Deferred for Three Years)</a></p><p><a href="file.asp?id=196">SEC Litigation Release: January 6, 2005 (SEC Sues Monsanto Company for Paying a Bribe)</a></p><p><a href="file.asp?id=197">Complaint: SEC v. Monsanto Company</a></p><p><a href="file.asp?id=198">Cease-and-Desist Order: In the Matter of Monsanto Company </a></p><p><a href="file.asp?id=199">SEC Litigation Release: March 6, 2007 (SEC Sues Former Senior Monsanto Manager Charles Martin for Authorizing Bribe of $50,000)</a></p><p><a href="file.asp?id=200">Complaint: SEC v. Charles Michael Martin </a></p><p><a href="file.asp?id=201">Deferred Prosecution Agreement: United States v. Monsanto Company</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842234q6o8">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842234t6y5" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MONSANTO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(27)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1842239j1zu" width="415" height="61" /></div>
+    
+        <h1>MONSANTO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Monsanto Company ("Monsanto")<br />Charles Michael Martin<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agricultural products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        St. Louis, Missouri, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2002, Charles Martin, Monsanto's Government Affairs Director for Asia, allegedly authorized the payment of USD 50,000 to a senior official at the Indonesian Ministry of Environment.  The purpose of the payment was to incentivize the official to repeal an environmental impact study that was required for the cultivation of genetically modified crops under Indonesian law.  According to the SEC's complaint against Mr. Martin, Monsanto retained the services of a consulting firm to lobby the Indonesian government to repeal the requirement for an environmental impact study.  When it became apparent that a repeal of the requirement was unlikely, Mr. Martin directed an employee working for the consulting firm to make a USD 50,000 payment to the senior Indonesia official. Mr. Martin agreed to pay the consulting firm a total of USD 66,000 disguised as a consulting fee.  The USD 66,000 included USD 50,000 for the improper payment and USD 16,000 to cover taxes that the consulting company would owe as a result of reporting USD 50,000 in income. The consulting firm then billed Monsanto for hours spent by the firms employees traveling on two trips to the United States, even though Monsanto paid the firm a retainer for its work rather than on an hourly basis. <br /><br />An employee with the consulting firm contacted the Indonesian official and discussed the offer to pay USD 50,000 for his help with repealing the environmental impact study.  The official said that he would assist with repealing the requirement at an appropriate time.  The official accepted the money; however, he never authorized repealing the environmental impact study.  Monsanto obtained no benefit as a result of the improper payment. <br /><br />In addition to the USD 50,000 payment, Monsanto's Indonesian affiliates made approximately USD 700,000 in improper payments to over 140 Indonesian government officials from 1997 until 2002.  The Indonesian affiliates made the payments through nominee companies that it established without Monsanto's knowledge. The nominee companies were purportedly created to hold pesticide product registrations. In fact, Monsanto's Indonesian affiliates used the nominee companies to inflate the sales value of Monsanto's products by over-invoicing. The Indonesian affiliates then used the money from these sales to pay Indonesian officials.  Examples of the improper payments include a USD 373,990 payment for a house that benefited the wife of an official from the Ministry of Agriculture, an USD 86,690 payment to an officials at the National Planning and Development Board, and payments for travel and gifts on behalf of various other Indonesian officials. These payments were improperly recorded in Monsanto's books and records. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payment to Indonesian Ministry of Environment Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 50,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of an environmental impact study</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payment to Various Other Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Approximately USD 700,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Monsanto became aware of possible financial irregularities within its Indonesian affiliates in 2001.   Monsanto subsequently began an internal investigation at the request of the Board of Directors.  Monsanto then voluntarily disclosed the potential violations to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 January 2005, Monsanto entered into a three-year deferred prosecution agreement with the DOJ for the payment to the official from the Ministry of the Environment.  Under the agreement, Monsanto agreed to pay USD 1 million in penalties, appoint an independent compliance monitor for a three-year period, and implement new anti-bribery policies and procedures.  <br /><br />On the same date, without admitting or denying the SEC's allegations, Monsanto consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA.  The company agreed to pay a USD 500,000 civil penalty and retain an independent compliance monitor for a three-year period to settle claims with the SEC.  In entering into the settlement, the SEC noted Monsanto's voluntary disclosure and cooperation with the government, and the remedial actions the company was taking in response to the activity, including: (i) revision of the accounting treatment of the payments to Indonesian officials; (ii) the termination of all Monsanto employees involved in improper financial activities or who failed to oversee financial activities; (iii) termination of Monsanto's relationship with the consulting firm; (iv) restructuring of its Indonesian affiliates; (v) the appointment of a new Director of Business Conduct; and (vi) implementation of a stronger FCPA compliance program. <br /><br />On 6 March 2007, without admitting or denying the SEC's allegations, Charles Martin consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA.  Martin paid a USD 30,000 civil penalty.<br /><br />On 5 March 2008, the U.S. District Court for the District of Columbia dismissed with prejudice the charges against Monsanto, the company having fully complied with the terms of its deferred prosecution agreement. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Timothy Dickinson
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The improper payment does not need to succeed in its purpose in order to violate the FCPA.</li><li>The FCPA covers payments made to obtain an improper business advantage, such as the repeal of an environmental impact study, in addition to corrupt payments connected to the award of government business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=195">DOJ Press Release: January 6, 2005 (Monsanto Company Charged with Bribing Indonesian Government Official: Prosecution Deferred for Three Years)</a></p><p><a href="file.asp?id=196">SEC Litigation Release: January 6, 2005 (SEC Sues Monsanto Company for Paying a Bribe)</a></p><p><a href="file.asp?id=197">Complaint: SEC v. Monsanto Company</a></p><p><a href="file.asp?id=198">Cease-and-Desist Order: In the Matter of Monsanto Company </a></p><p><a href="file.asp?id=199">SEC Litigation Release: March 6, 2007 (SEC Sues Former Senior Monsanto Manager Charles Martin for Authorizing Bribe of $50,000)</a></p><p><a href="file.asp?id=200">Complaint: SEC v. Charles Michael Martin </a></p><p><a href="file.asp?id=201">Deferred Prosecution Agreement: United States v. Monsanto Company</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-192038j5xz7">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192038t2439" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - MONSANTO</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(27)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-1920388a728" width="415" height="61" /></div>
+    
+        <h1>MONSANTO</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Department of Justice<br />United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Monsanto Company ("Monsanto")<br />Charles Michael Martin<br />
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Agricultural products
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        St. Louis, Missouri, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Indonesia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        In 2002, Charles Martin, Monsanto's Government Affairs Director for Asia, allegedly authorized the payment of USD 50,000 to a senior official at the Indonesian Ministry of Environment.  The purpose of the payment was to incentivize the official to repeal an environmental impact study that was required for the cultivation of genetically modified crops under Indonesian law.  According to the SEC's complaint against Mr. Martin, Monsanto retained the services of a consulting firm to lobby the Indonesian government to repeal the requirement for an environmental impact study.  When it became apparent that a repeal of the requirement was unlikely, Mr. Martin directed an employee working for the consulting firm to make a USD 50,000 payment to the senior Indonesia official. Mr. Martin agreed to pay the consulting firm a total of USD 66,000 disguised as a consulting fee.  The USD 66,000 included USD 50,000 for the improper payment and USD 16,000 to cover taxes that the consulting company would owe as a result of reporting USD 50,000 in income. The consulting firm then billed Monsanto for hours spent by the firms employees traveling on two trips to the United States, even though Monsanto paid the firm a retainer for its work rather than on an hourly basis. <br /><br />An employee with the consulting firm contacted the Indonesian official and discussed the offer to pay USD 50,000 for his help with repealing the environmental impact study.  The official said that he would assist with repealing the requirement at an appropriate time.  The official accepted the money; however, he never authorized repealing the environmental impact study.  Monsanto obtained no benefit as a result of the improper payment. <br /><br />In addition to the USD 50,000 payment, Monsanto's Indonesian affiliates made approximately USD 700,000 in improper payments to over 140 Indonesian government officials from 1997 until 2002.  The Indonesian affiliates made the payments through nominee companies that it established without Monsanto's knowledge. The nominee companies were purportedly created to hold pesticide product registrations. In fact, Monsanto's Indonesian affiliates used the nominee companies to inflate the sales value of Monsanto's products by over-invoicing. The Indonesian affiliates then used the money from these sales to pay Indonesian officials.  Examples of the improper payments include a USD 373,990 payment for a house that benefited the wife of an official from the Ministry of Agriculture, an USD 86,690 payment to an officials at the National Planning and Development Board, and payments for travel and gifts on behalf of various other Indonesian officials. These payments were improperly recorded in Monsanto's books and records. 
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payment to Indonesian Ministry of Environment Official</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">USD 50,000</p>
+</td>
+<td>
+<p style="text-align: center;">Repeal of an environmental impact study</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Payment to Various Other Indonesian Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">Approximately USD 700,000</p>
+</td>
+<td>
+<p style="text-align: center;">Unspecified</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        Monsanto became aware of possible financial irregularities within its Indonesian affiliates in 2001.   Monsanto subsequently began an internal investigation at the request of the Board of Directors.  Monsanto then voluntarily disclosed the potential violations to the DOJ and SEC. 
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On 6 January 2005, Monsanto entered into a three-year deferred prosecution agreement with the DOJ for the payment to the official from the Ministry of the Environment.  Under the agreement, Monsanto agreed to pay USD 1 million in penalties, appoint an independent compliance monitor for a three-year period, and implement new anti-bribery policies and procedures.  <br /><br />On the same date, without admitting or denying the SEC's allegations, Monsanto consented to the entry of a final judgment permanently enjoining the company from future violations of the FCPA.  The company agreed to pay a USD 500,000 civil penalty and retain an independent compliance monitor for a three-year period to settle claims with the SEC.  In entering into the settlement, the SEC noted Monsanto's voluntary disclosure and cooperation with the government, and the remedial actions the company was taking in response to the activity, including: (i) revision of the accounting treatment of the payments to Indonesian officials; (ii) the termination of all Monsanto employees involved in improper financial activities or who failed to oversee financial activities; (iii) termination of Monsanto's relationship with the consulting firm; (iv) restructuring of its Indonesian affiliates; (v) the appointment of a new Director of Business Conduct; and (vi) implementation of a stronger FCPA compliance program. <br /><br />On 6 March 2007, without admitting or denying the SEC's allegations, Charles Martin consented to the entry of a final judgment permanently enjoining him from future violations of the FCPA.  Martin paid a USD 30,000 civil penalty.<br /><br />On 5 March 2008, the U.S. District Court for the District of Columbia dismissed with prejudice the charges against Monsanto, the company having fully complied with the terms of its deferred prosecution agreement. 
+		<h2>COMPLIANCE MONITOR</h2>
+        Timothy Dickinson
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>The improper payment does not need to succeed in its purpose in order to violate the FCPA.</li><li>The FCPA covers payments made to obtain an improper business advantage, such as the repeal of an environmental impact study, in addition to corrupt payments connected to the award of government business.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=195">DOJ Press Release: January 6, 2005 (Monsanto Company Charged with Bribing Indonesian Government Official: Prosecution Deferred for Three Years)</a></p><p><a href="file.asp?id=196">SEC Litigation Release: January 6, 2005 (SEC Sues Monsanto Company for Paying a Bribe)</a></p><p><a href="file.asp?id=197">Complaint: SEC v. Monsanto Company</a></p><p><a href="file.asp?id=198">Cease-and-Desist Order: In the Matter of Monsanto Company </a></p><p><a href="file.asp?id=199">SEC Litigation Release: March 6, 2007 (SEC Sues Former Senior Monsanto Manager Charles Martin for Authorizing Bribe of $50,000)</a></p><p><a href="file.asp?id=200">Complaint: SEC v. Charles Michael Martin </a></p><p><a href="file.asp?id=201">Deferred Prosecution Agreement: United States v. Monsanto Company</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #006600;">Agriculture/Food</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #66cc33;">Prosecution of Individuals</span><br /><span style="color: #cc6600;">Voluntary Disclosure</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>

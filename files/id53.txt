@@ -1,0 +1,242 @@
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1842464q87v">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-1842466fe7z" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PAGE AIRWAYS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(53)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-184246uu4x0" width="415" height="61" /></div>
+    
+        <h1>PAGE AIRWAYS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Page Airways, Inc. ("Page Airways")<br />Page Gulfstream, Inc. (wholly-owned subsidiary of Page Airways) (Page Gulfstream)<br />James P. Wilmot (Chairman, Chief Executive Officer, Director and chief stockholder of Page Airways)<br />Gerald G. Wilmot (President, Chief Operating Officer and Director of Page Airways)<br />Douglas W. Juston (Executive Vice President and Director of Page Airways and individual responsible for Gulfstream II sales operations)<br />Ross C. Chapin (Vice President and Director of Page Airways and President of Page Gulfstream)<br />James P. Lawler (Chief Financial Officer of Page Airways)<br />T. Richard Olney (former Vice President of Page Airways; Vice President of Page Gulfstream)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of corporate aircraft and related products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rochester, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />Morocco<br />Ivory Coast<br />Gabon<br />Malaysia<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On April 12, 1978, the SEC filed a civil injunction action against Page Airways and six of its officers and/or directors in connection with the sale and service of Gulfstream II aircraft and other aircraft products and services to foreign governments around the world.  The SEC alleged that the defendants violated the antifraud and proxy provisions of the Exchange Act through a scheme to secure sales by making direct and indirect payments to foreign officials.  Page Airways was also charged with violating the books and records and internal controls provisions of the FCPA in connection with the conduct. <br /><br />Page Airways served as Grumman Corporation's worldwide sales agent and distributor for the twin-jet Gulfstream II corporate aircraft.  According to the SEC, between 1971 and 1978, Page Airways made over $2.5 million in improper payments to foreign officials in connection with $60 million in sales of goods and services; between 1971 and 1976, Page Airways reported total sales of $251 million.  <br /><br />The improper payments included $200,000 paid to the President of Gabon, Albert Bongo, in 1972 in exchange for a $4,763,040 Gulfstream II aircraft purchase by the Republic of Gabon.  The $200,000 was recorded as a discount in Page Airways' books and records. <br /><br />In 1972 and 1973, two Gulfstream II aircraft were sold to the State Government of Sabah, Malaysia, after Page Airways agreed to pay a $900,000 bribe to Gaya House Sendirian Berhad, an entity controlled by the State Minister of Industrial Development, Datuk Harris bin Mohammed Salleh.  <br /><br />A Gulfstream II aircraft was sold in 1972 to the Republic of Ivory Coast following a $150,000 bribe to the Washington, DC bank account of Societe Ivorienne de Developement et Financement ("SIDF"), which was controlled by the Ivory Coast's ambassador to the U.S., Timothee Ahoua.  A used Gulfstream I aircraft was later sold to the Ivory Coast in exchange for a $162,000 payment to the SIDF bank account in 1974.  In addition, between 1972 and 1976, various spare parts were sold to the government following another approximately $100,000 in payments to SIDF.  <br /><br />Between 1975 and 1977, four Gulfstream II aircraft were sold to Saudi International Airlines and one sale was made to Morocco in 1975.  These sales were achieved through improper payments made through foreign intermediary corporations.  According to the SEC, these transactions left $5 million of Gulfstream II sales unaccounted for. <br /><br />From 1975 until 1978, Page Airways entered into transactions for the sale of goods and services totaling over $15 million to the Government of Uganda.  Among other items, Page Airways sold a L100-30 aircraft to Uganda for over $8.5 million.  This aircraft was operated and maintained by a subsidiary of Page Airways whose activities, according to the SEC, remained hidden from shareholders and whose financial arrangements with the Government of Uganda were not recorded in Page Airways' books and records.  There appeared to have been a variety of improprieties relating to Page Airways' relationship with the President of Uganda, Idi Amin, including the provision of a Cadillac Eldorado convertible.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$2.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of Gulfstream II executive jets to various governments, valued at approximately $60 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, in 1973 a small Texas company that installs the navigation and communications systems in the Gulfstreams sued Page Airways for attempting to take over its business and monopolize the Gulfstream outfitting business by paying bribes to one of the Texas company's executives.  In October 1977, Page Airways was ordered to pay $9 million in damages to the Texas company.  Testimony during the trial about Page Airways's other activities apparently prompted the SEC investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 8, 1980, without admitting or denying the SEC's allegations, Page Airways consented to the entry of a final judgment permanently enjoining the company from further violations of the reporting and proxy provisions of the Exchange Act.  Under the terms of the settlement, Page Airways agreed to conduct an internal investigation into the matters alleged in the SEC's complaint and to retain a Review Person to evaluate the investigations methods and procedures.  The company also agreed to file a current report on Form 8-K concerning the internal investigation.<br /><br />The charges against the individual defendants were dismissed.  The SEC stated that, in reaching settlement of enforcement action, both the agency and Page Airways took into consideration concerns raised by another U.S. agency regarding certain matters of national interest.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Private, commercial lawsuits can be a source for DOJ or SEC investigations into potential FCPA violations.</li><li>It is possible for FCPA enforcement actions to be influenced by "national interests" raised by other U.S. government agencies.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=235">SEC News Digest: April 17, 1978 </a></p><p><a href="file.asp?id=236">SEC News Digest: April 11, 1980 </a></p><p><a href="file.asp?id=237">SEC Complaint: SEC v. Page Airways, Inc. et al (April 12, 1978)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
+
+
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium.css?nocache=020415-1921036zr85">
+    
+	
+		<link rel="stylesheet" type="text/css" href="/compendium/includes/compendium-print.css?nocache=020415-192103m4xbd" media="print">
+	
+		<script type="text/javascript" src="/_script/disableSelection.js"></script>
+	
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+
+    <title>TRACE Compendium - PAGE AIRWAYS</title>
+</head>
+<body>
+
+
+	<script type="text/javascript">
+		//prevent simple select/copy
+		disableSelection(document.body);
+		
+		function openPDF(idCase)
+		{
+			location.href = "pdf.asp?id=" + idCase;
+		}
+	</script>
+
+	<div onClick="openPDF(53)" id="pdfLink" style="background: #EEE; border: 1px solid #CCC; font-size: 8pt; font-family: Tahoma, Verdana; cursor: pointer; padding: 5px; position: absolute; top: 0px; right: 0px;">
+		<img src="/_img/icons/pdf-13x14.gif" width="13" height="14" border="0" align="absbottom" /> View as PDF
+	</div>
+
+
+
+<div id="contentHome">
+
+    <div id="case">
+    
+		
+        
+		<div id="compendiumLogo"><img src="/compendium/includes/logo-compendium.png?nocache=020415-192103wz6og" width="415" height="61" /></div>
+    
+        <h1>PAGE AIRWAYS</h1>
+        
+        <h2>ENFORCEMENT AGENCY</h2>
+        United States: Securities and Exchange Commission <br />
+        
+        <h2>ENTITIES/INDIVIDUALS INVOLVED</h2>
+        Page Airways, Inc. ("Page Airways")<br />Page Gulfstream, Inc. (wholly-owned subsidiary of Page Airways) (Page Gulfstream)<br />James P. Wilmot (Chairman, Chief Executive Officer, Director and chief stockholder of Page Airways)<br />Gerald G. Wilmot (President, Chief Operating Officer and Director of Page Airways)<br />Douglas W. Juston (Executive Vice President and Director of Page Airways and individual responsible for Gulfstream II sales operations)<br />Ross C. Chapin (Vice President and Director of Page Airways and President of Page Gulfstream)<br />James P. Lawler (Chief Financial Officer of Page Airways)<br />T. Richard Olney (former Vice President of Page Airways; Vice President of Page Gulfstream)
+        
+        <h2>DESCRIPTION OF BUSINESS</h2>
+        Sale of corporate aircraft and related products and services
+        
+        <h2>CORPORATE HEADQUARTERS</h2>
+        Rochester, New York, United States
+        
+        <h2>NATIONALITY OF FOREIGN OFFICIALS</h2>
+        Uganda<br />Morocco<br />Ivory Coast<br />Gabon<br />Malaysia<br />Saudi Arabia<br />
+        
+        <h2>SUMMARY OF ALLEGATIONS</h2>
+        On April 12, 1978, the SEC filed a civil injunction action against Page Airways and six of its officers and/or directors in connection with the sale and service of Gulfstream II aircraft and other aircraft products and services to foreign governments around the world.  The SEC alleged that the defendants violated the antifraud and proxy provisions of the Exchange Act through a scheme to secure sales by making direct and indirect payments to foreign officials.  Page Airways was also charged with violating the books and records and internal controls provisions of the FCPA in connection with the conduct. <br /><br />Page Airways served as Grumman Corporation's worldwide sales agent and distributor for the twin-jet Gulfstream II corporate aircraft.  According to the SEC, between 1971 and 1978, Page Airways made over $2.5 million in improper payments to foreign officials in connection with $60 million in sales of goods and services; between 1971 and 1976, Page Airways reported total sales of $251 million.  <br /><br />The improper payments included $200,000 paid to the President of Gabon, Albert Bongo, in 1972 in exchange for a $4,763,040 Gulfstream II aircraft purchase by the Republic of Gabon.  The $200,000 was recorded as a discount in Page Airways' books and records. <br /><br />In 1972 and 1973, two Gulfstream II aircraft were sold to the State Government of Sabah, Malaysia, after Page Airways agreed to pay a $900,000 bribe to Gaya House Sendirian Berhad, an entity controlled by the State Minister of Industrial Development, Datuk Harris bin Mohammed Salleh.  <br /><br />A Gulfstream II aircraft was sold in 1972 to the Republic of Ivory Coast following a $150,000 bribe to the Washington, DC bank account of Societe Ivorienne de Developement et Financement ("SIDF"), which was controlled by the Ivory Coast's ambassador to the U.S., Timothee Ahoua.  A used Gulfstream I aircraft was later sold to the Ivory Coast in exchange for a $162,000 payment to the SIDF bank account in 1974.  In addition, between 1972 and 1976, various spare parts were sold to the government following another approximately $100,000 in payments to SIDF.  <br /><br />Between 1975 and 1977, four Gulfstream II aircraft were sold to Saudi International Airlines and one sale was made to Morocco in 1975.  These sales were achieved through improper payments made through foreign intermediary corporations.  According to the SEC, these transactions left $5 million of Gulfstream II sales unaccounted for. <br /><br />From 1975 until 1978, Page Airways entered into transactions for the sale of goods and services totaling over $15 million to the Government of Uganda.  Among other items, Page Airways sold a L100-30 aircraft to Uganda for over $8.5 million.  This aircraft was operated and maintained by a subsidiary of Page Airways whose activities, according to the SEC, remained hidden from shareholders and whose financial arrangements with the Government of Uganda were not recorded in Page Airways' books and records.  There appeared to have been a variety of improprieties relating to Page Airways' relationship with the President of Uganda, Idi Amin, including the provision of a Cadillac Eldorado convertible.  
+        
+        <h2>RATIO OF IMPROPER PAYMENTS TO BUSINESS ADVANTAGE</h2>
+        <table border="1" cellspacing="0" cellpadding="2" width="100%">
+<tbody>
+<tr>
+<td width="50%">
+<p style="text-align: center;"><strong>Approximate Alleged Payments to Foreign Officials</strong></p>
+</td>
+<td width="50%">
+<p style="text-align: center;"><strong>Business Advantage Allegedly Obtained</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;">$2.5 million</p>
+</td>
+<td>
+<p style="text-align: center;">Sales of Gulfstream II executive jets to various governments, valued at approximately $60 million</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+        <h2>HOW CONDUCT WAS DISCOVERED</h2>
+        According to press reports, in 1973 a small Texas company that installs the navigation and communications systems in the Gulfstreams sued Page Airways for attempting to take over its business and monopolize the Gulfstream outfitting business by paying bribes to one of the Texas company's executives.  In October 1977, Page Airways was ordered to pay $9 million in damages to the Texas company.  Testimony during the trial about Page Airways's other activities apparently prompted the SEC investigation.  
+        
+        <h2>ENFORCEMENT RESULT</h2>
+        On April 8, 1980, without admitting or denying the SEC's allegations, Page Airways consented to the entry of a final judgment permanently enjoining the company from further violations of the reporting and proxy provisions of the Exchange Act.  Under the terms of the settlement, Page Airways agreed to conduct an internal investigation into the matters alleged in the SEC's complaint and to retain a Review Person to evaluate the investigations methods and procedures.  The company also agreed to file a current report on Form 8-K concerning the internal investigation.<br /><br />The charges against the individual defendants were dismissed.  The SEC stated that, in reaching settlement of enforcement action, both the agency and Page Airways took into consideration concerns raised by another U.S. agency regarding certain matters of national interest.  
+        
+        <h2>KEY TAKEAWAYS</h2>
+        <ul><li>Private, commercial lawsuits can be a source for DOJ or SEC investigations into potential FCPA violations.</li><li>It is possible for FCPA enforcement actions to be influenced by "national interests" raised by other U.S. government agencies.</li></ul>
+        
+        <h2>RELATED DOCUMENTS</h2>
+		<p><a href="file.asp?id=235">SEC News Digest: April 17, 1978 </a></p><p><a href="file.asp?id=236">SEC News Digest: April 11, 1980 </a></p><p><a href="file.asp?id=237">SEC Complaint: SEC v. Page Airways, Inc. et al (April 12, 1978)</a></p>
+<!--
+        	<a id="LogInLink" href="javascript:ShowLogin();">Click to log in.</a>
+
+			<link rel="stylesheet" type="text/css" href="/compendium/includes/login.css" />
+			
+			<script type="text/javascript" src="/compendium/includes/login.js"></script>
+			
+			<div id="LoginForm" style="display: none">
+				<iframe src="/compendium/includes/login.asp" align="center" width="300" height="300" frameborder="0" framebordercolor="transparent" scrolling="no" bgcolor="transparent" allowtransparency="true"></iframe>
+			</div>
+-->            
+			
+        
+        <h2>CASE CATEGORIES</h2> 
+        <span style="color: #9999ff;">"Books and Records" Case</span><br /><span style="color: #006600;">Aerospace/Defense/Security</span><br /><span style="color: #00ccff;">Gifts, Hospitality and Travel</span><br /><span style="color: #660099;">Intermediaries</span><br /><span style="color: #ff0000;">Subsidiaries</span><br />
+    		<div class="footer">
+	        &copy; 2015 TRACE International, Inc. 
+	        </div>
+		
+    
+    </div>
+
+</div>
+</body>
+</html>
